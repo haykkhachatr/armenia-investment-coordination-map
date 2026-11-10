@@ -154,7 +154,7 @@ async function loadBasemap() {
     (st.layers || []).forEach(l => {
       if (l.type === 'symbol') return;
       const pt = JSON.stringify(l.paint || {}); if (pt.indexOf('-pattern') >= 0) return;
-      try { map.addLayer(Object.assign({}, l, { id: 'bm-' + l.id, source: l.source ? 'bm-' + l.source : undefined }), 'd-fill'); } catch (e) { /* skip layer */ }
+      try { const nl = Object.assign({}, l, { id: 'bm-' + l.id }); if (l.source) nl.source = 'bm-' + l.source; else delete nl.source; map.addLayer(nl, 'd-fill'); } catch (e) { /* skip layer */ }
     });
     const stt = $('#mapstatus'); if (stt) stt.hidden = true;
   } catch (e) {
