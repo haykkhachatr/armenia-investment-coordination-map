@@ -1,0 +1,703 @@
+[
+ {
+  "slug": "adaptation-fund-armenia-national-adaptation-funding-facility",
+  "title_en": "Armenia National Adaptation Funding Facility (Adaptation Fund locally led adaptation grant, AF00000360)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "Adaptation Fund project ID AF00000360 (single-country locally led adaptation window, formerly Enhanced Direct Access)"
+   ]
+  },
+  "donors": [
+   "Adaptation Fund"
+  ],
+  "implementers": [
+   "Environmental Project Implementation Unit (EPIU) State Agency"
+  ],
+  "national_partners": [
+   "Ministry of Environment (EPIU is a State Agency under it)",
+   "Regional and municipal authorities (through planned Regional Climate Adaptation Committees)"
+  ],
+  "start": "2025-09",
+  "end": "2029-09",
+  "status": "pipeline",
+  "stage": "Adaptation Fund proposal approved; implementation start not yet recorded on the Fund's project page",
+  "budget_usd": 4960000,
+  "budget_original": "USD 4,960,000 requested from the Adaptation Fund = USD 4,660,000 project cost + USD 300,000 implementing-entity fee. Components: 1 = USD 300,000; 2 = USD 500,000; 3 = USD 3,800,000; execution cost USD 60,000 (AF Secretariat technical review, 12 Mar 2025).",
+  "cofinancing_note": "No co-financing is stated on the Adaptation Fund project page or in the technical-review summary that was read.",
+  "themes": [
+   "climate-adaptation",
+   "policy-capacity",
+   "rural-community-development",
+   "water-irrigation"
+  ],
+  "summary_en": "A four-year Adaptation Fund facility that EPIU would run to pay for small community-led climate adaptation projects in Armenia's regions and municipalities. It also sets up Regional Climate Adaptation Committees, carries out regional climate vulnerability assessments and trains local officials. The Adaptation Fund project page lists the proposal as approved; it records no start date yet.",
+  "activities_en": [
+   "Component 1 (USD 300,000): regional climate vulnerability assessments; translating the National Adaptation Plan and sector plans into region-specific action plans; setting up Regional Climate Adaptation Committees; training 500 regional and municipal officials",
+   "Component 2 (USD 500,000): stakeholder mapping and needs assessment, capacity building, knowledge-sharing platforms and networking events",
+   "Component 3 (USD 3.8 million): identify, appraise and grant-finance community-led adaptation sub-projects through calls for small project proposals, e.g. drought-tolerant crops and drip irrigation, climate-smart livestock and pasture management, small water harvesting ponds and reservoirs, watershed restoration, reforestation and wetland rehabilitation, climate-resilient buildings and urban drainage, community early-warning systems, solar-powered pumps, small disaster-preparedness infrastructure",
+   "Indicative sequence in the proposal: months 1-6 vulnerability assessments, months 7-12 sub-project prioritisation, months 13-36 sub-project execution"
+  ],
+  "results_en": [
+   "Mid-term milestone (end of year 2): 5 regions, 25 communities, 25 adaptation projects, 250 stakeholders (100 women), 5 knowledge products, 100,000 direct beneficiaries (at least 40% women)",
+   "End-of-project target: 10 regions, 50 communities, 50 adaptation projects, 500 stakeholders (200 women), 10 knowledge products, 200,000 direct beneficiaries (at least 40% women)"
+  ],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "Adaptation Fund full proposal (AFB.PPRC.35.33, results framework): target of 10 regions and 50 communities by project end; the regions and communities are not named and are to be selected through the vulnerability assessments and calls for proposals. Stakeholder consultations in the proposal covered Shirak, Kotayk, Gegharkunik, Tavush, Lori, Aragatsotn, Armavir, Ararat, Vayots Dzor and Syunik."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Adaptation Fund project page: Armenia National Adaptation Funding Facility",
+    "url": "https://www.adaptation-fund.org/project/enhanced-direct-access-project-for-armenia/"
+   },
+   {
+    "title": "Adaptation Fund Board PPRC.35: Proposal for LLA Single Country Proposal for Armenia (full proposal and technical review, March 2025)",
+    "url": "https://adaptation-fund.org/wp-content/uploads/2025/03/AFB.PPRC_.35.33-Proposal-for-LLA-Single-Country-Proposal-for-Armenia_for-upload.pdf"
+   },
+   {
+    "title": "Adaptation Fund country page: Armenia (portfolio of 7 projects)",
+    "url": "https://www.adaptation-fund.org/country/AM"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Stage date: AF project page (read 4 Nov 2026) shows status 'Proposal Approved', approval date 04/11/2025 (format not stated; other dates on the same site are month/day/year, which would be 11 April 2025), duration 4 years, no start date, USD 293,425 transferred. Expected dates 2025-09 to 2029-09 are the proposal's projected calendar (start 1 Sep 2025, mid-term review 1 Sep 2027, closing 1 Sep 2029, terminal evaluation 10 Dec 2029); the real start may have slipped because the portal shows no start date. Marz Adaptation Plans exist only for Tavush and Shirak so far; the other eight are still to be prepared (proposal). The proposal text does not name target communities. This is separate from the two Adaptation Fund land-based adaptation projects (Shirak/Artik and arid zones/forest protected areas), which the Fund lists as under implementation since February 2026. It is also not the GCF early-warning programme SAP068."
+ },
+ {
+  "slug": "gef-gbff-building-nature-positive-future-lake-sevan",
+  "title_en": "Building Nature-Positive Future for Lake Sevan (GEF-8 / Global Biodiversity Framework Fund, ADB)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": "12213",
+   "gcf": null,
+   "other": [
+    "GEF-8 Global Biodiversity Framework Fund (GBFF) project; ADB co-financing TA 10148-ARM and TA 6559-REG"
+   ]
+  },
+  "donors": [
+   "GEF - Global Biodiversity Framework Fund (GBFF)",
+   "Asian Development Bank (co-financing via technical assistance)"
+  ],
+  "implementers": [
+   "Asian Development Bank (GEF Agency)"
+  ],
+  "national_partners": [
+   "Ministry of Environment (executing agency)"
+  ],
+  "start": null,
+  "end": null,
+  "status": "pipeline",
+  "stage": "GEF concept (PIF) approved; CEO endorsement and start date not yet recorded",
+  "budget_usd": 1331200,
+  "budget_original": "GEF project grant USD 1,331,200 plus agency fee USD 119,568. Confirmed co-financing USD 1,400,000 (USD 700,000 ADB TA 10148-ARM + USD 700,000 ADB TA 6559-REG, Cities Development Initiative for Asia). A prospective follow-on ADB investment of about USD 100-120 million is not counted and remains subject to consultations, due diligence and approvals.",
+  "cofinancing_note": "USD 1.4 million confirmed co-financing from two ADB technical assistance projects; prospective ADB investment of roughly USD 100-120 million not included.",
+  "themes": [
+   "lake-sevan",
+   "biodiversity-protected-areas",
+   "water-supply-sanitation",
+   "waste-pollution"
+  ],
+  "summary_en": "A small GEF-8 grant from the Global Biodiversity Framework Fund, to be implemented through ADB with the Ministry of Environment, to support Lake Sevan's environmental sustainability and green infrastructure. It would pay for feasibility, investment planning, engineering design and due diligence for priority sanitation investments that address wastewater-related nutrient and pollution pressure on the lake. It prepares the larger ADB investment programme described in the separate Lake Sevan wastewater record.",
+  "activities_en": [
+   "Feasibility studies and investment planning for priority sanitation investments around Lake Sevan",
+   "Engineering design and due diligence for those investments (wastewater-related nutrient and pollution pressures)",
+   "Support to Lake Sevan's environmental sustainability and green infrastructure"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "GEF project page lists the location only as 'Lake Sevan basin, Armenia'. The marz assignment (Gegharkunik, where the lake and its basin towns lie) is the compiler's inference; the page names no marz, district or community."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "GEF project 12213: Building Nature-Positive Future for Lake Sevan",
+    "url": "https://www.thegef.org/projects-operations/projects/12213"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Stage date: GEF received the concept 17 Dec 2025 and recorded 'Concept Approved' on 24 Mar 2026. The GEF page does not state components, outcomes, expected CEO endorsement or start date, and the PIF document itself was not opened, so planned components are only described at the level the GEF page gives. This project is also mentioned inside the existing record adb-lake-sevan-resilience-ta-and-gef-nature-positive (a completed-TA record); it is listed here separately because it is a distinct, not-yet-started grant."
+ },
+ {
+  "slug": "adb-lake-sevan-basin-wastewater-investment-programme",
+  "title_en": "Lake Sevan Basin Wastewater Management investment programme (ADB-supported; proposed ADB loan 60183-001, Lake Sevan Environmental Viability and Advanced Green Engineering Project)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "ADB 60183-001 (proposed sovereign loan; listing reported by a search index, not confirmed on an opened ADB page)",
+    "Preparatory ADB TA 56031-001 / TA 10148-ARM (see record adb-lake-sevan-resilience-ta-and-gef-nature-positive)",
+    "Related GEF project 12213 (see record gef-gbff-building-nature-positive-future-lake-sevan)"
+   ]
+  },
+  "donors": [
+   "Asian Development Bank (proposed loan)",
+   "Government of Armenia"
+  ],
+  "implementers": [
+   "Water Committee, Ministry of Territorial Administration and Infrastructure"
+  ],
+  "national_partners": [
+   "Water Committee, Ministry of Territorial Administration and Infrastructure"
+  ],
+  "start": null,
+  "end": null,
+  "status": "pipeline",
+  "stage": "Three-stage programme approved by the Public Investment Committee (1 July 2026); first-phase investment package reported approved; programme in design phase; ADB loan listed as 'Proposed'",
+  "budget_usd": 260000000,
+  "budget_original": "USD 260 million total cost of the investment programme (news.am, 2 Sep 2026). A proposed ADB loan of USD 100 million from ordinary capital resources is shown in ADB's 'Proposed' project listing according to a search-index summary; that ADB page could not be opened. An earlier feasibility range of USD 80-200 million phased over 20 years was quoted in June 2025 (Hetq).",
+  "cofinancing_note": "Split between ADB loan, government and other sources is not published in the pages read.",
+  "themes": [
+   "lake-sevan",
+   "water-supply-sanitation",
+   "waste-pollution"
+  ],
+  "summary_en": "A planned multi-stage programme to stop untreated and poorly treated wastewater from reaching Lake Sevan by upgrading the existing treatment plants of Gavar, Martuni and Vardenis with biological treatment, then building plants in medium-sized towns and small plants for rural communities. The Public Investment Committee approved the three-stage programme on 1 July 2026, and ADB is preparing a proposed USD 100 million loan. The total programme cost is reported as USD 260 million and the programme is still in design.",
+  "activities_en": [
+   "Stage 1: upgrade the existing wastewater treatment plants (currently mechanical treatment only) in Gavar, Martuni and Vardenis and add biological treatment",
+   "Stage 2: build new treatment plants in medium-sized agglomerations of the Sevan basin",
+   "Stage 3: build small stand-alone plants for isolated and small rural communities",
+   "Sewerage network expansion: feasibility work (June 2025) foresaw network design of up to 570 km in the basin and decentralised solutions for sewage that is not connected"
+  ],
+  "results_en": [
+   "Phosphorus discharge into the lake may fall by up to 70 tonnes a year (news.am, 2 Sep 2026, projection)",
+   "Feasibility scenario (Hetq, 14 Jun 2025): the more centralised model would route up to 65% of the basin's sewage to the three plants; the less centralised model up to 35%"
+  ],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Gavar",
+     "Martuni",
+     "Vardenis"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "news.am (2 Sep 2026): the programme will modernise the treatment plants of Gavar, Martuni and Vardenis; Hetq (14 Jun 2025) names the same three towns as sites of the planned biological plants. Stage 2 and 3 sites (medium towns, small rural communities) are not named in any page read."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "ADB publication 'Resilience for Lake Sevan: Leveraging the Economic Value of Ecosystem Services for Strategic Pollution Control Investments in Armenia' (January 2026)",
+    "kind": "report",
+    "note": "Values Lake Sevan ecosystem services at about USD 397 million a year and analyses three wastewater treatment scenarios (ADB publication page)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "news.am (2 Sep 2026): Asian Development Bank program: wastewater discharged into Lake Sevan to undergo biological treatment",
+    "url": "https://news.am/en/news/1059228"
+   },
+   {
+    "title": "Prime Minister of Armenia: 8th session of the Public Investment Committee (1 Jul 2026)",
+    "url": "https://www.primeminister.am/en/press-release/item/2026/07/01/Nikol-Pashinyan-meeting/"
+   },
+   {
+    "title": "Hetq (14 Jun 2025): Sevan wastewater plants, centralised vs decentralised scenarios",
+    "url": "https://hetq.am/en/article/174922"
+   },
+   {
+    "title": "ADB publication page: Resilience for Lake Sevan (January 2026)",
+    "url": "https://www.adb.org/node/1115171"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Stage date: Public Investment Committee approval 1 Jul 2026; news.am article 2 Sep 2026. No start or end date is published. The USD 100 million loan, the 'Proposed' status and a concept-clearance date of 14 Aug 2026 come from a search-index summary of ADB's proposed-projects listing; direct fetches of the ADB project and listing pages failed (HTTP 403 or the entry was not shown), so treat those three facts as unverified. The PM press release gives no cost, lender or location for the Sevan programme. The USD 260 million figure and the earlier USD 80-200 million range are not reconciled in the sources."
+ },
+ {
+  "slug": "adb-arise-new-reservoirs-getik-karmir-gyugh-garnahovit",
+  "title_en": "Armenia Reservoir and Irrigation System Enhancement (ARISE): feasibility study for new reservoirs at Getik, Karmir Gyugh and Garnahovit (ADB)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "ADB TA 9942-ARM, pre-feasibility study for Getik, Karmir Gyugh and Garnahovit dams (tender listing seen in search results only)"
+   ]
+  },
+  "donors": [
+   "Asian Development Bank"
+  ],
+  "implementers": [
+   "Water Committee, Ministry of Territorial Administration and Infrastructure"
+  ],
+  "national_partners": [
+   "Water Committee, Ministry of Territorial Administration and Infrastructure"
+  ],
+  "start": "2025-05",
+  "end": null,
+  "status": "pipeline",
+  "stage": "Feasibility study under way or just finished; investment package for the Public Investment Committee to follow; study result not found",
+  "budget_usd": null,
+  "budget_original": null,
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "climate-adaptation",
+   "agriculture-value-chain"
+  ],
+  "summary_en": "ADB-supported programme to prepare three new irrigation reservoirs at Getik, Karmir Gyugh and Garnahovit. A consulting agreement for an eight-month feasibility study was signed around May 2025, and an investment package is to go to the Public Investment Committee after the study. Construction dates and financing for the reservoirs themselves are not published.",
+  "activities_en": [
+   "Techno-economic assessment of the three reservoirs",
+   "Environmental and social impact analysis",
+   "Basin (watershed) management and modernisation of the downstream irrigation systems",
+   "Preparation of an investment package for the Public Investment Committee"
+  ],
+  "results_en": [
+   "About 3,500 farmers are expected to gain better water access and higher agricultural productivity (Water Committee news, 2 May 2025)"
+  ],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": "Getik",
+    "settlements": [
+     "Getik"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Water Committee news (2 May 2025) names Getik as a reservoir site but gives no marz; marz taken from the project's community boundary dataset (communities_lite.geojson: Getik is in Gegharkunik). Verify."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": "Karmir Gyugh",
+    "settlements": [
+     "Karmir Gyugh"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Water Committee news (2 May 2025) names Karmir Gyugh as a reservoir site but gives no marz; marz taken from communities_lite.geojson (Karmirgyugh is in Gegharkunik). Verify."
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": "Talin",
+    "community": "Garnahovit",
+    "settlements": [
+     "Garnahovit"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Water Committee news (2 May 2025) names Garnahovit as a reservoir site but gives no marz; marz and district taken from communities_lite.geojson (Garnahovit is in Aragatsotn, Talin district). Verify."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Water Committee news (2 May 2025): New reservoirs for sustainable agriculture (ARISE launched with ADB support)",
+    "url": "https://water.mtad.gov.am/en/articles/նորություններ/new-reservoirs-for-sustainable-agriculture"
+   },
+   {
+    "title": "EVN Report: Armenia's 15 planned new reservoirs (ADB feasibility for Karmir Gyugh, Garnahovit and Getik; EBRD for the rest)",
+    "url": "https://evnreport.com/?p=37300"
+   },
+   {
+    "title": "Hetq: reservoirs under construction (Getik and Karmir Gyugh among eight partly built reservoirs)",
+    "url": "https://hetq.am/en/article/58147"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Stage date: Water Committee news of 2 May 2025 reports the consulting agreement signed; the 8-month study would have ended about early 2026, but no completion report, ADB project page or Public Investment Committee decision was found. A developmentaid.org tender listing (not openable, HTTP 403) was reported in search results to give a TA budget of USD 290,000 and the Ministry of Economy as contracting authority; these two facts are not used. Start 2025-05 is the study start; no construction dates exist. Hetq says Getik and Karmir Gyugh are partly built reservoirs whose completion has been problematic, so they may be completions rather than new builds."
+ },
+ {
+  "slug": "armenia-government-programme-2026-2031-water-sevan-forest",
+  "title_en": "Government of Armenia Programme 2026-2031: water, irrigation, Lake Sevan and forest commitments",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Government of Armenia"
+  ],
+  "implementers": [
+   "Government of Armenia"
+  ],
+  "national_partners": [
+   "Ministry of Territorial Administration and Infrastructure (Water Committee)",
+   "Ministry of Environment"
+  ],
+  "start": "2026",
+  "end": "2031",
+  "status": "pipeline",
+  "stage": "Government programme adopted (announcement-level commitments); no project-level budgets or financing in the source",
+  "budget_usd": null,
+  "budget_original": null,
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "water-supply-sanitation",
+   "lake-sevan",
+   "forestry",
+   "policy-capacity"
+  ],
+  "summary_en": "The Government's five-year programme sets national targets for new reservoirs, irrigation, Lake Sevan restoration and afforestation. It is a policy commitment rather than a funded project, and the source gives no budget or lender. It is useful for coordination because it shows where donor programmes are expected to be asked to contribute.",
+  "activities_en": [
+   "Start construction of 10 reservoirs, with completion targeted for 2033",
+   "Construct and reconstruct 350 km of canals and pipelines",
+   "Introduce an ecosystem-based management model for Lake Sevan and its catchment, including river-ecosystem and biodiversity restoration",
+   "Clear forest plantations flooded by Lake Sevan; reduce pollution and improve waste collection on the lake's shore; return illegally occupied areas of Sevan National Park",
+   "Carry out afforestation and reforestation; provide 24/7 forest and protected-area protection through the Ecopatrol Service",
+   "Cap abstraction from the Ararat Artesian Basin at the legal sustainable yield; promote water efficiency and river-ecosystem protection; introduce a carbon-pricing system (no date)"
+  ],
+  "results_en": [
+   "10 reservoirs under construction, completion targeted 2033",
+   "350 km of canals and pipelines built or reconstructed",
+   "Irrigation for 10,000 ha of new agricultural land",
+   "24-hour water supply in Yerevan, Gyumri and Vanadzor (no date given)",
+   "Ararat Artesian Basin abstraction capped at 926 million m3 a year",
+   "At least 100 ha of forest plantations flooded by Lake Sevan cleared; Lake Sevan water quality brought to at least 'good' status (no dates)",
+   "About 10,000 ha of afforestation and reforestation (no date given)"
+  ],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "ecolur.org summary of the Government Programme 2026-2031: targets are national, except Lake Sevan, Sevan National Park and the cities Yerevan, Gyumri and Vanadzor; reservoir and afforestation sites are not named in the programme text summarised."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "ecolur.org: Environmental Provisions of the Armenian Government's Programme for 2026-2031",
+    "url": "https://www.ecolur.org/en/news/air/16509/"
+   },
+   {
+    "title": "EVN Report: 15 new reservoirs in the 2021-2026 government programme, with feasibility partners",
+    "url": "https://evnreport.com/?p=37300"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Stage date: programme adopted 2026; the opened ecolur article does not show its own date, and a search-index summary gave 25 August 2026 for adoption by the National Assembly (not verified). Based on a secondary summary on ecolur.org, not the programme text itself. No money, lender or per-site detail is given. The first five of the reservoirs (Artik, Astghadzor, Kasakh, Lichk, Yelpin) are the EBRD Phase 1 package already recorded as ebrd-armenia-water-reservoirs-phase-1; the Prime Minister's press release of 24 Oct 2025 places Kasakh in Armavir marz and Lichk in Syunik marz, which differs from the marz assignment in that record. EVN Report also names Argichi as a sixth reservoir at design stage."
+ },
+ {
+  "slug": "armenia-water-compact-2036",
+  "title_en": "Armenia Water Compact 2036: national commitments for water security reform (Water Committee)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Government of Armenia (national budget)",
+   "International financial institutions, donors and private partners (to be mobilised; none named)"
+  ],
+  "implementers": [
+   "Water Committee, Ministry of Territorial Administration and Infrastructure"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Ministry of Economy",
+   "Ministry of Finance",
+   "Public Services Regulatory Commission",
+   "CJSC Jrar Water System Company (irrigation operator)"
+  ],
+  "start": "2026",
+  "end": "2036",
+  "status": "pipeline",
+  "stage": "National commitment document published in 2026; sector strategies and master plan still to be developed and approved; no project financing attached",
+  "budget_usd": null,
+  "budget_original": "No total amount stated. Indicative split of the 10-year investment programme: about 50% irrigation and drainage modernisation, about 40% water supply, sanitation and wastewater, about 10% flood and drought risk reduction, water-resources management, monitoring and institutional capacity.",
+  "cofinancing_note": "Financing to come from the state budget, concessional IFI loans, donor grants and, where suitable, private participation and blended finance.",
+  "themes": [
+   "water-irrigation",
+   "water-supply-sanitation",
+   "lake-sevan",
+   "climate-adaptation",
+   "disaster-risk",
+   "policy-capacity"
+  ],
+  "summary_en": "A ten-year national water-security commitment issued by the Water Committee, setting outcome targets for irrigation, drinking water and sanitation, groundwater and Lake Sevan protection, and flood and drought risk. It lists priority investments and reforms but no projects, sites or budget. It is the framework that donor water programmes (World Bank WISE, AFD/EU WAIDA, EBRD, ADB) are expected to fit into.",
+  "activities_en": [
+   "Rehabilitate and modernise irrigation infrastructure to cut water losses and energy use; pilot performance-based contracts and blended finance for irrigation",
+   "Rehabilitate and extend drinking-water networks, focusing on rural and underserved communities; expand wastewater collection and treatment; prepare a pipeline of bankable wastewater investments",
+   "Flood and drought risk reduction and storage reliability, including rehabilitating existing reservoirs and, where justified, building new small and medium-sized reservoirs",
+   "Real-time monitoring and a national water informatics system; automated monitoring of Lake Sevan withdrawals; stop over-abstraction in the Ararat Artesian Basin",
+   "Reforms: Irrigation Strategy, Water Supply and Sanitation Strategy, National Water Resources Management Strategy, Water Sector Master Plan, Water Code revision, tariff reform, support to Water User Associations and to Jrar, basin management plans for the six Basin Management Areas"
+  ],
+  "results_en": [
+   "By 2036: water losses in priority irrigation systems down about 50% and energy use for irrigation down about 30%",
+   "By 2036: about 200,000 ha of priority irrigation infrastructure modernised; about 250,000-300,000 people with improved irrigation services",
+   "By 2036: safely managed drinking water for about 95% of residents (about 2.7 million people); sanitation for about 60% (about 1.4 million people)",
+   "By 2036: about 60% of municipal wastewater safely treated; municipal non-revenue water cut to about 45% (from about 55% in 2024)",
+   "By 2036: flood and drought risk management improved for about 1.2 million people; digital climate advice and early warning for at least 300,000 water users"
+  ],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "Water Compact 2036 (Water Committee): national targets; named places are only Lake Sevan and the Ararat Artesian Basin / Ararat Valley; priority irrigation systems and basins are not listed."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Republic of Armenia Water Compact 2036 (Water Committee), PDF hosted on worldbank.org",
+    "url": "https://www.bancomundial.org/content/dam/theworldbankgroupasset/document/2026/Armenia%20Water%20Compact_Final.pdf"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Stage date: document sits under a 2026 path; the month is not stated. Every page carries an 'Official Use Only' header and the contact line reads 'Signed' with no visible signature, so check with the Water Committee or the World Bank that this is the final public version before showing it. The text says it is aligned with the 'Armenian Economic and Institutional Transformation Doctrine' approved in 2026 and is not a separate sector doctrine. Start/end 2026-2036 follow the '2036 horizon'; no start date is given as such."
+ },
+ {
+  "slug": "armenia-biodiversity-targets-action-plan-2026-2030",
+  "title_en": "Biodiversity Conservation Targets of the Republic of Armenia and Action Plan 2026-2030 (Minister of Environment Order No. 100-L)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "Order No. 100-L of the Minister of Environment"
+   ]
+  },
+  "donors": [
+   "Government of Armenia"
+  ],
+  "implementers": [
+   "Ministry of Environment"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "ArmForest SNCO (forest enterprises)"
+  ],
+  "start": "2026",
+  "end": "2030",
+  "status": "pipeline",
+  "stage": "National targets and action plan approved by ministerial order in 2026; funding and implementing partners not stated",
+  "budget_usd": null,
+  "budget_original": null,
+  "cofinancing_note": null,
+  "themes": [
+   "biodiversity-protected-areas",
+   "forestry",
+   "policy-capacity"
+  ],
+  "summary_en": "National biodiversity plan with five goals and 30 targets under the Kunming-Montreal Global Biodiversity Framework, approved by the Minister of Environment. Only the forest-related targets could be read: restoring degraded forest ecosystems, raising forest cover and cutting fuelwood demand by 2030. The plan names no budget, donors or regions.",
+  "activities_en": [
+   "Restore degraded forest ecosystems and enhance climate resilience of forest landscapes by 2030",
+   "Promote climate-resilient forest management practices; reduce community fuelwood demand",
+   "Introduce global indicators and criteria for sustainable forest management (2026-2029)",
+   "Promote non-chemical disease control in ArmForest SNCO forest enterprises (2026-2028)"
+  ],
+  "results_en": [
+   "Target 2: restore at least 15,000 ha of degraded forest ecosystems by 2030",
+   "Target 10: increase forest cover by 12,500 ha and cut community fuelwood demand by at least 30% by 2030"
+  ],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "ecolur.org (15 Jul 2026) summary of Order No. 100-L: no regions are named in the plan summary."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "ecolur.org (15 Jul 2026): Armenia plans to restore 15,000 hectares of degraded forest ecosystems by 2030",
+    "url": "https://www.ecolur.org/en/news/forest/16462/"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Stage date: ecolur.org article of 15 Jul 2026 reports the order. Only a secondary summary of the forest-related targets was read, not the order or the other targets. Policy plan, not a funded project; its forest targets may overlap with donor forest programmes already recorded (e.g. GCF SAP014 and SAP059) but that overlap was not analysed."
+ },
+ {
+  "slug": "eu4gre-debed-river-basin-flood-risk-management-plan",
+  "title_en": "EU4Green Recovery East: preliminary Flood Risk Management Plan for the Debed River Basin (Armenia)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "EU4Green Recovery East (EU4GRE), 2025-2028"
+   ]
+  },
+  "donors": [
+   "European Union (EU4Green Recovery East)"
+  ],
+  "implementers": [
+   "International Office for Water (OiEau), EU4GRE partner"
+  ],
+  "national_partners": [
+   "Ministry of Environment"
+  ],
+  "start": null,
+  "end": null,
+  "status": "pipeline",
+  "stage": "Consultancy tender published 23 Feb 2026 (deadline 13 Mar 2026); award and start not found",
+  "budget_usd": null,
+  "budget_original": null,
+  "cofinancing_note": null,
+  "themes": [
+   "disaster-risk",
+   "climate-adaptation",
+   "policy-capacity"
+  ],
+  "summary_en": "A small planned study under the EU's regional EU4Green Recovery East programme to prepare a preliminary flood risk management plan for the Debed River Basin, helping Armenia align with the EU Floods Directive. It would produce a preliminary flood risk assessment, flood hazard and flood risk maps for one pilot area, and a draft plan. The pilot area is not named.",
+  "activities_en": [
+   "Preliminary flood risk assessment for the Debed River Basin",
+   "Flood hazard maps for a pilot area, including hydrological and hydraulic modelling",
+   "Flood risk maps and vulnerability assessment for the same pilot area",
+   "Draft preliminary Flood Risk Management Plan for the Debed River Basin, aligned with EU Floods Directive 2007/60/EC"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Tender notice names only the 'Debed River Basin' and an unnamed pilot area. Lori and Tavush marz are the compiler's geographic inference for the Debed basin in Armenia; not stated in the source. Verify."
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same as above: Debed River Basin; marz not named in the tender notice. Inference, verify."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "EU4Armenia: Call for tender - Elaboration of Preliminary Flood Risk Management Plan in Debed River Basin (Armenia)",
+    "url": "https://eu4armenia.eu/call-for-tender-elaboration-of-preliminary-flood-risk-management-plan-in-debed-river-basin-armenia/"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Stage date: tender published 23 Feb 2026, application deadline 13 March 2026. The page states no budget, start date or duration (a search summary mentioned a EUR 35,000 maximum contract value, which was not on the opened page and is not used). By November 2026 the contract may already be awarded or running; status not confirmed."
+ },
+ {
+  "slug": "undp-loss-and-damage-concept-notes-irrigation-flood-infrastructure",
+  "title_en": "UNDP / Ministry of Environment concept notes for climate-resilient irrigation and flood/transport infrastructure (loss and damage)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "UNDP project 'Development of Technical Guides on Risk Assessment for the Elaboration of Management Approaches for Responding to Loss and Damage' (supported by the NDC Partnership Action Fund)"
+   ]
+  },
+  "donors": [
+   "NDC Partnership Action Fund (funds the preparatory UNDP project)",
+   "Climate finance source for the concepts: not named"
+  ],
+  "implementers": [
+   "UNDP Armenia"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Ministry of Territorial Administration and Infrastructure",
+   "Water Committee"
+  ],
+  "start": null,
+  "end": null,
+  "status": "pipeline",
+  "stage": "Two project concepts under preparation (theories of change drafted June 2025; presented to partners 18 Sep 2025); no submission to a fund found",
+  "budget_usd": null,
+  "budget_original": null,
+  "cofinancing_note": null,
+  "themes": [
+   "climate-adaptation",
+   "disaster-risk",
+   "water-irrigation"
+  ],
+  "summary_en": "UNDP and the Ministry of Environment are preparing two project concepts to attract international climate finance for climate-resilient irrigation infrastructure and for flood-resilient and transport infrastructure. In September 2025 they were presented to ministries, the Water Committee, ADB and FAO to explore funding sources and next steps. No amounts, locations or targets have been published.",
+  "activities_en": [
+   "Co-development of theories of change for both concepts (workshop 17-18 June 2025)",
+   "Presentation and discussion of the two concepts with ministries, the Water Committee, Armhydromet, EPIU, ADB and FAO to explore financing sources and steps from design to implementation (18 Sep 2025)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "Neither page states any location; recorded as a national placeholder only."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "nature-ic.am (23 Sep 2025): Discussing climate-resilient irrigation and transport infrastructure in Armenia",
+    "url": "https://nature-ic.am/en/news/discussing-climate-resilient-irrigation-and-transport-infrastructure-in-armenia"
+   },
+   {
+    "title": "nature-ic.am: Third workshop on climate loss and damage (June 2025)",
+    "url": "https://nature-ic.am/en/news/third-workshop-on-climate-loss-and-damage"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Announcement only. Stage dates: workshop 17-18 June 2025; presentation 18 Sep 2025 (article 23 Sep 2025). The September page speaks of climate-resilient transport and irrigation infrastructure; the June page names flood-resilient infrastructure and climate-resilient irrigation as the two focus sectors. The two pages do not use identical wording, so the exact scope of each note is unclear. GCF is not mentioned as the target fund in either page."
+ }
+]

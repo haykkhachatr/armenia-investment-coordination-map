@@ -1,0 +1,534 @@
+{
+ "marzes": {
+  "AM02": {
+   "id": "AM02",
+   "name_en": "Aragatsotn",
+   "name_hy": "Արագածոտն",
+   "name_ru": "Арагацотнская",
+   "area_km2": 2737.8,
+   "cx": 44.3058,
+   "cy": 40.4732
+  },
+  "AM03": {
+   "id": "AM03",
+   "name_en": "Ararat",
+   "name_hy": "Արարատ",
+   "name_ru": "Араратская",
+   "area_km2": 2116.6,
+   "cx": 44.8064,
+   "cy": 39.9437
+  },
+  "AM04": {
+   "id": "AM04",
+   "name_en": "Armavir",
+   "name_hy": "Արմավիր",
+   "name_ru": "Армавирская",
+   "area_km2": 1264.5,
+   "cx": 44.0395,
+   "cy": 40.1539
+  },
+  "AM05": {
+   "id": "AM05",
+   "name_en": "Gegharkunik",
+   "name_hy": "Գեղարքունիք",
+   "name_ru": "Гехаркуникская",
+   "area_km2": 5250.7,
+   "cx": 45.3996,
+   "cy": 40.3099
+  },
+  "AM07": {
+   "id": "AM07",
+   "name_en": "Kotayk",
+   "name_hy": "Կոտայք",
+   "name_ru": "Котайкская",
+   "area_km2": 2116.4,
+   "cx": 44.7008,
+   "cy": 40.4109
+  },
+  "AM06": {
+   "id": "AM06",
+   "name_en": "Lori",
+   "name_hy": "Լոռի",
+   "name_ru": "Лорийская",
+   "area_km2": 3765.8,
+   "cx": 44.467,
+   "cy": 40.9599
+  },
+  "AM08": {
+   "id": "AM08",
+   "name_en": "Shirak",
+   "name_hy": "Շիրակ",
+   "name_ru": "Ширакская",
+   "area_km2": 2720.2,
+   "cx": 43.87,
+   "cy": 40.7954
+  },
+  "AM09": {
+   "id": "AM09",
+   "name_en": "Syunik",
+   "name_hy": "Սյունիք",
+   "name_ru": "Сюникская",
+   "area_km2": 4495.8,
+   "cx": 46.1484,
+   "cy": 39.3546
+  },
+  "AM11": {
+   "id": "AM11",
+   "name_en": "Tavush",
+   "name_hy": "Տավուշ",
+   "name_ru": "Тавушская",
+   "area_km2": 2728.4,
+   "cx": 45.1128,
+   "cy": 40.9688
+  },
+  "AM10": {
+   "id": "AM10",
+   "name_en": "Vayots Dzor",
+   "name_hy": "Վայոց Ձոր",
+   "name_ru": "Вайоцдзорская",
+   "area_km2": 2298.4,
+   "cx": 45.4147,
+   "cy": 39.7564
+  },
+  "AM01": {
+   "id": "AM01",
+   "name_en": "Yerevan",
+   "name_hy": "Երևան",
+   "name_ru": "Ереван",
+   "area_km2": 233.3,
+   "cx": 44.5052,
+   "cy": 40.1653
+  }
+ },
+ "districts": {
+  "AM011": {
+   "id": "AM011",
+   "name_en": "Yerevan",
+   "name_hy": "Երևան",
+   "name_ru": "Ереван",
+   "area_km2": 233.3,
+   "marz_id": "AM01",
+   "marz_en": "Yerevan",
+   "cx": 44.5052,
+   "cy": 40.1653
+  },
+  "AM021": {
+   "id": "AM021",
+   "name_en": "Ashtarak",
+   "name_hy": "Աշտարակ",
+   "name_ru": "Аштарак",
+   "area_km2": 675.1,
+   "marz_id": "AM02",
+   "marz_en": "Aragatsotn",
+   "cx": 44.2724,
+   "cy": 40.3459
+  },
+  "AM022": {
+   "id": "AM022",
+   "name_en": "Aparan",
+   "name_hy": "Ապարան",
+   "name_ru": "Апаран",
+   "area_km2": 505.5,
+   "marz_id": "AM02",
+   "marz_en": "Aragatsotn",
+   "cx": 44.4127,
+   "cy": 40.5249
+  },
+  "AM023": {
+   "id": "AM023",
+   "name_en": "Aragats",
+   "name_hy": "Արագած",
+   "name_ru": "Арагац",
+   "area_km2": 458.6,
+   "marz_id": "AM02",
+   "marz_en": "Aragatsotn",
+   "cx": 44.2274,
+   "cy": 40.6288
+  },
+  "AM024": {
+   "id": "AM024",
+   "name_en": "Talin",
+   "name_hy": "Թալին",
+   "name_ru": "Талин",
+   "area_km2": 1098.5,
+   "marz_id": "AM02",
+   "marz_en": "Aragatsotn",
+   "cx": 43.8532,
+   "cy": 40.3559
+  },
+  "AM031": {
+   "id": "AM031",
+   "name_en": "Ararat",
+   "name_hy": "Արարատ",
+   "name_ru": "Арарат",
+   "area_km2": 1410.1,
+   "marz_id": "AM03",
+   "marz_en": "Ararat",
+   "cx": 44.8813,
+   "cy": 39.9504
+  },
+  "AM032": {
+   "id": "AM032",
+   "name_en": "Artashat",
+   "name_hy": "Արտաշատ",
+   "name_ru": "Арташат",
+   "area_km2": 551.2,
+   "marz_id": "AM03",
+   "marz_en": "Ararat",
+   "cx": 44.6261,
+   "cy": 40.0203
+  },
+  "AM033": {
+   "id": "AM033",
+   "name_en": "Masis",
+   "name_hy": "Մասիս",
+   "name_ru": "Масис",
+   "area_km2": 155.3,
+   "marz_id": "AM03",
+   "marz_en": "Ararat",
+   "cx": 44.4261,
+   "cy": 40.0769
+  },
+  "AM041": {
+   "id": "AM041",
+   "name_en": "Armavir",
+   "name_hy": "Արմավիր",
+   "name_ru": "Армавир",
+   "area_km2": 413.7,
+   "marz_id": "AM04",
+   "marz_en": "Armavir",
+   "cx": 44.0954,
+   "cy": 40.1072
+  },
+  "AM042": {
+   "id": "AM042",
+   "name_en": "Baghramyan",
+   "name_hy": "Բաղրամյան",
+   "name_ru": "Баграмян",
+   "area_km2": 494.6,
+   "marz_id": "AM04",
+   "marz_en": "Armavir",
+   "cx": 43.8278,
+   "cy": 40.1683
+  },
+  "AM043": {
+   "id": "AM043",
+   "name_en": "Vagharshapat",
+   "name_hy": "Վաղարշապատ",
+   "name_ru": "Вагаршапат",
+   "area_km2": 356.2,
+   "marz_id": "AM04",
+   "marz_en": "Armavir",
+   "cx": 44.2941,
+   "cy": 40.1562
+  },
+  "AM051": {
+   "id": "AM051",
+   "name_en": "Gavar",
+   "name_hy": "Գավառ",
+   "name_ru": "Гавар",
+   "area_km2": 647.3,
+   "marz_id": "AM05",
+   "marz_en": "Gegharkunik",
+   "cx": 45.0711,
+   "cy": 40.3463
+  },
+  "AM052": {
+   "id": "AM052",
+   "name_en": "Karmir",
+   "name_hy": "Կարմիր",
+   "name_ru": "Кармир",
+   "area_km2": 670.0,
+   "marz_id": "AM05",
+   "marz_en": "Gegharkunik",
+   "cx": 45.2811,
+   "cy": 40.5873
+  },
+  "AM053": {
+   "id": "AM053",
+   "name_en": "Martuni",
+   "name_hy": "Մարտունի",
+   "name_ru": "Мартуни",
+   "area_km2": 1162.5,
+   "marz_id": "AM05",
+   "marz_en": "Gegharkunik",
+   "cx": 45.3022,
+   "cy": 40.0557
+  },
+  "AM054": {
+   "id": "AM054",
+   "name_en": "Sevan",
+   "name_hy": "Սևան",
+   "name_ru": "Севан",
+   "area_km2": 365.1,
+   "marz_id": "AM05",
+   "marz_en": "Gegharkunik",
+   "cx": 44.9209,
+   "cy": 40.5415
+  },
+  "AM055": {
+   "id": "AM055",
+   "name_en": "Vardenis",
+   "name_hy": "Վարդենիս",
+   "name_ru": "Варденис",
+   "area_km2": 1149.4,
+   "marz_id": "AM05",
+   "marz_en": "Gegharkunik",
+   "cx": 45.808,
+   "cy": 40.2256
+  },
+  "AM061": {
+   "id": "AM061",
+   "name_en": "Gugark",
+   "name_hy": "Գուգարք",
+   "name_ru": "Гугарк",
+   "area_km2": 789.0,
+   "marz_id": "AM06",
+   "marz_en": "Lori",
+   "cx": 44.5311,
+   "cy": 40.8157
+  },
+  "AM062": {
+   "id": "AM062",
+   "name_en": "Tumanian",
+   "name_hy": "Թումանյան",
+   "name_ru": "Туманян",
+   "area_km2": 1126.5,
+   "marz_id": "AM06",
+   "marz_en": "Lori",
+   "cx": 44.6598,
+   "cy": 40.9961
+  },
+  "AM063": {
+   "id": "AM063",
+   "name_en": "Spitak",
+   "name_hy": "Սպիտակ",
+   "name_ru": "Спитак",
+   "area_km2": 543.6,
+   "marz_id": "AM06",
+   "marz_en": "Lori",
+   "cx": 44.1799,
+   "cy": 40.8527
+  },
+  "AM064": {
+   "id": "AM064",
+   "name_en": "Stepanavan",
+   "name_hy": "Ստեփանավան",
+   "name_ru": "Степанаван",
+   "area_km2": 608.8,
+   "marz_id": "AM06",
+   "marz_en": "Lori",
+   "cx": 44.3076,
+   "cy": 41.0189
+  },
+  "AM065": {
+   "id": "AM065",
+   "name_en": "Tashir",
+   "name_hy": "Տաշիր",
+   "name_ru": "Ташир",
+   "area_km2": 697.9,
+   "marz_id": "AM06",
+   "marz_en": "Lori",
+   "cx": 44.1642,
+   "cy": 41.1326
+  },
+  "AM071": {
+   "id": "AM071",
+   "name_en": "Kotayk",
+   "name_hy": "Կոտայք",
+   "name_ru": "Котайк",
+   "area_km2": 853.1,
+   "marz_id": "AM07",
+   "marz_en": "Kotayk",
+   "cx": 44.7617,
+   "cy": 40.2398
+  },
+  "AM072": {
+   "id": "AM072",
+   "name_en": "Hrazdan",
+   "name_hy": "Հրազդան",
+   "name_ru": "Раздан",
+   "area_km2": 958.2,
+   "marz_id": "AM07",
+   "marz_en": "Kotayk",
+   "cx": 44.6897,
+   "cy": 40.5281
+  },
+  "AM073": {
+   "id": "AM073",
+   "name_en": "Nairi",
+   "name_hy": "Նաիրի",
+   "name_ru": "Наири",
+   "area_km2": 305.1,
+   "marz_id": "AM07",
+   "marz_en": "Kotayk",
+   "cx": 44.524,
+   "cy": 40.3661
+  },
+  "AM081": {
+   "id": "AM081",
+   "name_en": "Akhuryan",
+   "name_hy": "Ախուրյան",
+   "name_ru": "Ахурян",
+   "area_km2": 620.4,
+   "marz_id": "AM08",
+   "marz_en": "Shirak",
+   "cx": 43.8765,
+   "cy": 40.808
+  },
+  "AM082": {
+   "id": "AM082",
+   "name_en": "Amasia",
+   "name_hy": "Ամասիա",
+   "name_ru": "Амасиа",
+   "area_km2": 598.1,
+   "marz_id": "AM08",
+   "marz_en": "Shirak",
+   "cx": 43.7349,
+   "cy": 40.9643
+  },
+  "AM083": {
+   "id": "AM083",
+   "name_en": "Ani",
+   "name_hy": "Անի",
+   "name_ru": "Ани",
+   "area_km2": 416.7,
+   "marz_id": "AM08",
+   "marz_en": "Shirak",
+   "cx": 43.7773,
+   "cy": 40.5547
+  },
+  "AM084": {
+   "id": "AM084",
+   "name_en": "Ashotck",
+   "name_hy": "Աշոցք",
+   "name_ru": "Ашотцк",
+   "area_km2": 559.7,
+   "marz_id": "AM08",
+   "marz_en": "Shirak",
+   "cx": 43.9266,
+   "cy": 41.0297
+  },
+  "AM085": {
+   "id": "AM085",
+   "name_en": "Artik",
+   "name_hy": "Արթիկ",
+   "name_ru": "Артик",
+   "area_km2": 525.3,
+   "marz_id": "AM08",
+   "marz_en": "Shirak",
+   "cx": 44.0347,
+   "cy": 40.5818
+  },
+  "AM091": {
+   "id": "AM091",
+   "name_en": "Goris",
+   "name_hy": "Գորիս",
+   "name_ru": "Горис",
+   "area_km2": 724.5,
+   "marz_id": "AM09",
+   "marz_en": "Syunik",
+   "cx": 46.3358,
+   "cy": 39.4711
+  },
+  "AM092": {
+   "id": "AM092",
+   "name_en": "Kapan",
+   "name_hy": "Կապան",
+   "name_ru": "Капан",
+   "area_km2": 1369.4,
+   "marz_id": "AM09",
+   "marz_en": "Syunik",
+   "cx": 46.2176,
+   "cy": 39.1815
+  },
+  "AM093": {
+   "id": "AM093",
+   "name_en": "Meghri",
+   "name_hy": "Մեղրի",
+   "name_ru": "Мегри",
+   "area_km2": 695.7,
+   "marz_id": "AM09",
+   "marz_en": "Syunik",
+   "cx": 46.2999,
+   "cy": 38.981
+  },
+  "AM094": {
+   "id": "AM094",
+   "name_en": "Sisian",
+   "name_hy": "Սիսիան",
+   "name_ru": "Сисиан",
+   "area_km2": 1706.2,
+   "marz_id": "AM09",
+   "marz_en": "Syunik",
+   "cx": 45.9803,
+   "cy": 39.5797
+  },
+  "AM101": {
+   "id": "AM101",
+   "name_en": "Yeghegnadzor",
+   "name_hy": "Եղեգնաձոր",
+   "name_ru": "Егегнадзор",
+   "area_km2": 1076.8,
+   "marz_id": "AM10",
+   "marz_en": "Vayots Dzor",
+   "cx": 45.2844,
+   "cy": 39.7834
+  },
+  "AM102": {
+   "id": "AM102",
+   "name_en": "Vayk",
+   "name_hy": "Վայք",
+   "name_ru": "Вайк",
+   "area_km2": 1221.5,
+   "marz_id": "AM10",
+   "marz_en": "Vayots Dzor",
+   "cx": 45.5956,
+   "cy": 39.7524
+  },
+  "AM111": {
+   "id": "AM111",
+   "name_en": "Idjevan",
+   "name_hy": "Իջևան",
+   "name_ru": "Иджеван",
+   "area_km2": 1004.7,
+   "marz_id": "AM11",
+   "marz_en": "Tavush",
+   "cx": 45.0506,
+   "cy": 40.8652
+  },
+  "AM112": {
+   "id": "AM112",
+   "name_en": "Noyemberyan",
+   "name_hy": "Նոյեմբերյան",
+   "name_ru": "Ноемберян",
+   "area_km2": 562.8,
+   "marz_id": "AM11",
+   "marz_en": "Tavush",
+   "cx": 45.0319,
+   "cy": 41.1279
+  },
+  "AM113": {
+   "id": "AM113",
+   "name_en": "Tavush",
+   "name_hy": "Տավուշ",
+   "name_ru": "Тавуш",
+   "area_km2": 820.0,
+   "marz_id": "AM11",
+   "marz_en": "Tavush",
+   "cx": 45.4159,
+   "cy": 40.8384
+  },
+  "AM114": {
+   "id": "AM114",
+   "name_en": "Dilidjan",
+   "name_hy": "Դիլիջան",
+   "name_ru": "Дилиджан",
+   "area_km2": 340.9,
+   "marz_id": "AM11",
+   "marz_en": "Tavush",
+   "cx": 44.8963,
+   "cy": 40.7495
+  }
+ }
+}

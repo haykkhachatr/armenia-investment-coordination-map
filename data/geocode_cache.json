@@ -1,0 +1,550 @@
+{
+ "Shoghakat, Gegharkunik": {
+  "lat": 40.5000694,
+  "lon": 45.2727227
+ },
+ "Yeghegis, Vayots Dzor": {
+  "lat": 39.8725793,
+  "lon": 45.3593006
+ },
+ "Jermuk, Vayots Dzor": {
+  "lat": 39.8388185,
+  "lon": 45.6712635
+ },
+ "Lusadzor, Tavush": {
+  "lat": 40.9367785,
+  "lon": 45.1493325
+ },
+ "Zangezur Biosphere Complex, Syunik": {},
+ "Khosrov Forest State Reserve, Ararat": {
+  "lat": 40.0373046,
+  "lon": 44.9263411
+ },
+ "Arpa Protected Landscape, Vayots Dzor": {
+  "lat": 39.7530775,
+  "lon": 45.3275406
+ },
+ "Pambak, Lori": {
+  "lat": 40.8304636,
+  "lon": 44.5576701
+ },
+ "Yeghegnut, Lori": {
+  "lat": 40.9022673,
+  "lon": 44.6316549
+ },
+ "Debed, Lori": {
+  "lat": 41.1486378,
+  "lon": 44.788835
+ },
+ "Margahovt, Lori": {},
+ "Vayk, Yeghegis, Areni, Vayots Dzor": {},
+ "Vayk, Vayots Dzor": {
+  "lat": 39.6954487,
+  "lon": 45.4551172
+ },
+ "Areni, Vayots Dzor": {
+  "lat": 39.7272242,
+  "lon": 45.1883125
+ },
+ "Ararat, Ararat": {
+  "lat": 39.8553329,
+  "lon": 44.6943793
+ },
+ "Dsegh, Lori": {
+  "lat": 40.9623987,
+  "lon": 44.6498903
+ },
+ "Shatin, Vayots Dzor": {
+  "lat": 39.8334617,
+  "lon": 45.2988202
+ },
+ "Urtsadzor, Ararat": {
+  "lat": 39.9164749,
+  "lon": 44.8185532
+ },
+ "Margahovit, Tavush": {},
+ "Fioletovo, Tavush": {},
+ "Azatan, Shirak": {
+  "lat": 40.7183874,
+  "lon": 43.8271084
+ },
+ "Navur, Tavush": {
+  "lat": 40.8678249,
+  "lon": 45.3411661
+ },
+ "Tatev, Syunik": {
+  "lat": 39.3840285,
+  "lon": 46.2436662
+ },
+ "Gyumri, Shirak": {
+  "lat": 40.7852085,
+  "lon": 43.8416095
+ },
+ "Garni, Kotayk": {
+  "lat": 40.1174837,
+  "lon": 44.7340588
+ },
+ "Jermuk enlarged, Vayots Dzor": {},
+ "Berd, Tavush": {
+  "lat": 40.8837828,
+  "lon": 45.3923321
+ },
+ "Tegh, Syunik": {
+  "lat": 39.5574968,
+  "lon": 46.4731656
+ },
+ "Vanadzor, Lori": {
+  "lat": 40.8112384,
+  "lon": 44.4851821
+ },
+ "Chambarak, Gegharkunik": {
+  "lat": 40.5973015,
+  "lon": 45.35495
+ },
+ "Nubarashen landfill, Yerevan": {
+  "lat": 40.1073157,
+  "lon": 44.5473502
+ },
+ "Baghanis, Tavush": {
+  "lat": 41.1097249,
+  "lon": 45.0570968
+ },
+ "Zuygaghbyur, Shirak": {},
+ "Myasnikyan, Armavir": {
+  "lat": 40.1820706,
+  "lon": 43.9124818
+ },
+ "Bagramyan, Armavir": {
+  "lat": 40.1646446,
+  "lon": 43.8048357
+ },
+ "Dalarik, Armavir": {
+  "lat": 40.2260861,
+  "lon": 43.8761721
+ },
+ "Qarakert, Armavir": {
+  "lat": 40.2444813,
+  "lon": 43.8182425
+ },
+ "Bagaran, Armavir": {
+  "lat": 40.1431969,
+  "lon": 43.6598387
+ },
+ "Yervandashat, Armavir": {
+  "lat": 40.1186186,
+  "lon": 43.6706235
+ },
+ "Lernagog, Armavir": {
+  "lat": 40.2534271,
+  "lon": 43.8649044
+ },
+ "Arevadasht, Armavir": {
+  "lat": 40.1320066,
+  "lon": 43.9329805
+ },
+ "Hatsik, Armavir": {
+  "lat": 40.1710238,
+  "lon": 43.9501606
+ },
+ "Noravan, Armavir": {
+  "lat": 40.172053,
+  "lon": 44.032173
+ },
+ "Agavnatun, Armavir": {
+  "lat": 40.2314161,
+  "lon": 44.2507627
+ },
+ "Megrashen, Shirak": {},
+ "Jrashen, Lori": {
+  "lat": 40.7915396,
+  "lon": 44.1895136
+ },
+ "Dzoragyug, Gegharkunik": {},
+ "Getashen, Gegharkunik": {
+  "lat": 40.1423514,
+  "lon": 45.2682301
+ },
+ "Martuni, Gegharkunik": {
+  "lat": 40.1382247,
+  "lon": 45.3039867
+ },
+ "Astghadzor, Gegharkunik": {
+  "lat": 40.125811,
+  "lon": 45.3562778
+ },
+ "Vagashen, Gegharkunik": {},
+ "Baghramyan, Armavir": {
+  "lat": 40.1926799,
+  "lon": 44.3692037
+ },
+ "Norakert, Armavir": {
+  "lat": 40.192455,
+  "lon": 44.3477588
+ },
+ "Goght, Kotayk": {
+  "lat": 40.1384828,
+  "lon": 44.7857223
+ },
+ "Sevan, Gegharkunik": {
+  "lat": 40.3925199,
+  "lon": 45.3460867
+ },
+ "Gavar, Gegharkunik": {
+  "lat": 40.3513976,
+  "lon": 45.1273162
+ },
+ "Tsakhkadzor, Kotayk": {
+  "lat": 40.5335474,
+  "lon": 44.7201571
+ },
+ "Charentsavan, Kotayk": {
+  "lat": 40.4029877,
+  "lon": 44.6469349
+ },
+ "Hrazdan, Kotayk": {
+  "lat": 40.5196871,
+  "lon": 44.7500706
+ },
+ "Ashtarak, Aragatsotn": {
+  "lat": 40.2886849,
+  "lon": 44.3613061
+ },
+ "Aparan, Aragatsotn": {
+  "lat": 40.5908411,
+  "lon": 44.3570829
+ },
+ "Masis, Ararat": {
+  "lat": 40.0617279,
+  "lon": 44.4427915
+ },
+ "Vedi, Ararat": {
+  "lat": 39.9138481,
+  "lon": 44.7224953
+ },
+ "Yeghegnadzor, Vayots Dzor": {
+  "lat": 39.7601008,
+  "lon": 45.3302273
+ },
+ "Alaverdi, Lori": {
+  "lat": 41.0981441,
+  "lon": 44.6460913
+ },
+ "Tashir, Lori": {
+  "lat": 41.1213636,
+  "lon": 44.2841667
+ },
+ "Stepanavan, Lori": {
+  "lat": 41.0112004,
+  "lon": 44.3845119
+ },
+ "Sisian, Syunik": {
+  "lat": 39.5235435,
+  "lon": 46.0235784
+ },
+ "Goris, Syunik": {
+  "lat": 39.5052419,
+  "lon": 46.3442334
+ },
+ "Meghri, Syunik": {
+  "lat": 38.9013004,
+  "lon": 46.2459121
+ },
+ "Kaps, Shirak": {
+  "lat": 40.8696802,
+  "lon": 43.7539702
+ },
+ "Jradzor, Shirak": {
+  "lat": 40.9205322,
+  "lon": 43.7805534
+ },
+ "Noratus, Gegharkunik": {
+  "lat": 40.3746925,
+  "lon": 45.1781113
+ },
+ "Lake Sevan, Gegharkunik": {
+  "lat": 40.3925199,
+  "lon": 45.3460867
+ },
+ "Vardenis, Gegharkunik": {
+  "lat": 40.184574,
+  "lon": 45.7269788
+ },
+ "Artashat, Ararat": {
+  "lat": 39.9566633,
+  "lon": 44.5471007
+ },
+ "Khanjyan, Armavir": {
+  "lat": 40.186218,
+  "lon": 43.974323
+ },
+ "Lukashin, Armavir": {
+  "lat": 40.18566,
+  "lon": 44.004514
+ },
+ "Norapat, Armavir": {
+  "lat": 40.1403233,
+  "lon": 44.0381324
+ },
+ "Chochkan, Lori": {
+  "lat": 41.180111,
+  "lon": 44.8332303
+ },
+ "Benyamin, Shirak": {},
+ "Saratovka, Lori": {
+  "lat": 41.076799,
+  "lon": 44.3096631
+ },
+ "Ayrum, Tavush": {
+  "lat": 41.1880997,
+  "lon": 44.9020486
+ },
+ "Tumanyan, Lori": {
+  "lat": 41.0016486,
+  "lon": 44.6508659
+ },
+ "Ahnidzor, Lori": {
+  "lat": 40.9078201,
+  "lon": 44.820732
+ },
+ "Atan, Lori": {
+  "lat": 40.9295429,
+  "lon": 44.8446767
+ },
+ "Karinj, Lori": {
+  "lat": 40.9729917,
+  "lon": 44.6913316
+ },
+ "Lorut, Lori": {
+  "lat": 40.9356026,
+  "lon": 44.7732341
+ },
+ "Shamut, Lori": {
+  "lat": 40.9390524,
+  "lon": 44.7951589
+ },
+ "Margahovit, Lori": {
+  "lat": 40.7390614,
+  "lon": 44.6875906
+ },
+ "Gugarq, Lori": {
+  "lat": 40.8110128,
+  "lon": 44.4841705
+ },
+ "Vahagn, Lori": {
+  "lat": 40.9083173,
+  "lon": 44.6077678
+ },
+ "Yenokavan, Tavush": {
+  "lat": 40.9123764,
+  "lon": 45.1075219
+ },
+ "Koghb, Tavush": {
+  "lat": 41.2682894,
+  "lon": 45.0036119
+ },
+ "Uits, Syunik": {},
+ "Koghb, Berdavan, Jujevan, Voskevan, Koti, Tavush": {},
+ "Berdavan, Tavush": {
+  "lat": 41.2050064,
+  "lon": 45.0011787
+ },
+ "Jujevan, Tavush": {
+  "lat": 41.1298624,
+  "lon": 45.0104844
+ },
+ "Voskevan, Tavush": {
+  "lat": 41.1191933,
+  "lon": 45.067351
+ },
+ "Koti, Tavush": {
+  "lat": 41.1336715,
+  "lon": 45.1244065
+ },
+ "Dilijan State Reserve, Tavush": {},
+ "Balak, Syunik": {
+  "lat": 39.557263,
+  "lon": 45.931394
+ },
+ "Ttujur, Aragatsotn": {
+  "lat": 40.5694322,
+  "lon": 44.459844
+ },
+ "Lernavan, Lori": {
+  "lat": 40.7879336,
+  "lon": 44.1610048
+ },
+ "Mets Mantash, Shirak": {
+  "lat": 40.645334,
+  "lon": 44.0560551
+ },
+ "Ijevan, Tavush": {
+  "lat": 40.8779943,
+  "lon": 45.1437542
+ },
+ "Sevqar, Tavush": {
+  "lat": 41.035222,
+  "lon": 45.1418219
+ },
+ "Dilijan, Margahovit, Fioletovo, Tavush": {
+  "lat": 40.7163954,
+  "lon": 44.754135
+ },
+ "Dilijan, Tavush": {
+  "lat": 40.7417126,
+  "lon": 44.872221
+ },
+ "Haghartsin, Tavush": {
+  "lat": 40.801858,
+  "lon": 44.8906689
+ },
+ "Aghavnavank, Tavush": {
+  "lat": 40.7224234,
+  "lon": 45.0924224
+ },
+ "Gosh, Tavush": {
+  "lat": 40.7293107,
+  "lon": 44.9977442
+ },
+ "Khachardzan, Tavush": {
+  "lat": 40.7188135,
+  "lon": 45.0553395
+ },
+ "Teghut, Tavush": {
+  "lat": 40.7789754,
+  "lon": 44.9403322
+ },
+ "Noyemberyan, Tavush": {
+  "lat": 41.1719613,
+  "lon": 44.9965125
+ },
+ "Haghtanak, Tavush": {
+  "lat": 41.2167702,
+  "lon": 44.912113
+ },
+ "Achajur, Tavush": {
+  "lat": 40.9883735,
+  "lon": 45.1509355
+ },
+ "Echmiadzin, Armavir": {
+  "lat": 40.1627757,
+  "lon": 44.2931665
+ },
+ "Lechap, Gegharkunik": {},
+ "Sarukhan, Gegharkunik": {
+  "lat": 40.2907166,
+  "lon": 45.1314645
+ },
+ "Lusakunk, Gegharkunik": {
+  "lat": 40.1760565,
+  "lon": 45.6809387
+ },
+ "Lernamerdz, Armavir": {
+  "lat": 40.2581597,
+  "lon": 44.2640261
+ },
+ "Amberd, Armavir": {
+  "lat": 40.2399843,
+  "lon": 44.2711546
+ },
+ "Aygeshat, Armavir": {
+  "lat": 40.2344711,
+  "lon": 44.2858222
+ },
+ "Dasht, Armavir": {
+  "lat": 40.227269,
+  "lon": 44.300244
+ },
+ "Doghs, Armavir": {
+  "lat": 40.222309,
+  "lon": 44.2715089
+ },
+ "Musaler, Armavir": {
+  "lat": 40.1574097,
+  "lon": 44.3822765
+ },
+ "Shahumyan, Armavir": {
+  "lat": 40.2150959,
+  "lon": 44.2984821
+ },
+ "Houshakert, Armavir": {},
+ "Aghavnatun, Armavir": {
+  "lat": 40.2314161,
+  "lon": 44.2507627
+ },
+ "Ptghunk, Armavir": {
+  "lat": 40.1659493,
+  "lon": 44.3616559
+ },
+ "Voskevaz, Aragatsotn": {
+  "lat": 40.2800496,
+  "lon": 44.2952446
+ },
+ "Voskehat, Aragatsotn": {
+  "lat": 40.2769065,
+  "lon": 44.274216
+ },
+ "Oshakan, Aragatsotn": {
+  "lat": 40.2668923,
+  "lon": 44.3117312
+ },
+ "Talin, Aragatsotn": {
+  "lat": 40.3837069,
+  "lon": 43.8735993
+ },
+ "Kapan, Syunik": {
+  "lat": 39.2075659,
+  "lon": 46.4049281
+ },
+ "Achanan, Syunik": {
+  "lat": 39.3294295,
+  "lon": 46.2904453
+ },
+ "Aghtanak, Yerevan": {},
+ "Vardenis enlarged, Gegharkunik": {},
+ "Sisian enlarged, Syunik": {},
+ "Abovian, Kotayk": {
+  "lat": 40.2714761,
+  "lon": 44.6333951
+ },
+ "Byureghavan, Kotayk": {
+  "lat": 40.3127937,
+  "lon": 44.5977663
+ },
+ "Yeghvard, Kotayk": {
+  "lat": 40.3214049,
+  "lon": 44.4813889
+ },
+ "Nor Hachn, Kotayk": {
+  "lat": 40.3000123,
+  "lon": 44.5822776
+ },
+ "Ani, Shirak": {
+  "lat": 40.8287578,
+  "lon": 43.8284226
+ },
+ "Akhuryan, Shirak": {
+  "lat": 40.7812656,
+  "lon": 43.8996897
+ },
+ "Artik, Shirak": {
+  "lat": 40.6198428,
+  "lon": 43.9707866
+ },
+ "Amasia, Shirak": {
+  "lat": 40.9849874,
+  "lon": 43.7356541
+ },
+ "Ashotsk, Shirak": {
+  "lat": 41.0372507,
+  "lon": 43.8611414
+ },
+ "Getik, Gegharkunik": {
+  "lat": 40.6605845,
+  "lon": 45.2715402
+ },
+ "Karmir Gyugh, Gegharkunik": {},
+ "Garnahovit, Aragatsotn": {
+  "lat": 40.4973813,
+  "lon": 43.9545817
+ }
+}

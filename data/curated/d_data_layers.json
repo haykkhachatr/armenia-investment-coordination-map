@@ -1,0 +1,1726 @@
+[
+ {
+  "slug": "unccd-prais4-armenia-rasters",
+  "name_en": "UNCCD PRAIS4 / Data Dashboard: Armenia national reporting rasters (SDG 15.3.1 status, LDN, drought, population exposure)",
+  "category": "land-degradation",
+  "description_en": "The UNCCD Data Dashboard API lists five raster layers for Armenia, all imported on 2023-02-01 with origin code TE_IMPORT (interpreted as a Trends.Earth import): SDG_STATUS_REPORTING, LDN_REPORTING, LAND_DROUGHT_E5, TOTAL_POPULATION_EXPOSED_TO_LAND_DEGRADATION_REPORTING and TOTAL_POPULATION_EXPOSED_TO_DROUGHT_E5. Each is served as an OGC WMS (MapServer 7.6.7, 'PRAIS4 WMS Server'; GetMap formats include image/png and image/tiff) with a bounding box of lon 43.45-46.6375, lat 38.835-41.3.",
+  "producer": "UNCCD secretariat (PRAIS4 platform); content submitted by Armenia (country record shows submitted_report = 'national')",
+  "project_or_programme": "UNCCD national reporting (PRAIS4) / Trends.Earth import",
+  "year_or_period": "Import dated 2023-02-01; the API lists a baseline_period and a reporting_period but does not state the years. SDG 15.3.1 values for 2015 and 2019 are published on sdg.armstat.am.",
+  "coverage": "national",
+  "resolution": "Not stated in the WMS metadata",
+  "format": "web-service",
+  "license": null,
+  "access_url": "https://data.unccd.int/country/ARM",
+  "direct_download_or_service": "Layer list: https://data.unccd.int/api/countries/ARM/rasters/ . WMS GetCapabilities pattern: https://data.unccd.int/api/countries/ARM/rasters/{id}/mapserver/?SERVICE=WMS&REQUEST=GetCapabilities with id 98o2g6Y (LDN_REPORTING), 0EQpov0 (SDG_STATUS_REPORTING), rLRKzQ9 (LAND_DROUGHT_E5), r6L2qp9 (population exposed to land degradation), 9l6J78r (population exposed to drought). Underlying endpoint: https://reporting.unccd.int:80/cgi-bin/mapserv.exe?map=/mapserver/ARM/LDN_REPORTING/2023-02-01-te-AP9Y0QP/layer.map&",
+  "open_access": true,
+  "gap_or_issue": "No licence stated for Armenia (the UNCCD spatial-layers-licenses API lists 7 countries, Armenia not among them). Resolution and class legend must be read from the legend endpoint / UNCCD Good Practice Guidance. Reflects default global data unless Armenia replaced it with national data; this was not checked. Several Armenian sources quote very different degradation shares (e.g. an Environment Ministry official said 86% in 2021 without a method), so use these rasters only as a first screening layer.",
+  "usable_for": "First-pass screening of improving / stable / degrading land and of population exposed to degradation and drought; overlay with project locations to see where donors work in degrading areas.",
+  "sources": [
+   {
+    "title": "UNCCD Data Dashboard API - Armenia rasters",
+    "url": "https://data.unccd.int/api/countries/ARM/rasters/"
+   },
+   {
+    "title": "UNCCD WMS GetCapabilities, LDN_REPORTING layer (Armenia)",
+    "url": "https://data.unccd.int/api/countries/ARM/rasters/98o2g6Y/mapserver/?SERVICE=WMS&REQUEST=GetCapabilities"
+   },
+   {
+    "title": "UNCCD Data Dashboard - Armenia country page",
+    "url": "https://data.unccd.int/country/ARM"
+   },
+   {
+    "title": "UNCCD spatial layers licences API",
+    "url": "https://data.unccd.int/api/spatial-layers-licenses/"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "sdg-15-3-1-armenia-table",
+  "name_en": "SDG 15.3.1 - proportion of land that is degraded, Armenia (national statistics table)",
+  "category": "land-degradation",
+  "description_en": "The Armstat SDG platform (Open SDG) shows indicator 15.3.1 for Armenia as 19.28% for 2015 and 19.44% for 2019, sourced from the UN Statistics Division (custodian UNCCD). Headline, source and disaggregation CSVs plus a PNG chart can be downloaded from the indicator page; data last updated 2026-02-05.",
+  "producer": "Statistical Committee of Armenia (Armstat) / UN Statistics Division / UNCCD",
+  "project_or_programme": "Armenia SDG national reporting platform (Open SDG)",
+  "year_or_period": "2015 and 2019 values; page updated 2026-02-05",
+  "coverage": "national",
+  "resolution": "single national value per year",
+  "format": "table",
+  "license": null,
+  "access_url": "https://sdg.armstat.am/15-3-1/",
+  "direct_download_or_service": "Indicator CSVs linked on the page; all-indicator ZIP (601 KB, HTTP 200): https://armstat.github.io/sdg-data-armenia/prod/en/zip/all_indicators.zip",
+  "open_access": true,
+  "gap_or_issue": "Only two national percentages; no marz, community or map breakdown. Not consistent with the 86% degraded / 44% desertified figures quoted by an Environment Ministry official in April 2021 (no method or map given) - the two numbers use different definitions and should not be mixed. Platform is labelled Alpha. Licence not stated on the page.",
+  "usable_for": "Headline national baseline for LDN monitoring and for citing SDG 15.3 progress; not usable for targeting communities.",
+  "sources": [
+   {
+    "title": "Armstat SDG 15.3.1 indicator page",
+    "url": "https://sdg.armstat.am/15-3-1/"
+   },
+   {
+    "title": "Armstat SDG platform home (download all data)",
+    "url": "https://sdg.armstat.am/"
+   },
+   {
+    "title": "EcoLur: '86 Percent of Armenia's Area Subject to Degradation' (2021)",
+    "url": "https://www.ecolur.org/en/news/climate-change/13148/"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "fao-gef-ldn-lori-syunik-maps",
+  "name_en": "FAO-GEF LDN project maps for Lori and Syunik (SDG 15.3.1 sub-indicators: land cover, land productivity, SOC)",
+  "category": "land-degradation",
+  "description_en": "GEF project 10365 'Implementation of Armenia's LDN commitments through SLM and restoration of degraded landscapes' (FAO, executed with the Ministry of Environment; pilot sites Tumanyan community in Lori and Gorayk community in Syunik) plans LDN indicator maps for Lori and Syunik under ProDoc Output 1.2.2 (Trends.Earth and Collect Earth). The ProDoc baseline states that no LDN assessment or maps existed for Lori and Syunik and lists the national and community maps used to prepare it.",
+  "producer": "FAO (GEF agency) with Ministry of Environment / Environmental Projects Implementation Unit",
+  "project_or_programme": "GEF 10365 / GCP/ARM/010/GFF",
+  "year_or_period": "Approved 2021-09-16; ProDoc period 2021-10-01 to 2024-10-01; GEF page lists 2026 PIR",
+  "coverage": "named area",
+  "resolution": "Not stated",
+  "format": "raster",
+  "license": null,
+  "access_url": "https://thegef.org/projects-operations/projects/10365",
+  "direct_download_or_service": null,
+  "open_access": null,
+  "gap_or_issue": "No public download or viewer found. Per an internal status note of 2026-11-04 the Output 1.2.2 maps are still in preparation; the LDN decision-support system (Output 1.3.3) and the monitoring system (Output 1.2.3) were not yet built. ProDoc baseline products (ESA 300 m land cover 2015, MODIS NDVI productivity 2000-2018, SOC 2018 and SOC trend 2001-2018, FIRMS fire maps 2019, community-level land degradation trend maps for Lori, Syunik, Tumanyan, Gorayq) are described in the document, but the files were not located online. ProDoc itself says the 300 m land cover is insufficient for Armenia.",
+  "usable_for": "Community-level LDN baseline for the two pilot marzes once released; ask the Ministry of Environment / EPIU / FAO Armenia for the files and for the Trends.Earth project folder.",
+  "sources": [
+   {
+    "title": "GEF Portal - project 10365",
+    "url": "https://thegef.org/projects-operations/projects/10365"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "armenia-ldn-target-setting-voluntary-targets",
+  "name_en": "Armenia LDN Target Setting Programme report and UNCCD voluntary LDN targets",
+  "category": "land-degradation",
+  "description_en": "The UNCCD data API records 3 voluntary LDN targets for Armenia (3 'ongoing', 0 'achieved'). The FAO-GEF ProDoc quotes Armenia's LDN Target Setting Report national goal: 'By the year 2040, the carbon stock lost between 2000 and 2010 will be recovered and increased by 2.8% in relation to present', supported by four targets: (1) arrest cropland degradation and promote agro-ecology, (2) afforest and/or reforest two thirds of the degraded land, (3) arrest deforestation and improve forest management on 100% of the national territory, (4) arrest overgrazing and improve grassland management (target 4 wording is cut off in the extracted ProDoc text).",
+  "producer": "Ministry of Environment of Armenia with UNCCD Global Mechanism (LDN Target Setting Programme)",
+  "project_or_programme": "UNCCD LDN Target Setting Programme",
+  "year_or_period": "Target year 2040 (per ProDoc)",
+  "coverage": "national",
+  "resolution": "tabular targets, no map",
+  "format": "table",
+  "license": null,
+  "access_url": "https://data.unccd.int/api/countries/ARM/voluntary-targets/",
+  "direct_download_or_service": "https://data.unccd.int/api/countries/ARM/voluntary-targets/ (JSON summary: total 3, achieved 0, ongoing 3)",
+  "open_access": null,
+  "gap_or_issue": "The Target Setting report PDF itself was not located (unccd.int returned 403 to automated access; a 2015 'Armenia LDN National Report' is listed on Land Portal but that page also returned 403). No spatial target layer found. Details of the three targets are not in the API summary.",
+  "usable_for": "Aligning donor programmes with the national LDN goal (carbon stock recovery by 2040).",
+  "sources": [
+   {
+    "title": "UNCCD Data API - Armenia voluntary targets",
+    "url": "https://data.unccd.int/api/countries/ARM/voluntary-targets/"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "armsis-soil-map-and-properties",
+  "name_en": "ARMSIS Soil Map of Armenia (1:100,000) and soil property rasters / profile database",
+  "category": "soil",
+  "description_en": "Armenian Soil Information System (ArmSIS, built with FAO, Global Soil Partnership, ANAU, Centre of the Agricultural Services SNCO and the Institute of Geological Sciences) catalogue entries: a 1:100,000 Soil Map (Armenian classification, mapped 2005, sampling 1953-1967, authors Melkonian, Parsadanian, Edilian; provider: Scientific Center of Soil Sciences, Agrochemistry and Melioration after H. Petrossyan, ANAU), plus soil pH, clay, silt, sand, bulk density, CEC rasters and soil profile database tables (site and horizon). A coarser 1:750,000 Soils of Armenia vector layer from the SCOPES 'Sustainable Caucasus' project is also catalogued.",
+  "producer": "Armenian National Agrarian University (ANAU) Scientific Center of Soil Sciences; ArmSIS partners",
+  "project_or_programme": "ArmSIS (FAO / GSP / ANAU / SNCO / Institute of Geological Sciences)",
+  "year_or_period": "Soil map 2005 (sampling 1953-1967); property rasters mapped ~2020",
+  "coverage": "national",
+  "resolution": "1:100,000 (soil map); raster resolution not stated",
+  "format": "vector",
+  "license": null,
+  "access_url": "https://data.opendata.am/dataset/armsis-44",
+  "direct_download_or_service": "Catalogued as http://armsis.cas.am/download/44 (soil map), /download/46 and /download/45 (profile site / horizon) and WFS/WMS on http://armsis.cas.am/geoserver/ows - host did not resolve on 2026-11-04. UNEP GRID 1:750,000 soils: https://sustainable-caucasus.unepgrid.ch/download/78 (returned 404 on 2026-11-04)",
+  "open_access": null,
+  "gap_or_issue": "The ArmSIS GeoNode host (armsis.cas.am) did not resolve from our network on 2026-11-04 and the UNEP GRID mirror was 'Under maintenance' with download links returning 404, so the files are currently not retrievable by us; the Open Data Armenia entries (harvested 2023-07-08) only point to those hosts. Soil sampling is 1953-1967, so properties pre-date recent degradation. No licence stated. Ask ANAU / SNCO (contacts in the catalogue entries) for a copy.",
+  "usable_for": "National soil type and property baseline for land-suitability, erosion and SLM targeting; overlay with salinity and SOC.",
+  "sources": [
+   {
+    "title": "Open Data Armenia - ARMSIS Soil Map (armsis-44)",
+    "url": "https://data.opendata.am/dataset/armsis-44"
+   },
+   {
+    "title": "Open Data Armenia - Soil Profile Database Site (armsis-46)",
+    "url": "https://data.opendata.am/dataset/armsis-46"
+   },
+   {
+    "title": "Open Data Armenia - Armenia: Soils 1:750,000 (sustc-78)",
+    "url": "https://data.opendata.am/dataset/sustc-78"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "armsis-soil-salinity-ec-esp",
+  "name_en": "ARMSIS digital soil maps of electrical conductivity (salinity) and exchangeable sodium percentage",
+  "category": "soil-salinity",
+  "description_en": "Two digital soil mapping rasters in ArmSIS: 'Soil electric conductivity' (dS/m, calculated from total salts; Quantile Regression Forest; RMSE 0.64; mean error 0) and 'Exchangeable Sodium Percent' (ESP = Na(exch)/CEC x 100; QRF; RMSE 2.03; mean error -0.04), each with a 90% confidence-interval uncertainty map. Input samples are from 1953-1967; maps were produced in October 2020 (catalogue dates '23-10-20' and '26-10-20').",
+  "producer": "Centre of the Agricultural Services SNCO; Scientific Center of Soil Sciences, Agrochemistry and Melioration after H. Petrossyan, ANAU",
+  "project_or_programme": "ArmSIS",
+  "year_or_period": "Samples 1953-1967; mapped 2020",
+  "coverage": "national",
+  "resolution": "not stated",
+  "format": "raster",
+  "license": null,
+  "access_url": "https://data.opendata.am/dataset/armsis-32",
+  "direct_download_or_service": "Catalogued as http://armsis.cas.am/download/32 (EC) and /download/33 (ESP), GeoTIFF - host did not resolve on 2026-11-04",
+  "open_access": null,
+  "gap_or_issue": "Not retrievable at present (ArmSIS host unreachable). Salinity reflects 1953-1967 sampling, i.e. not current; Ararat Valley salinity has since changed. Extent of the rasters (national or Ararat Valley only) is not stated in the catalogue entry. No licence stated. No salinity class thresholds given.",
+  "usable_for": "Only national-scale digital salinity/sodicity surfaces found; usable as a historical baseline for locating salt-affected land in Ararat, Armavir, Vayots Dzor.",
+  "sources": [
+   {
+    "title": "Open Data Armenia - Soil electric conductivity (armsis-32)",
+    "url": "https://data.opendata.am/dataset/armsis-32"
+   },
+   {
+    "title": "Open Data Armenia - Exchangeable Sodium Percent (armsis-33)",
+    "url": "https://data.opendata.am/dataset/armsis-33"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "armsis-soc-stock-0-30cm",
+  "name_en": "ARMSIS soil organic carbon stock 0-30 cm map",
+  "category": "soil",
+  "description_en": "ArmSIS raster of soil organic carbon stock in t/ha for 0-30 cm, produced with Cubist (RMSE 15.27 t/ha, mean error 0.13) from Tyurin wet-oxidation samples collected 2015-2019, with an uncertainty map (90% CI half-width). Mapped October 2020 (catalogue date '23-10-20'). The FAO-GEF ProDoc also describes an SOC map for 2018 and an SOC trend map for 2001-2018 built with UNCCD guidelines.",
+  "producer": "Centre of the Agricultural Services SNCO (data provider) / ANAU",
+  "project_or_programme": "ArmSIS",
+  "year_or_period": "Samples 2015-2019; mapped 2020",
+  "coverage": "national",
+  "resolution": "not stated",
+  "format": "raster",
+  "license": null,
+  "access_url": "https://data.opendata.am/dataset/armsis-31",
+  "direct_download_or_service": "Catalogued as http://armsis.cas.am/download/31 (GeoTIFF) - host did not resolve on 2026-11-04",
+  "open_access": null,
+  "gap_or_issue": "Not retrievable at present (ArmSIS host unreachable). RMSE of 15 t/ha is large relative to typical stocks, so use for broad patterns only. No licence stated. The SOC trend map (2001-2018) mentioned in the ProDoc was not found as a downloadable layer.",
+  "usable_for": "SOC sub-indicator for SDG 15.3.1 / LDN and carbon projects; combine with land cover change.",
+  "sources": [
+   {
+    "title": "Open Data Armenia - Soil organic carbon stock 0-30cm (armsis-31)",
+    "url": "https://data.opendata.am/dataset/armsis-31"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "soilgrids-250m-isric",
+  "name_en": "SoilGrids (ISRIC) global soil property maps, 250 m",
+  "category": "soil",
+  "description_en": "ISRIC SoilGrids provides global 250 m maps of soil properties (pH, organic carbon content and stock, bulk density, coarse fragments, sand, silt, clay, CEC, total nitrogen and others) at six standard depths, free under CC BY 4.0. The files tree at files.isric.org serves VRT/GeoTIFF mosaics (e.g. ocs/ocs_0-30cm_mean.vrt, soc/soc_0-5cm_mean.vrt, phh2o/phh2o_0-5cm_mean.vrt all responded HTTP 200).",
+  "producer": "ISRIC - World Soil Information",
+  "project_or_programme": "SoilGrids",
+  "year_or_period": "Global model, VRT files dated 2020",
+  "coverage": "national",
+  "resolution": "250 m",
+  "format": "raster",
+  "license": "CC BY 4.0",
+  "access_url": "https://www.isric.org/explore/soilgrids",
+  "direct_download_or_service": "https://files.isric.org/soilgrids/latest/data/ (no login). REST API is paused per ISRIC page.",
+  "open_access": true,
+  "gap_or_issue": "Global machine-learning product: coarse for Armenia's mountain terrain and no salinity property among the listed layers; use only where no national map is accessible. The ISRIC page does not state the version number.",
+  "usable_for": "Gap-filling baseline for SOC, texture and pH in any community; input for LDN sub-indicator checks.",
+  "sources": [
+   {
+    "title": "ISRIC SoilGrids",
+    "url": "https://www.isric.org/explore/soilgrids"
+   },
+   {
+    "title": "ISRIC SoilGrids data tree",
+    "url": "https://files.isric.org/soilgrids/latest/data/"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "hwsd-v2-fao-iiasa",
+  "name_en": "Harmonized World Soil Database v2.0 (FAO/IIASA)",
+  "category": "soil",
+  "description_en": "HWSD v2.0 is a 1 km (30 arc-second) global soil raster with seven depth layers (0-20 to 150-200 cm) and attribute tables (e.g. effective CEC, total nitrogen, C/N ratio, USDA texture class, bulk density, rootable depth, available water capacity). The raster (22.4 MB zip) and Access database are downloadable without login.",
+  "producer": "FAO and IIASA",
+  "project_or_programme": "HWSD / WISE30sec",
+  "year_or_period": "v2.0 (2023)",
+  "coverage": "national",
+  "resolution": "1 km",
+  "format": "raster",
+  "license": null,
+  "access_url": "https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/harmonized-world-soil-database-v20/en/",
+  "direct_download_or_service": "Raster: https://s3.eu-west-1.amazonaws.com/data.gaezdev.aws.fao.org/HWSD/HWSD2_RASTER.zip (HTTP 200, 22.4 MB); database: https://s3.eu-west-1.amazonaws.com/data.gaezdev.aws.fao.org/HWSD/HWSD2_DB.zip",
+  "open_access": true,
+  "gap_or_issue": "1 km and compiled largely from old national soil maps; FAO page does not state a licence and does not list salinity attributes. Too coarse for community planning.",
+  "usable_for": "National-scale soil type context; GAEZ-type suitability screening.",
+  "sources": [
+   {
+    "title": "FAO Soils Portal - HWSD v2.0",
+    "url": "https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/harmonized-world-soil-database-v20/en/"
+   },
+   {
+    "title": "HWSD2 raster download",
+    "url": "https://s3.eu-west-1.amazonaws.com/data.gaezdev.aws.fao.org/HWSD/HWSD2_RASTER.zip"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "fao-gsasmap-salt-affected-soils",
+  "name_en": "FAO Global Map of Salt-affected Soils (GSASmap v1.0)",
+  "category": "soil-salinity",
+  "description_en": "GSASmap v1.0 (2021) is the Global Soil Partnership's global map of salt-affected soils compiled from national contributions (118 countries, 257,419 locations with measured data) for 0-30 and 30-100 cm. The FAO page states that the EURASIA and NENA regions could not prepare maps because of data challenges.",
+  "producer": "FAO Global Soil Partnership",
+  "project_or_programme": "GSASmap",
+  "year_or_period": "v1.0, 2021",
+  "coverage": "national",
+  "resolution": "not stated on page",
+  "format": "raster",
+  "license": null,
+  "access_url": "https://www.fao.org/global-soil-partnership/gsasmap/en/",
+  "direct_download_or_service": null,
+  "open_access": null,
+  "gap_or_issue": "Armenia is not mentioned on the FAO page and, given the regional statement above, probably has no national contribution - unconfirmed. Page gives no resolution, licence or direct download link (links to a data platform).",
+  "usable_for": "If Armenian coverage exists it would be the only internationally harmonised salinity layer; otherwise treat as a gap.",
+  "sources": [
+   {
+    "title": "FAO GSASmap page",
+    "url": "https://www.fao.org/global-soil-partnership/gsasmap/en/"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "slug": "ararat-valley-salinity-studies",
+  "name_en": "Ararat Valley soil salinity studies (YSU 2023-24 sampling, Landsat-8 mapping, YSU thematic-map project)",
+  "category": "soil-salinity",
+  "description_en": "Published studies on Ararat Plain salinity: Margaryan (YSU, 2024) sampled 66 farmland sites in Armavir and Baghramyan regions at the end of the 2023 irrigation season and found soluble-salt build-up in upper horizons (the paper also cites about 30,000 ha of salinised soil); a YSU grant project 21AG-4C075 (2021-10-01 to 2026-09-30, 156 million AMD) aims to produce thematic salinisation-degree and irrigation-water-quality (IWQI) maps; a Landsat-8 mapping paper (Starodubtsev and Bogdanets, 2018) is reported in its index abstract to put saline soils at about 21,503 ha (28.7%) of the southern Ararat Valley.",
+  "producer": "Yerevan State University; NUBiP Ukraine (Landsat-8 study)",
+  "project_or_programme": "YSU grant 21AG-4C075 (funder not named on page)",
+  "year_or_period": "Sampling 2023; project 2021-2026; Landsat-8 study 2018",
+  "coverage": "named area",
+  "resolution": "point samples; 30 m Landsat-8 in 2018 study",
+  "format": "table",
+  "license": null,
+  "access_url": "https://www.ysu.am/en/grants/40889",
+  "direct_download_or_service": null,
+  "open_access": null,
+  "gap_or_issue": "No published salinity map or GIS layer found: the YSU project page lists maps only as objectives, the 2024 paper provides a sampling-points figure, and the 2018 article page could not be opened (figures taken from a search-result abstract). Contact YSU (Chair of Ecology and Nature Conservation) for sample data and the project maps.",
+  "usable_for": "Evidence on salinity extent and hotspots in Armavir / Ararat for targeting reclamation and drainage investments.",
+  "sources": [
+   {
+    "title": "YSU grant page - salinization of the Ararat plain",
+    "url": "https://www.ysu.am/en/grants/40889"
+   },
+   {
+    "title": "Margaryan 2024, Soil salinization in Armavir and Baghramyan regions (Proc. YSU)",
+    "url": "https://journals.ysu.am/index.php/proceedings-chem-biol/article/download/vol58_no1_2024_pp095-106/pdf/25066"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "esa-worldcover-10m",
+  "name_en": "ESA WorldCover 10 m land cover (2020 v100, 2021 v200)",
+  "category": "land-cover",
+  "description_en": "Global 11-class land cover map at 10 m from Sentinel-1/2 for 2020 (v100) and 2021 (v200), free under CC BY 4.0. Cloud Optimized GeoTIFF 3x3 degree tiles are openly downloadable from AWS S3; the tiles needed for Armenia are N39E042, N39E045 and N36E045 (southern tip of Syunik), each HTTP 200 and about 74-102 MB.",
+  "producer": "ESA / VITO and WorldCover consortium",
+  "project_or_programme": "ESA WorldCover",
+  "year_or_period": "2020, 2021",
+  "coverage": "national",
+  "resolution": "10 m",
+  "format": "raster",
+  "license": "CC BY 4.0",
+  "access_url": "https://esa-worldcover.org/en/data-access",
+  "direct_download_or_service": "s3://esa-worldcover/v200/2021/map/ (no sign-in), e.g. https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N39E045_Map.tif ; GEE: ESA/WorldCover/v100 and ESA/WorldCover/v200",
+  "open_access": true,
+  "gap_or_issue": "Generic global classes (grassland / cropland only; no pasture, hayfield or orchard distinction) and only two years, so not suitable for change detection. The WSL FORACCA comparison found the four 10 m products (including WorldCover) agree on about 4,000 km2 of tree cover in 2020.",
+  "usable_for": "Current land cover base map and cropland/grassland/tree area statistics per community.",
+  "sources": [
+   {
+    "title": "ESA WorldCover data access",
+    "url": "https://esa-worldcover.org/en/data-access"
+   },
+   {
+    "title": "WorldCover tile N39E045 (HTTP 200)",
+    "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N39E045_Map.tif"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "dynamic-world-v1",
+  "name_en": "Dynamic World near-real-time 10 m land cover (Google / WRI)",
+  "category": "land-cover",
+  "description_en": "Sentinel-2 based 9-class land cover probabilities and label at 10 m from 2015-06-27 to the present, available as Earth Engine collection GOOGLE/DYNAMICWORLD/V1 under CC BY 4.0.",
+  "producer": "Google, National Geographic Society, World Resources Institute",
+  "project_or_programme": "Dynamic World",
+  "year_or_period": "2015-06-27 to 2026-11 (continuously updated)",
+  "coverage": "national",
+  "resolution": "10 m",
+  "format": "raster",
+  "license": "CC BY 4.0",
+  "access_url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1",
+  "direct_download_or_service": "GEE asset GOOGLE/DYNAMICWORLD/V1",
+  "open_access": true,
+  "gap_or_issue": "Requires a Google Earth Engine account to access. Per-scene probabilities are noisy; composites should be built per season/year.",
+  "usable_for": "Annual composites for land cover change, grassland vs cropland shifts and Land Cover sub-indicator.",
+  "sources": [
+   {
+    "title": "Earth Engine catalog - Dynamic World",
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "esri-lulc-10m-annual",
+  "name_en": "Esri Sentinel-2 10 m annual land use / land cover time series (2017-2025)",
+  "category": "land-cover",
+  "description_en": "Annual 10 m global land cover from Sentinel-2 for 2017-2025, redistributed in the GEE community catalogue under CC BY 4.0.",
+  "producer": "Esri (as 'ESRI LC' in the WSL FORACCA comparison)",
+  "project_or_programme": "Esri Global LULC 10 m",
+  "year_or_period": "2017-2025",
+  "coverage": "national",
+  "resolution": "10 m",
+  "format": "raster",
+  "license": "CC BY 4.0",
+  "access_url": "https://gee-community-catalog.org/projects/S2TSLULC/",
+  "direct_download_or_service": "GEE asset projects/sat-io/open-datasets/landcover/ESRI_Global-LULC_10m_TS",
+  "open_access": true,
+  "gap_or_issue": "Requires a Google Earth Engine account; global classification, not validated for Armenia on the page. Producer attribution is taken from the WSL FORACCA report table (page did not name the producer).",
+  "usable_for": "Multi-year land cover change screening 2017-2025.",
+  "sources": [
+   {
+    "title": "GEE community catalogue - ESRI Sentinel-2 LULC",
+    "url": "https://gee-community-catalog.org/projects/S2TSLULC/"
+   },
+   {
+    "title": "WSL FORACCA - comparison of land cover products for Armenia",
+    "url": "https://foracca.wsl.ch/fileadmin/user_upload/WSL/Microsite/FORACCA/Summary_Remote_Sensing_Analysis.pdf"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "copernicus-cgls-lc100",
+  "name_en": "Copernicus Global Land Service land cover 100 m (2015-2019)",
+  "category": "land-cover",
+  "description_en": "Global 100 m discrete land cover maps for 2015-2019 from PROBA-V (Earth Engine COPERNICUS/Landcover/100m/Proba-V-C3/Global); access is 'fully free and open to all users'.",
+  "producer": "Copernicus Global Land Service (VITO)",
+  "project_or_programme": "CGLS-LC100 collection 3",
+  "year_or_period": "2015-2019",
+  "coverage": "national",
+  "resolution": "100 m",
+  "format": "raster",
+  "license": null,
+  "access_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_Landcover_100m_Proba-V-C3_Global",
+  "direct_download_or_service": "GEE asset COPERNICUS/Landcover/100m/Proba-V-C3/Global",
+  "open_access": true,
+  "gap_or_issue": "Ends in 2019; 100 m is coarse for terraced/small-parcel Armenian farmland. Specific licence name not stated on the catalogue page.",
+  "usable_for": "Bridge between 2015 UNCCD baseline and recent 10 m products.",
+  "sources": [
+   {
+    "title": "Earth Engine catalog - CGLS-LC100",
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_Landcover_100m_Proba-V-C3_Global"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "hansen-global-forest-change-2025",
+  "name_en": "Hansen / UMD Global Forest Change 2000-2025 (v1.13)",
+  "category": "forest",
+  "description_en": "30 m global tree cover in 2000, forest loss by year to 2025, gain 2000-2012, free under CC BY 4.0. Tile GeoTIFFs for Armenia (40N_040E and 50N_040E) respond HTTP 200 on Google Cloud Storage; also on Earth Engine as UMD/hansen/global_forest_change_2025_v1_13.",
+  "producer": "University of Maryland / Hansen et al. with Google",
+  "project_or_programme": "Global Forest Change",
+  "year_or_period": "2000-2025",
+  "coverage": "national",
+  "resolution": "30.92 m",
+  "format": "raster",
+  "license": "CC BY 4.0",
+  "access_url": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2025_v1_13",
+  "direct_download_or_service": "https://storage.googleapis.com/earthenginepartners-hansen/GFC-2025-v1.13/Hansen_GFC-2025-v1.13_lossyear_40N_040E.tif and ..._lossyear_50N_040E.tif (also treecover2000, gain, datamask); GEE UMD/hansen/global_forest_change_2025_v1_13",
+  "open_access": true,
+  "gap_or_issue": "'Tree cover' is canopy cover (it includes orchards and urban trees), not the legal forest fund, and 'loss' means canopy loss from any cause (cutting, fire, storms, orchard removal); local validation is needed. Not a substitute for the national forest inventory.",
+  "usable_for": "Annual forest loss screening around Hayantar forest enterprises and project areas.",
+  "sources": [
+   {
+    "title": "Earth Engine catalog - Hansen GFC 2025 v1.13",
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/UMD_hansen_global_forest_change_2025_v1_13"
+   },
+   {
+    "title": "Hansen tile (HTTP 200)",
+    "url": "https://storage.googleapis.com/earthenginepartners-hansen/GFC-2025-v1.13/Hansen_GFC-2025-v1.13_lossyear_40N_040E.tif"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "foraca-sentinel2-vegetation-height-armenia",
+  "name_en": "FORACCA Sentinel-2 Vegetation Height Model for Armenia, 2017-2025 (WSL)",
+  "category": "forest",
+  "description_en": "Countrywide annual 10 m maximum vegetation height models for Armenia produced by WSL (CNN trained on Swiss lidar) within the SDC-funded FORACCA project; nine GeoTIFFs 2017-2025 (about 2.8-3.2 GB each). The accompanying WSL report (Nov 2025) compared seven global land cover products 1992-2024 and found about 4,000 km2 of tree cover in 2020, no significant change 2017-2025.",
+  "producer": "Swiss Federal Institute WSL (Rüetschi, Ginzler) with Zoi Environment Network and Forest Alliance of Armenia",
+  "project_or_programme": "FORACCA - Forest Restoration and Climate Change in Armenia (SDC)",
+  "year_or_period": "2017-2025 (version 1.0, updated 2025-11-25)",
+  "coverage": "national",
+  "resolution": "10 m",
+  "format": "raster",
+  "license": "CC BY-SA",
+  "access_url": "https://www.envidat.ch/dataset/sentinel-2-vegetation-height-model-armenia",
+  "direct_download_or_service": "Files via https://www.envidat.ch/dataset/d5dd3a3d-093e-4206-9e0b-76c6f21c9be1/resource/f1b1e699-6f6c-4bb0-89f6-89d8c455c5a2/download/s2-vhm_2025_max.tif (redirects to a time-limited S3 link; ranged GET returned 206, no login). DOI 10.16904/envidat.690",
+  "open_access": true,
+  "gap_or_issue": "Very large BigTIFF files. Vegetation height is not a forest map: the report notes trees in towns/parks are included and the forest mask depends on the chosen height threshold. Interannual changes were statistically not significant. Licence is CC BY-SA (share-alike).",
+  "usable_for": "Best current open, Armenia-specific basis for a forest/tree-cover mask, height classes and change screening; fills the gap left by the missing national forest inventory.",
+  "sources": [
+   {
+    "title": "EnviDat - Sentinel-2 Vegetation Height Model Armenia",
+    "url": "https://www.envidat.ch/dataset/sentinel-2-vegetation-height-model-armenia"
+   },
+   {
+    "title": "FORACCA - remote sensing analysis of vegetation cover in Armenia",
+    "url": "https://foracca.wsl.ch/en/project-results/remote-sensing-analysis/"
+   },
+   {
+    "title": "WSL report summary: Estimating areal vegetation cover in Armenia",
+    "url": "https://foracca.wsl.ch/fileadmin/user_upload/WSL/Microsite/FORACCA/Summary_Remote_Sensing_Analysis.pdf"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "eni-clc-pilot-armenia",
+  "name_en": "Corine Land Cover pilot for Armenia (ENI CLC: CLC 2018, CLC 2024 and 2018-2024 change)",
+  "category": "land-cover",
+  "description_en": "EEA ArcGIS MapServer 'ENI_CLC_Pilot_2024' with layers ENI_CLC_Pilot_2018_V2024_WM, ENI_CLC_Pilot_2024_V2024_WM and ENI_CHA_Pilot_2018_2024_WM for Armenia, Georgia, Moldova and Ukraine pilot regions. CLC methodology: computer-assisted photointerpretation, European level-3 nomenclature, 25 ha minimum mapping unit (5 ha for change). Armenian pilot (Geoinfo LLC, EEA training) covered an area of about 2,500 km2 chosen by the Ministry of Environment.",
+  "producer": "European Environment Agency with Geoinfo LLC (Armenia); EU4Environment / ENI SEIS II East",
+  "project_or_programme": "ENI CLC pilot / EU4Environment Water and Data",
+  "year_or_period": "CLC 2018, CLC 2024, change 2018-2024 (Armenian 2018 pilot used Sentinel-2 2018-2019)",
+  "coverage": "named area",
+  "resolution": "25 ha MMU (status), 5 ha (change)",
+  "format": "web-service",
+  "license": null,
+  "access_url": "https://eni-seis.eionet.europa.eu/east/governance/results/case-studies/corine-land-cover-pilot-project",
+  "direct_download_or_service": "https://copernicus.discomap.eea.europa.eu/arcgis/rest/services/ENI_CLC_Pilot/ENI_CLC_Pilot_2024/MapServer (ArcGIS REST, capabilities Map,Query,Data; no token needed for the service description)",
+  "open_access": true,
+  "gap_or_issue": "Only a pilot area (about 2,500 km2), not national; a national CLC extension was being discussed with the Ministry of Environment but no completed national CLC was found. Pastures class 231 reported as hard to interpret. Licence not stated in the service description (EEA copyright).",
+  "usable_for": "Only CLC-standard (EU-compatible) land cover for part of Armenia; useful as a method reference for a national CLC.",
+  "sources": [
+   {
+    "title": "EEA ArcGIS service ENI_CLC_Pilot_2024",
+    "url": "https://copernicus.discomap.eea.europa.eu/arcgis/rest/services/ENI_CLC_Pilot/ENI_CLC_Pilot_2024/MapServer"
+   },
+   {
+    "title": "ENI SEIS II East - CLC pilot project case study",
+    "url": "https://eni-seis.eionet.europa.eu/east/governance/results/case-studies/corine-land-cover-pilot-project"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "modis-mod13q1-ndvi",
+  "name_en": "MODIS MOD13Q1 v061 NDVI/EVI 250 m, 16-day (2000-present)",
+  "category": "vegetation",
+  "description_en": "Global 250 m vegetation index composites every 16 days from 2000-02-18, used for the SDG 15.3.1 land productivity sub-indicator and by the FAO-GEF ProDoc for Armenian NDVI productivity maps (2000-2018). Earth Engine asset MODIS/061/MOD13Q1; NASA states no restrictions on use or redistribution.",
+  "producer": "NASA LP DAAC",
+  "project_or_programme": "MODIS",
+  "year_or_period": "2000-02-18 to 2026-09-30 (ongoing)",
+  "coverage": "national",
+  "resolution": "250 m, 16-day",
+  "format": "raster",
+  "license": "No restrictions (NASA LP DAAC)",
+  "access_url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD13Q1",
+  "direct_download_or_service": "GEE asset MODIS/061/MOD13Q1 (also NASA LP DAAC / AppEEARS)",
+  "open_access": true,
+  "gap_or_issue": "250 m pixels mix many land uses in Armenia's small parcels; Earth Engine account required for GEE route.",
+  "usable_for": "Land productivity trend (NDVI) and drought stress screening per pasture/crop area.",
+  "sources": [
+   {
+    "title": "Earth Engine catalog - MOD13Q1",
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD13Q1"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "wfp-hdx-armenia-ndvi-rainfall-adm2",
+  "name_en": "Armenia: dekadal NDVI and rainfall indicators by sub-national unit (WFP/HDX, MODIS and CHIRPS)",
+  "category": "vegetation",
+  "description_en": "Tables of 10-day MODIS NDVI (current, long-term average, anomaly %) and CHIRPS rainfall (10-day, rolling sums, anomalies) aggregated by Armenian ADM2 unit, published on HDX under CC BY-SA and harvested into Open Data Armenia.",
+  "producer": "WFP via Humanitarian Data Exchange",
+  "project_or_programme": "HDX subnational NDVI and rainfall indicators",
+  "year_or_period": "2019 onwards in the harvested 5-year file (last row 2023-06-21 in the Open Data Armenia copy)",
+  "coverage": "national",
+  "resolution": "39 ADM2 units, dekadal",
+  "format": "table",
+  "license": "CC BY-SA",
+  "access_url": "https://data.opendata.am/dataset/armenia-ndvi-at-subnational-level",
+  "direct_download_or_service": "https://data.opendata.am/dataset/606f08a6-d6a6-4313-86fc-cf619e5f6fc2/resource/9d8767b5-4a9b-4fa7-b703-fd50d5fa03bf/download/arm-ndvi-adm2-5ytd.csv (rainfall: .../edcc9a08-4e15-4247-81a4-f0ac5587e761/resource/4c4ce1a9-4ae4-418c-ba64-b23572ef3b24/download/arm-rainfall-adm2-5ytd.csv)",
+  "open_access": true,
+  "gap_or_issue": "The Open Data Armenia copy stops in mid-2023; the live HDX dataset may be more recent (HDX returned challenge pages to scripted access). ADM2 here is the 39 districts, not communities.",
+  "usable_for": "District-level vegetation and rainfall anomaly tracking for drought/pasture monitoring.",
+  "sources": [
+   {
+    "title": "Open Data Armenia - Armenia: NDVI at Subnational Level",
+    "url": "https://data.opendata.am/dataset/armenia-ndvi-at-subnational-level"
+   },
+   {
+    "title": "Open Data Armenia - Armenia: Rainfall Indicators at Subnational Level",
+    "url": "https://data.opendata.am/dataset/armenia-rainfall-indicators-at-subnational-level"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "legacy-armenia-land-use-and-forest-layers",
+  "name_en": "Legacy Armenian land use and forest layers (ARMSIS forests 2004, UNEP GRID land use / forest areas, REC Caucasus forest cover by marz)",
+  "category": "forest",
+  "description_en": "Catalogued older layers: ARMSIS 'Forests' (forest areas interpreted from Landsat imagery in 2004), UNEP GRID 'Armenia: Forest Areas' and 'Armenia: Land Use' (land use map prepared under the EU PPRDEast programme), and REC Caucasus ArcGIS Hub layers: forest cover of Syunik, Kotayk and Vayots Dzor, forest degradation 2016-2020 in the Artsvaberd, Ijevan and Yeghegnut forest enterprises, and areas for afforestation/reforestation.",
+  "producer": "ANAU / ArmSIS; UNEP GRID-Geneva (Sustainable Caucasus); REC Caucasus (via Global Forest Watch ArcGIS Hub)",
+  "project_or_programme": "ArmSIS; SCOPES Sustainable Caucasus; PPRDEast; REC Caucasus",
+  "year_or_period": "2004 (forests); 2016-2020 (forest degradation); land use map date not stated",
+  "coverage": "regional",
+  "resolution": "not stated",
+  "format": "vector",
+  "license": null,
+  "access_url": "https://data.opendata.am/dataset/armsis-50",
+  "direct_download_or_service": "ARMSIS WFS/shapefile links on http://armsis.cas.am/geoserver/ows (host unreachable 2026-11-04); UNEP GRID https://sustainable-caucasus.unepgrid.ch/ ('Under maintenance'); REC Caucasus ArcGIS services (the Community_Boundaries_of_Armenia FeatureServer in the same org returned 'Invalid URL', so these may have been removed)",
+  "open_access": null,
+  "gap_or_issue": "None of the underlying hosts could be reached or confirmed on 2026-11-04; entries on Open Data Armenia were harvested in July 2023. Content is dated (2004 Landsat forests, undocumented land use map). REC Caucasus forest cover covers only three marzes. Licences not stated.",
+  "usable_for": "Historical forest/land use reference where no current map exists; verify availability with ANAU, REC Caucasus and UNEP GRID before relying on it.",
+  "sources": [
+   {
+    "title": "Open Data Armenia - ARMSIS Forests (armsis-50)",
+    "url": "https://data.opendata.am/dataset/armsis-50"
+   },
+   {
+    "title": "Open Data Armenia - Armenia: Land Use (sustc-81)",
+    "url": "https://data.opendata.am/dataset/sustc-81"
+   },
+   {
+    "title": "Open Data Armenia - Armenia: Forest Areas (sustc-64)",
+    "url": "https://data.opendata.am/dataset/sustc-64"
+   },
+   {
+    "title": "Open Data Armenia - Forest cover of Syunik province (REC Caucasus)",
+    "url": "https://data.opendata.am/dataset/recc-deb9785f9b9140ef869f05bab943c7cc"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "slug": "armenia-nfma-forest-resilience-gcf",
+  "name_en": "National Forest Monitoring and Assessment (NFMA) system and Collect Earth land-category survey (GCF 'Forest Resilience of Armenia')",
+  "category": "forest",
+  "description_en": "FAO and the Environmental Project Implementation Unit are building a National Forest Monitoring and Assessment system under the GCF project 'Forest Resilience of Armenia' (2021-2029, target regions Lori and Syunik). An FAO fact sheet dated 2025-10-22 reports a completed Collect Earth survey of Armenia's land categories, 100% of Year-1 and 50% of Year-2 field data collection, and planting-site mapping from aerial imagery for 2024 (2025 under way).",
+  "producer": "FAO with Environmental Project Implementation Unit (EPIU), Ministry of Environment / Hayantar",
+  "project_or_programme": "GCF Forest Resilience of Armenia (co-financed by ADA, WWF, Autonomous Province of Bolzano)",
+  "year_or_period": "2021-2029; status Oct 2025",
+  "coverage": "national",
+  "resolution": "plot-based inventory + Collect Earth sample",
+  "format": "table",
+  "license": null,
+  "access_url": "https://www.fao.org/armenia/news/detail/fact-sheet--forest-resilience-of-armenia---enhancing-adaptation-and-rural-green-growth-via-mitigation/en",
+  "direct_download_or_service": null,
+  "open_access": null,
+  "gap_or_issue": "No published plot data, forest area/stock figures or forest map found; availability and data-sharing terms unknown. The fact sheet does not give plot counts (a search result reported 264 plots surveyed by May 2025, not verified on the page).",
+  "usable_for": "Will be the first updated national forest inventory since 1993; ask FAO Armenia / EPIU / Ministry of Environment for the Collect Earth land-category results and plot design.",
+  "sources": [
+   {
+    "title": "FAO Armenia fact sheet - Forest Resilience of Armenia (Oct 2025)",
+    "url": "https://www.fao.org/armenia/news/detail/fact-sheet--forest-resilience-of-armenia---enhancing-adaptation-and-rural-green-growth-via-mitigation/en"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "hayantar-state-forest-inventory",
+  "name_en": "Hayantar State Forest Inventory / official forest fund data (last full inventory 1993)",
+  "category": "forest",
+  "description_en": "The official state forest inventory records the forest fund managed by Hayantar. The World Bank's 2023 Armenia Forest Landscape Restoration Note states that official forest cover data rest on the last inventory done in 1993 and that forested-area estimates range from 249,000 ha to 334,100 ha (official forest area quoted as 328,470 ha); a 2005 feasibility study for a new national forest inventory was not carried out. The WSL FORACCA project says no full inventory has been done since 1989.",
+  "producer": "Hayantar SNCO / Ministry of Environment",
+  "project_or_programme": "State Forest Inventory",
+  "year_or_period": "1993 (last full inventory)",
+  "coverage": "national",
+  "resolution": "stand-level (not published)",
+  "format": "vector",
+  "license": null,
+  "access_url": "https://documents1.worldbank.org/curated/en/099090523175040850/pdf/P17173805d072503008f460b8c8ded40056.pdf",
+  "direct_download_or_service": null,
+  "open_access": null,
+  "gap_or_issue": "No public GIS of forest enterprise / forest stand boundaries found; hayantar.am returns a self-signed certificate error and forest.am returns 403 to automated access. Figures are old and contradictory; many state-designated forests may no longer be forest and vice versa (FORACCA).",
+  "usable_for": "Official forest fund boundaries needed to attribute reforestation and forest-protection programmes to forest enterprises and communities; must be requested from Hayantar / Ministry of Environment.",
+  "sources": [
+   {
+    "title": "World Bank - Armenia Forest Landscape Restoration Note (June 2023)",
+    "url": "https://documents1.worldbank.org/curated/en/099090523175040850/pdf/P17173805d072503008f460b8c8ded40056.pdf"
+   },
+   {
+    "title": "FORACCA - remote sensing analysis page (no full inventory since 1989)",
+    "url": "https://foracca.wsl.ch/en/project-results/remote-sensing-analysis/"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "chirps-v2-daily-precipitation",
+  "name_en": "CHIRPS daily / monthly precipitation (UCSB Climate Hazards Center)",
+  "category": "climate",
+  "description_en": "Quasi-global rainfall from 1981 combining satellite imagery and station data at 0.05 degrees (about 5.6 km), public domain. Daily collection UCSB-CHG/CHIRPS/DAILY on Earth Engine runs 1981-01-01 to 2026-09-30; CHC also serves CHIRPS v3.0 monthly GeoTIFFs.",
+  "producer": "UCSB Climate Hazards Center",
+  "project_or_programme": "CHIRPS",
+  "year_or_period": "1981 to 2026-09 (ongoing)",
+  "coverage": "national",
+  "resolution": "0.05 deg (~5.6 km), daily",
+  "format": "raster",
+  "license": "Public domain (copyright waived, per GEE page)",
+  "access_url": "https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY",
+  "direct_download_or_service": "GEE asset UCSB-CHG/CHIRPS/DAILY; v3.0 monthly directory https://data.chc.ucsb.edu/products/CHIRPS/v3.0/monthly/global/tifs/ (HTTP 200, listing not inspected)",
+  "open_access": true,
+  "gap_or_issue": "5.6 km pixels are too coarse for Armenia's relief (gradients over a few km); station coverage in Armenia unknown. The older v2.0 path tried at data.chc.ucsb.edu returned 404.",
+  "usable_for": "Rainfall totals, drought anomalies and trends per marz / large community.",
+  "sources": [
+   {
+    "title": "Earth Engine catalog - CHIRPS Daily",
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY"
+   },
+   {
+    "title": "CHC CHIRPS v3.0 monthly directory",
+    "url": "https://data.chc.ucsb.edu/products/CHIRPS/v3.0/monthly/global/tifs/"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "era5-land-monthly",
+  "name_en": "ERA5-Land monthly reanalysis (Copernicus C3S)",
+  "category": "climate",
+  "description_en": "Global land surface reanalysis (temperature, precipitation, soil moisture, evaporation and more) at 0.1 degrees (about 11 km), 1950 to within three months of real time; Earth Engine asset ECMWF/ERA5_LAND/MONTHLY_AGGR (available to 2026-09-01). Copernicus licence requires the attribution 'Generated using Copernicus Climate Change Service Information [year]'.",
+  "producer": "ECMWF / Copernicus Climate Change Service",
+  "project_or_programme": "ERA5-Land",
+  "year_or_period": "1950-02 to 2026-09 (ongoing)",
+  "coverage": "national",
+  "resolution": "0.1 deg (~11 km), monthly (hourly at source)",
+  "format": "raster",
+  "license": "Copernicus C3S licence (attribution required)",
+  "access_url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR",
+  "direct_download_or_service": "GEE asset ECMWF/ERA5_LAND/MONTHLY_AGGR (the CDS API route needs a free Copernicus account)",
+  "open_access": true,
+  "gap_or_issue": "11 km grid, coarse for mountain terrain; reanalysis, not station observations. The FORACCA/Armhydromet climate indicators use a 1991-2020 reanalysis as their baseline.",
+  "usable_for": "Long-term temperature and soil-moisture baselines and trends; drought and heat indicators.",
+  "sources": [
+   {
+    "title": "Earth Engine catalog - ERA5-Land monthly",
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "worldclim-2-1",
+  "name_en": "WorldClim 2.1 climate surfaces (1970-2000) and CMIP6 future projections",
+  "category": "climate",
+  "description_en": "Monthly min/mean/max temperature, precipitation, solar radiation, wind, vapour pressure and 19 bioclimatic variables, averaged 1970-2000, at 30 arc-seconds (~1 km) to 10 arc-minutes. Direct zip download without login, e.g. wc2.1_30s_elev.zip (338 MB) and wc2.1_30s_bio.zip (10.4 GB, both HTTP 200). Downscaled CMIP6 future climate is on the same site.",
+  "producer": "University of California Davis (Fick and Hijmans)",
+  "project_or_programme": "WorldClim",
+  "year_or_period": "1970-2000 baseline, released 2020",
+  "coverage": "national",
+  "resolution": "~1 km (30 s); also 2.5 m, 5 m, 10 m",
+  "format": "raster",
+  "license": null,
+  "access_url": "https://www.worldclim.org/data/worldclim21.html",
+  "direct_download_or_service": "https://geodata.ucdavis.edu/climate/worldclim/2_1/base/wc2.1_{10m|5m|2.5m|30s}_{tmin|tmax|tavg|prec|srad|wind|vapr|bio|elev}.zip",
+  "open_access": true,
+  "gap_or_issue": "Climatology only (no time series) and interpolated from sparse stations; licence not stated on the page (check before commercial reuse). Future-climate (CMIP6) page content was not inspected.",
+  "usable_for": "Climate zoning, agro-climatic suitability and species/crop modelling.",
+  "sources": [
+   {
+    "title": "WorldClim 2.1 data page",
+    "url": "https://www.worldclim.org/data/worldclim21.html"
+   },
+   {
+    "title": "wc2.1_30s_elev.zip (HTTP 200)",
+    "url": "https://geodata.ucdavis.edu/climate/worldclim/2_1/base/wc2.1_30s_elev.zip"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "nasa-nex-gddp-cmip6",
+  "name_en": "NASA NEX-GDDP-CMIP6 downscaled daily climate projections",
+  "category": "climate",
+  "description_en": "Bias-corrected, statistically downscaled CMIP6 daily temperature (mean/min/max), precipitation, humidity, wind and radiation at 0.25 degrees (~27.8 km) for 1950-2014 (historical) and 2015-2100 under SSP2-4.5 and SSP5-8.5; Earth Engine asset NASA/GDDP-CMIP6, CC0-1.0.",
+  "producer": "NASA Earth Exchange",
+  "project_or_programme": "NEX-GDDP-CMIP6",
+  "year_or_period": "1950-2100",
+  "coverage": "national",
+  "resolution": "0.25 deg (~27.8 km), daily",
+  "format": "raster",
+  "license": "CC0-1.0",
+  "access_url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GDDP-CMIP6",
+  "direct_download_or_service": "GEE asset NASA/GDDP-CMIP6",
+  "open_access": true,
+  "gap_or_issue": "27.8 km cells give only a handful of grid cells over Armenia; only two scenarios; not the South Caucasus CORDEX regional ensemble, which was not found as an open download. Earth Engine account needed.",
+  "usable_for": "Future temperature/precipitation scenarios for project risk screening when no national downscaling is available.",
+  "sources": [
+   {
+    "title": "Earth Engine catalog - NASA GDDP-CMIP6",
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/NASA_GDDP-CMIP6"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "foraca-armenia-climate-indicators-webapp",
+  "name_en": "FORACCA / Armhydromet climate indicators for Armenia (36 indicators, community and settlement level)",
+  "category": "climate",
+  "description_en": "Interactive web application by WSL with Armhydromet showing historic values (1991-2020 reanalysis) and future changes for 2031-2060 and 2070-2099 for 36 climate indicators, by RCP or by global warming level (CMIP5 model chains), for individual consolidated communities and for settlements.",
+  "producer": "Swiss Federal Research Institute WSL (McCarthy, Zilker, Karger) with Armhydromet",
+  "project_or_programme": "FORACCA (SDC)",
+  "year_or_period": "Baseline 1991-2020; future 2031-2060, 2070-2099; web app 2026",
+  "coverage": "national",
+  "resolution": "community / settlement level",
+  "format": "web-service",
+  "license": null,
+  "access_url": "https://foracca.wsl.ch/en/climate-indicators-for-armenia/",
+  "direct_download_or_service": "Web app https://static.wsl.ch/foracca/ (returns plots per location; no bulk download link found)",
+  "open_access": true,
+  "gap_or_issue": "Viewable without login but no GIS or table download was found; the methods report (data/documentation/report.pdf) says 'Report in progress' and the references page says complete references 'will be added before publication', so treat as a provisional release. Based on CMIP5 chains, not CMIP6. Licence not stated.",
+  "usable_for": "Only climate-change indicator set found that is already at (consolidated) community level; request the underlying tables from WSL (M. McCarthy, D. Karger) for platform integration.",
+  "sources": [
+   {
+    "title": "FORACCA - Climate indicators for Armenia",
+    "url": "https://foracca.wsl.ch/en/climate-indicators-for-armenia/"
+   },
+   {
+    "title": "Armenia climate indicators web app",
+    "url": "https://static.wsl.ch/foracca/"
+   },
+   {
+    "title": "Web app references and citation page",
+    "url": "https://static.wsl.ch/foracca/references.html"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "spei-base-global-drought",
+  "name_en": "SPEIbase global drought index (SPEI, 0.5 degrees, 1901-2024)",
+  "category": "climate",
+  "description_en": "Standardised Precipitation-Evapotranspiration Index at multiple time scales on a 0.5 degree monthly grid; SPEIbase v2.11 uses CRU TS 4.09 (Jan 1901 to Dec 2024) with FAO-56 Penman-Monteith PET; downloadable NetCDF from the portal and available in Earth Engine.",
+  "producer": "Spanish National Research Council (CSIC) - Instituto Pirenaico de Ecologia",
+  "project_or_programme": "SPEI",
+  "year_or_period": "1901-2024 (v2.11)",
+  "coverage": "national",
+  "resolution": "0.5 deg (~50 km), monthly",
+  "format": "raster",
+  "license": null,
+  "access_url": "https://spei.csic.es/database.html",
+  "direct_download_or_service": "https://spei.csic.es/spei_database_2_11 (HTTP 200); SPEIbase v2.10 and earlier also in GEE",
+  "open_access": true,
+  "gap_or_issue": "About 50 km pixels - only a few cells cover Armenia; use for national or marz-scale drought history only. Licence not captured from the pages inspected.",
+  "usable_for": "Drought frequency / severity history for allocating drought-adaptation programmes.",
+  "sources": [
+   {
+    "title": "SPEIbase - Global SPEI database",
+    "url": "https://spei.csic.es/database.html"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "copernicus-gdo-global-drought-observatory",
+  "name_en": "Copernicus Global Drought Observatory (GDO) indicators and WMS/WCS services",
+  "category": "climate",
+  "description_en": "JRC's Drought Observatory publishes drought indicators (e.g. ERA5-based SPEI, soil moisture, fAPAR anomaly) for the world with WMS and WCS services and an indicator download page; the September 2026 global overview is posted on the portal.",
+  "producer": "European Commission JRC / Copernicus Emergency Management Service",
+  "project_or_programme": "Copernicus EMS drought observatories (EDO/GDO)",
+  "year_or_period": "Operational, current to September 2026",
+  "coverage": "national",
+  "resolution": "not stated",
+  "format": "web-service",
+  "license": null,
+  "access_url": "https://drought.emergency.copernicus.eu/",
+  "direct_download_or_service": "WMS and WCS service pages: https://drought.emergency.copernicus.eu/data/wms-service and /data/wcs-service ; indicator downloads: https://drought.emergency.copernicus.eu/tumbo/gdo/download/ (page links verified, endpoints not tested)",
+  "open_access": true,
+  "gap_or_issue": "Global indicators at coarse resolution; licence and exact service endpoints not inspected. No Armenian-specific drought product.",
+  "usable_for": "Monitoring current drought status when assessing pasture and rainfed crop risk.",
+  "sources": [
+   {
+    "title": "Copernicus Drought Observatories portal",
+    "url": "https://drought.emergency.copernicus.eu/"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "armenia-climate-zones-aua",
+  "name_en": "Armenia's Climate Zones (AUA Acopian Center) - polygon layer",
+  "category": "climate",
+  "description_en": "Polygon layer of climate zones of Armenia published by the AUA Acopian Center for the Environment on Global Forest Watch's ArcGIS Hub and redistributed on Open Data Armenia as CSV, JSON and zipped shapefile under a CC0 dedication (created 2023-07-07). REC Caucasus also lists 'Natural zones', 'Landscape zones', 'Temperature' and 'Precipitation' layers from the same hub.",
+  "producer": "AUA Acopian Center for the Environment (via Global Forest Watch hub; Open Data Armenia)",
+  "project_or_programme": "Open Data Armenia",
+  "year_or_period": "Created/uploaded 2023-07-07; classification date not stated",
+  "coverage": "national",
+  "resolution": "scale not stated",
+  "format": "vector",
+  "license": "CC0 (CCZero)",
+  "access_url": "https://data.opendata.am/dataset/armenia-s-climate-zones",
+  "direct_download_or_service": "https://data.opendata.am/dataset/6d31d1ba-005b-4d63-ada5-80687694777d/resource/93aedc53-b7ff-4bed-a4d6-64af9f41921e/download/shapefile.zip (ranged GET returned 206, no login)",
+  "open_access": true,
+  "gap_or_issue": "No zone definitions or source map date on the Open Data Armenia page; attribute fields not inspected. REC Caucasus precipitation/temperature layers are only listed (hub availability not verified).",
+  "usable_for": "Agro-climatic zoning for matching interventions to climate zone.",
+  "sources": [
+   {
+    "title": "Open Data Armenia - Armenia's Climate Zones",
+    "url": "https://data.opendata.am/dataset/armenia-s-climate-zones"
+   },
+   {
+    "title": "Open Data Armenia CKAN search: climate",
+    "url": "https://data.opendata.am/api/3/action/package_search?q=climate&rows=30"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "armenia-hydromet-observations-and-open-climate-tables",
+  "name_en": "Armhydromet station observations and open climate tables (Armstat B1/B2, daily precipitation indicators, TMY)",
+  "category": "climate",
+  "description_en": "The Hydrometeorology and Monitoring Center (Armhydromet, under the Ministry of Environment) holds Armenia's station records, but no open station download was found: armmonitoring.am returned HTTP 500 and meteo.am timed out on 2026-11-04. Open derivative tables on Open Data Armenia include Armstat monthly air temperature and precipitation with deviation from the 1961-1990 norm (ArmStatBank EE-B1, EE-B2-1), 'Daily Summaries of Precipitation Indicators for Armenia' (CSV, CC BY-SA) and 'Typical Meteorological Years in Armenia' (TMYx).",
+  "producer": "Armhydromet (Ministry of Environment); Statistical Committee (Armstat)",
+  "project_or_programme": "Armstat environment statistics; Open Data Armenia",
+  "year_or_period": "Station records long-term; open tables vary",
+  "coverage": "national",
+  "resolution": "station / marz summaries",
+  "format": "table",
+  "license": null,
+  "access_url": "https://data.opendata.am/api/3/action/package_search?q=climate&rows=30",
+  "direct_download_or_service": "e.g. https://data.opendata.am/dataset/armstat-ee-b1-c466f4799d and https://data.opendata.am/dataset/precipitation-indicators-daily (CKAN datasets; resources not individually tested)",
+  "open_access": null,
+  "gap_or_issue": "No public access to raw station time series (daily T/P) or station coordinates found; the Hydromet site was unreachable. Armstat tables are aggregates. A UNDP project on modernising the Hydromet service and an anti-hail systems analysis appeared in search results (not opened); no data release from them was found.",
+  "usable_for": "Ground-truth for climate analysis; request station data from Armhydromet.",
+  "sources": [
+   {
+    "title": "Open Data Armenia CKAN search: climate",
+    "url": "https://data.opendata.am/api/3/action/package_search?q=climate&rows=30"
+   },
+   {
+    "title": "Armmonitoring page cited as source of Sevan/hydro data (HTTP 500 on 2026-11-04)",
+    "url": "http://www.armmonitoring.am/page/79"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "slug": "jrc-global-surface-water",
+  "name_en": "JRC Global Surface Water (Landsat, 1984-2021)",
+  "category": "water",
+  "description_en": "30 m maps of surface water occurrence, change, seasonality and recurrence derived from Landsat 5/7/8 scenes acquired 1984-03-16 to 2021-12-31; Earth Engine asset JRC/GSW1_4/GlobalSurfaceWater, free of charge with attribution 'Source: EC JRC/Google'.",
+  "producer": "European Commission JRC (Copernicus Programme) with Google",
+  "project_or_programme": "Global Surface Water Explorer",
+  "year_or_period": "1984-03-16 to 2021-12-31",
+  "coverage": "national",
+  "resolution": "30 m",
+  "format": "raster",
+  "license": "Free use, attribution required (Copernicus)",
+  "access_url": "https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_GlobalSurfaceWater",
+  "direct_download_or_service": "GEE asset JRC/GSW1_4/GlobalSurfaceWater",
+  "open_access": true,
+  "gap_or_issue": "Ends 2021; small reservoirs and Lake Sevan shore changes need local validation; Earth Engine account needed (GSW also has tile downloads from JRC, not tested).",
+  "usable_for": "Reservoir, lake and wetland extent and variability (Sevan, Arpi, Akhurian, Ararat fish ponds).",
+  "sources": [
+   {
+    "title": "Earth Engine catalog - JRC Global Surface Water",
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_GlobalSurfaceWater"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "sevan-and-hydrology-monitoring-ministry-of-environment",
+  "name_en": "Ministry of Environment hydrological monitoring: Lake Sevan level/balance/quality, reservoirs, river discharges",
+  "category": "water",
+  "description_en": "Open Data Armenia dataset (public domain) re-publishing Ministry of Environment monitoring: daily workday PDF tables of Lake Sevan inflow, outflow and water level, volumes of the largest reservoirs and twice-daily river discharges, packaged in zips (hydrological data 2021 and Jan-Apr 2023), annual Sevan water balance reports 2016-2020 (zip), monthly Sevan water-balance reports 2022 (zip) and monthly Sevan water quality 2022-2023 (XLSX).",
+  "producer": "Ministry of Environment of Armenia (Hydrometeorology and Monitoring Center)",
+  "project_or_programme": "Open Data Armenia (harvested 2023-04)",
+  "year_or_period": "2016-2023",
+  "coverage": "named area",
+  "resolution": "daily / monthly",
+  "format": "table",
+  "license": "Public domain (CKAN: Other (Public Domain))",
+  "access_url": "https://data.opendata.am/dataset/daily-monitoring-of-rivers-lakes-and-water-reservoirs",
+  "direct_download_or_service": "https://data.opendata.am/dataset/cac76de3-794e-4807-b401-40269573dbf3/resource/330ac6be-97e7-4238-8487-137059a2a7d3/download/sevanlake_01_2023.xlsx ; .../resource/f29bdefb-ed57-44b9-b86a-bab7fb0c0196/download/sevan-2016-20.zip ; .../resource/7684f960-ae9c-475d-be39-171443e43c9a/download/2022.zip (all returned 206 on ranged GET); two zips are only Google Drive links",
+  "open_access": true,
+  "gap_or_issue": "Mostly PDF tables, flagged 'parsing-needed' on the portal; last updated 2023-04-12 and the original source page (armmonitoring.am/page/79) returned HTTP 500, so currency beyond early 2023 is not available here. No spatial data.",
+  "usable_for": "Lake Sevan level and water-quality time series; reservoir storage and river flow for irrigation planning.",
+  "sources": [
+   {
+    "title": "Open Data Armenia - Monitoring of Rivers, Lakes, and Water Reservoirs",
+    "url": "https://data.opendata.am/dataset/daily-monitoring-of-rivers-lakes-and-water-reservoirs"
+   },
+   {
+    "title": "Sevan water quality XLSX (HTTP 206)",
+    "url": "https://data.opendata.am/dataset/cac76de3-794e-4807-b401-40269573dbf3/resource/330ac6be-97e7-4238-8487-137059a2a7d3/download/sevanlake_01_2023.xlsx"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "river-basin-management-plans-and-aquifer-layer",
+  "name_en": "River basin management plans (Southern, Ararat, Sevan, Hrazdan) and hydrogeology aquifer systems layer",
+  "category": "water",
+  "description_en": "Armenian river basin management plans exist for the basin management areas under the Water Resources Management Agency: updated chapters of the Southern and Ararat plans (final report for Southern, draft for Ararat) were produced in 2022 under the UNDP-GCF National Adaptation Plan project. A GIS layer 'Armenia Hydrogeology: Aquifer Systems' digitised from a Water Resources Management Agency hydrogeological map is catalogued with a WFS endpoint on the UNEP GRID GeoNode.",
+  "producer": "Water Resources Management Agency (Ministry of Environment); UNDP-GCF NAP project; UNEP GRID-Geneva (Sustainable Caucasus)",
+  "project_or_programme": "RBMP cycle; UNDP-GCF Armenia National Adaptation Plan",
+  "year_or_period": "Plans updated 2022; aquifer layer date not stated",
+  "coverage": "regional",
+  "resolution": "basin / aquifer polygons (scale not stated)",
+  "format": "vector",
+  "license": null,
+  "access_url": "https://nature-ic.am/en/publications/updated-ra-southern-and-ararat-river-basin-management-plans",
+  "direct_download_or_service": "WFS: https://sustainable-caucasus.unepgrid.ch/geoserver/ows (layer geonode:Hydrogeology; host 'Under maintenance' on 2026-11-04)",
+  "open_access": null,
+  "gap_or_issue": "Plans are documents; no GIS of basin management area boundaries, water bodies or monitoring stations found. A news item reports that the Sevan and Hrazdan plans were adopted by the government in December 2022, but that page was blocked to automated access and was not verified. Aquifer layer licence not stated; service not reachable now.",
+  "usable_for": "Basin-level framing for water-related programmes (which basin a community belongs to; planned measures).",
+  "sources": [
+   {
+    "title": "Climate Change Information Platform - Updated Southern and Ararat RBMPs",
+    "url": "https://nature-ic.am/en/publications/updated-ra-southern-and-ararat-river-basin-management-plans"
+   },
+   {
+    "title": "Open Data Armenia - OGC WFS resource: Armenia Hydrogeology: Aquifer Systems",
+    "url": "https://data.opendata.am/dataset/sustc-1066/resource/a4c88859-211f-4bc7-8fe8-e62bdcb2e332"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "fao-wapor-water-productivity",
+  "name_en": "FAO WaPOR - remote sensing water productivity (Level 1 global 300 m; Levels 2-3)",
+  "category": "water",
+  "description_en": "WaPOR monitors agricultural water productivity: Level 1 (300 m, whole globe), Level 2 (100 m, Africa and Near East, roughly -30W to 65E, 40S to 40N) and Level 3 (20 m, selected irrigation schemes and sub-basins); data portal allows queries, time series and layer downloads, plus APIs.",
+  "producer": "FAO",
+  "project_or_programme": "WaPOR",
+  "year_or_period": "Level 1 global; period not stated on the page",
+  "coverage": "national",
+  "resolution": "300 m (L1); 100 m (L2); 20 m (L3)",
+  "format": "raster",
+  "license": null,
+  "access_url": "https://www.fao.org/in-action/remote-sensing-for-water-productivity/wapor-data/en/",
+  "direct_download_or_service": null,
+  "open_access": null,
+  "gap_or_issue": "Armenia is not named; the L2 box stops at 40N while Armenia spans about 38.8-41.3N, so only L1 (300 m) is certain for the whole country and L2 coverage for Armenia was not confirmed. No Armenian L3 schemes listed. Page states no licence.",
+  "usable_for": "Actual evapotranspiration and biomass water productivity for irrigated Ararat/Armavir; compare irrigation efficiency.",
+  "sources": [
+   {
+    "title": "FAO WaPOR data page",
+    "url": "https://www.fao.org/in-action/remote-sensing-for-water-productivity/wapor-data/en/"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "irrigation-canals-and-irrigated-land-tables",
+  "name_en": "Irrigation infrastructure and irrigated land: ARMSIS canals layer, Armstat land/irrigation tables, FAO AQUASTAT Armenia",
+  "category": "water",
+  "description_en": "Available irrigation information is thin: ARMSIS 'Canals' (canals and irrigation channels digitised from 1:50,000 topographic maps); Armstat tables 'The land resources and irrigated lands by significance, types and years' (EE-E1/F1, source last updated 2014-05-08) and 2014 Agricultural Census tables on methods and sources of irrigation by legal status and marz; and the FAO AQUASTAT Armenia core database as CSV (water resources, irrigation and drainage development).",
+  "producer": "ANAU/ArmSIS; Statistical Committee; FAO AQUASTAT",
+  "project_or_programme": "ArmSIS; Agricultural Census 2014; AQUASTAT",
+  "year_or_period": "Canals date not stated; tables 2013-2014; AQUASTAT downloaded 2023-06-26",
+  "coverage": "national",
+  "resolution": "marz-level tables; canals vector 1:50,000",
+  "format": "table",
+  "license": "Armstat tables: Public domain (CKAN 'other-pd'); AQUASTAT: Public domain (CKAN)",
+  "access_url": "https://data.opendata.am/dataset/armstat-ee-f1-8fc8636ab5",
+  "direct_download_or_service": "https://data.opendata.am/dataset/e78a7998-0ac1-42d9-968e-a18b22b4a819/resource/0d213161-ce6e-4380-af92-a570668eeec7/download/armstat-ee-f1-8fc8636ab5.csv ; AQUASTAT CSV https://data.opendata.am/dataset/1c1a544c-a3c7-4db8-bb36-9175c998ba6f/resource/6ce9d4fc-3728-4c9d-a822-3c33ec22aa56/download/aquastat-armenia.csv",
+  "open_access": true,
+  "gap_or_issue": "No official GIS of irrigation systems, schemes, pump stations or water-user-association service areas (State Committee of Water Economy / Water Committee) was found; ARMSIS canals host is unreachable; the Armstat land table is from 2014.",
+  "usable_for": "Rough irrigated-area statistics by marz; true system-level targeting needs the Water Committee's GIS (request).",
+  "sources": [
+   {
+    "title": "Open Data Armenia - Armstat E1,F1 land resources and irrigated lands",
+    "url": "https://data.opendata.am/dataset/armstat-ee-f1-8fc8636ab5"
+   },
+   {
+    "title": "Open Data Armenia - Census 2014 methods of irrigation",
+    "url": "https://data.opendata.am/dataset/armstat-ghh-4-1-4d15dfa0f6"
+   },
+   {
+    "title": "Open Data Armenia - ARMSIS Canals (armsis-52)",
+    "url": "https://data.opendata.am/dataset/armsis-52"
+   },
+   {
+    "title": "Open Data Armenia - Armenia Aquastat Data",
+    "url": "https://data.opendata.am/dataset/armenia-aquastat-data"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "nasa-firms-armenia-active-fire",
+  "name_en": "NASA FIRMS active fire detections - Armenia country files (VIIRS S-NPP, MODIS)",
+  "category": "hazards",
+  "description_en": "FIRMS offers per-country yearly CSV downloads of active fire detections. Armenia files that returned HTTP 200 without login: viirs-snpp_2024_Armenia.csv (57.8 KB), viirs-snpp_2025_Armenia.csv (216.8 KB), modis_2024_Armenia.csv (16.4 KB) and modis_2025_Armenia.csv (44.5 KB); a NOAA-20 2025 file name tried returned 404.",
+  "producer": "NASA LANCE / FIRMS",
+  "project_or_programme": "FIRMS",
+  "year_or_period": "2024 and 2025 files confirmed; archive goes back further",
+  "coverage": "national",
+  "resolution": "point detections (sensor pixel)",
+  "format": "table",
+  "license": null,
+  "access_url": "https://firms.modaps.eosdis.nasa.gov/country/",
+  "direct_download_or_service": "https://firms.modaps.eosdis.nasa.gov/data/country/zips/viirs-snpp_2025_Armenia.csv and .../modis_2025_Armenia.csv (replace year; also viirs-snpp_2024_Armenia.csv)",
+  "open_access": true,
+  "gap_or_issue": "The FIRMS web pages returned only their header text to our fetch tool, so licence, sensor resolution and latency were not read from FIRMS pages; real-time access via the FIRMS API needs a free MAP_KEY (not tested). Detections include agricultural stubble burning and industrial heat, not only wildfires; 2026 file not tested.",
+  "usable_for": "Fire frequency maps per community / forest enterprise and hotspot targeting for wildfire and burning-stubble programmes.",
+  "sources": [
+   {
+    "title": "FIRMS Armenia VIIRS 2025 CSV (HTTP 200)",
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/zips/viirs-snpp_2025_Armenia.csv"
+   },
+   {
+    "title": "FIRMS Armenia MODIS 2025 CSV (HTTP 200)",
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/zips/modis_2025_Armenia.csv"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "gem-global-seismic-hazard-map",
+  "name_en": "GEM Global Seismic Hazard Map v2026.1 (PGA, 475-year return period)",
+  "category": "hazards",
+  "description_en": "GEM's global map of peak ground acceleration with a 10% probability of exceedance in 50 years on reference rock (Vs30 800 m/s), collated from national and regional models, with up to 42 layers (PGA and spectral acceleration at 2%, 10%, 50% in 50 years, rock and soil). v2026.1 replaces v2023.1.",
+  "producer": "GEM Foundation (Global Earthquake Model)",
+  "project_or_programme": "Global Seismic Hazard Map",
+  "year_or_period": "v2026.1 (previous v2023.1, Oct 2023)",
+  "coverage": "national",
+  "resolution": "not stated on page",
+  "format": "raster",
+  "license": "CC BY-SA / CC BY-NC-SA 4.0 depending on file (vector base layer, poster/PNG, viewer); commercial use needs a licence",
+  "access_url": "https://www.globalquakemodel.org/product/global-seismic-hazard-map",
+  "direct_download_or_service": "Open version DOI https://doi.org/10.5281/zenodo.8409646 ; viewer https://maps.openquake.org/map/gshm-v2026_1/",
+  "open_access": true,
+  "gap_or_issue": "Zenodo blocked automated access, so the download itself was not tested. Non-commercial/share-alike licence terms. Armenia's own PSHA (below) is more detailed and nationally approved; GEM's Armenia input may derive from it (not verified).",
+  "usable_for": "Seismic hazard context for earthquake-resistant building / infrastructure investment.",
+  "sources": [
+   {
+    "title": "GEM Global Seismic Hazard Map product page",
+    "url": "https://www.globalquakemodel.org/product/global-seismic-hazard-map"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "armenia-psha-and-seismic-zonation-1-500k",
+  "name_en": "Armenia Probabilistic Seismic Hazard Assessment and Seismic Zonation Map (1:500,000)",
+  "category": "hazards",
+  "description_en": "Seismic hazard assessment and seismic zonation map of the Republic of Armenia at 1:500,000, prepared by a consortium of AIR Worldwide, GEM Foundation and GEORISK Scientific Research CJSC under World Bank-supported project #7179350 'Probabilistic Seismic Hazard Assessment for the Republic of Armenia'. Catalogued with GeoTIFF/WCS (layer seismic_hazard_475) plus Armenian active faults and a seismotectonic model.",
+  "producer": "AIR Worldwide / GEM Foundation / GEORISK (Armenia); World Bank project 7179350",
+  "project_or_programme": "World Bank PSHA for Armenia; UNEP GRID Sustainable Caucasus",
+  "year_or_period": "Production year not stated (catalogued 2023-07-14)",
+  "coverage": "national",
+  "resolution": "1:500,000",
+  "format": "raster",
+  "license": null,
+  "access_url": "https://data.opendata.am/dataset/sustc-979",
+  "direct_download_or_service": "Catalogue links: https://sustainable-caucasus.unepgrid.ch/geoserver/ows?service=WCS ... coverageid geonode__seismic_hazard_475 and /download/979, /download/991 (UNEP GRID host 'Under maintenance', downloads returned 404 on 2026-11-04)",
+  "open_access": null,
+  "gap_or_issue": "Not retrievable now. Return period inferred from the layer name (475 years) not documented on the page; production year and licence not stated. Seismic zonation is tied to the national building code (norms approved by government); the current official zoning should be requested from the Ministry of Territorial Administration and Infrastructure / national seismic protection service.",
+  "usable_for": "Official-grade seismic hazard for infrastructure and housing programmes.",
+  "sources": [
+   {
+    "title": "Open Data Armenia - Armenia: Probabilistic Seismic Hazard Assessment (sustc-979)",
+    "url": "https://data.opendata.am/dataset/sustc-979"
+   },
+   {
+    "title": "Open Data Armenia - Armenia: Seismic Zonation (sustc-991)",
+    "url": "https://data.opendata.am/dataset/sustc-991"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "armenia-mass-movement-hazard-layers",
+  "name_en": "Landslide inventory, debris-flow/mudflow hazard and avalanche hazard layers for Armenia",
+  "category": "hazards",
+  "description_en": "Catalogued vector layers: 'Landslide locations' (ARMSIS: compiled from the Ministry of Emergency Situations, archives and donor-funded surveys by Geocom Ltd), 'Armenia: Landslides' (location and shape of landslides, UNEP GRID), 'Armenia: Debris and Mudflows' (distribution and hazard level; prepared by the Rescue Service of the Ministry of Emergency Situations for the National Programme of Actions against Desertification, author R. Ter-Minasyan) and 'Armenia: Avalanche Hazard Level' (digital map derived from Georgian Hydrometeorological Survey data).",
+  "producer": "Rescue Service / Ministry of Emergency Situations; Geocom Ltd; ANAU/ArmSIS; UNEP GRID-Geneva",
+  "project_or_programme": "ArmSIS; National Programme of Actions against Desertification; Sustainable Caucasus",
+  "year_or_period": "Dates not stated (catalogued 2023)",
+  "coverage": "national",
+  "resolution": "scale not stated",
+  "format": "vector",
+  "license": null,
+  "access_url": "https://data.opendata.am/dataset/armsis-51",
+  "direct_download_or_service": "ARMSIS WFS/shapefile http://armsis.cas.am/geoserver/ows?...typename=geonode:landslides (host unreachable); UNEP GRID https://sustainable-caucasus.unepgrid.ch/geoserver/ows?...typename=geonode:mudflow_arm (host 'Under maintenance')",
+  "open_access": null,
+  "gap_or_issue": "Both hosting platforms were unreachable or returning 404 on 2026-11-04, and the catalogue lists no dates or licence. A 2020 paper reportedly compared a GEORISK catalogue of 2,257 landslides (search-result snippet; paper not opened), suggesting a larger inventory exists with GEORISK. No national landslide susceptibility or flood hazard map was found.",
+  "usable_for": "Hazard screening for rural roads, settlements and irrigation canals; request the inventory from the Ministry of Internal Affairs / Rescue Service and GEORISK.",
+  "sources": [
+   {
+    "title": "Open Data Armenia - Landslide locations (armsis-51)",
+    "url": "https://data.opendata.am/dataset/armsis-51"
+   },
+   {
+    "title": "Open Data Armenia - Armenia: Landslides (sustc-95)",
+    "url": "https://data.opendata.am/dataset/sustc-95"
+   },
+   {
+    "title": "Open Data Armenia - Armenia: Debris and Mudflows (sustc-102)",
+    "url": "https://data.opendata.am/dataset/sustc-102"
+   },
+   {
+    "title": "Open Data Armenia - Armenia: Avalanche Hazard Level (sustc-93)",
+    "url": "https://data.opendata.am/dataset/sustc-93"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "world-bank-global-landslide-hazard",
+  "name_en": "Global landslide hazard map (rainfall and earthquake triggers), World Bank",
+  "category": "hazards",
+  "description_en": "Gridded global landslide hazard dataset with separate rainfall-trigger (1980-2018 mean and median) and earthquake-trigger layers and a combined hazard rank, distributed through the World Bank Data Catalog as zips and Cloud Optimised GeoTIFFs under CC BY-NC 4.0 (metadata updated 2025-11-20).",
+  "producer": "World Bank",
+  "project_or_programme": "Global landslide hazard map",
+  "year_or_period": "Rainfall trigger 1980-2018; metadata updated 2025-11-20",
+  "coverage": "national",
+  "resolution": "global grid (resolution not read)",
+  "format": "raster",
+  "license": "CC BY-NC 4.0",
+  "access_url": "https://datacatalog.worldbank.org/search/dataset/0037584",
+  "direct_download_or_service": "https://datacatalogfiles.worldbank.org/ddh-published/0037584/DR0045419/LS_RF_Median_1980-2018_COG.tif (ranged GET 206); also ls_eq_tiled.tif and ls_th.zip under the same dataset",
+  "open_access": true,
+  "gap_or_issue": "Global product, coarse; non-commercial licence; not calibrated with the Armenian landslide inventory.",
+  "usable_for": "Fallback landslide susceptibility screening where no national map is accessible.",
+  "sources": [
+   {
+    "title": "World Bank Data Catalog - Global landslide hazard map",
+    "url": "https://datacatalog.worldbank.org/search/dataset/0037584"
+   },
+   {
+    "title": "Open Data Armenia listing of the same layers",
+    "url": "https://data.opendata.am/dataset/dcwb0037584"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "copernicus-ems-emsn195-landslide-risk-dsegh-alaverdi",
+  "name_en": "Copernicus EMS EMSN195: landslide risk assessment, Dsegh and Alaverdi (Lori / Tavush), 1:25,000",
+  "category": "hazards",
+  "description_en": "Copernicus Emergency Management Service risk-and-recovery product requested by DG ECHO for Armenia's Ministry of Internal Affairs after the May 2024 floods: Landslide Susceptibility Index based on elevation, slope, lithology, river distance and land use, for two areas of interest (Dsegh and Alaverdi). Geodata package (geodatabase, GeoJSON, GeoTIFF, styles, INSPIRE metadata), A1 map PDFs, technical report and ArcGIS feature layers.",
+  "producer": "Copernicus Emergency Management Service (EU) on behalf of Ministry of Internal Affairs of Armenia",
+  "project_or_programme": "CEMS EMSN195 (activated 2024-05-26, requested 2024-05-30)",
+  "year_or_period": "May-June 2024",
+  "coverage": "named area",
+  "resolution": "1:25,000",
+  "format": "vector",
+  "license": "EU Copernicus terms (specific licence not stated on page)",
+  "access_url": "https://riskandrecovery.emergency.copernicus.eu/EMSN195/",
+  "direct_download_or_service": "https://riskandrecovery.emergency.copernicus.eu/download/EMSN195/EMSN195_GeospatialData.zip/ (ranged GET returned a zip, no login); report .../EMSN195_Reporting.pdf/; maps .../EMSN195_P17_Maps.zip/",
+  "open_access": true,
+  "gap_or_issue": "Covers only two small areas of interest in Lori/Tavush. The interactive map was temporarily unavailable when the page was captured.",
+  "usable_for": "Local landslide risk for Debed canyon settlements and infrastructure; method template for other communities.",
+  "sources": [
+   {
+    "title": "Copernicus EMS EMSN195 page",
+    "url": "https://riskandrecovery.emergency.copernicus.eu/EMSN195/"
+   },
+   {
+    "title": "EMSN195 geospatial data zip (PK header verified)",
+    "url": "https://riskandrecovery.emergency.copernicus.eu/download/EMSN195/EMSN195_GeospatialData.zip/"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "wdpa-protected-planet-armenia",
+  "name_en": "World Database on Protected Areas (WDPA) - Armenia",
+  "category": "biodiversity",
+  "description_en": "Protected Planet's Armenia profile (UNEP-WCMC, November 2026 data) lists 61 protected areas, 30 with management effectiveness evaluations and no OECMs. WDPA is updated monthly and downloadable from ProtectedPlanet after accepting the terms of use.",
+  "producer": "UNEP-WCMC and IUCN",
+  "project_or_programme": "WDPA / Protected Planet",
+  "year_or_period": "Monthly updates; Armenia profile dated 2026-11",
+  "coverage": "national",
+  "resolution": "polygons and points",
+  "format": "vector",
+  "license": "WDPA terms of use (non-commercial; no redistribution)",
+  "access_url": "https://www.protectedplanet.net/country/ARM",
+  "direct_download_or_service": null,
+  "open_access": null,
+  "gap_or_issue": "Terms: commercial use needs written permission from UNEP-WCMC and the data may not be redistributed (including web services, KML, FTP) - this limits republishing the layer inside a government platform; link or re-download instead. Whether a login is required for the download was not tested. The profile page shows no coverage percentage.",
+  "usable_for": "Overlay of programme sites with protected areas and sanctuaries.",
+  "sources": [
+   {
+    "title": "Protected Planet - Armenia",
+    "url": "https://www.protectedplanet.net/country/ARM"
+   },
+   {
+    "title": "Protected Planet terms of use",
+    "url": "https://www.protectedplanet.net/en/legal"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "emerald-network-armenia",
+  "name_en": "Emerald Network sites of Armenia (candidate Emerald sites, EEA dataset 2016 and revision)",
+  "category": "biodiversity",
+  "description_en": "EEA hosts the Council of Europe's Emerald Network dataset (edition 2016, EPSG:3035, GeoPackage/SHP, CC BY 4.0, now marked superseded) covering adopted and candidate sites of non-EU Bern Convention parties including Armenia. Armenia proposed 23 candidate sites (1,033,719.5 ha, about 34.7% of the country) in 2016; a World Bank / EU4Environment review proposes 30 sites (707,739.22 ha, 23.8%) and the ministry said in July 2026 that revision is ongoing.",
+  "producer": "Council of Europe Bern Convention / EEA; Ministry of Environment of Armenia",
+  "project_or_programme": "Emerald Network; EU4Environment",
+  "year_or_period": "EEA dataset edition Dec 2016; revision 2025-2026",
+  "coverage": "national",
+  "resolution": "site polygons",
+  "format": "vector",
+  "license": "CC BY 4.0",
+  "access_url": "https://sdi.eea.europa.eu/catalogue/srv/api/records/ff54c70f-dd62-44bb-9a89-1b504acdc594",
+  "direct_download_or_service": "https://sdi.eea.europa.eu/data/ff54c70f-dd62-44bb-9a89-1b504acdc594 (returned an HTML page, not confirmed as a file); viewer https://emerald.eea.europa.eu/ (ArcGIS app that showed a browser-support error to our fetch)",
+  "open_access": true,
+  "gap_or_issue": "No Armenian sites are officially adopted. The EEA record is the 2016 edition (superseded) and the revised 2025-26 boundaries were not found. Armenian law gives no specific regime for Emerald sites.",
+  "usable_for": "Candidate high-conservation-value areas that may constrain or attract programmes (shown as 'candidate' only).",
+  "sources": [
+   {
+    "title": "EEA SDI catalogue - Emerald Network 2016",
+    "url": "https://sdi.eea.europa.eu/catalogue/srv/api/records/ff54c70f-dd62-44bb-9a89-1b504acdc594"
+   },
+   {
+    "title": "EcoLur - Armenia to revise candidate Emerald sites (July 2026)",
+    "url": "https://www.ecolur.org/en/news/forest/16469/"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "key-biodiversity-areas-armenia",
+  "name_en": "Key Biodiversity Areas (KBA) of Armenia",
+  "category": "biodiversity",
+  "description_en": "The World Database of KBAs (KBA Partnership) holds Armenia's KBAs; the site shows 16,601 KBAs confirmed globally and offers GIS data on request ('Request GIS data'; map and site search tools on the site).",
+  "producer": "KBA Partnership (BirdLife International coordinates the database)",
+  "project_or_programme": "World Database of Key Biodiversity Areas",
+  "year_or_period": "Current database",
+  "coverage": "national",
+  "resolution": "site polygons",
+  "format": "vector",
+  "license": null,
+  "access_url": "https://www.keybiodiversityareas.org/",
+  "direct_download_or_service": null,
+  "open_access": false,
+  "gap_or_issue": "GIS boundaries require a data request (terms not read); the Armenian KBA count and list could not be retrieved (the site-search URL tried returned 404).",
+  "usable_for": "Biodiversity safeguard screening of investments.",
+  "sources": [
+   {
+    "title": "Key Biodiversity Areas website",
+    "url": "https://www.keybiodiversityareas.org/"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "slug": "gbif-armenia-occurrences",
+  "name_en": "GBIF species occurrence records for Armenia",
+  "category": "biodiversity",
+  "description_en": "GBIF API reports 552,126 occurrence records with country = AM (about 403,779 animals, 139,624 plants, 5,623 fungi at the time of the query), downloadable without registration through the search API (small queries) or by free account for large downloads.",
+  "producer": "Global Biodiversity Information Facility (contributing datasets vary)",
+  "project_or_programme": "GBIF",
+  "year_or_period": "Queried 2026-11-04",
+  "coverage": "national",
+  "resolution": "point records",
+  "format": "table",
+  "license": "Per-dataset licences (CC0, CC BY, CC BY-NC)",
+  "access_url": "https://api.gbif.org/v1/occurrence/search?country=AM&limit=0",
+  "direct_download_or_service": "https://api.gbif.org/v1/occurrence/search?country=AM (paged JSON); bulk download via GBIF account",
+  "open_access": true,
+  "gap_or_issue": "Spatial and taxonomic bias; coordinates are uncertain for many historical records; not a Red Book distribution dataset. Kingdom counts derive from the GBIF kingdom facet keys (1, 6, 5).",
+  "usable_for": "Species richness and Red-List species checks near project sites.",
+  "sources": [
+   {
+    "title": "GBIF occurrence count API, country AM",
+    "url": "https://api.gbif.org/v1/occurrence/search?country=AM&limit=0&facet=kingdomKey&facetLimit=5"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "red-book-and-national-biodiversity-database",
+  "name_en": "Red Book of Armenia species data and the planned national biodiversity database",
+  "category": "biodiversity",
+  "description_en": "The Red Books of animals and of plants/fungi (editions around 2010-2012) are published by the Ministry of Environment and record per-species distribution, but no public distribution-map download was found; the former online version at mnp.am did not resolve. In October 2025 WWF-Armenia held a workshop with the Ministry on an inventory and a national biodiversity database, with a ministry official stating no comprehensive studies have been done since independence.",
+  "producer": "Ministry of Environment of Armenia; WWF-Armenia",
+  "project_or_programme": "Red Book of Armenia; WWF-Armenia 'Biodiversity and Sustainable Local Development in Armenia'",
+  "year_or_period": "Editions ~2010-2012; database planning Oct 2025",
+  "coverage": "national",
+  "resolution": "species lists / distribution notes",
+  "format": "table",
+  "license": null,
+  "access_url": "https://www.ecolur.org/en/news/biodiversity/16176/",
+  "direct_download_or_service": null,
+  "open_access": false,
+  "gap_or_issue": "No machine-readable species distribution layer; the 2010 edition dates come from search-result snippets and were not verified on an opened page; mnp.am (old ministry domain) does not resolve.",
+  "usable_for": "Species sensitivity screening; needs a data-sharing agreement with the Ministry of Environment.",
+  "sources": [
+   {
+    "title": "EcoLur - Armenia working on establishment of National Biodiversity Database (Oct 2025)",
+    "url": "https://www.ecolur.org/en/news/biodiversity/16176/"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "slug": "grassam-dlr-giz-grassland-map-2020",
+  "name_en": "GrassAM: Armenia grassland extent, type, above-ground biomass and carrying capacity (DLR / GIZ, 2020)",
+  "category": "pastures",
+  "description_en": "Nationwide 10 m maps for 2020 of grassland extent (random forest on Sentinel-1/2 and DEM; overall accuracy 80%), grassland types, green above-ground biomass (R2 0.66) and livestock carrying capacity (optimal stocking 1-3 animals per ha), with field samples collected by ICARE; models still being tested at the time of the poster.",
+  "producer": "German Aerospace Center (DLR) with GIZ (ICARE field data)",
+  "project_or_programme": "GrassAM (GIZ / DLR)",
+  "year_or_period": "2020 (poster 2022)",
+  "coverage": "national",
+  "resolution": "10 m",
+  "format": "raster",
+  "license": null,
+  "access_url": "https://elib.dlr.de/187094",
+  "direct_download_or_service": null,
+  "open_access": null,
+  "gap_or_issue": "Only a conference poster is public (open access); no raster download. A separate Ministry of Economy / GIZ ECOserve project 'Mapping of Pastures and Grasslands in Armenia' (inaugurated 2021-02-10, pilot Lori and Shirak; seen in a search result, page blocked) has no published outputs found. A search result quoted different accuracy figures (R2 0.50) so metrics are preliminary.",
+  "usable_for": "Pasture area, biomass and stocking capacity per community for pasture-management programmes; request the rasters from DLR / GIZ.",
+  "sources": [
+   {
+    "title": "DLR elib - GrassAM poster record",
+    "url": "https://elib.dlr.de/187094"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "pasture-degradation-studies-syunik-lori",
+  "name_en": "Pasture degradation assessments (CENS QuickBird study 2017; Syunik Landsat NDVI trends 2000-2021; FAO-GEF ProDoc pasture statistics)",
+  "category": "pastures",
+  "description_en": "Academic assessments: Tepanosyan et al. (CENS, 2017) mapped fractional vegetation cover, bare soil and surface rock to grade pasture degradation from QuickBird imagery; Ayvazyan and Asmaryan (CENS, ISPRS 2023) analysed Landsat NDVI seasonal Mann-Kendall trends 2000-2021 for grasslands and pastures in Sisian and Goris (Syunik), finding mostly stable or improving biomass. The FAO-GEF ProDoc reports Syunik has 145,555 ha of natural pastures of 450,542 ha total area (48% community-owned, 52% state-owned).",
+  "producer": "Centre for Ecological-Noosphere Studies (NAS RA); FAO ProDoc",
+  "project_or_programme": "CENS research; GEF 10365 ProDoc",
+  "year_or_period": "2000-2021 (trends); 2017 (QuickBird)",
+  "coverage": "regional",
+  "resolution": "30 m (Landsat); sub-metre (QuickBird)",
+  "format": "table",
+  "license": null,
+  "access_url": "https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1325/2023/",
+  "direct_download_or_service": null,
+  "open_access": null,
+  "gap_or_issue": "Research outputs only - no downloadable pasture degradation layer; study areas limited (Syunik sites and a QuickBird scene). Whole-country pasture condition mapping by the Ministry of Economy is not published.",
+  "usable_for": "Evidence base and method for pasture degradation targeting; indicates NDVI trend methods available.",
+  "sources": [
+   {
+    "title": "Ayvazyan and Asmaryan 2023, ISPRS Archives",
+    "url": "https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/1325/2023/"
+   },
+   {
+    "title": "Tepanosyan et al. 2017, Remote sensing methods for assessing degradation of Armenia's highland pastures",
+    "url": "https://cens.am/publications/remote-sensing-methods-for-assessing-degradation-of-armenias-highland-pastures"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "armstat-agriculture-census-and-land-tables",
+  "name_en": "Armstat agricultural census 2014 and agriculture / land statistics (ArmStatBank PxWeb)",
+  "category": "agriculture",
+  "description_en": "ArmStatBank exposes a PxWeb JSON API and Open Data Armenia republishes hundreds of Armstat matrices as CSV/XLSX/JSON-stat (public domain): the 2014 Agricultural Census (holdings by marz, land, irrigation, livestock, machinery), 'Main indicators of agriculture by marzes' (AF-3, 2023 and 2024 versions), land resources by categories and irrigated land (EE-F1) and environment tables (forests D3, protected areas D1, water C1-C7).",
+  "producer": "Statistical Committee of Armenia (Armstat)",
+  "project_or_programme": "Agricultural Census 2014; ArmStatBank",
+  "year_or_period": "Census reference year 2013-14; annual tables to 2024",
+  "coverage": "national",
+  "resolution": "marz level (census also community totals in published tables)",
+  "format": "table",
+  "license": "Public domain (CKAN 'other-pd')",
+  "access_url": "https://statbank.armstat.am/api/v1/en/ArmStatBank",
+  "direct_download_or_service": "PxWeb API https://statbank.armstat.am/api/v1/en/ArmStatBank (HTTP 200, JSON); CSV copies via https://data.opendata.am/api/3/action/package_search?q=agricultural+census",
+  "open_access": true,
+  "gap_or_issue": "Marz-level only in the tables inspected; no parcel or crop maps. Land balance table source dated 2014. Armstat's main site also has an agricultural-census search system that was not opened.",
+  "usable_for": "Marz-level baselines of farm numbers, land use and irrigation for targeting programmes.",
+  "sources": [
+   {
+    "title": "ArmStatBank PxWeb API root",
+    "url": "https://statbank.armstat.am/api/v1/en/ArmStatBank"
+   },
+   {
+    "title": "Armstat main site",
+    "url": "https://www.armstat.am/en/"
+   },
+   {
+    "title": "Open Data Armenia - Main Indicators of Agriculture by marzes",
+    "url": "https://data.opendata.am/dataset/armstat-af-3-2024-79e19abe9c"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "ocha-cod-ab-armenia",
+  "name_en": "OCHA COD-AB: Armenia subnational administrative boundaries (levels 0-2)",
+  "category": "administrative",
+  "description_en": "Common Operational Dataset: Armenia admin 0, 11 provinces (admin 1) and 39 'communities' (admin 2), CC BY-IGO. Dataset date 2023-10-02 to 2024-01-31 (HDX last modified 2026-01-26); 'last edit before publishing 2014-10-01'. Formats: geodatabase, shapefile, GeoJSON zip, XLSX; an edge-matched COD-EM (levels 0-1) also exists. A local copy is already in data/raw/cod_ab.",
+  "producer": "Government of Armenia (various agencies) via OCHA Field Information Services",
+  "project_or_programme": "OCHA COD-AB",
+  "year_or_period": "v01, valid 2023-10-02; boundaries from 2014",
+  "coverage": "national",
+  "resolution": "admin levels 0-2",
+  "format": "vector",
+  "license": "CC BY-IGO",
+  "access_url": "https://data.humdata.org/dataset/cod-ab-arm",
+  "direct_download_or_service": "https://data.humdata.org/dataset/37b89555-ef3e-4b26-a1ba-070318016853/resource/000c6626-ea37-4618-b0e4-1e4de7e30902/download/arm_admin_boundaries.geojson.zip (scripted fetch returned HTTP 202; links taken from the HDX API)",
+  "open_access": true,
+  "gap_or_issue": "Admin 2 is explicitly 'not an official administrative level' (the 39 units are the old districts, not the ~500 consolidated communities); boundaries date from 2014. No community or settlement level.",
+  "usable_for": "Marz and district joins (project location gazetteer, statistics).",
+  "sources": [
+   {
+    "title": "HDX API - cod-ab-arm",
+    "url": "https://data.humdata.org/api/3/action/package_show?id=cod-ab-arm"
+   },
+   {
+    "title": "HDX API - cod-em-arm",
+    "url": "https://data.humdata.org/api/3/action/package_show?id=cod-em-arm"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "geoboundaries-armenia",
+  "name_en": "geoBoundaries gbOpen: Armenia ADM1 (2005) and ADM2 (2020)",
+  "category": "administrative",
+  "description_en": "geoBoundaries open releases for Armenia: ADM1 'Province and City' (11 units, year represented 2005, from Wikimedia, CC BY 2.5) and ADM2 'Municipal Communities' (39 units, year represented 2020, source Government of Armenia / OCHA ROCCA, CC BY 3.0 IGO). Direct GeoJSON/SHP links without login (simplified ADM2 GeoJSON 207 KB, HTTP 200).",
+  "producer": "William and Mary geoLab (geoBoundaries) from Government of Armenia/OCHA ROCCA",
+  "project_or_programme": "geoBoundaries gbOpen",
+  "year_or_period": "Build 2023-12-12; ADM2 year represented 2020",
+  "coverage": "national",
+  "resolution": "ADM1 / ADM2",
+  "format": "vector",
+  "license": "CC BY 3.0 IGO (ADM2); CC BY 2.5 (ADM1)",
+  "access_url": "https://www.geoboundaries.org/countryDownloads.html",
+  "direct_download_or_service": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ARM/ADM2/geoBoundaries-ARM-ADM2_simplified.geojson ; API: https://www.geoboundaries.org/api/current/gbOpen/ARM/ADM2/",
+  "open_access": true,
+  "gap_or_issue": "ADM2 is the same 39-unit district layer as OCHA COD; no consolidated-community level. ADM1 derives from a 2005 Wikimedia source.",
+  "usable_for": "Alternative open admin boundary download with stable API.",
+  "sources": [
+   {
+    "title": "geoBoundaries API - ARM ADM2",
+    "url": "https://www.geoboundaries.org/api/current/gbOpen/ARM/ADM2/"
+   },
+   {
+    "title": "geoBoundaries API - ARM ADM1",
+    "url": "https://www.geoboundaries.org/api/current/gbOpen/ARM/ADM1/"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "openstreetmap-armenia-geofabrik",
+  "name_en": "OpenStreetMap extract for Armenia (Geofabrik)",
+  "category": "administrative",
+  "description_en": "Daily-updated OpenStreetMap extract for Armenia (shapefile bundle 112.6 MB, last modified 2026-11-04; PBF also offered) with roads, buildings, land use, water, places and administrative boundaries as mapped by volunteers.",
+  "producer": "OpenStreetMap contributors; extract by Geofabrik",
+  "project_or_programme": "OpenStreetMap",
+  "year_or_period": "Updated daily (2026-11-04)",
+  "coverage": "national",
+  "resolution": "vector, variable accuracy",
+  "format": "vector",
+  "license": "ODbL (OpenStreetMap standard licence; not re-read on the Geofabrik page)",
+  "access_url": "https://download.geofabrik.de/asia/armenia.html",
+  "direct_download_or_service": "https://download.geofabrik.de/asia/armenia-latest-free.shp.zip (redirect, HTTP 200)",
+  "open_access": true,
+  "gap_or_issue": "Community/settlement boundaries in OSM are incomplete and may mix old and consolidated communities; verify before use. Land-use tags are patchy.",
+  "usable_for": "Settlement points, roads, water and building footprints for accessibility and exposure analysis.",
+  "sources": [
+   {
+    "title": "Geofabrik Armenia download page",
+    "url": "https://download.geofabrik.de/asia/armenia.html"
+   },
+   {
+    "title": "Geofabrik Armenia shapefile bundle (HTTP 200)",
+    "url": "https://download.geofabrik.de/asia/armenia-latest-free.shp.zip"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "acopian-community-polygons-pre-consolidation",
+  "name_en": "Armenia administrative community polygons (913 pre-consolidation communities, AUA Acopian Center / Institute of Geological Sciences)",
+  "category": "administrative",
+  "description_en": "Polygon shapefile of 913 communities (fields Community_, Arm_Name, CODE; WGS84 UTM 38N) created from a 2008 Armenia geodatabase, republished on Open Data Armenia (uploaded 2023-06-19). REC Caucasus lists a similar 'Community Boundaries of Armenia' layer from the Institute of Geological Sciences built from 1:2000 cadastral data, noting that many community boundaries have been enlarged since 2015 and the data are out of date.",
+  "producer": "AUA Acopian Center for the Environment (original); Institute of Geological Sciences NAS RA (VGSE) for the cadastral version",
+  "project_or_programme": "Open Data Armenia",
+  "year_or_period": "2008 data; uploaded 2023-06-19",
+  "coverage": "national",
+  "resolution": "community polygons (1:2000 cadastral source for REC version)",
+  "format": "vector",
+  "license": "Not specified",
+  "access_url": "https://data.opendata.am/dataset/armenia-administrative-community-polygons",
+  "direct_download_or_service": "https://data.opendata.am/dataset/667c3f78-0494-4314-b717-9897d44469db/resource/904b79ad-0192-4ab9-892c-763a1a8b539a/download/community_polygons.zip (1.3 MB, downloaded and opened, no login)",
+  "open_access": true,
+  "gap_or_issue": "Pre-2015 community structure (913 polygons) - does not match the current ~500 consolidated communities, so community names/IDs from project documents after 2017 will not join one-to-one. The REC Caucasus ArcGIS FeatureServer for the 1:2000 version returned 'Invalid URL' (removed). Licence not specified.",
+  "usable_for": "Best openly downloadable community-level geometry; can be dissolved into consolidated communities if a lookup table is obtained.",
+  "sources": [
+   {
+    "title": "Open Data Armenia - Armenia administrative community polygons",
+    "url": "https://data.opendata.am/dataset/armenia-administrative-community-polygons"
+   },
+   {
+    "title": "Open Data Armenia - REC Caucasus Community Boundaries of Armenia",
+    "url": "https://data.opendata.am/dataset/recc-2836a9131b6d49a5ad387c805b0cca57"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "consolidated-community-boundaries-armenia",
+  "name_en": "Current (consolidated) community boundaries of Armenia, post-2017 amalgamation",
+  "category": "administrative",
+  "description_en": "No open download of the current consolidated community boundaries was found. Traces: the National Geoportal (geoportal.am) has a 'community' map layer and thematic 'Administrative boundary' group; its public GeoJSON for marz borders (openlayers/data/marzer.geojson, ~3.9 MB) is downloadable but community_settlement.geojson returns 404; WSL's FORACCA climate web app lists 'Community' (consolidated) and 'Settlement' locations, so those boundaries exist at WSL/Armhydromet.",
+  "producer": "Cadastre Committee (geoportal.am); Ministry of Territorial Administration and Infrastructure (competent authority, not verified)",
+  "project_or_programme": "National Geoportal of Armenia",
+  "year_or_period": "Not stated",
+  "coverage": "national",
+  "resolution": "community polygons",
+  "format": "vector",
+  "license": null,
+  "access_url": "https://geoportal.am/",
+  "direct_download_or_service": null,
+  "open_access": null,
+  "gap_or_issue": "Not published as an open layer. geoportal.am's WMS (https://geoportal.am/gs/ENV/wms) listed no layers anonymously. Ask the Cadastre Committee or the Ministry of Territorial Administration and Infrastructure for the shapefile with settlement-to-community lookup.",
+  "usable_for": "Essential for community-level programme mapping; without it, join project communities by name to the 913-polygon pre-consolidation layer.",
+  "sources": [
+   {
+    "title": "National Geoportal of Armenia home",
+    "url": "https://geoportal.am/"
+   },
+   {
+    "title": "FORACCA Armenia climate indicators web app (community / settlement location types)",
+    "url": "https://static.wsl.ch/foracca/"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "slug": "geoportal-am-national-geoportal",
+  "name_en": "National Geoportal of Armenia (geoportal.am) - Cadastre Committee",
+  "category": "administrative",
+  "description_en": "Armenian-language national spatial data infrastructure portal (hy/ru/en) with map viewer and metadata catalogue; thematic groups include administrative boundaries, real estate, addresses, orthophotos, relief, surface water, geographic names, natural disasters, environmental pollution and monitoring, protected areas, geology, plant and animal distribution, climate, forests, agriculture, soils and hydrography. OGC services run on GeoServer (WMS endpoints https://geoportal.am/gs/ENV/wms and /gs/arpis/wms).",
+  "producer": "Cadastre Committee of Armenia",
+  "project_or_programme": "National Geoportal / NSDI",
+  "year_or_period": "Operating (new geoportal reported in preparation)",
+  "coverage": "national",
+  "resolution": "varies",
+  "format": "web-service",
+  "license": null,
+  "access_url": "https://geoportal.am/",
+  "direct_download_or_service": "WMS GetCapabilities https://geoportal.am/gs/ENV/wms?service=WMS&version=1.3.0&request=GetCapabilities returns 200 but an empty layer list anonymously; GetMap for ENV_Climate returned LayerNotDefined",
+  "open_access": null,
+  "gap_or_issue": "Thematic layers appear to need an account (login link on site) or are not exposed anonymously; this was not confirmed with a registered account. The cartographic site maparmenia.am loaded only a 'Loading styles and images' shell. Metadata catalogue pages loaded but listed no records without JavaScript.",
+  "usable_for": "Authoritative source for cadastral, orthophoto and thematic layers if a data-sharing agreement or account is obtained.",
+  "sources": [
+   {
+    "title": "National Geoportal of Armenia",
+    "url": "https://geoportal.am/"
+   },
+   {
+    "title": "Geoportal metadata catalogue page",
+    "url": "https://geoportal.am/metadata"
+   },
+   {
+    "title": "Geoportal ENV WMS GetCapabilities",
+    "url": "https://geoportal.am/gs/ENV/wms?service=WMS&version=1.3.0&request=GetCapabilities"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "open-data-armenia-ckan-portal",
+  "name_en": "Open Data Armenia - Data Catalog Armenia (data.opendata.am, CKAN)",
+  "category": "administrative",
+  "description_en": "Civil-society CKAN catalogue (Open Data Development Center) that harvests Armenian and international datasets: groups include geospatial (405 datasets), statistics (1,081), environment (28). It mirrors ARMSIS, UNEP GRID Sustainable Caucasus, REC Caucasus, Armstat, HDX and World Bank layers with a full CKAN API.",
+  "producer": "Open Data Armenia / Open Data Development Center",
+  "project_or_programme": "Open Data Armenia",
+  "year_or_period": "Active; Armstat tables refreshed 2026-10-30",
+  "coverage": "national",
+  "resolution": "dataset catalogue",
+  "format": "web-service",
+  "license": "Varies per dataset (CC0, CC BY, public domain, many unspecified)",
+  "access_url": "https://data.opendata.am/",
+  "direct_download_or_service": "CKAN API https://data.opendata.am/api/3/action/package_search ; group list https://data.opendata.am/api/3/action/group_list?all_fields=true",
+  "open_access": true,
+  "gap_or_issue": "Many geospatial entries are stale mirrors whose original hosts are down (ARMSIS, UNEP GRID, REC Caucasus ArcGIS), so catalogue presence does not guarantee the file is retrievable; a 2020 EEA-commissioned report said Armenia had no official open data portal and data.gov.am does not resolve.",
+  "usable_for": "Fastest discovery route for Armenian datasets and licences; also the host of the open community polygons and Sevan monitoring files.",
+  "sources": [
+   {
+    "title": "Open Data Armenia - Data Catalog",
+    "url": "https://data.opendata.am/"
+   },
+   {
+    "title": "CKAN group list (counts)",
+    "url": "https://data.opendata.am/api/3/action/group_list?all_fields=true"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "slug": "legacy-armenian-geonode-hosts-armsis-unep-grid",
+  "name_en": "Legacy GIS hosts: ARMSIS GeoNode (armsis.cas.am) and UNEP GRID 'Sustainable Caucasus' GeoNode",
+  "category": "administrative",
+  "description_en": "Two GeoNode platforms originally served many Armenian layers (soils, salinity, SOC, land use, forests, landslides, mudflows, seismic, climate, hydrogeology, canals, protected areas) via OGC WMS/WFS/WCS. ARMSIS (Armenian Soil Information System, ANAU / FAO / GSP) at armsis.cas.am did not resolve in DNS on 2026-11-04; the UNEP GRID site sustainable-caucasus.unepgrid.ch returned a 'Sustainable Caucasus - Under maintenance' page and old download paths returned 404.",
+  "producer": "ANAU / FAO Global Soil Partnership (ARMSIS); UNEP GRID-Geneva / SCOPES (Sustainable Caucasus)",
+  "project_or_programme": "ArmSIS; Sustainable Caucasus",
+  "year_or_period": "Catalogue entries harvested 2023-07-08 and 2023-07-14",
+  "coverage": "national",
+  "resolution": "varies",
+  "format": "web-service",
+  "license": null,
+  "access_url": "https://sustainable-caucasus.unepgrid.ch/",
+  "direct_download_or_service": null,
+  "open_access": null,
+  "gap_or_issue": "Currently not serving data to us. Contact UNEP GRID-Geneva and ANAU / Centre of the Agricultural Services to recover the layers; check whether the new GeoNode catalogue (#/dataset/...) comes back after maintenance.",
+  "usable_for": "High-value source of Armenian thematic layers if restored.",
+  "sources": [
+   {
+    "title": "Sustainable Caucasus GeoNode (maintenance page)",
+    "url": "https://sustainable-caucasus.unepgrid.ch/"
+   },
+   {
+    "title": "Open Data Armenia - ARMSIS Soil Map record linking to armsis.cas.am",
+    "url": "https://data.opendata.am/dataset/armsis-44"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "slug": "ministry-of-environment-and-agency-portals-status",
+  "name_en": "Ministry of Environment and subordinate portals (env.am, nature-ic.am, Hydromet, Water Resources Management Agency, Hayantar): data access status",
+  "category": "administrative",
+  "description_en": "Status check on 2026-11-04: env.am (Ministry of Environment) loaded but no geodata catalogue was identified; nature-ic.am (UNDP Climate Change Information Platform) loaded and hosts reports (river basin management plan updates, forest inventory strategy 2021) but no GIS downloads; armmonitoring.am returned HTTP 500; meteo.am timed out; wrma.am and forest.am returned 403; hayantar.am had a self-signed certificate; data.gov.am and mnp.am did not resolve.",
+  "producer": "Ministry of Environment of Armenia and subordinate agencies; UNDP (nature-ic.am)",
+  "project_or_programme": "Government web presence",
+  "year_or_period": "Checked 2026-11-04",
+  "coverage": "national",
+  "resolution": "not applicable",
+  "format": "web-service",
+  "license": null,
+  "access_url": "https://www.env.am/",
+  "direct_download_or_service": null,
+  "open_access": null,
+  "gap_or_issue": "Failures may be blocking of automated clients rather than outages (403s) - retry from a browser. Government data therefore has to be requested formally; no ministry geoportal or open-data feed was identified.",
+  "usable_for": "Identifies where to send data requests (Ministry of Environment, Hydromet, Water Resources Management Agency, Hayantar).",
+  "sources": [
+   {
+    "title": "Ministry of Environment of Armenia",
+    "url": "https://www.env.am/"
+   },
+   {
+    "title": "Climate Change Information Platform (UNDP, nature-ic.am)",
+    "url": "https://nature-ic.am/en"
+   },
+   {
+    "title": "Climate Change Information Platform - projects",
+    "url": "https://nature-ic.am/en/projects"
+   }
+  ],
+  "confidence": "medium"
+ }
+]

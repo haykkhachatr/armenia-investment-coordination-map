@@ -1,0 +1,7 @@
+# raw inputs (re-fetch with scripts/), unclear-licence full community polygons, personal pitch notes
+data/raw/
+data/communities_lite.geojson
+DEMO_GUIDE_hy.md
+__pycache__/
+*.pyc
+node_modules/

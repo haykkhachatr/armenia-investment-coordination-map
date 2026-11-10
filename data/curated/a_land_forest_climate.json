@@ -1,0 +1,2764 @@
+[
+ {
+  "slug": "fao-gcf-forest-resilience-armenia",
+  "title_en": "Forest resilience of Armenia, enhancing adaptation and rural green growth via mitigation (FAO/GCF, GCP/ARM/008/GCF)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41301-652523",
+    "XM-DAC-41301-689621",
+    "XM-DAC-41301-713323",
+    "XM-DAC-41317-SAP014"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": "SAP014",
+   "other": [
+    "GCP/ARM/008/GCF"
+   ]
+  },
+  "donors": [
+   "Green Climate Fund (USD 10 million grant)",
+   "Government of Armenia (co-financing)",
+   "Austrian Development Agency (co-financing)",
+   "WWF Armenia (co-financing)",
+   "Autonomous Province of Bolzano, Italy (co-financing)",
+   "FAO (co-financing)"
+  ],
+  "implementers": [
+   "FAO",
+   "Environmental Project Implementation Unit (EPIU), State Agency of the Ministry of Environment"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Hayantar SNCO (state forest management)"
+  ],
+  "start": "2021-11",
+  "end": "2029-11",
+  "status": "active",
+  "budget_usd": 18704730,
+  "budget_original": "GCF grant USD 10,000,000 + co-financing USD 8,704,730 = USD 18.7 million total (GCF project page SAP014)",
+  "cofinancing_note": "Co-financing USD 8,704,730 (in-kind and grant) from Government of Armenia, ADA, FAO, WWF Armenia and Autonomous Province of Bolzano.",
+  "themes": [
+   "forestry",
+   "climate-adaptation",
+   "climate-mitigation-energy",
+   "rural-community-development"
+  ],
+  "summary_en": "FAO and Armenia's Environmental Project Implementation Unit (EPIU) implement this eight-year Green Climate Fund project in the two marzes with the highest forest degradation, Lori and Syunik. It aims to raise forest cover by 2.5 percent, cut rural fuelwood demand by at least 30 percent, and give communities a larger role in forest and natural-resource governance. The project also sets up forest nurseries and supports the national forest monitoring and assessment system.",
+  "activities_en": [
+   "Climate-adaptive afforestation, reforestation and sustainable forest management with Hayantar SNCO",
+   "Forest nurseries (Hrazdan and Sisian) with seed cold-storage facilities",
+   "Community-led forest concessions and natural-resource governance",
+   "Fuelwood efficiency: improved woodstove design and national energy-efficiency standards",
+   "Updating forestry and climate curricula at universities and vocational schools",
+   "Support to the National Forest Monitoring and Assessment (NFMA) system"
+  ],
+  "results_en": [
+   "103 ha afforested, 10 demonstration plots set up, over 570,000 seedlings produced (FAO fact sheet, 22 Oct 2025)",
+   "Four national energy-efficiency standards adopted (target was one)",
+   "Collect Earth survey of Armenian land categories completed; 100% of Year-1 and 50% of Year-2 NFMA field data collected"
+  ],
+  "locations": [
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "FAO fact sheet (Oct 2025): Lori marz, 105 rural communities across 8 municipalities. Communities not named in the source. FAO Europe (5 Apr 2022): target regions Lori (north) and Syunik (south)."
+   },
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "FAO fact sheet (Oct 2025): Syunik marz, 102 rural communities across 7 municipalities. Communities not named in the source."
+   },
+   {
+    "marz": "Syunik",
+    "district": "Sisian",
+    "community": "Sisian",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "FAO fact sheet (Oct 2025): forest nursery and seed cold-storage facility at Sisian."
+   },
+   {
+    "marz": "Kotayk",
+    "district": "Hrazdan",
+    "community": "Hrazdan",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "FAO fact sheet (Oct 2025): forest nursery and seed cold-storage facility at Hrazdan (Kotayk marz, outside the Lori/Syunik target marzes)."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Collect Earth survey of Armenia's land categories",
+    "kind": "dataset",
+    "note": "Completed under the NFMA component per FAO fact sheet, Oct 2025"
+   },
+   {
+    "name": "NFMA field-data collection (Year 1 complete, Year 2 half complete)",
+    "kind": "dataset",
+    "note": "National forest monitoring and assessment system data"
+   },
+   {
+    "name": "Annual planting-site mapping (2024 finalized, 2025 under way)",
+    "kind": "map",
+    "note": "Per FAO fact sheet"
+   },
+   {
+    "name": "Seed collection and preservation protocols; technical guide on plant production",
+    "kind": "report",
+    "note": "Per FAO fact sheet"
+   }
+  ],
+  "sources": [
+   {
+    "title": "GCF project page SAP014",
+    "url": "https://www.greenclimate.fund/project/sap014"
+   },
+   {
+    "title": "FAO Armenia fact sheet: Forest resilience of Armenia (22 Oct 2025)",
+    "url": "https://www.fao.org/armenia/news/detail/fact-sheet--forest-resilience-of-armenia---enhancing-adaptation-and-rural-green-growth-via-mitigation/en"
+   },
+   {
+    "title": "FAO: In Armenia, FAO and its partners boost forestry efforts and climate action (5 Apr 2022)",
+    "url": "https://www.fao.org/europe/news/detail/In-Armenia-FAO-and-its-partners-boost-forestry-efforts-and-climate-action/en"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Merged four IATI records: FAO project (652523), FAO complementary funding (689621), FAO GCF Accredited Entity fee (713323, USD 0.75 m) and the GCF record (SAP014). Budget is taken from the GCF page; IATI commitment values differ (GCF record 12.4 m, FAO 10.0 m + 1.63 m + 0.75 m fee). Individual communities and municipalities are not published in the sources found; marz-level only. Hrazdan nursery is in Kotayk, not in the two target marzes. The sibling GCF project SAP059 explicitly excludes Lori, Syunik and Yerevan because they are covered by this project. A search-engine summary also reported ~9,000 improved woodstoves for vulnerable households in Lori and Syunik; not confirmed on an opened page, so not listed as a result."
+ },
+ {
+  "slug": "gcf-fueling-green-recovery-armenia",
+  "title_en": "Fueling Green Recovery in Armenia - advancing forest infrastructure and creating sustainable jobs for rural communities (GCF SAP059)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41317-SAP059"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": "SAP059",
+   "other": []
+  },
+  "donors": [
+   "Green Climate Fund (USD 9,493,842 grant)",
+   "Government of Armenia (USD 506,151 in-kind)"
+  ],
+  "implementers": [
+   "Environmental Project Implementation Unit (EPIU), State Agency of the Ministry of Environment (accredited and executing entity)"
+  ],
+  "national_partners": [
+   "Hayantar SNCO",
+   "Armenia Tree Project Foundation",
+   "My Forest Armenia Foundation",
+   "Ministry of Environment"
+  ],
+  "start": "2025-10",
+  "end": "2030-10",
+  "status": "active",
+  "budget_usd": 10000000,
+  "budget_original": "GCF grant USD 9,493,842 + in-kind co-financing USD 506,151 = USD 10.0 million (GCF project page SAP059)",
+  "cofinancing_note": "USD 506,151 in-kind from Government of Armenia.",
+  "themes": [
+   "forestry",
+   "climate-adaptation",
+   "climate-mitigation-energy",
+   "rural-community-development",
+   "agriculture-value-chain"
+  ],
+  "summary_en": "EPIU implements a five-year Green Climate Fund project to expand national forest-seedling infrastructure and plant new forest in eight marzes that are not covered by the FAO/GCF forest resilience project. It aims to supply 20 million seedlings a year by 2030, establish about 1,300 ha of forest in mountain areas and create about 3,500 green jobs for vulnerable rural people. Hayantar SNCO, Armenia Tree Project and My Forest Armenia are the implementing partners named in the funding proposal.",
+  "activities_en": [
+   "Seed bank and greenhouses under Hayantar SNCO (one 1,000 m2 greenhouse in each beneficiary marz), plus greenhouses at Armenia Tree Project and My Forest Armenia",
+   "About 1,000 household backyard seedling nurseries in vulnerable municipalities",
+   "Establishment of around 1,300 ha of forest (about 4 million trees) on 120 mapped plots of 3-40 ha in about 50 municipalities",
+   "Non-timber forest product value chains and agroforestry; 3,500 sustainable jobs target",
+   "Digital monitoring (MRV) and investment platform for forest restoration"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "GCF funding proposal text published in the GCF IATI record: 'activities will be implemented in the following 8 marzes: Tavush, Shirak, Gegharkunik, Kotayk, Aragatsotn, Armavir, Ararat, Vayots Dzor'. Plots are located in 50 municipalities (not named)."
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "GCF funding proposal text published in the GCF IATI record: 'activities will be implemented in the following 8 marzes: Tavush, Shirak, Gegharkunik, Kotayk, Aragatsotn, Armavir, Ararat, Vayots Dzor'. Plots are located in 50 municipalities (not named)."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "GCF funding proposal text published in the GCF IATI record: 'activities will be implemented in the following 8 marzes: Tavush, Shirak, Gegharkunik, Kotayk, Aragatsotn, Armavir, Ararat, Vayots Dzor'. Plots are located in 50 municipalities (not named)."
+   },
+   {
+    "marz": "Kotayk",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "GCF funding proposal text published in the GCF IATI record: 'activities will be implemented in the following 8 marzes: Tavush, Shirak, Gegharkunik, Kotayk, Aragatsotn, Armavir, Ararat, Vayots Dzor'. Plots are located in 50 municipalities (not named)."
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "GCF funding proposal text published in the GCF IATI record: 'activities will be implemented in the following 8 marzes: Tavush, Shirak, Gegharkunik, Kotayk, Aragatsotn, Armavir, Ararat, Vayots Dzor'. Plots are located in 50 municipalities (not named)."
+   },
+   {
+    "marz": "Armavir",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "GCF funding proposal text published in the GCF IATI record: 'activities will be implemented in the following 8 marzes: Tavush, Shirak, Gegharkunik, Kotayk, Aragatsotn, Armavir, Ararat, Vayots Dzor'. Plots are located in 50 municipalities (not named)."
+   },
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "GCF funding proposal text published in the GCF IATI record: 'activities will be implemented in the following 8 marzes: Tavush, Shirak, Gegharkunik, Kotayk, Aragatsotn, Armavir, Ararat, Vayots Dzor'. Plots are located in 50 municipalities (not named)."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "GCF funding proposal text published in the GCF IATI record: 'activities will be implemented in the following 8 marzes: Tavush, Shirak, Gegharkunik, Kotayk, Aragatsotn, Armavir, Ararat, Vayots Dzor'. Plots are located in 50 municipalities (not named)."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Map of 120 identified afforestation plots (about 1,300 ha, 50 municipalities)",
+    "kind": "map",
+    "note": "Prepared by the Ministry of Environment in 2020; to be finalised at inception (Annex I of the funding proposal). Not seen by us."
+   }
+  ],
+  "sources": [
+   {
+    "title": "GCF project page SAP059",
+    "url": "https://www.greenclimate.fund/project/sap059"
+   },
+   {
+    "title": "GCF document: Fueling Green Recovery in Armenia (PPF application)",
+    "url": "https://www.greenclimate.fund/document/fueling-green-recovery-armenia-advancing-forest-infrastructure-and-creating-sustainable-0"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Marz list, plot count and targets come from the GCF funding-proposal text carried in the IATI description (GCF is the publisher); the GCF project page itself names no municipalities. Final site selection was to be completed at project inception, so municipalities may differ. Yerevan, Syunik and Lori are explicitly excluded because they are covered by GCF SAP014 (FAO). First GCF disbursement USD 2.0 m on 14 Jan 2026. Relationship with the SDC-funded FORACCA project (Shirak, Lori, Gegharkunik sites) is complementary but not the same programme."
+ },
+ {
+  "slug": "gcf-adaptive-capacities-early-warning-armenia",
+  "title_en": "Scaling up national adaptive capacities for climate change-driven natural hazards through strengthening monitoring and early warning systems (GCF SAP068)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41317-SAP068"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": "SAP068",
+   "other": []
+  },
+  "donors": [
+   "Green Climate Fund (USD 9,499,990 grant)",
+   "Government of Armenia (USD 500,000 in-kind)"
+  ],
+  "implementers": [
+   "Environmental Project Implementation Unit (EPIU), State Agency of the Ministry of Environment (accredited entity)"
+  ],
+  "national_partners": [
+   "Ministry of Environment"
+  ],
+  "start": "2026-03",
+  "end": "2041-03",
+  "status": "active",
+  "budget_usd": 10000000,
+  "budget_original": "GCF grant USD 9,499,990 + in-kind co-financing USD 500,000 = USD 10.0 million (GCF project page SAP068)",
+  "cofinancing_note": "USD 500,000 in-kind (USD 400,000 + USD 100,000).",
+  "themes": [
+   "disaster-risk",
+   "climate-adaptation",
+   "policy-capacity"
+  ],
+  "summary_en": "EPIU is the accredited entity for a Green Climate Fund project to build a people-centred, national multi-hazard early warning system for Armenia. It modernises meteorological and hydrological observation and forecasting, strengthens multi-channel early-warning dissemination, and develops resilience-financing tools such as forecast-based financing and climate micro-insurance. The GCF page targets about 1.07 million direct beneficiaries.",
+  "activities_en": [
+   "Modernise meteorological and hydrological observation and forecasting systems",
+   "Multi-channel early-warning dissemination and risk communication, including inclusive warnings for about 300,000 vulnerable people",
+   "Resilience-financing mechanisms: forecast-based financing and climate micro-insurance"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "GCF project page SAP068 lists Armenia as the location; no marz, community or station sites are named."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "GCF project page SAP068",
+    "url": "https://www.greenclimate.fund/project/sap068"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Nationwide system; no sites published. GCF page shows approval 28 Mar 2026 and a USD 3.2 m disbursement on 19 Apr 2026; the 'duration' field (5) conflicts with the 2041 completion date (about 15 years). No source found naming UNDP or WMO as implementing parties."
+ },
+ {
+  "slug": "fao-gef-ldn-armenia",
+  "title_en": "Implementation of Armenia's LDN commitments through sustainable land management and restoration of degraded landscapes (FAO/GEF, GCP/ARM/010/GFF)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-BRIDGE-6385676864-10365",
+    "XM-DAC-41301-666622",
+    "XM-DAC-41301-666941"
+   ],
+   "wb": null,
+   "gef": "10365",
+   "gcf": null,
+   "other": [
+    "GCP/ARM/010/GFF",
+    "FAO entity number 666622 (FSP); 666941 (PPG)"
+   ]
+  },
+  "donors": [
+   "Global Environment Facility (GEF-7 grant USD 2,183,105)",
+   "Government of Armenia and other co-financiers (USD 12,018,000 co-financing)"
+  ],
+  "implementers": [
+   "FAO (GEF agency)",
+   "Environmental Project Implementation Unit (EPIU), Ministry of Environment (executing partner)"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Ministry of Economy",
+   "Ministry of Territorial Administration and Infrastructure",
+   "Lori and Syunik marz administrations"
+  ],
+  "start": "2022-08",
+  "end": "2027-09",
+  "status": "active",
+  "budget_usd": 14201105,
+  "budget_original": "GEF grant USD 2,183,105 + co-financing USD 12,018,000 = USD 14,201,105 total (ProDoc and GEF portal; GEF agency fee USD 207,395 extra)",
+  "cofinancing_note": "USD 12,018,000 co-financing, including the FAO/GCF forest resilience project that works in the same marzes.",
+  "themes": [
+   "land-degradation-slm",
+   "pastures-livestock",
+   "forestry",
+   "agriculture-value-chain",
+   "policy-capacity",
+   "rural-community-development"
+  ],
+  "summary_en": "This FAO-implemented, GEF-financed project helps Armenia meet its national Land Degradation Neutrality (LDN) targets. It works at national level on policy, LDN monitoring and capacity, and on the ground in two landscapes: Sisian (former Gorayk) community in Syunik and Tumanyan community in Lori, where it supports restoration of degraded grassland and cropland, forest restoration (jointly with the FAO/GCF project) and land-based value chains such as dairy, honey, berries and organic vegetables.",
+  "activities_en": [
+   "Strengthen enabling environment: LDN integrated in policies and law, intersectoral coordination mechanism",
+   "Map land-degradation trends and drivers, set LDN baselines and targets in Lori and Syunik (Trends.Earth, Collect Earth)",
+   "Participatory integrated land-management plans in target communities and 'LDN learning landscapes'",
+   "Restore degraded grassland and cropland; forest restoration with FAO/GCF co-financing",
+   "Strengthen two land-based value chains (at least one focused on women) and update university curricula",
+   "Monitoring system for LDN indicators and UNCCD reporting"
+  ],
+  "results_en": [
+   "Planned targets (ProDoc): 4,000 ha degraded grassland restored; 7,300 ha forest land restored (co-financing); 166,000 ha under SLM (110,000 forest, 50,000 grassland, 6,000 cropland); 2,500 beneficiaries",
+   "Reported to date (UN Armenia): about 300 ha degraded arable land improved in Tumanyan and Sisian (sainfoin, alfalfa, grains); 34,000 vegetable seedlings distributed; 120 beehives, first honey harvest Aug-Sep 2024"
+  ],
+  "locations": [
+   {
+    "marz": "Syunik",
+    "district": "Sisian",
+    "community": "Sisian (former Gorayk consolidated community)",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Panorama.am (29 Apr 2023) and Hetq (18 Aug 2026): target communities are Sisian (former Gorhayk/Gorayk) in Syunik. ProDoc names Syunik pasture-user and farmer associations being engaged (Tsghuk, Gorayq, Spandaryan CPUAs; Kapan Small Farmers Association; Syunik Water Users Association). UN Armenia: results reported in Tumanyan and Sisian."
+   },
+   {
+    "marz": "Lori",
+    "district": "Tumanian",
+    "community": "Tumanyan consolidated community",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Panorama.am (29 Apr 2023): target community Tumanyan in Lori. Ecolur (14 Feb 2024): clean fields and pasture improvement 'in 8 settlements of Lori Region'. Tumanyan municipality has Tumanyan town plus seven villages."
+   },
+   {
+    "marz": "Lori",
+    "district": "Tumanian",
+    "community": "Ahnidzor",
+    "settlements": [
+     "Ahnidzor"
+    ],
+    "lat": 40.90764,
+    "lon": 44.82041,
+    "precision": "community",
+    "evidence": "GEF/IATI location record for GEF 10365 gives Ahnidzor (lat 40.90764, lon 44.82041); the ProDoc lists the 'Ahnidzor Community Pastures Users Association' among Lori associations to be engaged. Village belongs to Tumanyan municipality."
+   },
+   {
+    "marz": "Lori",
+    "district": "Tumanian",
+    "community": "Atan",
+    "settlements": [
+     "Atan"
+    ],
+    "lat": 40.92972,
+    "lon": 44.84302,
+    "precision": "community",
+    "evidence": "GEF/IATI location record for GEF 10365 gives Atan (lat 40.92972, lon 44.84302); the ProDoc lists the 'Atan Community Pastures Users Association' among Lori associations to be engaged. Village belongs to Tumanyan municipality."
+   },
+   {
+    "marz": "Lori",
+    "district": "Tumanian",
+    "community": "Karinj",
+    "settlements": [
+     "Karinj"
+    ],
+    "lat": 40.97237,
+    "lon": 44.68979,
+    "precision": "community",
+    "evidence": "GEF/IATI location record for GEF 10365 gives Karinj (lat 40.97237, lon 44.68979); the ProDoc lists the 'Qaridj Community Pastures Users Association' among Lori associations to be engaged. Village belongs to Tumanyan municipality."
+   },
+   {
+    "marz": "Lori",
+    "district": "Tumanian",
+    "community": "Lorut",
+    "settlements": [
+     "Lorut"
+    ],
+    "lat": 40.93717,
+    "lon": 44.77142,
+    "precision": "community",
+    "evidence": "GEF/IATI location record for GEF 10365 gives Lorut (lat 40.93717, lon 44.77142); the ProDoc lists the 'Lorut Community Pastures Users Association' among Lori associations to be engaged. Village belongs to Tumanyan municipality."
+   },
+   {
+    "marz": "Lori",
+    "district": "Tumanian",
+    "community": "Shamut",
+    "settlements": [
+     "Shamut"
+    ],
+    "lat": 40.93894,
+    "lon": 44.79424,
+    "precision": "community",
+    "evidence": "GEF/IATI location record for GEF 10365 gives Shamut (lat 40.93894, lon 44.79424); the ProDoc lists the 'Shamut Community Pastures Users Association' among Lori associations to be engaged. Village belongs to Tumanyan municipality."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "LDN indicator assessment and maps for Lori and Syunik (Trends.Earth, Collect Earth)",
+    "kind": "map",
+    "note": "Planned output in the ProDoc; completion not confirmed in sources found"
+   },
+   {
+    "name": "Land-degradation trends and drivers map, LDN local baselines and targets for target communities",
+    "kind": "map",
+    "note": "Planned (ProDoc output 1.2)"
+   },
+   {
+    "name": "Integrated land-management plans for target communities in Lori and Syunik",
+    "kind": "report",
+    "note": "Planned (ProDoc output 2.1)"
+   },
+   {
+    "name": "LDN monitoring system (land cover, soil productivity, soil organic carbon)",
+    "kind": "tool",
+    "note": "Planned (ProDoc output 3.1.3)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "GEF portal: project 10365",
+    "url": "https://www.thegef.org/projects-operations/projects/10365"
+   },
+   {
+    "title": "Panorama.am: FAO brings together stakeholders in Syunik to kick off project combatting land degradation (29 Apr 2023)",
+    "url": "https://panorama.am/en/news/2023/04/29/FAO-Syunik/2829008"
+   },
+   {
+    "title": "UN Armenia: Fostering a sustainable future in Armenia - sustainable land management initiatives",
+    "url": "https://armenia.un.org/en/287303-fostering-sustainable-future-armenia-role-sustainable-land-management-initiatives"
+   },
+   {
+    "title": "Ecolur: Lori Regional Head presented projects implemented by EPIU (14 Feb 2024)",
+    "url": "https://www.ecolur.org/en/news/forest/15377/"
+   },
+   {
+    "title": "Hetq: where did the land degradation grant go (18 Aug 2026)",
+    "url": "https://hetq.am/en/article/183355"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Pilot landscapes confirmed by two independent public sources (Panorama.am, Hetq) and by the ProDoc (Lori and Syunik). The five Tumanyan villages (Ahnidzor, Atan, Karinj, Lorut, Shamut) come from the GEF IATI location list and the ProDoc's list of community pasture associations; Tumanyan municipality contains exactly these plus Marts, Kober kayaran and the town (8 settlements, matching Ecolur's '8 settlements'). In Syunik no village list was found; only Sisian/Gorayk community. UN Armenia also mentions Dsegh community in Lori (a farmer profile), not confirmed as a project site. Hetq (Aug 2026) reports conflicting ministry hectare figures (404.3 ha arable, 420 ha pastures) and says the ministry would not say where work was done; those figures are not used. Hetq also describes a 'second phase' to 30 Sep 2027 on forest sustainability in Lori/Syunik, which could not be tied to a separate donor activity. Dates: IATI FAO FSP record 2022-08 to 2027-09; GEF IATI 2022-09 to 2027-09; GEF approval 16 Sep 2021. PPG record (666941) ran 2020-02 to 2022-03. Outputs, targets and the association list come from the project's ProDoc (project document), which has no public URL; the public sources are listed above."
+ },
+ {
+  "slug": "wb-gef-resiland-armenia",
+  "title_en": "RESILAND: Armenia Resilient Landscapes Project (World Bank P179988 / GEF 11046)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-BRIDGE-6385676864-11046",
+    "SE-0-SE-6-16023",
+    "SE-0-SE-6-16023-16023A0101",
+    "SE-0-SE-6-16023-16023A0102"
+   ],
+   "wb": "P179988",
+   "gef": "11046",
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Global Environment Facility (USD 5.45 million grant)",
+   "Sweden / Sida (USD 3.65 million grant, SEK 47 million)",
+   "Government of Armenia (co-financing)"
+  ],
+  "implementers": [
+   "World Bank (GEF agency)",
+   "Environmental Project Implementation Unit (EPIU), Ministry of Environment"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Hayantar SNCO"
+  ],
+  "start": "2024-05",
+  "end": "2028-12",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "GEF USD 5.45 million + Sweden USD 3.65 million grants (World Bank press release, 8 May 2024). GEF portal lists total co-financing USD 30,466,278. No total project cost was confirmed on an opened page.",
+  "cofinancing_note": "GEF portal: total co-financing USD 30,466,278; Sweden contribution of SEK 47 million over about five years (Openaid.se).",
+  "themes": [
+   "forestry",
+   "land-degradation-slm",
+   "biodiversity-protected-areas",
+   "climate-adaptation",
+   "rural-community-development",
+   "lake-sevan"
+  ],
+  "summary_en": "The World Bank-supported RESILAND project, executed by EPIU, restores fragmented forests, degraded wetlands and abandoned mining sites in four marzes and builds the policy and institutional framework for landscape management. It also supports community forestry, non-timber forest products and ecotourism as alternative incomes. The GEF-side documentation targets improved land condition on 25,800 ha.",
+  "activities_en": [
+   "Policy review and institutional capacity for integrated landscape management",
+   "Landscape restoration: forest restoration (rebuilding fragmented forests), wetland restoration and mining-site restoration",
+   "Community benefits: community-based forestry management and ecotourism development",
+   "Project management, monitoring, evaluation and communication"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "World Bank P179988 project abstract: forest and wetland restoration 'in Ararat Plain, Lori Plateau Lakes, and in the vicinity of Lake Sevan in Gegharkunik province'. GEF IATI description: 'Project sites in Ararat, Lori and Syunik provinces as well as in vicinity of Lake Sevan in Gegharkunik province'."
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "World Bank P179988 abstract (Lori Plateau Lakes wetlands); World Bank feature story 10 Mar 2025 (forest restoration and wetland revitalisation in Lori and Syunik)."
+   },
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "GEF IATI description and World Bank feature story 10 Mar 2025 (forest restoration in Syunik)."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "World Bank P179988 abstract: 'in the vicinity of Lake Sevan in Gegharkunik province'."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "World Bank press release, 8 May 2024: Forests, wetlands and landscapes to restore in Armenia",
+    "url": "https://www.worldbank.org/en/news/press-release/2024/05/08/forests-wetlands-and-landscapes-to-restore-in-armenia-with-world-bank-support"
+   },
+   {
+    "title": "World Bank feature story, 10 Mar 2025: Healing Armenia's land",
+    "url": "https://www.worldbank.org/en/news/feature/2025/03/11/healing-armenia-s-land-a-strategic-approach-to-landscape-restoration"
+   },
+   {
+    "title": "World Bank project page P179988",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179988"
+   },
+   {
+    "title": "GEF portal: project 11046",
+    "url": "https://thegef.org/projects-operations/projects/11046"
+   },
+   {
+    "title": "Openaid.se: World Bank RESILAND Armenia Resilient Landscape Project (Sida)",
+    "url": "https://openaid.se/en/contributions/SE-0-SE-6-16023"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Marz-level only: no villages, forest enterprises, wetlands or mining sites were found on opened pages. A procurement notice surfaced by a search engine mentions a restoration plan for the Kapan Forestry Branch of Hayantar (Syunik); the document could not be opened (certificate error), so it is not used. Dates: GEF approval 26 Jan 2024, World Bank Board approval 8 May 2024, WB closing date 31 Dec 2028; Sweden contribution record runs 2023-12 to 2028-06. Sweden's two IATI rows (A0101 and A0102 'new strategy') are the same contribution split by strategy period. A search-engine summary of the World Bank page reported a total project cost of USD 9.95 million; this could not be verified, so budget_usd is left null."
+ },
+ {
+  "slug": "undp-gef-lake-sevan-land-ecosystems",
+  "title_en": "Conservation and Sustainable Management of Land Resources and High Value Ecosystems in Lake Sevan Basin for Multiple Benefits (UNDP/GEF 10854)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-BRIDGE-6385676864-10854",
+    "XM-DAC-41114-OUTPUT-00123413",
+    "XM-DAC-41114-PROJECT-00129882"
+   ],
+   "wb": null,
+   "gef": "10854",
+   "gcf": null,
+   "other": [
+    "UNDP PIMS 6586"
+   ]
+  },
+  "donors": [
+   "Global Environment Facility (GEF-7 grant USD 3,598,631)",
+   "Co-financiers (USD 29,701,763)"
+  ],
+  "implementers": [
+   "UNDP (GEF agency)",
+   "Environmental Project Implementation Unit (EPIU), Ministry of Environment (implementing partner)",
+   "WWF Armenia (responsible party)"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Forest Committee",
+   "Sevan National Park SNCO"
+  ],
+  "start": "2023-11",
+  "end": "2028-10",
+  "status": "active",
+  "budget_usd": 33300394,
+  "budget_original": "GEF grant USD 3,598,631 + co-financing USD 29,701,763 = USD 33,300,394 (GEF portal; GEF agency fee USD 341,869 extra)",
+  "cofinancing_note": "USD 29,701,763 co-financing listed on the GEF portal (Ecolur 2022 quoted about USD 26.5 m).",
+  "themes": [
+   "land-degradation-slm",
+   "biodiversity-protected-areas",
+   "lake-sevan",
+   "forestry",
+   "rural-community-development"
+  ],
+  "summary_en": "UNDP, with EPIU and WWF Armenia, implements this GEF project to promote land degradation neutrality and secure biodiversity in the Lake Sevan basin. Demonstration sites are in six consolidated communities in Gegharkunik and Vayots Dzor, with restoration of about 2,200 ha of degraded forest land and stronger management of Sevan National Park.",
+  "activities_en": [
+   "Promote land degradation neutrality in the Lake Sevan basin landscape",
+   "Secure critical habitats for biodiversity services (including Sevan National Park management)",
+   "Biodiversity-friendly economic development and incentives for local communities",
+   "Restore about 2,200 ha of degraded forest land in coordination with the State Forestry Committee",
+   "Knowledge management, monitoring and evaluation"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": "Martuni",
+    "community": "Martuni",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur 21 Mar 2024 and 2022: demonstration sites include Martuni, Vardenis and Shoghakat consolidated communities."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": "Vardenis",
+    "community": "Vardenis",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur 21 Mar 2024: Vardenis is a demonstration community."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": "Shoghakat",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur 21 Mar 2024: Shoghakat is a demonstration community (district not checked)."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": "Yeghegis",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur 21 Mar 2024: Yeghegis is a demonstration community."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": "Vayk",
+    "community": "Vayk",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur 21 Mar 2024: Vayk is a demonstration community."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": "Jermuk",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur 21 Mar 2024: Jermuk is a demonstration community."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": "Sevan National Park",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Ecolur 21 Mar 2024: project strengthens management capacity at Sevan National Park."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "GEF portal: project 10854",
+    "url": "https://thegef.org/projects-operations/projects/10854"
+   },
+   {
+    "title": "Ecolur 21 Mar 2024: Planned to restore 2,200 ha of degraded forest land in Lake Sevan basin",
+    "url": "https://www.ecolur.org/en/news/forest/15447/"
+   },
+   {
+    "title": "Ecolur 2022: UNDP-GEF Lake Sevan basin project induction workshop",
+    "url": "https://www.ecolur.org/en/news/sevan/14203/"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Merged GEF record with UNDP's own IATI rows (PIMS-6586 'Full-Sized Project Lake Sevan'). Dates differ by source (UNDP IATI 2023-11 to 2028-10; GEF IATI 2023-11 to 2028-11; kick-off workshop 15 Mar 2024). Districts left blank where not checked against data/gazetteer.json. A search-engine summary also quoted targets of 10,000 ha irrigated land and 5,800 ha forest under sustainable management; not confirmed on an opened page, so not listed. The EU-funded EU4Sevan family (UNDP IATI 00123402, EU NEAR 2020-PCC-416204, EU4BiodiversityInSevan) is a different programme and is not included here."
+ },
+ {
+  "slug": "unep-gef-fruit-nut-tree-restoration",
+  "title_en": "Land Restoration and Ecosystem Service Improvement through Use of Fruit and Nut Tree Biodiversity in Armenia (UNEP/GEF 11140)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-BRIDGE-6385676864-11140"
+   ],
+   "wb": null,
+   "gef": "11140",
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Global Environment Facility (GEF-8 grant USD 1,971,590)",
+   "Co-financiers (USD 28,659,000)"
+  ],
+  "implementers": [
+   "UNEP (GEF agency)"
+  ],
+  "national_partners": [
+   "Forest Committee of the Ministry of Environment (executing agency)"
+  ],
+  "start": "2025-05",
+  "end": null,
+  "status": "active",
+  "budget_usd": 30630590,
+  "budget_original": "GEF grant USD 1,971,590 + co-financing USD 28,659,000 = USD 30,630,590 (GEF portal; agency fee USD 187,300 extra)",
+  "cofinancing_note": "USD 28,659,000 co-financing listed on the GEF portal.",
+  "themes": [
+   "land-degradation-slm",
+   "biodiversity-protected-areas",
+   "forestry",
+   "agriculture-value-chain",
+   "rural-community-development"
+  ],
+  "summary_en": "A UNEP-implemented, GEF-8 medium-size project executed by the Forest Committee of the Ministry of Environment. It aims to contribute to landscape restoration by using Armenia's indigenous fruit and nut tree biodiversity to improve ecosystem services, food security and rural livelihoods.",
+  "activities_en": [
+   "Landscape assessment to identify priority degraded areas and select sites (per WWF/UNEP project descriptions found via search)",
+   "Demonstration and pilot restoration sites with indigenous fruit and nut tree species in communal and degraded areas",
+   "Biodiversity and climate-adaptation knowledge centre and information system"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "GEF portal and Minamata/UNEP listings give Armenia only. No pilot marzes or communities named in any opened source."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "GEF portal: project 11140",
+    "url": "https://thegef.org/projects-operations/projects/11140"
+   },
+   {
+    "title": "Minamata Convention project listing for GEF 11140",
+    "url": "https://minamataconvention.org/en/projects/land-restoration-and-ecosystem-service-improvement-through-use-fruit-and-nut-tree"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Basics (agency, grant, co-financing, approval 12 Aug 2024) are confirmed. Pilot sites are not published yet; the 'national' location is a placeholder for 'sites not yet identified', not a claim of nationwide coverage. A search-engine summary of WWF Armenia's page says WWF-Armenia carries out the work and the project runs 2 May 2025 to 31 Dec 2027; WWF and UNEP pages returned HTTP 403 so those facts are not entered (end date left null)."
+ },
+ {
+  "slug": "undp-gef-slfm-northeastern-armenia",
+  "title_en": "Mainstreaming Sustainable Land and Forest Management in Mountain Landscapes of North-Eastern Armenia (UNDP/GEF 5353; GEF title: '...in Dry Mountain Landscapes')",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-BRIDGE-6385676864-5353"
+   ],
+   "wb": null,
+   "gef": "5353",
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Global Environment Facility (GEF-5 grant USD 2,977,169)",
+   "Co-financiers (USD 13,989,935)"
+  ],
+  "implementers": [
+   "UNDP (GEF agency)"
+  ],
+  "national_partners": [
+   "Ministry of Nature Protection (now Ministry of Environment)",
+   "Ministry of Agriculture",
+   "Hayantar SNCO"
+  ],
+  "start": "2015-12",
+  "end": "2020-12",
+  "status": "completed",
+  "budget_usd": 16967104,
+  "budget_original": "GEF grant USD 2,977,169 + co-financing USD 13,989,935 = USD 16,967,104 (GEF portal). The project's final-workshop page quotes 'total budget USD 3,157,169', which appears to be the UNDP/GEF grant side only.",
+  "cofinancing_note": "USD 13,989,935 co-financing on the GEF portal.",
+  "themes": [
+   "forestry",
+   "land-degradation-slm",
+   "pastures-livestock",
+   "climate-mitigation-energy",
+   "rural-community-development",
+   "biodiversity-protected-areas"
+  ],
+  "summary_en": "UNDP/GEF project in Lori and Tavush marzes, which hold about 65 percent of Armenia's forest resources. It integrated sustainable forest and land management into planning across about 650,000 ha, revised forest management plans, rehabilitated pastures and forests in pilot communities and supported alternative livelihoods and energy for forest-dependent villages.",
+  "activities_en": [
+   "Revision of forest management plans in six pilot forest enterprise branches (three per marz)",
+   "Community-based pasture and fodder improvement and forest-pasture management in six target communities",
+   "Forest regeneration, school forest district and sustainable non-timber use (Koghb, Noyemberyan)",
+   "Alternative livelihoods and energy (e.g. solar systems at schools and kindergartens, anti-hail stations, efficient stoves)",
+   "Dendrochronology and carbon-stock inventory to support national GHG accounting"
+  ],
+  "results_en": [
+   "227 ha under fodder production or improved in the six target communities (Regional Post)",
+   "Planning/targets reported in 2017: restoration of degraded forest, about 1,000 ha pastures, about 200,000 ha with improved soil management (Ecolur; the article's headline and body disagree on the forest figure)",
+   "Final workshop (6-7 May 2021) presented forest-regeneration results, biofuel market development, alternative livelihoods in Tavush, monitoring of illegal deforestation, dendrochronology and carbon stock inventory with national coefficients"
+  ],
+  "locations": [
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "ProDoc Annex 5: three pilot forest enterprise branches in Lori - Lalvar, Dsegh and Eghegnut. GEF: Northeastern Armenia (Lori and Tavush)."
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "ProDoc Annex 5: three pilot forest enterprise branches in Tavush - Noyemberyan, Ijevan and Artsvaberd."
+   },
+   {
+    "marz": "Lori",
+    "district": "Gugark",
+    "community": "Margahovit",
+    "settlements": [
+     "Margahovit"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Regional Post: target community Margahovit (Lori). FAO LDN ProDoc: 280 ha of degraded pastures rehabilitated in Gugark region (Gugark, Vahagn, Margahovit) under this UNDP project."
+   },
+   {
+    "marz": "Lori",
+    "district": "Gugark",
+    "community": "Gugarq",
+    "settlements": [
+     "Gugarq"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Regional Post: target settlement Gugarq (Lori). FAO LDN ProDoc: pasture rehabilitation in Gugark, Vahagn and Margahovit communities."
+   },
+   {
+    "marz": "Lori",
+    "district": "Gugark",
+    "community": "Vahagn",
+    "settlements": [
+     "Vahagn"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "FAO LDN ProDoc: pastures in Vahagn community, Gugark region, rehabilitated under this UNDP project."
+   },
+   {
+    "marz": "Tavush",
+    "district": "Idjevan",
+    "community": "Yenokavan",
+    "settlements": [
+     "Yenokavan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Regional Post: target community Yenokavan (Tavush)."
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": "Lusadzor",
+    "settlements": [
+     "Lusadzor"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Regional Post: target community Lusadzor (Tavush)."
+   },
+   {
+    "marz": "Tavush",
+    "district": "Noyemberyan",
+    "community": "Koghb",
+    "settlements": [
+     "Koghb"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Regional Post: target community Koghb (Tavush). ProDoc: school forest district of about 332 ha in Noyemberyan Forest Enterprise Branch, Koghb community area."
+   },
+   {
+    "marz": "Tavush",
+    "district": "Tavush",
+    "community": "Berd",
+    "settlements": [
+     "Berd"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Regional Post: target community Berd (Tavush)."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Revised forest management plans for pilot forest enterprise branches (e.g. Gugarq and Yeghegnut tender, Lori)",
+    "kind": "report",
+    "note": "Per ProDoc and UNDP procurement; not seen"
+   },
+   {
+    "name": "Carbon stock inventory and national coefficients for land-use accounting",
+    "kind": "dataset",
+    "note": "Presented at the 2021 final workshop (nature-ic.am)"
+   },
+   {
+    "name": "Dendrochronology studies for forest management",
+    "kind": "report",
+    "note": "Presented at the 2021 final workshop"
+   }
+  ],
+  "sources": [
+   {
+    "title": "GEF portal: project 5353",
+    "url": "https://thegef.org/projects-operations/projects/5353"
+   },
+   {
+    "title": "UNDP/GEF Project Document (2015), hosted by AUA ACE",
+    "url": "https://ace.aua.am/wp-content/uploads/2019/05/2015-2019-UNDP-Mainstreaming-Sustainable-Land-and-Forest-Management.pdf"
+   },
+   {
+    "title": "Regional Post: Armenian Forests (six target communities)",
+    "url": "https://regionalpost.org/en/articles/armenian-forests.html"
+   },
+   {
+    "title": "Nature Information Center: final workshop of the project (May 2021)",
+    "url": "https://nature-ic.am/en/news/the-final-workshop-of-“mainstreaming-sustainable-land-and-forest-management-in-mountain-landscapes-of-north-eastern-armenia”-project"
+   },
+   {
+    "title": "Ecolur 28 Dec 2017: restoration of degraded forest in Lori and Tavush",
+    "url": "https://www.ecolur.org/en/news/forest/9797/"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The GEF portal title ('Dry Mountain Landscapes') differs from the UNDP/ProDoc title ('Mountain Landscapes of North-Eastern Armenia'); same project (GEF 5353). Two different villages are called Margahovit: this project's is in Lori (Gugark region); the Adaptation Fund project near Dilijan uses a Margahovit in Tavush. Vahagn community is taken from the FAO LDN ProDoc only. District left blank where unsure. Forest enterprise branches are listed in the marz evidence, not as separate points."
+ },
+ {
+  "slug": "ifad-gef-slmip-armenia",
+  "title_en": "Sustainable Land Management for Increased Productivity in Armenia (SLMIP, GEF 8005, IFAD)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-BRIDGE-6385676864-8005"
+   ],
+   "wb": null,
+   "gef": "8005",
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Global Environment Facility (GEF-6 grant USD 3,937,500)",
+   "IFAD and other co-financiers (USD 29,473,000)"
+  ],
+  "implementers": [
+   "IFAD (GEF agency)",
+   "Rural Areas Economic Development Programme (executing agency per GEF portal)"
+  ],
+  "national_partners": [],
+  "start": "2016-07",
+  "end": "2023-02",
+  "status": "completed",
+  "budget_usd": 33410500,
+  "budget_original": "GEF grant USD 3,937,500 + co-financing USD 29,473,000 = USD 33,410,500 (GEF portal; agency fee USD 374,063 extra)",
+  "cofinancing_note": "USD 29,473,000 co-financing listed on the GEF portal, linked to IFAD's Infrastructure and Rural Finance Support Programme.",
+  "themes": [
+   "land-degradation-slm",
+   "water-irrigation",
+   "agriculture-value-chain",
+   "rural-community-development"
+  ],
+  "summary_en": "GEF-financed land-management component added to IFAD's rural infrastructure and finance programme in Armenia. Its stated aim is to enhance the resilience of rural communities living in risk-prone areas. Closed in 2023.",
+  "activities_en": [
+   "Sustainable land management and restoration of degraded land in rural communities (details not retrieved)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "UNVERIFIED. A search-engine summary of an IFAD completion report says the GEF component was implemented in nine municipalities in Syunik, Vayots Dzor and Ararat; a UNIDO country document independently says IFAD/GEF implement SLMIP 'in 3 marzes'. Neither page could be opened."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "UNVERIFIED. Same search-engine summary of IFAD completion report (nine municipalities in Syunik, Vayots Dzor and Ararat)."
+   },
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "UNVERIFIED. Same search-engine summary of IFAD completion report (nine municipalities in Syunik, Vayots Dzor and Ararat)."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "GEF portal: project 8005",
+    "url": "https://thegef.org/projects-operations/projects/8005"
+   },
+   {
+    "title": "Minamata Convention listing for SLMIP",
+    "url": "https://minamataconvention.org/es/node/9875"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Opened pages (GEF portal, Minamata listing) give Armenia only; the GEF and IFAD terminal evaluation/completion report PDFs returned 404/403. The three marz locations come only from search-engine summaries and must be verified before use on a government map. A search-engine summary of the terminal evaluation also reported 220 ha of degraded land restored with GIS-based site selection; not confirmed. Different IFAD programme names appear (Rural Areas Economic Development Programme per GEF; Infrastructure and Rural Finance Support Programme per search results)."
+ },
+ {
+  "slug": "unep-gef-agrobiodiversity-livelihoods",
+  "title_en": "Enhancing Livelihoods in Rural Communities of Armenia through Mainstreaming and Strengthening Agricultural Biodiversity Conservation and Utilization (UNEP/GEF 5483)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-BRIDGE-6385676864-5483",
+    "XM-DAC-47015-19141_Bilateral_UnitedNationsEnvironmentProgrammeUNEP-GlobalEnvironmentFacilityGEF_Bioversity"
+   ],
+   "wb": null,
+   "gef": "5483",
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Global Environment Facility (GEF-5 grant USD 883,242)",
+   "Co-financiers (USD 4,852,463)"
+  ],
+  "implementers": [
+   "UNEP (GEF agency)",
+   "Bioversity International (Rome)",
+   "Armenian National Agrarian University"
+  ],
+  "national_partners": [
+   "Ministry of Nature Protection (now Ministry of Environment)",
+   "Armenian National Agrarian University"
+  ],
+  "start": "2015-12",
+  "end": "2019-12",
+  "status": "completed",
+  "budget_usd": 5735705,
+  "budget_original": "GEF grant USD 883,242 + co-financing USD 4,852,463 = USD 5,735,705 (GEF portal)",
+  "cofinancing_note": "USD 4,852,463 co-financing on the GEF portal.",
+  "themes": [
+   "biodiversity-protected-areas",
+   "agriculture-value-chain",
+   "rural-community-development"
+  ],
+  "summary_en": "UNEP/GEF medium-size project executed by the Ministry of Nature Protection, the Armenian National Agrarian University and Bioversity International. It aimed to conserve agricultural biodiversity (notably local fruit tree varieties and crop wild relatives) and build a sustainable basis for using it to improve rural livelihoods.",
+  "activities_en": [
+   "National capacity and institutional framework for agricultural biodiversity management",
+   "Community-level agrobiodiversity conservation and use in pilot locations (final locations not confirmed)",
+   "Market and value-chain support for biodiversity-friendly products"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "GEF portal gives Armenia only. The 2014 PIF offered three candidate pilot areas (Ararat valley in Ararat/Armavir, Sevan basin in Gegharkunik, Zangezur in Syunik) with one to be chosen during project preparation; the final choice was not found."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "GEF portal: project 5483",
+    "url": "https://thegef.org/projects-operations/projects/5483"
+   },
+   {
+    "title": "UNEP-GEF Project Identification Form (2014), hosted by AUA ACE",
+    "url": "https://ace.aua.am/wp-content/uploads/2019/05/2014-UNEP-Enhancing-livelihoods-in-rural-communities-of-Armenia-through-mainstreaming-and-strengthening-agricultural-biodiversity-conservation-and-utilization.pdf"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Dates: IATI GEF 2015-12 to 2019-12; UNEP listing (via search summary) 1 Dec 2015 to 30 Jun 2020; terminal review says implementation 2016-2019. The pilot site(s) could not be confirmed because the UNEP terminal review (wedocs) and UNEP project page returned HTTP 403. The 'national' location is a placeholder for 'sites unknown'. The follow-on GEF 11140 (fruit and nut trees) is a separate record."
+ },
+ {
+  "slug": "undp-gef-developing-protected-area-system",
+  "title_en": "Developing the Protected Area System of Armenia (UNDP/GEF 3762)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-BRIDGE-6385676864-3762"
+   ],
+   "wb": null,
+   "gef": "3762",
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Global Environment Facility (GEF-4 grant USD 950,000)",
+   "Co-financiers (USD 2,000,000)"
+  ],
+  "implementers": [
+   "UNDP (GEF agency)",
+   "WWF Armenia (implementer of PA expansion work)"
+  ],
+  "national_partners": [
+   "Ministry of Nature Protection (now Ministry of Environment)"
+  ],
+  "start": "2010-03",
+  "end": "2014-09",
+  "status": "completed",
+  "budget_usd": 2950000,
+  "budget_original": "GEF grant USD 950,000 + co-financing USD 2,000,000 = USD 2,950,000 (GEF portal)",
+  "cofinancing_note": "USD 2,000,000 co-financing on the GEF portal.",
+  "themes": [
+   "biodiversity-protected-areas"
+  ],
+  "summary_en": "UNDP/GEF project to expand Armenia's nature reserves so that ecosystems are better represented in the protected-area system. In Syunik it supported the creation of Khustup State Sanctuary and the enlargement of Zangezur State Sanctuary, formalised by a government decision of 19 December 2013.",
+  "activities_en": [
+   "Rationalise the protected-area system and expand nature reserves",
+   "Map and agree borders of Khustup and Zangezur sanctuaries with adjacent communities",
+   "Institutional management capacity for protected areas"
+  ],
+  "results_en": [
+   "Government resolution N 1465-N (19 Dec 2013) approved the borders of Khustup State Sanctuary (new) and Zangezur State Sanctuary (expanded)"
+  ],
+  "locations": [
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": "Khustup and Zangezur state sanctuaries",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Ecolur: Khustup and Zangezur state sanctuaries in Syunik region mapped under UNDP-GEF 'Developing the Protected System of Armenia' with WWF as implementer; borders agreed with adjacent communities (not named)."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "UNVERIFIED (WWF Armenia page returned HTTP 403). Search-engine summaries of WWF Armenia and CEPF pages report Gnishik Protected Landscape (Vayots Dzor) as a result of this project."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Border mapping of Khustup and Zangezur sanctuaries",
+    "kind": "map",
+    "note": "Cadastral borders approved by government resolution N 1465-N, 19 Dec 2013 (Ecolur)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "GEF portal: project 3762",
+    "url": "https://thegef.org/projects-operations/projects/3762"
+   },
+   {
+    "title": "Ecolur: What kind of borders will be approved for Zangezour Biospheric Complex by Cadastre?",
+    "url": "https://www.ecolur.org/en/news/biodiversity/what-kind-of-borders-will-be-approved-for-zangezour-biodpheric-complex-by-cadastre/7081/"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Search summaries (not opened pages) also report hectares: Gnishik Protected Landscape 6,010.74 ha, Khustup 6,946.74 ha, Zangezur enlarged by 8,501.87 ha to 25,870.64 ha, and management/business plans for the three areas; verify before use. Project dates: IATI 2010-03 to 2014-09; GEF portal shows approval Jul 2009 and closure Aug 2016."
+ },
+ {
+  "slug": "undp-gef-financial-sustainability-protected-areas",
+  "title_en": "Catalyzing Financial Sustainability of Armenia's Protected Areas System (UNDP/GEF 3945)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-BRIDGE-6385676864-3945"
+   ],
+   "wb": null,
+   "gef": "3945",
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Global Environment Facility (GEF-4 grant USD 990,000)",
+   "Co-financiers incl. Caucasus Nature Fund / KfW (USD 4,760,000)"
+  ],
+  "implementers": [
+   "UNDP (GEF agency)"
+  ],
+  "national_partners": [
+   "Ministry of Nature Protection (now Ministry of Environment)",
+   "Caucasus Protected Areas Trust Fund (executing agency per GEF portal)"
+  ],
+  "start": "2010-10",
+  "end": "2016-11",
+  "status": "completed",
+  "budget_usd": 5750000,
+  "budget_original": "GEF grant USD 990,000 + co-financing USD 4,760,000 = USD 5,750,000 (GEF portal)",
+  "cofinancing_note": "USD 4,760,000 co-financing on the GEF portal.",
+  "themes": [
+   "biodiversity-protected-areas",
+   "policy-capacity"
+  ],
+  "summary_en": "UNDP/GEF project to secure long-term financial sustainability of Armenia's protected-area system, linked to the Caucasus Nature Fund / Caucasus Protected Areas Trust Fund. The sources found describe a system-level financing effort rather than site-specific works.",
+  "activities_en": [
+   "Financing and business planning for the protected-area system"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "GEF portal gives Armenia only; no individual protected areas are named on the opened page."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "GEF portal: project 3945",
+    "url": "https://thegef.org/projects-operations/projects/3945"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Terminal evaluation and project documents (erc.undp.org) could not be opened, so no site names or results are available. IATI dates 2010-10 to 2016-11; GEF portal shows closure 4 Jun 2018. Related funding: Caucasus Nature Fund (KfW) - see the KfW protected areas record."
+ },
+ {
+  "slug": "kfw-protected-areas-support-programme",
+  "title_en": "KfW Support Programme for Protected Areas - Armenia (incl. Ecoregional Conservation Programme, Javakheti Plateau; Caucasus Nature Fund support)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "DE-1-200966572",
+    "DE-1-200365411"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Germany (BMZ) via KfW Development Bank"
+  ],
+  "implementers": [
+   "KfW Development Bank (financing)",
+   "Caucasus Nature Fund (co-funding of operating costs)",
+   "Protected-area SNCOs under the Ministry of Environment"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Zangezur Biosphere Complex SNCO",
+   "Khosrov Forest State Reserve SNCO",
+   "Dilijan National Park SNCO",
+   "Lake Arpi National Park SNCO"
+  ],
+  "start": "2005-04",
+  "end": "2028-12",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "IATI description of DE-1-200966572: bilateral FC funds EUR 8.25 million incl. EUR 4.25 million for stock control. IATI commitment values: DE-1-200966572 = 11,757,387 and DE-1-200365411 = 2,846,440 (currency not stated; likely USD-converted).",
+  "cofinancing_note": null,
+  "themes": [
+   "biodiversity-protected-areas",
+   "rural-community-development"
+  ],
+  "summary_en": "German financial cooperation (BMZ via KfW) supports protected-area management and the socio-economic development of neighbouring communities in Armenia, with a long-running ecoregional programme in the Javakheti Plateau (Lake Arpi) and the regional Caucasus Nature Fund covering part of the operating costs of key protected areas. The 2026 first disbursements from the Caucasus Nature Fund went to Zangezur, Khosrov Forest, Dilijan and Lake Arpi.",
+  "activities_en": [
+   "Planning and functional management of selected protected areas (equipment, infrastructure, plans)",
+   "Socio-economic development of communities bordering protected areas",
+   "Support to protected-area system reform and financial sustainability, including the Caucasus Nature Fund",
+   "Establishment of protected areas in the Javakheti Plateau (Lake Arpi National Park)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": "Lake Arpi National Park",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "IATI title of DE-1-200365411: 'Establishment of Protected Areas in Armenia's Javakheti Plateau'; Caucasus Nature Fund page: Lake Arpi National Park is in the extreme north-west of Armenia and shares its ecosystem with Georgia's Javakheti protected areas; CNF 2026 allocation EUR 50,000."
+   },
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": "Zangezur Biosphere Complex",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Ecolur (14 Apr 2026): Caucasus Nature Fund first 2026 disbursement EUR 90,000 to 'Zangezur' Biosphere Complex; Ecolur 7081 places Zangezur in Syunik."
+   },
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": "Khosrov Forest State Reserve",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Ecolur (14 Apr 2026): CNF EUR 75,000 to 'Khosrov Forest' State Reserve; Adaptation Fund proposal places it in Ararat marz."
+   },
+   {
+    "marz": "Tavush",
+    "district": "Dilidjan",
+    "community": "Dilijan National Park",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Ecolur (14 Apr 2026): CNF EUR 70,000 to 'Dilijan' National Park; Adaptation Fund proposal places it in Tavush marz."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": "Arpa Protected Landscape",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Ecolur (14 Apr 2026): 'Arpa' Protected Landscape in Vayots Dzor received EUR 50,000 earlier from the CNF."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Ecolur 14 Apr 2026: Caucasus Nature Fund allocates EUR 285,000 to Armenia's protected areas",
+    "url": "https://www.ecolur.org/en/news/forest/16352/"
+   },
+   {
+    "title": "Caucasus Nature Fund: emergency funding to 4 of Armenia's most important protected areas (Jul 2020)",
+    "url": "https://www.caucasus-naturefund.org/emergency-funding-to-4-of-armenias-most-important-protected-areas/"
+   },
+   {
+    "title": "Caucasus Nature Fund: Lake Arpi National Park",
+    "url": "https://www.caucasus-naturefund.org/?p=4583"
+   },
+   {
+    "title": "KfW project information: Caucasus biodiversity",
+    "url": "https://www.kfw-entwicklungsbank.de/Global/Europe/PI-Biodiversity-Caucasus/"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Merged the two KfW IATI activities: DE-1-200966572 (2011-07 to 2028-12) and the earlier Ecoregional Conservation Programme DE-1-200365411 (2005-04 to 2017-04). KfW's own list of protected areas receiving investments under DE-1-200966572 was not found; the protected-area locations here are those supported by the KfW-funded Caucasus Nature Fund (CNF), the programme's 'third pillar'. Lake Arpi location is inferred from the Javakheti Plateau title and the CNF page, which does not name the marz; Shirak is the standard location of Lake Arpi. Successor investments are in the separate record 'kfw-biodiversity-sustainable-local-development'."
+ },
+ {
+  "slug": "kfw-biodiversity-sustainable-local-development",
+  "title_en": "Biodiversity and sustainable local development in Armenia (BMZ/KfW)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "DE-1-201867001"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Germany (BMZ) via KfW Development Bank (EUR 26,208,483 grant per Ecolur, 2024)"
+  ],
+  "implementers": [
+   "Ministry of Environment (executing)",
+   "WWF Armenia (consultant for biodiversity and protected areas component)",
+   "'Women in Climate and Energy' NGO (financial participatory approach near Lake Arpi)"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Hayantar SNCO",
+   "Forest Committee"
+  ],
+  "start": "2018-12",
+  "end": "2031-12",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "EUR 26,208,483 grant, six-year project started July 2024 (Ecolur, Sep 2024). IATI commitment 29,836,636 (USD-converted base value). A 2018 grant agreement of over EUR 23.2 million was reported when signed on 30 Nov 2018.",
+  "cofinancing_note": null,
+  "themes": [
+   "biodiversity-protected-areas",
+   "forestry",
+   "climate-adaptation",
+   "rural-community-development"
+  ],
+  "summary_en": "Germany's largest nature-protection grant to Armenia funds the Ministry of Environment to strengthen management of selected nature reserves and protected forests, improve forest management by local forest authorities, expand and adjust protected-area boundaries, and support income opportunities in communities bordering protected areas. Main implementation started in July 2024 and runs about six years.",
+  "activities_en": [
+   "Equipment, infrastructure, planning and management tools for prioritised nature reserves and protected forests",
+   "Adjust cadastral boundaries of protected areas, expand them and add new areas",
+   "Strengthen local forest authorities for sustainable forest management and carbon storage",
+   "Ecotourism and revenue generation for protected-area administrations",
+   "Community development near protected areas, e.g. a financial participatory approach in communities adjacent to Lake Arpi National Park (2026)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": "Communities adjacent to Lake Arpi National Park",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Environment Ministry news item (26 May 2026): financial participatory approach implemented in communities adjacent to Lake Arpi National Park (communities not named; marz inferred from the park's location)."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Ecolur: Armenia's largest grant from Germany for sustainable development of biodiversity (Sep 2024)",
+    "url": "https://www.ecolur.org/en/news/forest/15714/"
+   },
+   {
+    "title": "Ministry of Environment: A new approach to the joint development of communities and nature (26 May 2026)",
+    "url": "https://environment.gov.am/en/articles/նորություններ/a-new-approach-to-the-joint-development-of-communities-and-nature"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Target protected areas and forest enterprises are not named on any opened page; only the Lake Arpi activity is documented. Other target sites should be requested from the Ministry of Environment / KfW. Search results also showed a consultant tender (GOPA with Solution LLC, 72-month term from Oct 2025) for this programme; the notice was not opened. IATI end date 2031-12 vs six-year implementation from Jul 2024."
+ },
+ {
+  "slug": "wwf-eco-corridors-community-conservation-armenia",
+  "title_en": "Community-based models for biodiversity protection in ecological corridors, Armenia (WWF Armenia; BMZ/KfW Eco-Corridor Fund)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "DE-1-201455302"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "KfW project 2012 36 561 (Ecoregional Corridor Fund, 'Promotion of Eco-Corridors in the Southern Caucasus')"
+   ]
+  },
+  "donors": [
+   "Germany (BMZ) via KfW Development Bank"
+  ],
+  "implementers": [
+   "WWF Armenia",
+   "WWF Caucasus Programme Office"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Community councils and community environmental NGOs (Shahaponk, Azatek, Yegheg, Gndasar, Koshaqar)"
+  ],
+  "start": "2014-11",
+  "end": null,
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "IATI commitment for DE-1-201455302 = 555,083 (USD-converted base value). KfW ex-post evaluation: Eco-Corridor Fund total EUR 8.53 million for Armenia, Azerbaijan and Georgia (EUR 8.0 m grant + 0.53 m WWF Germany).",
+  "cofinancing_note": null,
+  "themes": [
+   "biodiversity-protected-areas",
+   "rural-community-development"
+  ],
+  "summary_en": "WWF Armenia sets up community-based conservation models in ecological corridors, financed by BMZ through KfW's Ecoregional Corridor Fund. Communities sign up to ten-year nature-conservation agreements based on jointly developed land-use plans and receive annual compensation and small investments. In Armenia, agreements were signed with communities in Lori, Syunik, Vayots Dzor and Ararat.",
+  "activities_en": [
+   "Ten-year nature-conservation agreements with community environmental NGOs, backed by land-use plans",
+   "Annual compensation payments and small investments (e.g. solar PV on community buildings)",
+   "Wildlife monitoring with community guardians (leopard, bezoar goat, mouflon, bear)"
+  ],
+  "results_en": [
+   "Four tripartite environmental agreements signed with Sisian, Vayk, Yeghegis and Ararat communities (Ecolur, Nov 2023)",
+   "Pambak community, Lori: 7,938 ha community-based environmental zone agreed 17 Jun 2024 (main zone 1,776 ha; sustainable-management zone 6,162 ha)",
+   "Across Armenia, Azerbaijan and Georgia, 20 community organisations had signed conservation agreements by the KfW evaluation"
+  ],
+  "locations": [
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": "Pambak consolidated community",
+    "settlements": [
+     "Yeghegnut",
+     "Debed",
+     "Margahovt"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur (20 Jun 2024): long-term agreement signed by WWF Armenia, Pambak community and the Koshaqar NGO for a 7,938 ha community-based environmental zone; beneficiary settlements Yeghegnut, Debed and Margahovt."
+   },
+   {
+    "marz": "Syunik",
+    "district": "Sisian",
+    "community": "Sisian",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur (29 Nov 2023): WWF-Armenia signed a tripartite environmental agreement with Sisian community."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": "Vayk, Yeghegis, Areni",
+    "settlements": [
+     "Vayk",
+     "Yeghegis",
+     "Areni"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur (29 Nov 2023): tripartite agreements with Vayk and Yeghegis communities; wildlife counts at Areni (bezoar goat 100 to 200)."
+   },
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": "Ararat",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur (29 Nov 2023): tripartite agreement with Ararat community."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Community land-use plans / conservation agreement zones (e.g. Pambak 7,938 ha)",
+    "kind": "map",
+    "note": "Zones defined in agreements; GIS data not seen"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ecolur 20 Jun 2024: Pambak to have around 8,000 hectares of community-based environmental zone",
+    "url": "https://www.ecolur.org/en/news/biodiversity/15589/"
+   },
+   {
+    "title": "Ecolur 29 Nov 2023: Nature conservation as source of income - ecocorridors and LILA projects",
+    "url": "https://www.ecolur.org/en/news/biodiversity/15237/"
+   },
+   {
+    "title": "KfW ex-post evaluation: Eco-Corridor Fund, Caucasus (2023)",
+    "url": "https://www.kfw-entwicklungsbank.de/PDF/Evaluierung/Ergebnisse-und-Publikationen/PDF-Dokumente-E-K_EN/Kaukasus_ECF_2023_E.pdf"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The IATI project (DE-1-201455302, 2014-11 to 2018-04) is the WWF Armenia pilot of community-based models that feeds the Eco-Corridor Fund; the agreements listed above are the Fund's Armenian implementation (up to 10-year terms), so the end date is left open. The WWF Armenia project page returned HTTP 403, so the link between the IATI project title and the Fund is based on search-result text. Wider list of the Fund's Armenian community agreements (20 across three countries) was not found. The Swiss-funded LILA project works in the same corridors; it is a separate record."
+ },
+ {
+  "slug": "bmz-nabu-community-conservation-syunik",
+  "title_en": "Community-based conservation and adaptation to climate change in Syunik region (NABU Armenia; IATI: Community based nature conservation and climate adaption as a contribution to poverty reduction in Armenia)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "DE-1-202106003-5943"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Germany (BMZ)",
+   "NABU (co-funding)"
+  ],
+  "implementers": [
+   "NABU Armenia branch",
+   "Eco Globe environmental NGO"
+  ],
+  "national_partners": [],
+  "start": "2021-11",
+  "end": "2024-09",
+  "status": "completed",
+  "budget_usd": 463659.5,
+  "budget_original": "IATI commitment 463,659.5 (USD-converted base value; original currency likely EUR)",
+  "cofinancing_note": null,
+  "themes": [
+   "climate-adaptation",
+   "biodiversity-protected-areas",
+   "rural-community-development",
+   "forestry"
+  ],
+  "summary_en": "A BMZ-funded NABU Armenia project that supported community-based nature conservation and climate adaptation in rural Syunik. It ran consultations and a small-grant contest on climate adaptation, water, rural tourism, organic agriculture and pasture management, and distributed 15,000 trees to residents of 35 communities.",
+  "activities_en": [
+   "Consultations and small-grant contest on climate adaptation, sustainable use of natural resources, rural tourism, organic agriculture and pasture management",
+   "Distribution of 15,000 trees to residents; community parks created in Uits and at Zorats Karer reserve"
+  ],
+  "results_en": [
+   "35 communities included; 15,000 trees presented to residents; parks created in Uits and on the Zorats Karer reserve territory, parks planned in four more communities (NABU Armenia)"
+  ],
+  "locations": [
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "NABU Armenia: 'Community-based Conservation and Adaptation to Climate Change in Syunik Region'; 35 communities included (names not published except Uits)."
+   },
+   {
+    "marz": "Syunik",
+    "district": "Sisian",
+    "community": "Uits",
+    "settlements": [
+     "Uits"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "NABU Armenia '15,000 trees' page: parks created in Uits and on the territory of the Zorats Karer Historical and Cultural Reserve."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "NABU Armenia: 15,000 trees - for people and nature",
+    "url": "https://nabu.am/en/node/7180"
+   },
+   {
+    "title": "NABU Armenia: final conference of the Syunik project",
+    "url": "https://nabu.am/en/node/7867"
+   },
+   {
+    "title": "NABU Armenia: grant contest, Syunik community-based conservation",
+    "url": "https://www.nabu.am/en/node/6531"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The match between the IATI activity (BMZ, 2021-11 to 2024-09) and NABU's Syunik project is probable but not stated on any opened page (the IATI title differs from NABU's); NABU pages give no dates. Uits is in Sisian district by general knowledge (not stated in the source). Zorats Karer reserve is in Sisian area; coordinates not entered."
+ },
+ {
+  "slug": "wb-gef-natural-resources-management-poverty-reduction",
+  "title_en": "Natural Resources Management and Poverty Reduction Project (World Bank P057847 + GEF P069917)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-501c3-522318905-SG-P057847",
+    "XI-BRIDGE-6385676864-1206"
+   ],
+   "wb": "P057847; P069917",
+   "gef": "1206",
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "World Bank / IDA (credit USD 9.36 million)",
+   "Global Environment Facility (grant USD 5.116 million)",
+   "Government of Armenia"
+  ],
+  "implementers": [
+   "World Bank"
+  ],
+  "national_partners": [
+   "Ministry of Nature Protection",
+   "Hayantar SNCO",
+   "Regional Environmental Centre for the Caucasus (community forest activities)"
+  ],
+  "start": "2002-06",
+  "end": "2009-01",
+  "status": "completed",
+  "budget_usd": 14477000,
+  "budget_original": "World Bank data: IDA commitment USD 9.361 million (P057847) + GEF commitment USD 5.116 million (P069917). The GEF project brief planned USD 16.21 million incl. Government USD 1.5 million and PDF-B.",
+  "cofinancing_note": "Appraisal-stage plan: GEF USD 5.21 m, IDA credit USD 9.5 m, Government USD 1.5 m.",
+  "themes": [
+   "forestry",
+   "biodiversity-protected-areas",
+   "pastures-livestock",
+   "land-degradation-slm",
+   "rural-community-development",
+   "lake-sevan"
+  ],
+  "summary_en": "World Bank IDA project with a GEF biodiversity component to arrest natural-resource degradation and reduce rural poverty in the upper watersheds of northern Armenia. It worked in micro-catchments in Tavush and Gegharkunik marzes (community forest plans, pasture management, small grants) and supported management of Dilijan State Reserve and Lake Sevan National Park.",
+  "activities_en": [
+   "Community forest management plans, pasture management and small grants in selected micro-catchments",
+   "Rehabilitation and sustainable management of state forests; forest sector institutional and legal framework",
+   "Management of Dilijan State Reserve and Lake Sevan National Park; capacity of the Department of Bio-resources and Land Protection"
+  ],
+  "results_en": [
+   "Community forest management plans developed for five Noyemberyan-area communities in 2006-2009; 40 ha of degraded forest regenerated in Koghb and Jujevan (by REC Caucasus) - per UNDP 5353 ProDoc"
+  ],
+  "locations": [
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "GEF project brief: interventions in Gegharkunik and Tavush marzes; Tavush site includes Dilijan State Reserve; beneficiaries initially 19 rural communities rising to 40."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "GEF project brief: Gegharkunik site includes Lake Sevan National Park; project interventions in Gegharkunik and Tavush marzes."
+   },
+   {
+    "marz": "Tavush",
+    "district": "Noyemberyan",
+    "community": "Koghb, Berdavan, Jujevan, Voskevan, Koti",
+    "settlements": [
+     "Koghb",
+     "Berdavan",
+     "Jujevan",
+     "Voskevan",
+     "Koti"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "UNDP 5353 ProDoc: communities Koghb, Berdavan, Jujevan, Voskevan and Koti (adjacent to Noyemberyan Forest Enterprise) were involved in community forest management under this World Bank project in 2006-2009; FMPs developed for all five."
+   },
+   {
+    "marz": "Tavush",
+    "district": "Dilidjan",
+    "community": "Dilijan State Reserve",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "GEF project brief: Dilijan State Reserve (290 sq km) in Tavush marz."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": "Lake Sevan National Park",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "GEF project brief: Lake Sevan National Park (1,500 sq km) in Gegharkunik marz."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Community forest management plans for five Noyemberyan-area communities",
+    "kind": "report",
+    "note": "Developed 2006-2009 (UNDP 5353 ProDoc)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "GEF project brief: Armenia Natural Resources Management and Poverty Reduction (P069917), hosted by AUA ACE",
+    "url": "https://ace.aua.am/wp-content/uploads/2019/05/2002-2009-WB-Natural-Resources-Management-and-Poverty-Reduction-Project.pdf"
+   },
+   {
+    "title": "World Bank project page P057847",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P057847"
+   },
+   {
+    "title": "UNDP/GEF 5353 Project Document (references the five NRMPR communities)",
+    "url": "https://ace.aua.am/wp-content/uploads/2019/05/2015-2019-UNDP-Mainstreaming-Sustainable-Land-and-Forest-Management.pdf"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Merged: IDA project P057847 (IATI row published by AidData, 2002-06 to 2009-01), GEF project P069917 and GEF 1206 (IATI 2002-06 to 2009-09). The AidData geocoding attached to the IATI row also lists these places, not independently checked against World Bank documents: Yenokavan, Vaghashen, Sevk'ar, Noyemberyan, Khach'ardzan, Ijevan, Kirants, Chambarak, Aygehovit, Aghavnavank, Ach'ajur, Berdavan, Gandzak'ar, Hovk, Artsvaberd, Lake Sevan, Dilijan State Reserve. The actual communities beyond the five named are therefore unconfirmed. The World Bank project page opened but returned no text; project figures come from the World Bank open-data extract in data/raw/wb_projects.json. The Ministry was named Ministry of Nature Protection at the time."
+ },
+ {
+  "slug": "wb-tf-strengthening-forest-monitoring",
+  "title_en": "Strengthening Forest Monitoring (World Bank trust-fund grant P109572 / TF092157)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-WBTF-P109572"
+   ],
+   "wb": "P109572",
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "TF092157"
+   ]
+  },
+  "donors": [
+   "World Bank Trust Funds"
+  ],
+  "implementers": [
+   "World Bank"
+  ],
+  "national_partners": [
+   "State Forest Monitoring Center (Forest Monitoring Center), Armenia"
+  ],
+  "start": "2008-10",
+  "end": "2012-03",
+  "status": "completed",
+  "budget_usd": 384008.25,
+  "budget_original": "IATI shows disbursed spend 384,008.25 and no commitment value (units not stated; base value likely USD)",
+  "cofinancing_note": null,
+  "themes": [
+   "forestry",
+   "policy-capacity"
+  ],
+  "summary_en": "World Bank trust-fund grant to strengthen Armenia's forest institutions' capacity to combat illegal logging and other forest violations, centred on the State Forest Monitoring Center. It also aimed to create a model of public awareness and participation in monitoring illegal use of forest resources.",
+  "activities_en": [
+   "Build capacity for forest monitoring in the State Forest Monitoring Center",
+   "Develop new systems and procedures for effective forest monitoring",
+   "Public awareness and participation in combating illegal forest use"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "IATI description (World Bank Trust Funds): grant supports Armenia's state forest monitoring system; no marz or site named."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "World Bank project page P109572 (page text not retrievable; ID confirmed)",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P109572"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Only the IATI description (publisher: World Bank Trust Funds) was available; no web page with details could be opened. Dates and spend are from IATI. Same national monitoring theme continues in the FAO NFMA and FORACCA forest-monitoring records."
+ },
+ {
+  "slug": "fao-national-forest-monitoring-assessment-armenia",
+  "title_en": "FAO assistance for a National Forest Monitoring and Assessment System (NFMAS) in Armenia",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41301-715242",
+    "XM-DAC-41301-744237",
+    "XM-DAC-41301-756873"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Swiss Agency for Development and Cooperation (SDC) for the 2025-2028 phase",
+   "Funder of the 2022-2025 phases not stated in IATI (reporting organisation FAO)"
+  ],
+  "implementers": [
+   "FAO"
+  ],
+  "national_partners": [
+   "Hydrometeorology and Monitoring Center SNCO, Ministry of Environment",
+   "Ministry of Environment"
+  ],
+  "start": "2022-01",
+  "end": "2028-03",
+  "status": "active",
+  "budget_usd": 736199.97,
+  "budget_original": "IATI commitments (USD-converted base values): 244,000 (715242, 2022-01 to 2023-12) + 177,000 (744237, 2023-06 to 2025-12) + 315,199.97 (756873, 2025-11 to 2028-03)",
+  "cofinancing_note": null,
+  "themes": [
+   "forestry",
+   "policy-capacity",
+   "climate-mitigation-energy"
+  ],
+  "summary_en": "FAO has supported Armenia in building a national system to monitor and assess forests since 2022, including nationwide field-data collection and, from 2025-2026, an SDC-funded project to establish a dedicated National Forest Monitoring Unit and run continuous cycles of a national forest inventory. Armenia has not conducted a full national forest inventory since the 1980s.",
+  "activities_en": [
+   "Nationwide field data collection system for forest monitoring (2023-2025 phase)",
+   "Establish a National Forest Monitoring Unit, training and knowledge transfer",
+   "Continuous cycles of National Forest Inventory combined with remote sensing and GIS",
+   "Monitoring of reforestation, afforestation and agroforestry and their effectiveness"
+  ],
+  "results_en": [
+   "NFMA methodology developed and operationalised; Collect Earth survey of Armenia's land categories completed; Year-1 field data 100% collected, Year-2 50% (FAO fact sheet, Oct 2025, under the FAO/GCF project)"
+  ],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "Nationwide monitoring system (IATI 744237: 'nationwide field data collection system'; Ecolur 5 May 2026: marzes not specified)."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "National Forest Inventory cycles (field plots + remote sensing)",
+    "kind": "dataset",
+    "note": "Planned by the 2025-2028 SDC-funded project; not yet produced per Ecolur 5 May 2026"
+   },
+   {
+    "name": "Collect Earth survey of Armenia's land categories",
+    "kind": "dataset",
+    "note": "Completed (FAO fact sheet, Oct 2025)"
+   },
+   {
+    "name": "NFMA field data, Year 1 (complete) and Year 2 (50%)",
+    "kind": "dataset",
+    "note": "Per FAO fact sheet"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ecolur 5 May 2026: Armenia will establish a national forest monitoring and assessment system",
+    "url": "https://www.ecolur.org/en/news/forest/16372/"
+   },
+   {
+    "title": "FAO Armenia fact sheet: Forest resilience of Armenia (NFMA results)",
+    "url": "https://www.fao.org/armenia/news/detail/fact-sheet--forest-resilience-of-armenia---enhancing-adaptation-and-rural-green-growth-via-mitigation/en"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "IATI 756873 title matches the SDC-funded project signed 30 Apr 2026 (Ecolur; Swiss ambassador also calls it FORACCA-linked); the donors for 715242 and 744237 are not stated, so they are assumed to be FAO-managed but this is not confirmed. The NFMA results quoted come from the FAO/GCF forest-resilience fact sheet, so the system is partly financed through that GCF project too (see record fao-gcf-forest-resilience-armenia)."
+ },
+ {
+  "slug": "bmz-forestry-capacity-agroforestry-armenia",
+  "title_en": "Capacity building in forestry and establishment of agroforestry concepts (BMZ-funded expert advisory)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "DE-1-202176501",
+    "DE-1-202574382"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Germany (BMZ)"
+  ],
+  "implementers": [],
+  "national_partners": [],
+  "start": "2021-10",
+  "end": "2029-12",
+  "status": "active",
+  "budget_usd": 439201.62,
+  "budget_original": "IATI commitments (USD-converted base values): 215,848.95 (DE-1-202176501, 2021-10 to 2025-12) + 223,352.67 (DE-1-202574382, 2025-04 to 2029-12; = EUR 192,000 per d-portal)",
+  "cofinancing_note": null,
+  "themes": [
+   "forestry",
+   "policy-capacity",
+   "rural-community-development"
+  ],
+  "summary_en": "Two BMZ-funded expert-advisory activities on forestry in Armenia: capacity building in forestry (2021-2025) and, from 2025, establishing agroforestry concepts on community-owned land, building on pilot reforestation projects in different geographical and climatic zones. The expert advises on training materials, courses, networks and advocacy.",
+  "activities_en": [
+   "Capacity building in forestry",
+   "Advice on training materials and courses, networks and advocacy for agroforestry; mixed-forest establishment on community-owned land"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "IATI (BMZ): no location given; description mentions community-owned land 'in various geographical and climatic zones'. Placeholder for 'location not published'."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "IATI activity DE-1-202574382 via d-portal (BMZ)",
+    "url": "https://d-portal.org/q.json?from=act&limit=1&aid=DE-1-202574382"
+   }
+  ],
+  "confidence": "low",
+  "notes": "The task brief described these as GIZ; in IATI both are published by BMZ with no implementer named, and look like expert placements (the 'expert advises on...' wording). Implementing organisation and sites unknown. No web page about them was found. They may be linked to FORACCA agroforestry work, but this is not stated anywhere."
+ },
+ {
+  "slug": "gef-sgp-armenia",
+  "title_en": "GEF Small Grants Programme (SGP) Armenia - all operational phases (UNDP)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41114-OUTPUT-00054966",
+    "XM-DAC-41114-PROJECT-00046258",
+    "XM-DAC-41114-OUTPUT-01004117",
+    "XM-DAC-41114-PROJECT-01004117"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "Global GEF SGP umbrella IATI rows (not Armenia-specific): XI-BRIDGE-6385676864-4678, -5736, -9857, -10655, -11285, -11726"
+   ]
+  },
+  "donors": [
+   "Global Environment Facility (small grants, GEF part USD 4,714,000 through 2023)",
+   "Non-GEF donors (USD 400,000 through 2023)"
+  ],
+  "implementers": [
+   "UNDP (SGP delivery partner)",
+   "Local NGOs and community-based organisations (grantees)"
+  ],
+  "national_partners": [
+   "Ministry of Environment (national steering)"
+  ],
+  "start": "2009",
+  "end": "2028-10",
+  "status": "active",
+  "budget_usd": 5114000,
+  "budget_original": "Cumulative since inception to 2023: 120 projects (110 GEF, 10 non-GEF); grants committed USD 4,714,000 GEF + USD 400,000 non-GEF = USD 5,114,000; plus co-financing USD 7.26 million (SGP Results Report FY2017-2023). Later OP7/OP8 grants are not included.",
+  "cofinancing_note": null,
+  "themes": [
+   "biodiversity-protected-areas",
+   "land-degradation-slm",
+   "climate-mitigation-energy",
+   "waste-pollution",
+   "rural-community-development"
+  ],
+  "summary_en": "The GEF Small Grants Programme in Armenia, delivered by UNDP, funds small community and NGO projects in biodiversity, climate change, land degradation, chemicals and waste and capacity development. It started in 2009 and had committed 120 projects by 2023, with UNDP estimating projects in more than 70 rural communities. It is currently in its eighth operational phase (OP8).",
+  "activities_en": [
+   "Grants to NGOs and community groups for community conservation, eco-corridors and ecotourism",
+   "Renewable energy, energy efficiency and sustainable transport pilots",
+   "Sustainable land management on small farms (e.g. greenhouses, orchards, irrigation)"
+  ],
+  "results_en": [
+   "By 2023: 120 projects; at least 10,000 households and more than 70 rural communities benefited per a 2019 UNDP country evaluation (estimates by the UNDP office)",
+   "FY2016-2023: 12 biodiversity and 12 land degradation projects completed; 6 protected areas positively influenced covering 8,181 ha"
+  ],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "SGP Results Report FY2017-2023 (Armenia) does not list grants by marz or community. The report names a few examples (Azatek eco-corridor project; farming project in Spitak) but no complete geography; grantee-level locations were not found online."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "GEF SGP Results Report FY2017-2023: Armenia country report card",
+    "url": "https://sgp.undp.org//innovation-library/item/download/2842_f97c2e6c69f010ae8a2c9cc19286b1b3.html"
+   },
+   {
+    "title": "UNDP page: The GEF Small Grants Programme (search listing)",
+    "url": "https://www.undp.org/node/88386"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "One national programme record as requested. The marzes covered by individual grants could not be listed: SGP Armenia does not publish a grant list with locations on any page that could be opened. The IATI UNDP rows (2007-2025 'Small Grants Programme'; PIMS-10172 'GEF SGP 8th Operational Phase (Part 1) ARMENIA', 2024-10 to 2028-10) are Armenia-specific; the XI-BRIDGE GEF rows are global umbrella programmes and are listed in 'other' only. The ECOLUR and UNDP sources disagree on the start year (2005 vs 2009); the SGP report says 2009. Related SGP-linked work appears in other records (Dsegh solar, Lori; Lesser Caucasus eco-corridor)."
+ },
+ {
+  "slug": "undp-gef-cbit-climate-transparency-armenia",
+  "title_en": "Building Armenia's national transparency framework under the Paris Agreement (CBIT) and CBIT 2",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-BRIDGE-6385676864-10138",
+    "XI-BRIDGE-6385676864-12091",
+    "XM-DAC-41114-OUTPUT-01004473",
+    "XM-DAC-41114-PROJECT-01004473"
+   ],
+   "wb": null,
+   "gef": "10138; 12091",
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Global Environment Facility (CBIT 1 USD 990,000; CBIT 2 USD 1,400,000)",
+   "Government of Armenia and UNDP (co-financing)"
+  ],
+  "implementers": [
+   "UNDP (GEF agency)"
+  ],
+  "national_partners": [
+   "Ministry of Environment (executing)",
+   "Hydrometeorology and Monitoring Center SNCO (Armhydromet)",
+   "Inter-Agency Coordinating Council on climate"
+  ],
+  "start": "2020-12",
+  "end": "2030-11",
+  "status": "active",
+  "budget_usd": 3500000,
+  "budget_original": "CBIT 1: GEF USD 990,000 + co-financing USD 570,000 = USD 1.56 million; CBIT 2: GEF USD 1,400,000 + co-financing USD 540,000 = USD 1.94 million (GEF portal). Total USD 3.5 million.",
+  "cofinancing_note": "CBIT 1 co-financing USD 570,000; CBIT 2 co-financing USD 540,000.",
+  "themes": [
+   "policy-capacity",
+   "climate-mitigation-energy"
+  ],
+  "summary_en": "Two consecutive GEF-funded, UNDP-implemented projects that build Armenia's institutional and technical capacity to meet the enhanced transparency requirements of the Paris Agreement. CBIT 1 (2020-2025) developed arrangements for measuring, reporting and verifying mitigation policies and greenhouse-gas data; CBIT 2 (approved January 2026) continues this work.",
+  "activities_en": [
+   "National greenhouse-gas inventory and reporting capacity for Article 13 transparency",
+   "MRV arrangements and data-collection methodology for mitigation policies and actions",
+   "Inter-agency coordination for climate data and reporting"
+  ],
+  "results_en": [
+   "CBIT 1 closed 13 Jan 2025 (GEF portal)",
+   "Methodology for mitigation-MRV data requirements and collection developed by Gauss International Consulting (workshop of 30 Sep 2022, attended by over 45 representatives of ministries and agencies)"
+  ],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "GEF portal: Armenia; policy-level, institution-focused project with no sub-national sites."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Methodology for mitigation MRV data requirements and collection",
+    "kind": "report",
+    "note": "Developed under CBIT 1 (nature-ic.am, Oct 2022)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "GEF portal: project 10138 (CBIT 1)",
+    "url": "https://thegef.org/projects-operations/projects/10138"
+   },
+   {
+    "title": "GEF portal: project 12091 (CBIT 2)",
+    "url": "https://thegef.org/projects-operations/projects/12091"
+   },
+   {
+    "title": "Nature Information Center: MRV arrangements discussed under the UNDP-GEF CBIT project (Oct 2022)",
+    "url": "https://nature-ic.am/en/news/arrangements-for-mrv-system-for-mitigation-policies-and-actions-in-armenia-discussed-in-the-frame-of-undp-gef-cbit-project"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Merged CBIT 1 (GEF 10138; IATI 2020-12 to 2024-09, GEF closure 13 Jan 2025) and CBIT 2 (GEF 12091; approved 12 Jan 2026; UNDP IATI 2026-08 to 2030-11). No sub-national geography; included for completeness of the donor-coordination view."
+ },
+ {
+  "slug": "sdc-foracca-forest-restoration-armenia",
+  "title_en": "Forest Restoration and Climate Change in Armenia (FORACCA, Swiss SDC)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "CH-4-2024-2023007530",
+    "CH-4-2024-2023007531",
+    "CH-4-2024-2023007532",
+    "CH-4-2024-2023007533",
+    "CH-4-2024-2023007534",
+    "CH-4-2024-2023007535",
+    "CH-4-2023-2023000568",
+    "CH-4-2023-2023000569",
+    "CH-4-2023-2023000570",
+    "CH-4-2024-2023000568",
+    "CH-4-2024-2023000569",
+    "CH-4-2024-2023000570",
+    "CH-4-2025-2023000568",
+    "CH-4-2025-2023000570",
+    "CH-4-2025-2023007530",
+    "CH-4-2025-2023007531",
+    "CH-4-2025-2023007532",
+    "CH-4-2025-2023007533",
+    "CH-4-2025-2023007534",
+    "XM-DAC-47015-23416_Bilateral_Switzerland-EmbassyofSwitzerland-Armenia_Bioversity"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Swiss Agency for Development and Cooperation (SDC)",
+   "Forest Alliance of Armenia members (co-funding)"
+  ],
+  "implementers": [
+   "Swiss Federal Institute WSL (lead)",
+   "Forest Alliance of Armenia: Shen NGO, Armenia Tree Project, My Forest Armenia, Foundation for the Preservation of Wildlife and Cultural Assets (FPWC)",
+   "FAO",
+   "Armenian National Agrarian University",
+   "MeteoSwiss",
+   "Planval",
+   "ARNAP",
+   "Zoi Environment Network"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Forest Committee"
+  ],
+  "start": "2023-12",
+  "end": "2028-12",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "CHF 10 million for the 10-year programme (Armenpress headline seen in search results, page not opened); phase budget not found. SDC IATI rows show 2025 commitments totalling about USD 6.3 million.",
+  "cofinancing_note": null,
+  "themes": [
+   "forestry",
+   "climate-adaptation",
+   "rural-community-development",
+   "policy-capacity",
+   "agriculture-value-chain"
+  ],
+  "summary_en": "SDC-funded programme led by the Swiss WSL institute with the Forest Alliance of Armenia (four NGOs) and FAO. At national level it strengthens forest management, forest monitoring and climate-adaptation data; at local level it supports community forestry, afforestation on community lands and agroforestry in selected villages.",
+  "activities_en": [
+   "Afforestation and maintenance of young forest on community lands (236 ha across four 2025 sites)",
+   "Agroforestry systems and windbreaks in four marzes, designed with the Armenian National Agrarian University",
+   "National forest monitoring (FAO-led National Forest Monitoring Unit) and climate scenarios / local climate impact profiles"
+  ],
+  "results_en": [
+   "2025: 722,482 trees planted; 142 ha new forest at Lernajur 4 (60 ha SDC-financed); 70 ha maintained at Lernajur 1 and 2 (My Forest Armenia report)"
+  ],
+  "locations": [
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "My Forest Armenia first-results page: FORACCA afforestation in Lori, Shirak and Gegharkunik marzes (Lernajur sites; four sites in 2025, region of each not stated)."
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "My Forest Armenia first-results page: afforestation in Lori, Shirak and Gegharkunik marzes."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "My Forest Armenia first-results page: afforestation in Lori, Shirak and Gegharkunik marzes."
+   },
+   {
+    "marz": "Syunik",
+    "district": "Sisian",
+    "community": "Balak",
+    "settlements": [
+     "Balak"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur 7 Nov 2024: planned FORACCA agroforestry system at Balak, Sisian (initiation planned 2025)."
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": "Aparan",
+    "community": "Ttujur",
+    "settlements": [
+     "Ttujur"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur 7 Nov 2024: planned agroforestry system at Ttujur, Aparan."
+   },
+   {
+    "marz": "Lori",
+    "district": "Spitak",
+    "community": "Lernavan",
+    "settlements": [
+     "Lernavan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur 7 Nov 2024: planned agroforestry system at Lernavan, Spitak."
+   },
+   {
+    "marz": "Shirak",
+    "district": "Artik",
+    "community": "Mets Mantash",
+    "settlements": [
+     "Mets Mantash"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur 7 Nov 2024: planned agroforestry system at Mets Mantash, Artik."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Climate scenarios and local climate impact profiles",
+    "kind": "dataset",
+    "note": "Stated objective on the WSL FORACCA page; not yet seen"
+   },
+   {
+    "name": "Agroforestry concepts and management plans for selected sites",
+    "kind": "report",
+    "note": "ANAU/FORACCA, 2024"
+   }
+  ],
+  "sources": [
+   {
+    "title": "My Forest Armenia: first results of the FORACCA project implementation",
+    "url": "https://myforestarmenia.org/news/first_results_of_the_foracca_project_implementation"
+   },
+   {
+    "title": "Ecolur 7 Nov 2024: Establishment of agroforestry systems planned in four regions of Armenia",
+    "url": "https://www.ecolur.org/en/news/forest/15753/"
+   },
+   {
+    "title": "WSL: Forest Restoration and Climate Change Armenia (FORACCA)",
+    "url": "https://foracca.wsl.ch/en/"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Added during compilation. Merged ~20 SDC IATI rows (annual tranches CH-4-2023/2024/2025-2023000568..70 and 2023007530..35) plus the CGIAR/Bioversity backstop grant. The SDC-funded FAO NFMA project (IATI XM-DAC-41301-756873) is recorded separately. The sites of the 2025 afforestation (Lernajur 1, 2, 4) are not matched to marzes in the source. A search summary of Armenia Tree Project pages also mentions 100 ha afforestation and 200 ha pasture restoration at Mets Sariar (Shirak) 2025-2028; not on an opened page."
+ },
+ {
+  "slug": "sdc-lila-living-landscapes-armenia",
+  "title_en": "Living Landscapes for Market Development in Armenia (LILA, Swiss SDC / WWF Armenia), Phase 1",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "CH-4-2022-2021000836",
+    "CH-4-2022-2021009448",
+    "CH-4-2022-2021009449",
+    "CH-4-2022-2021009450",
+    "CH-4-2021-2021000836",
+    "CH-4-2024-2021009449",
+    "CH-4-2024-2021009949",
+    "CH-4-2023-2021009449",
+    "CH-4-2025-2021009449",
+    "CH-4-2025-2021009949",
+    "CH-4-2025-2021010043"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Swiss Agency for Development and Cooperation (SDC)"
+  ],
+  "implementers": [
+   "WWF Armenia (with WWF Caucasus offices)",
+   "Strategic Development Agency NGO (economic component)",
+   "EcoLur (information partner)"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Tourism Committee, Ministry of Economy"
+  ],
+  "start": "2021-04",
+  "end": "2025-11",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "Phase 1 total CHF 2.5 million (CHF 1.5 m economic development + CHF 1.0 m environmental infrastructure and natural-resource management), per Ecolur 28 Nov 2025. SDC approved CHF 4.5 million in principle in 2021 for an eight-year programme.",
+  "cofinancing_note": null,
+  "themes": [
+   "biodiversity-protected-areas",
+   "rural-community-development",
+   "pastures-livestock",
+   "climate-mitigation-energy",
+   "agriculture-value-chain"
+  ],
+  "summary_en": "SDC-funded project implemented by WWF Armenia to raise incomes of farmers and rural businesses in remote mountain communities while protecting natural resources and biodiversity. Phase 1 concluded on 21 November 2025 after working in seven consolidated communities in Tavush, Lori, Vayots Dzor and Syunik.",
+  "activities_en": [
+   "Pasture management plans and 21 pasture infrastructure units",
+   "Solar PV and water heaters on public buildings in communities",
+   "Support to 31 tourism and related rural businesses; gastro-tourism yards and small production units",
+   "196 ha put under sustainable management, including 148 ha of forest"
+  ],
+  "results_en": [
+   "508 households received additional income; 31 businesses supported employing about 700 people",
+   "Nearly 70,000 visitors benefited from improved infrastructure; over 13,000 people benefited from climate-related initiatives; 102 t CO2 emissions prevented"
+  ],
+  "locations": [
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Ecolur 28 Nov 2025: LILA worked in seven consolidated communities in Tavush, Lori, Vayots Dzor and Syunik (communities not named in that article)."
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Ecolur 28 Nov 2025 and Ecolur 13124: Lori is one of the four LILA regions."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Ecolur 28 Nov 2025 and Ecolur 13124: Vayots Dzor is one of the four LILA regions."
+   },
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Ecolur 28 Nov 2025 and Ecolur 13124: Syunik is one of the four LILA regions."
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": "Dsegh",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur 29 Nov 2023: climate measures under LILA/ecocorridors include a renovated administrative building with solar heating in Dsegh."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": "Shatin",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Ecolur 29 Nov 2023: 40-kW solar plant in Shatin (attributed to LILA/ecocorridor climate measures)."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Pasture management plans for target communities",
+    "kind": "report",
+    "note": "Developed by LILA (Ecolur 28 Nov 2025); not seen"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Ecolur 28 Nov 2025: LILA Project concluded",
+    "url": "https://www.ecolur.org/en/news/biodiversity/16230"
+   },
+   {
+    "title": "Ecolur 2021: Switzerland allocates CHF 4,500,000 to Armenia for nature protection and economic development",
+    "url": "https://www.ecolur.org/en/news/officials/13124/"
+   },
+   {
+    "title": "Ecolur 29 Nov 2023: Nature conservation as source of income - ecocorridors and LILA projects",
+    "url": "https://www.ecolur.org/en/news/biodiversity/15237/"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Added during compilation. Merged SDC IATI tranches (2021-2025). IATI end dates run to 2026-12; the project formally concluded Phase 1 on 21 Nov 2025. Dsegh and Shatin are attributed to LILA from a combined article on LILA and eco-corridors; the Dsegh solar work was done together with UNDP/GEF SGP. The seven consolidated communities are not named in the sources found. Works in the same corridors as the BMZ/KfW Eco-Corridor Fund record."
+ },
+ {
+  "slug": "adaptation-fund-land-adaptation-khosrov-dilijan",
+  "title_en": "Strengthening land based adaptation capacity in communities adjacent to protected areas in Armenia (Adaptation Fund, EPIU)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "Adaptation Fund project (Armenia 1)"
+   ]
+  },
+  "donors": [
+   "Adaptation Fund (grant USD 2,506,000)"
+  ],
+  "implementers": [
+   "Environmental Project Implementation Unit (EPIU) - Implementing Entity"
+  ],
+  "national_partners": [
+   "Ministry of Nature Protection (executing entity)",
+   "Khosrov Forest State Reserve SNCO",
+   "Dilijan National Park SNCO"
+  ],
+  "start": "2019-09",
+  "end": "2024-07",
+  "status": "completed",
+  "budget_usd": 2506000,
+  "budget_original": "Adaptation Fund grant USD 2,506,000 (total project cost USD 2,309,710 + implementing-entity fee USD 196,290)",
+  "cofinancing_note": null,
+  "themes": [
+   "climate-adaptation",
+   "agriculture-value-chain",
+   "land-degradation-slm",
+   "biodiversity-protected-areas",
+   "rural-community-development"
+  ],
+  "summary_en": "Adaptation Fund project implemented by EPIU to reduce the climate vulnerability of communities next to Khosrov Forest State Reserve (Ararat marz) and Dilijan National Park (Tavush marz). It introduced community-based, climate-smart agricultural practices in degraded areas, strengthened value chains and technology access, and built awareness and monitoring capacity on climate-smart agriculture and land degradation neutrality.",
+  "activities_en": [
+   "Community-based climate-smart agricultural practices in degraded areas and buffer zones (USD 1.73 m)",
+   "Value chains and technology transfer for vulnerable rural communities (USD 0.34 m)",
+   "Awareness, capacity building, monitoring and decision-making on climate-smart agriculture and LDN (USD 0.2 m)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": "Urtsadzor",
+    "settlements": [
+     "Urtsadzor"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Adaptation Fund proposal: Urtsadzor community, in the foothills of the western Ararat valley close to Khosrov Forest State Reserve (Ararat marz); four target communities."
+   },
+   {
+    "marz": "Tavush",
+    "district": "Dilidjan",
+    "community": "Dilijan, Margahovit, Fioletovo",
+    "settlements": [
+     "Dilijan",
+     "Margahovit",
+     "Fioletovo"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Adaptation Fund proposal: Dilijan, Margahovit and Fioletovo communities near Dilijan National Park in south-western Tavush marz."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Adaptation Fund project page",
+    "url": "https://www.adaptation-fund.org/project/strengthening-land-based-adaptation-capacity-communities-adjacent-protected-areas-armenia-3/"
+   },
+   {
+    "title": "Adaptation Fund proposal (9 Feb 2018 version): Armenia Khosrov-Dilijan",
+    "url": "https://www.adaptation-fund.org/wp-content/uploads/2018/01/09.02.2018-AF_ArmeniaKhosrovDilijan5_Clean_version.pdf"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Added during compilation. Approved 15 Mar 2019; start 26 Sep 2019; actual completion 1 Jul 2024. This Margahovit is in Tavush, not the Lori Margahovit of UNDP/GEF 5353. Results are not stated on the project page (final evaluation and completion report exist)."
+ },
+ {
+  "slug": "adaptation-fund-land-adaptation-arid-zones-forest-pas",
+  "title_en": "Enhancing the land-based adaptation of communities adjacent to arid zones and forest protected areas of Armenia (Adaptation Fund, EPIU)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "Adaptation Fund project (follow-on to 'Armenia 1')"
+   ]
+  },
+  "donors": [
+   "Adaptation Fund (grant USD 4,097,546)"
+  ],
+  "implementers": [
+   "Environmental Project Implementation Unit (EPIU) - Implementing Entity"
+  ],
+  "national_partners": [
+   "Dilijan National Park SNCO",
+   "Khosrov Forest State Reserve SNCO"
+  ],
+  "start": "2026-12",
+  "end": "2030-12",
+  "status": "active",
+  "budget_usd": 4097546,
+  "budget_original": "Adaptation Fund grant USD 4,097,546 (USD 833,050 transferred so far)",
+  "cofinancing_note": null,
+  "themes": [
+   "climate-adaptation",
+   "agriculture-value-chain",
+   "land-degradation-slm",
+   "biodiversity-protected-areas",
+   "rural-community-development"
+  ],
+  "summary_en": "Follow-on Adaptation Fund project executed by EPIU with the Dilijan National Park and Khosrov Forest State Reserve SNCOs. It aims to duplicate and expand the mechanisms of the previous project (Khosrov-Dilijan) for communities adjacent to arid zones and forest protected areas; a search summary adds pasture and irrigation rehabilitation, solar systems, greenhouses and farmer training.",
+  "activities_en": [
+   "Duplicate and expand land-based adaptation mechanisms of the previous Adaptation Fund project"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Inferred: Dilijan National Park SNCO is an executing entity (Adaptation Fund page); the page does not name target communities."
+   },
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Inferred: Khosrov Forest State Reserve SNCO is an executing entity (Adaptation Fund page); the page does not name target communities."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Adaptation Fund project page",
+    "url": "https://www.adaptation-fund.org/project/enhancing-the-land-based-adaptation-of-communities-adjacent-to-arid-zones-and-forest-protected-areas-of-armenia-by-duplicating-and-expanding-the-successful-mechanisms-of-the-previous-projects/"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Extra programme. Locations are inferred from the executing entities; target communities and 'arid zones' are not named on the page. Page dates are in dd/mm/yyyy: approval 10 Oct 2025, start 2 Dec 2026, completion 2 Dec 2030, status 'under implementation' (start date is in the future relative to 4 Nov 2026 - treat the dates with care). A 2024 Adaptation Fund board document (AFB.PPRC.33.Inf.1) reportedly covers Khosrov Forest, Dilijan and Lake Sevan national parks (USD 3.78 m request); its relation to this project was not checked."
+ }
+]

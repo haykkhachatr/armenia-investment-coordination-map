@@ -1,0 +1,3464 @@
+[
+ {
+  "slug": "eu-gaia-green-agriculture-north",
+  "title_en": "EU Green Agriculture Initiative in Armenia (EU-GAIA)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-EC_NEAR-2019-PCC-408058",
+    "XM-DAC-41114-OUTPUT-00109283",
+    "XM-DAC-41114-PROJECT-00110255"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AR-2019-PCC-408058",
+    "UNDP 14-OUTPUT-00109283",
+    "UNDP 4-PROJECT-00110255"
+   ]
+  },
+  "donors": [
+   "European Union",
+   "Austrian Development Cooperation"
+  ],
+  "implementers": [
+   "Austrian Development Agency",
+   "UNDP Armenia"
+  ],
+  "national_partners": [
+   "Ministry of Economy"
+  ],
+  "start": "2019-10",
+  "end": "2025-09",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "EUR 9.7 million EU commitment (EC IATI record); total programme budget reported as EUR 11.7 million by news.am. UNDP-managed share in UNDP IATI record: USD 2.30 million.",
+  "cofinancing_note": "EU funded, co-funded by Austrian Development Cooperation; ADA is the main implementing partner, UNDP implements Specific Objective 3 (herbs, legumes and sheep value chains).",
+  "themes": [
+   "agriculture-value-chain",
+   "pastures-livestock",
+   "climate-adaptation",
+   "rural-community-development"
+  ],
+  "summary_en": "EU-GAIA aims at inclusive growth in the northern border marzes of Armenia (Shirak, Lori, Tavush) by boosting green agriculture and local added value. UNDP supports three value chains (herbs, legumes, sheep) while the Austrian Development Agency runs a grant scheme for green and organic agribusinesses (EUR 2.47 million call in 2020).",
+  "activities_en": [
+   "Grant call for green and organic agribusinesses in Shirak, Lori and Tavush (fruit, berry and vegetable value chains; legumes, herbs and sheep breeding)",
+   "Demo sites: Sheep Genetic Centre (Azatan, Shirak), Herbs Seedling Centre and pedigree sheep farm with RFID weighing",
+   "Vegetable production, collection and packaging centre 'Lorva Hatik' in Stepanavan (Lori)",
+   "Training of farmers (sheep breeding, herb and legume cultivation, business planning with ICARE)",
+   "COVID-19 response package (EUR 456,500) with tractors, seedlings, inputs and post-harvest support"
+  ],
+  "results_en": [
+   "More than 350 beneficiaries trained and more than 400 French meat-breed sheep imported and distributed (UNDP report via FAO platform)",
+   "80 beneficiaries selected, 60 already equipped (FAO platform entry)",
+   "About 20 t of elite legume seed distributed, yielding more than 200 t of legume seed",
+   "'Lorva Hatik' centre: about 25 ha under cultivation with collaborating farmers in 2022"
+  ],
+  "locations": [
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Project activities concentrated in Shirak, Lori and Tavush regions (FAO Green Agriculture platform entry; IATI UNDP record lists Lori, Shirak, Tavush)"
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source: UNDP supports herbs, legumes and sheep value chains in Tavush, Lori and Shirak"
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source; IATI UNDP record location Shirak"
+   },
+   {
+    "marz": "Lori",
+    "district": "Stepanavan",
+    "community": "Stepanavan",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "'The new Lorva Hatik centre is located in Stepanavan city, Lori region' (EU NEIGHBOURS east, Oct 2022)"
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": "Azatan",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "'UNDP and partners officially launched the new Maqi genetic centre for pedigree sheep breeding in Azatan community, Shirak region' (EU NEIGHBOURS east, Mar 2022)"
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Business-model calculation online tools (legumes, herbs, sheep)",
+    "kind": "tool",
+    "note": "Developed for each value chain (FAO platform entry)"
+   },
+   {
+    "name": "Guidelines on cultivation of herbs and legumes",
+    "kind": "report",
+    "note": "Printed and shared with beneficiaries"
+   }
+  ],
+  "sources": [
+   {
+    "title": "FAO Regional Technical Platform on Green Agriculture - EU-GAIA entry",
+    "url": "https://www.fao.org/platforms/green-agriculture/knowledge/green-practices-repository/detail/green-agriculture-initiative-in-armenia-(eu-gaia)/en"
+   },
+   {
+    "title": "EU NEIGHBOURS east - Lorva Hatik centre in Stepanavan (20 Oct 2022)",
+    "url": "https://euneighbourseast.eu/news/latest-news/eu-green-agriculture-initiative-in-armenia-opens-new-agricultural-centre-in-stepanavan/"
+   },
+   {
+    "title": "EU NEIGHBOURS east - Maqi sheep breeding centre, Azatan, Shirak (23 Mar 2022)",
+    "url": "https://euneighbourseast.eu/news/latest-news/armenia-eu-green-agriculture-initiative-opens-new-centre-for-pedigree-sheep-breeding-in-shirak-region/"
+   },
+   {
+    "title": "EU NEIGHBOURS east - business courses for farmers from Tavush, Shirak and Lori (Apr 2023)",
+    "url": "https://euneighbourseast.eu/news/latest-news/armenia-eu-funded-programme-holds-business-courses-for-farmers-from-tavush-shirak-and-lori-regions/"
+   },
+   {
+    "title": "Armenpress - EU-GAIA COVID-19 package, Apr 2020",
+    "url": "https://armenpress.am/en/article/1012615"
+   },
+   {
+    "title": "Panorama.am - EU-GAIA call for applications, Jul 2020",
+    "url": "https://panorama.am/en/news/2020/07/08/EU-Armenia/2324001"
+   },
+   {
+    "title": "News.am - EU-GAIA budget EUR 11.7 million",
+    "url": "https://news.am/eng/news/563879.html"
+   },
+   {
+    "title": "IATI record (EC) via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XI-IATI-EC_NEAR-2019-PCC-408058"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Communities beyond Stepanavan and Azatan (grant beneficiaries) are not listed in the sources opened. End date: EC IATI says 2025-05, UNDP IATI 2025-09. The Herbs Seedling Centre location is not stated in any source opened. UNDP's own project page returned HTTP 403."
+ },
+ {
+  "slug": "adb-horticulture-spayka-yerevan",
+  "title_en": "High-Efficiency Horticulture and Integrated Supply Chain Project (Spayka greenhouses)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-46004-51162-001-LN3642"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "ADB 51162-001",
+    "LN3642"
+   ]
+  },
+  "donors": [
+   "Asian Development Bank"
+  ],
+  "implementers": [
+   "Spayka LLC (borrower)"
+  ],
+  "national_partners": [],
+  "start": "2018-03",
+  "end": null,
+  "status": "active",
+  "budget_usd": 32000000,
+  "budget_original": "USD 32 million ADB loan",
+  "cofinancing_note": "Non-sovereign ADB loan to a private company; no co-financier named in the ADB release.",
+  "themes": [
+   "agriculture-value-chain"
+  ],
+  "summary_en": "ADB lent USD 32 million to Spayka LLC to develop about 30 ha of climate-controlled greenhouses with drip irrigation in Yerevan, growing tomatoes and bell peppers for export to Russia and the UAE. This is a private-sector investment, not a rural community programme.",
+  "activities_en": [
+   "Build about 30 ha of climate-controlled greenhouses with drip irrigation",
+   "Export tomatoes and bell peppers (Russia, UAE) through Spayka's existing supply chain"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Yerevan",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "ADB Early Warning System record: 'Specific Location: Yerevan'; project description: 'development of 30 hectares of climate-controlled greenhouses ... in Yerevan'. Exact site not given."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "ADB project 51162-001 (Rights in Development EWS mirror)",
+    "url": "https://ewsdata.rightsindevelopment.org/projects/51162-001-high-efficiency-horticulture-and-integrated-supply/"
+   },
+   {
+    "title": "ADB news release - loan signed 2 March 2018",
+    "url": "https://www.adb.org/news/adb-signs-private-sector-agri-loan-enhance-production-exports-armenian-produce"
+   },
+   {
+    "title": "HortiDaily - ADB funds 30 ha greenhouse expansion",
+    "url": "https://www.hortidaily.com/article/6041544/armenia-asian-development-bank-funds-30-ha-greenhouse-expansion/"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XM-DAC-46004-51162-001-LN3642"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Exact greenhouse site inside Yerevan municipality not stated in the sources opened. ADB release expects about 10 million kg tomatoes, 2 million kg bell peppers per year and 275 jobs (targets, not results). Completion status not verified; IATI shows implementation status and zero spend. Low relevance to rural donor coordination."
+ },
+ {
+  "slug": "ifad-irfsp-infrastructure-rural-finance",
+  "title_en": "IFAD Infrastructure and Rural Finance Support Programme (IRFSP)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41108-1100001690"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "IFAD 1100001690",
+    "OPEC Fund IRFSP"
+   ]
+  },
+  "donors": [
+   "IFAD",
+   "OPEC Fund for International Development",
+   "Government of Armenia"
+  ],
+  "implementers": [
+   "Ministry of Agriculture (executing agency, per OPEC Fund)"
+  ],
+  "national_partners": [
+   "Ministry of Agriculture"
+  ],
+  "start": "2014-09",
+  "end": "2023-03",
+  "status": "completed",
+  "budget_usd": 52770000,
+  "budget_original": "USD 52.77 million total programme cost (OPEC Fund)",
+  "cofinancing_note": "IFAD loan USD 11 million; OPEC Fund loan USD 25 million; remainder from bilateral donors, Government, beneficiaries and financial institutions (PanARMENIAN: 3.5 + 10.1 + 3.5 + 0.9 million). Components quoted by sources do not sum exactly to the total.",
+  "themes": [
+   "rural-community-development",
+   "water-irrigation",
+   "water-supply-sanitation",
+   "agriculture-value-chain"
+  ],
+  "summary_en": "IRFSP improves rural water supply and small and medium irrigation networks in poor mountain marzes and provides rural finance countrywide, to cut rural poverty especially among women and youth. OPEC Fund reports works on around 3,200 ha in 35 communities and about 78,000 expected beneficiaries.",
+  "activities_en": [
+   "Develop small and medium-scale irrigation distribution systems (about 3,200 ha in 35 communities)",
+   "Rural water supply for consumption and agricultural use, coordinated with water management companies",
+   "Rural finance component (countrywide)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "IFAD operations page (as returned by search tool; page itself gave HTTP 403 to me): 'infrastructure component will cover the seven regions of Shirak, Lori, Tavoush, Gegharqunik, Vajots Dzor, Sjunik and Aragatsotn, while the rural finance component will be countrywide'"
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same IFAD statement"
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same IFAD statement"
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same IFAD statement"
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same IFAD statement"
+   },
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same IFAD statement"
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same IFAD statement"
+   },
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "Rural finance component is countrywide (same IFAD statement); OPEC Fund page: works 'in 35 communities' (communities not named)"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "OPEC Fund - IRFSP project page",
+    "url": "https://opecfund.org/operations/list/infrastructure-and-rural-finance-support-program-irfsp"
+   },
+   {
+    "title": "PanARMENIAN - IFAD loan agreement signed, 13 Nov 2014",
+    "url": "https://www.panarmenian.net/eng/news/184772"
+   },
+   {
+    "title": "IFAD IRFSP page (blocked, text seen in search result)",
+    "url": "https://www.ifad.org/ar/web/operations/-/projet/1100001690"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XM-DAC-41108-1100001690"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Seven-marz list rests on the IFAD page text as shown by a search result; the IFAD page could not be opened. PanARMENIAN says the programme covers 'seven communities of Shirak province', which conflicts; the seven-marz version is better supported. The 35 communities are not named in sources opened. A GEF-funded component (GEF 8005, SLM for increased productivity) is linked to this programme by other sources and may be catalogued separately."
+ },
+ {
+  "slug": "ifad-rural-asset-creation-programme",
+  "title_en": "IFAD Rural Asset Creation Programme (RACP)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41108-1100001538"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "IFAD 1100001538"
+   ]
+  },
+  "donors": [
+   "IFAD",
+   "OPEC Fund for International Development",
+   "Government of Armenia",
+   "Government of Denmark"
+  ],
+  "implementers": [
+   "Fruit Armenia OJSC (orchard vehicle)",
+   "Office of the Prime Minister (lead programme agency)"
+  ],
+  "national_partners": [],
+  "start": "2010-09",
+  "end": "2016-12",
+  "status": "completed",
+  "budget_usd": 13587829,
+  "budget_original": "IFAD commitment USD 13.59 million (IATI); design cost estimated at about USD 52 million with OFID, Government, USAID and beneficiaries",
+  "cofinancing_note": "OFID loan about USD 20 million in the PCRV financing table; beneficiaries USD 3 million at design.",
+  "themes": [
+   "agriculture-value-chain",
+   "rural-community-development",
+   "water-supply-sanitation"
+  ],
+  "summary_en": "RACP created a vertically integrated fruit and nut sector by establishing Fruit Armenia JSC and planting orchards in the poor border marzes of Tavush, Vayots Dzor and Talin district of Aragatsotn. A second component financed community water supply, gas and access roads in seven mountainous marzes.",
+  "activities_en": [
+   "Establish Fruit Armenia JSC and orchards (fruits and nuts) with smallholder links",
+   "Rural infrastructure: community water supply, gas, drainage structures, access to orchards and markets (OFID financing)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "PCRV: 'The programme focused on the poor marzes of Tavush, Vayots Dzor and Talin District of Aragatsotn' for orchard establishment"
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same PCRV statement"
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": "Talin",
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "district",
+    "evidence": "Same PCRV statement: Talin District of Aragatsotn"
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "PCRV: 'The seven mountainous marzes of Shirak, Lori, Tavush, Gegharqunik, Vayots Dzor, Sjunik and Aragatsotn were selected' (infrastructure under OFID financing)"
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same PCRV statement"
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same PCRV statement"
+   },
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same PCRV statement"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "IFAD PCR validation - Rural Asset Creation Programme, Armenia",
+    "url": "https://www.ifad.org/documents/38714182/40258201/PCRV+RACP+Armenia.pdf"
+   },
+   {
+    "title": "PanARMENIAN - IFAD to finance Fruit Armenia OJSC, 26 Aug 2010",
+    "url": "https://panarmenian.net/m/eng/news/52553/"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XM-DAC-41108-1100001538"
+   }
+  ],
+  "confidence": "high",
+  "notes": "PanARMENIAN (2010) lists Armavir instead of Aragatsotn among the seven infrastructure marzes; the PCRV (final document) list is used. Orchard parcels/communities are not named in the PCRV text searched."
+ },
+ {
+  "slug": "ifad-farmer-market-access-programme",
+  "title_en": "IFAD Farmer Market Access Programme (FMAP)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41108-1100001411"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "IFAD 1100001411"
+   ]
+  },
+  "donors": [
+   "IFAD",
+   "OPEC Fund for International Development",
+   "Government of Denmark",
+   "Government of Armenia"
+  ],
+  "implementers": [
+   "Ministry of Agriculture (executing agency, per OPEC Fund)"
+  ],
+  "national_partners": [
+   "Ministry of Agriculture"
+  ],
+  "start": "2007-09",
+  "end": "2013-12",
+  "status": "completed",
+  "budget_usd": 37330000,
+  "budget_original": "USD 37.33 million total project cost (OPEC Fund)",
+  "cofinancing_note": "OPEC Fund USD 14 million; IFAD, Government, beneficiaries, clients and a grant also contributed; UN release (Jan 2008) cited IFAD spending of over USD 12 million.",
+  "themes": [
+   "agriculture-value-chain",
+   "rural-community-development"
+  ],
+  "summary_en": "FMAP provided financial services (loans and venture capital through a dedicated fund) to small and medium rural enterprises and farmers to stimulate commercial activity and diversify rural livelihoods. It operated as a financial-services and enterprise programme rather than a geographically bounded infrastructure project.",
+  "activities_en": [
+   "Financial services for small and medium-scale rural enterprises and farmers"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "OPEC Fund page describes provision of financial services for small and medium-scale rural enterprises and farmers; no marz list found in sources opened"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "OPEC Fund - Farmer Market Access Program",
+    "url": "https://opecfund.org/operations/list/farmer-market-access-program"
+   },
+   {
+    "title": "UN/Scoop - Small businesses in Armenia to receive boost (Jan 2008)",
+    "url": "https://www.scoop.co.nz/stories/WO0801/S00104/small-businesses-in-armenia-to-receive-boost.htm"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XM-DAC-41108-1100001411"
+   }
+  ],
+  "confidence": "low",
+  "notes": "No geographic targeting found: the 2007 IFAD design document (EB 2007/91/R.30/Rev.1) could not be opened. Treat as national finance programme. The older RAEDP (IATI 1100001307, 2004-2010) was dropped: no source could be opened."
+ },
+ {
+  "slug": "wb-carmac-pasture-livestock",
+  "title_en": "Community Agricultural Resource Management and Competitiveness Project (CARMAC I and II)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": "P120028",
+   "gef": "4954",
+   "gcf": null,
+   "other": [
+    "P133705 (CARMAC II)",
+    "P144283 (second World Bank record, same title, approved 2013-01; appears to be the GEF co-financing record, not verified)"
+   ]
+  },
+  "donors": [
+   "World Bank (IDA/IBRD)",
+   "GEF",
+   "Government of Armenia"
+  ],
+  "implementers": [
+   "Agriculture Projects Implementation Unit / Department, Ministry of Economy"
+  ],
+  "national_partners": [
+   "Ministry of Economy"
+  ],
+  "start": "2011-03",
+  "end": "2022-10",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "CARMAC I: USD 16.0 million (P120028). CARMAC II: World Bank commitment USD 32.67 million (P133705); Ministry of Economy states total cost USD 42.67 million.",
+  "cofinancing_note": "GEF Trust Fund project 4954 (GEF-5, land degradation focal area, World Bank as implementing agency, Ministry of Agriculture as executing agency, status completed per GEF portal).",
+  "themes": [
+   "pastures-livestock",
+   "land-degradation-slm",
+   "agriculture-value-chain",
+   "rural-community-development"
+  ],
+  "summary_en": "CARMAC I and II introduced community-managed pasture and livestock management in mountain communities and later supported high-value agri-food value chains. CARMAC II trains 109 communities in managing 207,000 ha of community pasture, about 19 percent of the country's pastureland.",
+  "activities_en": [
+   "Community pasture and livestock management systems with pasture and fodder assessments",
+   "Stock watering points and infrastructure on pastures",
+   "Value chain development for livestock and high-value agri-food products"
+  ],
+  "results_en": [
+   "109 communities, about 65,000 households (285,000 people), 207,000 ha of community pasture reached (World Bank feature, 2021)",
+   "World Bank reports improved standing stock, vegetative cover productivity and household income"
+  ],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "World Bank feature: 'CARMAC 2 is providing relevant training to 109 communities in managing 207,000 hectares of community pasture areas'. Community list not found in sources opened."
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": "Navur",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "World Bank 2021 feature photo caption: 'Navur community, Tavush marz, before and after intervention'"
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Pasture and fodder assessments / community pasture management plans",
+    "kind": "report",
+    "note": "Prepared for each participating community per World Bank feature; not published as a dataset in sources opened"
+   }
+  ],
+  "sources": [
+   {
+    "title": "World Bank feature 12 May 2021 - Armenian grasslands",
+    "url": "https://www.worldbank.org/en/news/feature/2021/05/12/armenian-grasslands-how-sustainable-livestock-practices-can-boost-incomes-while-protecting-the-environment"
+   },
+   {
+    "title": "Ministry of Economy - CARMAC II page",
+    "url": "https://www.mineconomy.am/en/page/1350"
+   },
+   {
+    "title": "World Bank projects API - P133705 / P120028",
+    "url": "https://search.worldbank.org/api/v2/projects?format=json&id=P133705"
+   },
+   {
+    "title": "GEF portal - project 4954 (CARMAC)",
+    "url": "https://www.thegef.org/projects-operations/projects/4954"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The marz distribution of the 109 communities is not in the sources opened (a search result mentions pasture cooperatives in 8 marzes, not verified). The GEF 4954 terminal evaluation PDF returned 404. Link of P144283 to GEF 4954 is an inference from title and dates."
+ },
+ {
+  "slug": "wb-leid-local-economy-infrastructure",
+  "title_en": "Local Economy and Infrastructure Development Project (LEID)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": "P150327",
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "IBRD loan, board approval 22 Dec 2015"
+   ]
+  },
+  "donors": [
+   "World Bank (IBRD)"
+  ],
+  "implementers": [
+   "Armenia Tourism Development Fund / Development Foundation Armenia (Ministry of Economy)"
+  ],
+  "national_partners": [
+   "Ministry of Economy"
+  ],
+  "start": "2015-12",
+  "end": "2024-12",
+  "status": "completed",
+  "budget_usd": 55000000,
+  "budget_original": "USD 55 million IBRD loan (reduced by cancellations during implementation)",
+  "cofinancing_note": null,
+  "themes": [
+   "rural-community-development",
+   "policy-capacity"
+  ],
+  "summary_en": "LEID financed urban regeneration, access roads and visitor facilities at heritage and tourism hubs and sites in several marzes, plus institutional support, to raise tourism's contribution to the local economy. About 38 subprojects were planned across 17 sites.",
+  "activities_en": [
+   "Heritage hub regeneration: public spaces, facades, access roads, water and sanitation, street lighting",
+   "Tourism circuits: site preservation, visitor facilities (information centres, toilets, parking)",
+   "Institutional development: destination management organisations, site management plans, business advisory services",
+   "June 2020 restructuring added Aragatsotn, Gegharkunik and Tavush; COVID-19 medical supplies for Martuni and Vayots Dzor medical centres"
+  ],
+  "results_en": [
+   "1,023 temporary construction jobs and 350 follow-on private-sector jobs (IEG review)",
+   "67.5 km of improved access roads to tourism sites; 1,453 street lighting posts; 4 urban parks upgraded (2 in Gyumri, 1 Goris, 1 Tsaghkunk); 29 tourist facilities at 11 sites"
+  ],
+  "locations": [
+   {
+    "marz": "Syunik",
+    "district": "Goris",
+    "community": "Goris",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "IEG ICR review: target areas 'old towns of Goris and Meghri, and heritage villages of Areni, Tatev'; Goris and Meghri hubs"
+   },
+   {
+    "marz": "Syunik",
+    "district": "Meghri",
+    "community": "Meghri",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source: old town of Meghri"
+   },
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": "Tatev",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source: heritage village of Tatev"
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": "Areni",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source: heritage village of Areni"
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": "Jermuk",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source: old town of Jermuk added during implementation"
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": "Gyumri",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source: old town of Gyumri added; reconstruction of six streets and two squares in the Kumayri Historical Center; two parks"
+   },
+   {
+    "marz": "Kotayk",
+    "district": null,
+    "community": "Garni",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source: Garni added as heritage village (marz assigned from public geography, not stated in the review)"
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "IEG review: restructuring of 25 July 2020 added Aragatsotn, Gegharkunik and Tavush to the geographical scope"
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source (July 2020 scope extension)"
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source (July 2020 scope extension)"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "IEG Implementation Completion Report Review, LEIDP (P150327)",
+    "url": "https://documents1.worldbank.org/curated/en/099110725114211656/pdf/P150327-67fe7f52-bcf4-4159-b702-6cc0fa8a8ee0.pdf"
+   },
+   {
+    "title": "World Bank feature 3 Apr 2026 - Investing in local economies",
+    "url": "https://www.worldbank.org/en/news/feature/2026/04/03/investing-in-local-economies-tourism-powers-jobs-and-growth-in-armenia"
+   },
+   {
+    "title": "World Bank projects API - P150327",
+    "url": "https://search.worldbank.org/api/v2/projects?format=json&id=P150327"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Tsaghkunk village (park) is named but its marz is not stated in the sources. Marmashen Monastery (access road paved, 2.4 km) appears in the World Bank feature without a marz. Selected sites changed during implementation; the full list of 17 sites is not given in the review. This is a tourism-infrastructure project; included because it was in the requested list."
+ },
+ {
+  "slug": "wb-sild-social-investment-local-development",
+  "title_en": "Social Investment and Local Development Project (SILD) and Additional Financing",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": "P148836",
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "P171862 (Additional Financing, approved 2020-03-20)",
+    "P156378 (Social Investment and Local Development Trust Fund)"
+   ]
+  },
+  "donors": [
+   "World Bank (IBRD)"
+  ],
+  "implementers": [
+   "Armenian Territorial Development Fund (ATDF)"
+  ],
+  "national_partners": [
+   "Ministry of Territorial Administration and Infrastructure"
+  ],
+  "start": "2015-03",
+  "end": "2025-05",
+  "status": "completed",
+  "budget_usd": 50000000,
+  "budget_original": "USD 30 million IBRD loan (2015) plus EUR 17.9 million (USD 20 million equivalent) additional financing (2020), World Bank figures",
+  "cofinancing_note": "Trust fund P156378: USD 2.43 million.",
+  "themes": [
+   "rural-community-development",
+   "water-supply-sanitation",
+   "water-irrigation"
+  ],
+  "summary_en": "SILD finances community-driven microprojects in vulnerable communities and larger intercommunity subprojects (schools, kindergartens, water supply, sanitation, community centres, health facilities, minor irrigation). The 2020 additional financing was to support 55 communities.",
+  "activities_en": [
+   "Microprojects selected by community vulnerability ranking and socio-economic impact",
+   "Intercommunity subprojects",
+   "Institutional strengthening of ATDF"
+  ],
+  "results_en": [
+   "Original project completed 98 microprojects and 52 subprojects (closed 2022)",
+   "Additional financing: 15 of 17 microprojects completed and all 38 subprojects by late 2024; project closed 31 May 2025"
+  ],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "World Bank press release 2020: 'local populations throughout Armenia' benefit through microprojects ranked by community vulnerability; additional financing for 55 communities"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "World Bank press release 20 Mar 2020 - 55 communities",
+    "url": "https://www.worldbank.org/en/news/press-release/2020/03/20/world-bank-supports-further-social-investments-in-55-communities-across-armenia"
+   },
+   {
+    "title": "World Bank Implementation Status report, Dec 2024 (text)",
+    "url": "https://documents1.worldbank.org/curated/en/099122024111529352/text/P148836-3fb37ee3-2dd1-4bb9-8b6a-74efe4b8744c.txt"
+   },
+   {
+    "title": "World Bank projects API - P148836",
+    "url": "https://search.worldbank.org/api/v2/projects?format=json&id=P148836"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "No community-by-community list found; locations kept national. The ATDF website or the ICR would list microproject communities. USD total is the sum of two World Bank-stated USD amounts, not a conversion by me."
+ },
+ {
+  "slug": "sdc-lila-living-landscapes",
+  "title_en": "Living Landscapes for Market Development in Armenia (LILA)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "CH-4-2022-2021000836",
+    "CH-4-2022-2021009448",
+    "CH-4-2022-2021009449",
+    "CH-4-2022-2021009450",
+    "CH-4-2021-2021000836",
+    "CH-4-2024-2021009449",
+    "CH-4-2024-2021009949",
+    "CH-4-2023-2021009449",
+    "CH-4-2025-2021009449",
+    "CH-4-2025-2021009949",
+    "CH-4-2025-2021010043"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Swiss Agency for Development and Cooperation (SDC)"
+  ],
+  "implementers": [
+   "WWF Armenia (environment component)",
+   "Strategic Development Agency NGO (economic component)"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Ministry of Economy (Tourism Committee)"
+  ],
+  "start": "2021-04",
+  "end": "2025-11",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "CHF 4.5 million planned over eight years (EcoLur 2021); CHF 2.5 million total reported at closure on 21 Nov 2025 (CHF 1.5 million economic, CHF 1 million environmental).",
+  "cofinancing_note": "Part of the regional Eco-Corridor Fund for the Caucasus (ECF).",
+  "themes": [
+   "pastures-livestock",
+   "agriculture-value-chain",
+   "biodiversity-protected-areas",
+   "climate-mitigation-energy",
+   "rural-community-development",
+   "land-degradation-slm"
+  ],
+  "summary_en": "LILA linked nature conservation and rural incomes in seven consolidated communities of Tavush, Lori, Vayots Dzor and Syunik. It built pasture infrastructure, developed pasture management plans, installed solar PV and water heaters, and supported gastro-tourism and local product businesses.",
+  "activities_en": [
+   "Pasture infrastructure (watering troughs, access roads, shelters) and pasture management plans",
+   "Solar PV stations and solar water heaters in community buildings",
+   "Support to 31 tourism, hospitality and food-supply businesses",
+   "Community journalist network in biodiversity-rich communities"
+  ],
+  "results_en": [
+   "508 households received additional income; 31 businesses with about 700 employees supported",
+   "196 ha brought under sustainable management (148 ha forest); 21 pasture infrastructure units built",
+   "102 t CO2 emissions prevented; more than 13,000 people benefited from climate-related initiatives (EcoLur, Nov 2025)"
+  ],
+  "locations": [
+   {
+    "marz": "Tavush",
+    "district": "Idjevan",
+    "community": "Ijevan consolidated community",
+    "settlements": [
+     "Sevqar",
+     "Yenokavan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "EcoLur: 'the project supported Ijevan consolidated community - installing solar stations in Sevqar and Yenoqavan villages, drinking troughs in pastures, and the roads leading to pastures were improved'"
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": "Pambak consolidated community",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "EcoLur: 'Support was provided to Pambak and Tumanyan consolidated communities' (solar stations, pasture drinking troughs); presented as Tavush and Lori works"
+   },
+   {
+    "marz": "Lori",
+    "district": "Tumanian",
+    "community": "Tumanyan consolidated community",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same EcoLur source"
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "EcoLur: LILA operates in 7 consolidated communities in Tavush, Lori, Vayots Dzor and Syunik; community names not found"
+   },
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same EcoLur source"
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Pasture management plans for beneficiary settlements",
+    "kind": "report",
+    "note": "EcoLur Nov 2025: pasture management plans developed; a 2024 EcoLur item counted 14 beneficiary settlements"
+   }
+  ],
+  "sources": [
+   {
+    "title": "EcoLur - LILA Project concluded (28 Nov 2025)",
+    "url": "https://www.ecolur.org/en/news/biodiversity/16230"
+   },
+   {
+    "title": "EcoLur - Economic Development and Nature Protection Through LILA Project",
+    "url": "https://www.ecolur.org/en/news/cities/15997/"
+   },
+   {
+    "title": "EcoLur - Switzerland launches multi-annual project with CHF 4.5 million",
+    "url": "https://www.ecolur.org/en/news/biodiversity/13883/"
+   },
+   {
+    "title": "WWF Armenia - LILA page",
+    "url": "https://www.wwf.am/living_landscapes_for_market_development_in_armenia"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Four of the seven consolidated communities (in Vayots Dzor and Syunik, plus one more) are not named in the sources opened. The IATI series for this project spans several SDC booking records (2021-2026)."
+ },
+ {
+  "slug": "sdc-livestock-development-armenia",
+  "title_en": "Livestock Development in Armenia / Creating markets for Armenian livestock farmers (SDC, implemented by SDA)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "CH-4-2022-2006005902",
+    "CH-4-2022-2006006107",
+    "CH-4-2022-2006006108",
+    "CH-4-2022-2006006141",
+    "CH-4-2021-2006005902",
+    "CH-4-2021-2006006107",
+    "CH-4-2021-2006006108",
+    "CH-4-2021-2006006141",
+    "CH-4-2021-2006006142",
+    "CH-4-2006005408",
+    "CH-4-2006005902",
+    "CH-4-2006005903",
+    "CH-4-2006006107",
+    "CH-4-2006006108",
+    "CH-4-2006004611",
+    "CH-4-2006005493",
+    "CH-4-2006005494"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "SDC phases 4 (2014-2021) and 5 (2017-2021)"
+   ]
+  },
+  "donors": [
+   "Swiss Agency for Development and Cooperation (SDC)",
+   "Austrian Development Agency (co-funder of phase 5)"
+  ],
+  "implementers": [
+   "Strategic Development Agency (SDA) NGO"
+  ],
+  "national_partners": [],
+  "start": "2014-09",
+  "end": "2021-12",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "Phase 4 (2014-2021): CHF 11,245,756. Phase 5 (2017-2021, SDC and ADA): CHF 5,432,600 (Regional Post, Jul 2023). Whole project since 2006: CHF 24.9 million.",
+  "cofinancing_note": "Phases 1-3 (2006-2014) are earlier; IATI ids CH-4-2006004611/5493 are earlier 'Livestock Development in the Syunik Region' bookings.",
+  "themes": [
+   "pastures-livestock",
+   "agriculture-value-chain",
+   "rural-community-development"
+  ],
+  "summary_en": "The project improved milk and meat value chains for smallholder farmers in about 220 rural settlements, starting in Syunik and Vayots Dzor and extending to Gegharkunik, Tavush, Lori and Shirak. It built private veterinary and artificial insemination service points and linked farmers to collectors and processors.",
+  "activities_en": [
+   "Veterinary and artificial insemination service network",
+   "Links between farmers, milk collection and processors; cross-border trade with Georgia",
+   "Extension and training, electronic animal register"
+  ],
+  "results_en": [
+   "102 veterinary and 52 artificial insemination points established 2014-2021 in six marzes",
+   "Services reached over 15,200 households in 217 rural settlements in 2020; total milk production up 78 percent 2014-2020 in the northern marzes (project data as reported)",
+   "46,450 farmers earned more income; 396 off-farm jobs created"
+  ],
+  "locations": [
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "IATI description: 'In the provinces of Syunik and Vayots Dzor in southern Armenia ... milk and meat production'; Regional Post 2023: rural communities of Syunik and Vayots Dzor"
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same sources"
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Regional Post 2023: project 'included a good number of the rural communities of the Syunik and Vayots Dzor marzes and Gegharkunik, Tavush, Lori, and Shirak (in total 220 settlements)'"
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same Regional Post statement"
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same"
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Regional Post - Sustainable livestock agriculture as a key to economic prosperity in rural areas of Armenia (27 Jul 2023)",
+    "url": "https://regionalpost.org/en/articles/sustainable-livestock-agriculture-as-a-key-to-economic-prosperity-in-rural-areas-of-armenia.html"
+   },
+   {
+    "title": "Regional Post - SDC in Armenian regions (28 Aug 2017)",
+    "url": "https://regionalpost.org/en/articles/sdc-in-armenian-regions.html"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=CH-4-2006006107"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Settlement names are not listed in the sources opened. The SDC factsheet PDF returned HTTP 403. The Meghri rural horticulture project (separate SDC project) is not included. Whether a later phase (after 2021) exists was not checked."
+ },
+ {
+  "slug": "sdc-foracca-forest-restoration-climate",
+  "title_en": "Forest Restoration and Climate Change in Armenia (FORACCA)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "CH-4-2024-2023007530",
+    "CH-4-2024-2023007531",
+    "CH-4-2024-2023007532",
+    "CH-4-2024-2023007533",
+    "CH-4-2024-2023007534",
+    "CH-4-2024-2023007535",
+    "CH-4-2023-2023000568",
+    "CH-4-2023-2023000569",
+    "CH-4-2023-2023000570",
+    "CH-4-2024-2023000568",
+    "CH-4-2024-2023000569",
+    "CH-4-2024-2023000570",
+    "CH-4-2025-2023000568",
+    "CH-4-2025-2023000570",
+    "CH-4-2025-2023007530",
+    "CH-4-2025-2023007531",
+    "CH-4-2025-2023007532",
+    "CH-4-2025-2023007533",
+    "CH-4-2025-2023007534",
+    "XM-DAC-47015-23416_Bilateral_Switzerland-EmbassyofSwitzerland-Armenia_Bioversity"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "SDC 'AM Climate adaptation' 2023-2023000568/9/70 (preparatory bookings of the same project)"
+   ]
+  },
+  "donors": [
+   "Swiss Agency for Development and Cooperation (SDC)"
+  ],
+  "implementers": [
+   "WSL (Swiss Federal Institute for Forest, Snow and Landscape Research)",
+   "Forest Alliance of Armenia (My Forest Armenia, Shen NGO, Armenia Tree Project, FPWC)"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Armenian National Agrarian University"
+  ],
+  "start": "2023-12",
+  "end": "2028-12",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "CHF 10 million envisaged over ten years, subject to parliamentary approval (Armenpress, Dec 2023); first stage 2023-2028.",
+  "cofinancing_note": "Forest Alliance NGOs co-finance part of the first stage (My Forest Armenia: SDC 50 percent).",
+  "themes": [
+   "forestry",
+   "climate-adaptation",
+   "land-degradation-slm",
+   "biodiversity-protected-areas",
+   "policy-capacity",
+   "pastures-livestock"
+  ],
+  "summary_en": "FORACCA supports forest landscape restoration, climate services and climate-resilient agroforestry in Armenia. A national component builds climate data and forest monitoring capacity; a local component pilots reforestation, pasture restoration and agroforestry with communities.",
+  "activities_en": [
+   "Pilot agroforestry and forest restoration on community land",
+   "Climate scenarios and local climate impact profiles",
+   "Capacity building for forest monitoring and climate-smart forest management"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "FORACCA site: national objective to strengthen capacities, data availability and policy frameworks for forest management, monitoring and climate adaptation"
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "FPWC: restoring 230 ha of degraded communal land within the Caucasus Wildlife Refuge in Vayots Dzor under FORACCA"
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Climate scenarios and local climate impact profiles for Armenia",
+    "kind": "dataset",
+    "note": "Planned output per FORACCA project site; not confirmed as published"
+   }
+  ],
+  "sources": [
+   {
+    "title": "FORACCA project site (WSL)",
+    "url": "https://foracca.wsl.ch/en/"
+   },
+   {
+    "title": "Armenpress - Switzerland invests CHF 10 million (19 Dec 2023)",
+    "url": "https://armenpress.am/en/article/1126549"
+   },
+   {
+    "title": "FPWC - FORACCA main phase launch",
+    "url": "https://fpwc.org/contents/newsPress/armenia-advances-toward-a-greener-future-with-foracca-project"
+   },
+   {
+    "title": "My Forest Armenia - FORACCA started",
+    "url": "https://myforestarmenia.org/news/the_4-year_old_project_funded_by_sdc_has_officially_started-1"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Other pilot sites were not found in sources opened (a search result mentions Armenia Tree Project work in Shirak, e.g. Mets Sariar and Pemzashen, not verified). Also overlaps the forestry theme and may be catalogued by the other categories."
+ },
+ {
+  "slug": "sdc-rebca-border-communities",
+  "title_en": "Resilience and Economic Recovery of Border Communities in Armenia (REBCA)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "CH-4-2022-2022000795"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "REBCA"
+   ]
+  },
+  "donors": [
+   "Swiss Agency for Development and Cooperation (SDC)"
+  ],
+  "implementers": [
+   "UN World Food Programme",
+   "World Vision Armenia",
+   "Child Development Foundation",
+   "Strategic Development Agency"
+  ],
+  "national_partners": [
+   "Ministry of Labor and Social Affairs",
+   "Ministry of Territorial Administration and Infrastructure"
+  ],
+  "start": "2022-12",
+  "end": "2023-11",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "CHF 960,000 approved (Armenpress, 25 Nov 2022)",
+  "cofinancing_note": "A later extension (reported separately) is not verified.",
+  "themes": [
+   "rural-community-development",
+   "agriculture-value-chain"
+  ],
+  "summary_en": "REBCA combined humanitarian cash support with livelihood and economic recovery in 15 border settlements hit by the September 2022 escalation. It reached more than 1,000 households in the enlarged communities of Vardenis, Sisian and Jermuk.",
+  "activities_en": [
+   "Cash assistance and social work support",
+   "Support to agricultural activities and (self-)employment",
+   "Resource and capacity development of local communities"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": "Vardenis",
+    "community": "Vardenis enlarged community",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "district",
+    "evidence": "Armenpress: 'targets 15 conflict-affected border settlements of Vardenis (Gegharkunik), Sisian (Syunik), and Jermuk (Vayots Dzor) enlarged communities'"
+   },
+   {
+    "marz": "Syunik",
+    "district": "Sisian",
+    "community": "Sisian enlarged community",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "district",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": "Jermuk enlarged community",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Armenpress - Switzerland approves CHF 960,000 for border communities (25 Nov 2022)",
+    "url": "https://armenpress.am/en/article/1098162"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=CH-4-2022-2022000795"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Names of the 15 settlements are not given. IATI dates 2022-12 to 2023-11; a later search result suggests the SDC database runs to mid-2024 (not verified)."
+ },
+ {
+  "slug": "sdc-rrrt-regional-rapid-response-teams",
+  "title_en": "Regional Rapid Response Teams for a decentralized Rescue System in Armenia (phases I and II)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "CH-4-2013004639",
+    "CH-4-2013001176"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "RRRT"
+   ]
+  },
+  "donors": [
+   "Swiss Agency for Development and Cooperation (SDC)"
+  ],
+  "implementers": [
+   "SDC with Ministry of Emergency Situations (Rescue Service)"
+  ],
+  "national_partners": [
+   "Ministry of Emergency Situations (now Rescue Service of the Ministry of Internal Affairs)"
+  ],
+  "start": "2013",
+  "end": "2016-09",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "Phase II: CHF 815,000 (IATI, Mar 2015-Sep 2016)",
+  "cofinancing_note": null,
+  "themes": [
+   "disaster-risk",
+   "policy-capacity"
+  ],
+  "summary_en": "SDC created, trained and equipped five Regional Rapid Response Teams so that Armenia's rescue system could respond to earthquakes and other disasters outside Yerevan. Between 2013 and 2016 the project trained 235 team members; the Yerevan team passed INSARAG external classification in 2015.",
+  "activities_en": [
+   "Create, train and equip five regional rapid response (urban search and rescue) teams",
+   "Upgrade capacity towards INSARAG 'medium rescue' level"
+  ],
+  "results_en": [
+   "235 team members trained 2013-2016; Yerevan team INSARAG-classified in 2015; all teams passed domestic classification (Regional Post)"
+  ],
+  "locations": [
+   {
+    "marz": "Yerevan",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Regional Post: 'five Regional Rapid Response Teams in Yerevan, Lori, Tavush, Shirak and Syunik regions'"
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Regional Post - Swiss assistance during hard times",
+    "url": "https://regionalpost.org/en/articles/swiss-assistance-during-hard-times.html"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=CH-4-2013004639"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Team base towns are not given. A search result suggested a Phase II factsheet naming Yerevan, Shirak and Syunik; the Regional Post statement of five marzes is used. SDC factsheet PDF returned HTTP 403."
+ },
+ {
+  "slug": "usaid-ardi-advanced-rural-development",
+  "title_en": "Advanced Rural Development Initiative (ARDI)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-GOV-1-AID-111-A-13-00002"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AID-111-A-13-00002"
+   ]
+  },
+  "donors": [
+   "USAID"
+  ],
+  "implementers": [
+   "Fuller Center for Housing Armenia",
+   "Heifer Project International Armenia"
+  ],
+  "national_partners": [],
+  "start": "2013-09",
+  "end": "2021-09",
+  "status": "completed",
+  "budget_usd": 3571549,
+  "budget_original": "USD 3.57 million (USAID IATI); announced as about USD 4 million for each of the two programmes (Armenpress, Jan 2014)",
+  "cofinancing_note": null,
+  "themes": [
+   "rural-community-development",
+   "agriculture-value-chain"
+  ],
+  "summary_en": "ARDI was a USAID rural economic development programme supporting dairy, fruit processing and rural tourism enterprises and small infrastructure in selected rural communities. It was launched in January 2014 alongside the Partnerships for Rural Prosperity programme.",
+  "activities_en": [
+   "Milk collection units, milk processing plants, herbal tea production, farmer service centres, animal watering points, upgraded bed and breakfasts, dry fruit production (17 projects in 2017)",
+   "Small-scale infrastructure and seed grants for youth- and women-led start-ups"
+  ],
+  "results_en": [
+   "Fuller Center reports 70 infrastructure projects and 100 seed grants since 2017 (self-reported)"
+  ],
+  "locations": [
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Armenpress 31 Jan 2014: ARDI director said the programme fosters employment 'in the regions of Syunik, Vayots Dzor and Lori' in milk processing, fruit processing and rural tourism"
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same Armenpress statement"
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same Armenpress statement"
+   },
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "Public Radio of Armenia (31 Jan 2014): PRP and ARDI together 'will target about 150 communities in all marzes of Armenia, except Yerevan'; ARDI's own focus marzes are listed above"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Armenpress - USAID to implement development programs in 150 Armenian communities (31 Jan 2014)",
+    "url": "https://armenpress.am/en/article/748288"
+   },
+   {
+    "title": "Public Radio of Armenia - USAID launches two programs for rural economic development",
+    "url": "https://en.armradio.am/?p=24769"
+   },
+   {
+    "title": "Fuller Center Armenia - partnerships (ARDI results)",
+    "url": "https://fullercenterarmenia.org/?p=1248"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=US-GOV-1-AID-111-A-13-00002"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Individual communities are not listed in sources opened. The two 2014 sources differ on whether ARDI covered all marzes or only Syunik, Vayots Dzor and Lori; both are recorded."
+ },
+ {
+  "slug": "usaid-prp-partnerships-rural-prosperity",
+  "title_en": "Partnerships for Rural Prosperity (PRP)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-GOV-1-AID-111-A-13-00001"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AID-111-A-13-00001"
+   ]
+  },
+  "donors": [
+   "USAID"
+  ],
+  "implementers": [
+   "SME Development National Center of Armenia (SME DNC)",
+   "CARD",
+   "GCCI",
+   "EV Consulting"
+  ],
+  "national_partners": [],
+  "start": "2013-08",
+  "end": "2021-09",
+  "status": "completed",
+  "budget_usd": 3703693,
+  "budget_original": "USD 3.70 million (USAID IATI); announced as about USD 4 million (Armenpress, Jan 2014)",
+  "cofinancing_note": null,
+  "themes": [
+   "rural-community-development",
+   "agriculture-value-chain"
+  ],
+  "summary_en": "PRP was a five-year USAID programme to raise rural employment through community competitiveness, economic governance, workforce development and small infrastructure upgrades. It selected communities with economic potential, including border villages.",
+  "activities_en": [
+   "Study of 300 communities to select about 100 with economic potential, including border villages",
+   "Capacity building of local entrepreneurs and access to finance for women, youth and vulnerable groups"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "Public Radio of Armenia (31 Jan 2014): PRP and ARDI 'will target about 150 communities in all marzes of Armenia, except Yerevan'; Armenpress: PRP 'now studying 300 communities, 100 of which will be selected ... border villages among them'"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Armenpress - USAID to implement development programs in 150 Armenian communities (31 Jan 2014)",
+    "url": "https://armenpress.am/en/article/748288"
+   },
+   {
+    "title": "Public Radio of Armenia - USAID launches two programs for rural economic development",
+    "url": "https://en.armradio.am/?p=24769"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=US-GOV-1-AID-111-A-13-00001"
+   }
+  ],
+  "confidence": "low",
+  "notes": "The list of selected communities was not found. Results of the programme were not located."
+ },
+ {
+  "slug": "usaid-red-neo-rural-economic-development",
+  "title_en": "Rural Economic Development - New Economic Opportunities (RED-NEO)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-GOV-1-72011119CA00001"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "72011119CA00001"
+   ]
+  },
+  "donors": [
+   "USAID"
+  ],
+  "implementers": [],
+  "national_partners": [],
+  "start": "2019-02",
+  "end": "2026-12",
+  "status": "active",
+  "budget_usd": 7508810,
+  "budget_original": "USD 7.51 million total in USAID IATI record; press release of Feb 2021 gave USD 5.15 million after a USD 1.15 million increase",
+  "cofinancing_note": null,
+  "themes": [
+   "agriculture-value-chain",
+   "rural-community-development"
+  ],
+  "summary_en": "RED-NEO is a USAID cooperative agreement supporting rural entrepreneurship in agriculture and related value chains, with added funding in 2021 for women's economic leadership and mentoring. The implementing partner and community list were not found in sources opened.",
+  "activities_en": [
+   "Business skills and small grants for rural producers",
+   "Mentoring programme for women entrepreneurs (2021 addition)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "No community list found. USAID Armenia factsheet (Sept 2020, seen only via a search result) reportedly says activity covers 60 communities in all ten marzes; PDF could not be opened"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Public Radio of Armenia - USAID announces USD 2.65 million funding (24 Feb 2021)",
+    "url": "https://en.armradio.am/?p=131129"
+   },
+   {
+    "title": "PanARMENIAN - USAID unveils USD 2.65m for agri sector",
+    "url": "https://www.panarmenian.net/eng/news/290593"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=US-GOV-1-72011119CA00001"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Status 'active' follows the IATI end date (2026-12); real status after 2025 USAID changes was not verified. Implementer and geography unresolved."
+ },
+ {
+  "slug": "usaid-agri-camp-training-learning",
+  "title_en": "Innovative Agriculture Training and Learning Camp (AGRI CAMP)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-GOV-1-72011120CA00001"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "72011120CA00001"
+   ]
+  },
+  "donors": [
+   "USAID"
+  ],
+  "implementers": [],
+  "national_partners": [
+   "Armenian National Agrarian University (host of renovated facilities)"
+  ],
+  "start": "2020-05",
+  "end": "2026-12",
+  "status": "active",
+  "budget_usd": 4834676,
+  "budget_original": "USD 4.83 million in USAID IATI record; press release of Feb 2021 gave USD 1.9 million total after a USD 1.5 million increase",
+  "cofinancing_note": null,
+  "themes": [
+   "agriculture-value-chain",
+   "rural-community-development"
+  ],
+  "summary_en": "AGRI CAMP renovates facilities at the Armenian National Agrarian University so rural entrepreneurs can learn new production and business skills. Funding added in 2021 supports agricultural cooperatives and women's access to agricultural innovation.",
+  "activities_en": [
+   "Renovation of training facilities at the Armenian National Agrarian University",
+   "Strengthening formal agricultural cooperatives and business development",
+   "Skills and networks for female agripreneurs"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Kotayk",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Public Radio of Armenia: AGRI CAMP 'is renovating facilities at the Armenian National Agrarian University in Kotayk marz where entrepreneurs from rural Armenia will learn new skills'"
+   },
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "Training and cooperative support aimed at rural Armenia; no marz list found"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Public Radio of Armenia - USAID announces USD 2.65 million funding (24 Feb 2021)",
+    "url": "https://en.armradio.am/?p=131129"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=US-GOV-1-72011120CA00001"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Status follows IATI end date (2026-12); actual status not verified. Exact site of the camp in Kotayk not named. Implementer not named in sources opened."
+ },
+ {
+  "slug": "usaid-ofda-drr-climate-change-impact-support",
+  "title_en": "Disaster Risk Reduction Climate Change Impact Support (USAID/OFDA)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-GOV-1-AID-OFDA-A-17-00031"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AID-OFDA-A-17-00031"
+   ]
+  },
+  "donors": [
+   "USAID (Office of U.S. Foreign Disaster Assistance)"
+  ],
+  "implementers": [
+   "World Meteorological Organization (participating organisation in IATI record)"
+  ],
+  "national_partners": [],
+  "start": "2017-08",
+  "end": "2023-08",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "USD 10,000,000 in the IATI record; not confirmed to be Armenia-only",
+  "cofinancing_note": null,
+  "themes": [
+   "disaster-risk",
+   "climate-adaptation"
+  ],
+  "summary_en": "USAID/OFDA record for disaster risk reduction and climate-change impact support, with WMO listed as the participating organisation. No project description or location is given in the IATI record, and no web source could be found for it.",
+  "activities_en": [],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "No location in IATI record; appears in the Armenia IATI extract only, so recorded as national placeholder"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=US-GOV-1-AID-OFDA-A-17-00031"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Nothing found about activities or sites despite two searches (award number, partner names). The USD 10 million may cover more than Armenia (record has no recipient country in d-portal). Recommend checking USAID/WMO documents before showing this on the map."
+ },
+ {
+  "slug": "usaid-ofda-unicef-natural-technological-risks",
+  "title_en": "Grant to UNICEF for Natural and Technological Risks in Armenia (USAID/OFDA)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-GOV-1-AID-OFDA-IO-13-00057"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AID-OFDA-IO-13-00057"
+   ]
+  },
+  "donors": [
+   "USAID (Office of U.S. Foreign Disaster Assistance)"
+  ],
+  "implementers": [
+   "UNICEF"
+  ],
+  "national_partners": [],
+  "start": "2013-08",
+  "end": "2017-09",
+  "status": "completed",
+  "budget_usd": 348856,
+  "budget_original": "USD 348,856 commitment (IATI)",
+  "cofinancing_note": null,
+  "themes": [
+   "disaster-risk"
+  ],
+  "summary_en": "Small USAID/OFDA grant to UNICEF on natural and technological risks in Armenia. The IATI record gives no description or location, and no other source was found.",
+  "activities_en": [],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "No location in IATI record; recorded as national placeholder"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=US-GOV-1-AID-OFDA-IO-13-00057"
+   }
+  ],
+  "confidence": "low",
+  "notes": "No web source found beyond IATI. Low value for the map unless UNICEF documents locate school or community sites."
+ },
+ {
+  "slug": "eu-lead-lori-tavush",
+  "title_en": "Local Empowerment of Actors for Development (LEAD) in Lori and Tavush regions",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-EC_NEAR-2020-PCC-418150",
+    "XM-DAC-41114-OUTPUT-00115480",
+    "XM-DAC-41114-PROJECT-00118827",
+    "XM-DAC-41301-670301",
+    "XI-IATI-EC_NEAR-2019-ACT-D-42041-00"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AR-2020-PCC-418150",
+    "UNDP 14-OUTPUT-00115480",
+    "FAO LEAD programme"
+   ]
+  },
+  "donors": [
+   "European Union"
+  ],
+  "implementers": [
+   "UNDP Armenia",
+   "FAO"
+  ],
+  "national_partners": [
+   "Ministry of Territorial Administration and Infrastructure"
+  ],
+  "start": "2020-10",
+  "end": "2026-03",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "EUR 6.60 million EU commitment (EC IATI record); UNDP IATI record USD 7.40 million; FAO component USD 1.88 million (FAO IATI). The EC programme-level LEAD record (ACT-D-42041-00) is merged into the ids.",
+  "cofinancing_note": "Part of the three-project EU LEAD programme with LEAD4Shirak.",
+  "themes": [
+   "rural-community-development",
+   "agriculture-value-chain",
+   "policy-capacity"
+  ],
+  "summary_en": "LEAD applied the EU LEADER approach in Lori and Tavush: five Local Action Groups were set up, prepared local development strategies and funded business and community initiatives, with FAO supporting partnership building, territorial cooperation and local governance. The programme also fed national territorial development planning.",
+  "activities_en": [
+   "Establish five Local Action Groups (Tashir+, Lorva Dzor, Gandzor, Aghstevi Hovit, Tsili Tsov) and territorial offices",
+   "Participatory local development strategies and action plans",
+   "Grants to local businesses and community initiatives; post-COVID recovery support",
+   "Emergency aid after the June 2024 floods"
+  ],
+  "results_en": [
+   "196 business and 34 community initiatives supported; more than 150 new jobs; more than 3,000 people trained (UNDP/EU closing, Dec 2025)",
+   "Five LAG territorial offices established and five LAGs registered as NGOs with Strategic Action Plans"
+  ],
+  "locations": [
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "EU NEIGHBOURS east: 'The project helps the local population in Lori and Tavush ...'; five LAGs formed in Lori and Tavush regions"
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": "Berd",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "EU project page lists 'Success Story of the Berd Bean Women's Association' as a project beneficiary story"
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Local development strategies / Strategic Action Plans of five LAGs",
+    "kind": "report",
+    "note": "Developed and approved participatorily; also territorial development models used in national planning"
+   }
+  ],
+  "sources": [
+   {
+    "title": "EU NEIGHBOURS east - LEAD project page",
+    "url": "https://euneighbourseast.eu/projects/eu-project-page/?id=1305"
+   },
+   {
+    "title": "EU NEIGHBOURS east - five LAGs established in Lori and Tavush (12 Jul 2022)",
+    "url": "https://euneighbourseast.eu/news/latest-news/armenia-new-local-action-groups-established-in-lori-and-tavush/"
+   },
+   {
+    "title": "EU NEIGHBOURS east - EU LEAD programme presents its results",
+    "url": "https://euneighbourseast.eu/news/latest-news/armenia-eu-lead-programme-in-lori-and-tavush-regions-presents-its-results/"
+   },
+   {
+    "title": "IATI record (UNDP) via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XM-DAC-41114-OUTPUT-00115480"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Community membership of each LAG not found. End date differs by source (EU page 2024-09, EC IATI 2026-01, UNDP IATI 2026-03; closing event 11 December, year inferred as 2025). Treat the 'Berd' point as a beneficiary location only."
+ },
+ {
+  "slug": "eu-lead4shirak",
+  "title_en": "LEAD4Shirak - Local Empowerment of Actors for Development of Shirak region",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-EC_NEAR-2020-PCC-418154"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AR-2020-PCC-418154"
+   ]
+  },
+  "donors": [
+   "European Union"
+  ],
+  "implementers": [
+   "Austrian Development Agency"
+  ],
+  "national_partners": [],
+  "start": "2020-10",
+  "end": "2025-10",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "EUR 3.50 million EU commitment (EC IATI record)",
+  "cofinancing_note": "Part of the three-project EU LEAD programme.",
+  "themes": [
+   "rural-community-development",
+   "agriculture-value-chain",
+   "policy-capacity"
+  ],
+  "summary_en": "LEAD4Shirak introduced the EU LEADER approach in Shirak marz through two Local Action Groups that prepared local development strategies and funded local initiatives. It closed in March 2026 after supporting 48 businesses and 84 community initiatives.",
+  "activities_en": [
+   "Regulatory framework and delivery system for community-led local development (CLLD/LEADER)",
+   "Two Local Action Groups with multi-annual local development strategies",
+   "Grant scheme for local economic and social initiatives"
+  ],
+  "results_en": [
+   "48 businesses and 84 community initiatives supported; 117 new jobs (EU, Mar 2026)"
+  ],
+  "locations": [
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "EU project page: LEADER approach set up 'in Shirak marz' with two Local Action Groups; project page mentions the 'Central Shirak LAG area'"
+   }
+  ],
+  "data_products": [
+   {
+    "name": "LEAD4Shirak catalogue of supported projects and endline assessment",
+    "kind": "report",
+    "note": "Listed as project documents on the EU project page"
+   }
+  ],
+  "sources": [
+   {
+    "title": "EU NEIGHBOURS east - LEAD4Shirak project page",
+    "url": "https://euneighbourseast.eu/projects/eu-project-page/?id=1292"
+   },
+   {
+    "title": "EU NEIGHBOURS east - LEAD4Shirak concluded (26 Mar 2026)",
+    "url": "https://euneighbourseast.eu/news/latest-news/lead4shirak-project-in-armenia-concluded-48-businesses-and-84-community-initiatives-supported/"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XI-IATI-EC_NEAR-2020-PCC-418154"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Communities making up the two LAGs not found (a search result names 'Northern Way' and 'Central Shirak'; only Central Shirak confirmed on pages opened). Final closing event 25 March 2026 is after the project end date."
+ },
+ {
+  "slug": "eu-r2d-syunik",
+  "title_en": "R2D Syunik - Recovery, Resilience, Development for Syunik (Team Europe Initiative)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-EC_NEAR-2022-PC-23429"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "NEAR-2022-PC-23429"
+   ]
+  },
+  "donors": [
+   "European Union",
+   "Austrian Development Cooperation"
+  ],
+  "implementers": [
+   "Austrian Development Agency"
+  ],
+  "national_partners": [
+   "Syunik regional and local governments"
+  ],
+  "start": "2023-01",
+  "end": "2027-12",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "EUR 11 million budget (project page); EUR 9.0 million EU commitment in EC IATI record",
+  "cofinancing_note": "Within the Resilient Syunik Team Europe Initiative.",
+  "themes": [
+   "rural-community-development",
+   "climate-adaptation"
+  ],
+  "summary_en": "R2D Syunik supports micro, small and medium enterprises and sustainable small-scale green community infrastructure in Syunik marz. Infrastructure choices follow community five-year development plans and EU climate-proofing guidelines.",
+  "activities_en": [
+   "Component 1: business support, access to finance and markets, human capital (women, youth)",
+   "Component 2: small-scale green communal infrastructure under local responsibility (excludes schools and hospitals)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "EU project page: 'enhance recovery and resilience of MSMEs and sustainable small-scale communal infrastructure in Syunik'; IATI location 'AM - Syunik'"
+   },
+   {
+    "marz": "Syunik",
+    "district": "Kapan",
+    "community": "Kapan",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "EU project page lists 'Kapan infrastructure video' among project videos"
+   },
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": "Tegh",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "EU project page lists 'Tegh infrastructure video' among project videos"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "EU NEIGHBOURS east - R2D Syunik project page",
+    "url": "https://euneighbourseast.eu/projects/eu-project-page/?id=1930"
+   },
+   {
+    "title": "R2D Syunik website",
+    "url": "https://r2dsyunik.am/en/"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XI-IATI-EC_NEAR-2022-PC-23429"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Only Kapan and Tegh are evidenced (via infrastructure video titles); the list of supported communities was not found. EU project page shows end date 31 Dec 2027; IATI shows 2028-01."
+ },
+ {
+  "slug": "eu-strive-communities-civil-society",
+  "title_en": "STRIVE for a better future: communities and civil society resilience in Armenia",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-EC_NEAR-2021-PCC-428252"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AR-2021-PCC-428252"
+   ]
+  },
+  "donors": [
+   "European Union"
+  ],
+  "implementers": [
+   "NEF Belgium",
+   "Agate Rights Defense Center for Women with Disabilities",
+   "Blejan Ecological, Social, Business Support NGO",
+   "Women's Development Resource Center Foundation",
+   "Youth Cooperation Center of Dilijan"
+  ],
+  "national_partners": [],
+  "start": "2022-01",
+  "end": "2025-07",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "EUR 2.0 million EU commitment (EC IATI record)",
+  "cofinancing_note": null,
+  "themes": [
+   "rural-community-development",
+   "policy-capacity"
+  ],
+  "summary_en": "STRIVE strengthens Armenian civil society organisations and funds community initiatives through competitive and emergency sub-grants. It is geographically balanced across the country but works on civil society capacity, not on a defined territory.",
+  "activities_en": [
+   "Capacity building for CSOs",
+   "Sub-grants for community development, women's rights, disability, green transition and youth"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "EU project page: 'grounded in local communities - involving grassroots CSOs and civic groups throughout Armenia ... balanced geographically'"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "EU NEIGHBOURS east - STRIVE project page",
+    "url": "https://euneighbourseast.eu/projects/eu-project-page/?id=1742"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XI-IATI-EC_NEAR-2021-PCC-428252"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "No community list. Low relevance for spatial duplication analysis unless grant recipients are mapped."
+ },
+ {
+  "slug": "giz-se4resilience-rural-energy",
+  "title_en": "Sustainable Energy for climate resilient municipal development in Armenia (SE4Resilience)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "DE-1-202321339",
+    "XI-IATI-EC_NEAR-2024-PC-26574",
+    "XI-IATI-EC_NEAR-2022-ACT-60866"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "NEAR-2024-PC-26574",
+    "EAR-2022-ACT-60866 (EU action description, same four marzes and objectives)",
+    "EU project number 700001951"
+   ]
+  },
+  "donors": [
+   "European Union",
+   "German Federal Ministry for Economic Cooperation and Development (BMZ)"
+  ],
+  "implementers": [
+   "GIZ"
+  ],
+  "national_partners": [
+   "Ministry of Territorial Administration and Infrastructure"
+  ],
+  "start": "2024-04",
+  "end": "2027-04",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "EUR 12.3 million (EU EUR 6.2 million + BMZ EUR 6.1 million)",
+  "cofinancing_note": "EC IATI shows EUR 6.5 million on the 2022 action record and EUR 6.2 million on the 2024 contract record.",
+  "themes": [
+   "climate-mitigation-energy",
+   "climate-adaptation",
+   "rural-community-development"
+  ],
+  "summary_en": "SE4Resilience promotes renewable energy and energy efficiency in households and public buildings of rural communities in Tavush, Shirak, Gegharkunik and Syunik, to reduce energy poverty and improve climate resilience. It is included for its rural spatial footprint although it is an energy programme.",
+  "activities_en": [
+   "Efficient stoves, insulation, solar thermal heaters and PV in low-income households and community buildings",
+   "Capacity of rural municipalities to pilot renewable energy and efficiency in public infrastructure",
+   "Gender-sensitive competence development"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "EU project page: 'supports rural communities in Tavush, Shirak, Gegharkunik, and Syunik'"
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "EU NEIGHBOURS east - SE4Resilience project page",
+    "url": "https://euneighbourseast.eu/projects/eu-project-page/?id=2765"
+   },
+   {
+    "title": "EcoLur - launch of SE4Resilience, 30 April 2024",
+    "url": "https://www.ecolur.org/en/news/officials/15508/"
+   },
+   {
+    "title": "IATI record (EC action) via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XI-IATI-EC_NEAR-2022-ACT-60866"
+   },
+   {
+    "title": "IATI record (BMZ) via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=DE-1-202321339"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Municipalities/communities not yet named in sources. The EC action record EAR-2022-ACT-60866 (EUR 6.5 million, 2022-12 to 2029-11) has text identical in scope to SE4Resilience and is merged here as an assumption; verify with the EU Delegation."
+ },
+ {
+  "slug": "kfw-eu-communal-infrastructure-programme-cip",
+  "title_en": "Communal Infrastructure Programme (CIP) II, phases 1-3, with EU NIF contribution",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "DE-1-200165266",
+    "DE-1-200770214",
+    "DE-1-200966515",
+    "DE-1-201366343",
+    "DE-1-201370170",
+    "DE-1-201470194",
+    "XI-IATI-EC_NEAR-2013-PCC-335420"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AR-2013-PCC-335420"
+   ]
+  },
+  "donors": [
+   "German Federal Ministry for Economic Cooperation and Development (BMZ) via KfW",
+   "European Union (Neighbourhood Investment Facility)"
+  ],
+  "implementers": [
+   "KfW",
+   "Shirak, Lori and Nor Akunq water and sewerage utilities",
+   "Armenian Water and Sewerage Company"
+  ],
+  "national_partners": [
+   "Ministry of Finance and Economy (BMZ executing partner)"
+  ],
+  "start": "2004-11",
+  "end": "2028-03",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "BMZ/KfW: phase 1 EUR 23.4 million, phase 2 EUR 30 million, phase 3 EUR 30 million (IATI commitments); EU NIF EUR 15.39 million (EC IATI record).",
+  "cofinancing_note": "Armenpress (Apr 2014) described the KfW phase 3 financing agreement as EUR 15 million; IATI shows EUR 30 million.",
+  "themes": [
+   "water-supply-sanitation",
+   "rural-community-development"
+  ],
+  "summary_en": "CIP rehabilitates water supply and sewerage in the service areas of regional utilities (Shirak, Lori, Nor Akunq, AWSC) to give 24-hour water supply, and the EU contribution adds a wastewater treatment plant in Armavir and a pilot in 560 villages outside utility areas.",
+  "activities_en": [
+   "Rehabilitation of water supply networks and urgent sewer measures in utility areas (phase 3: Shirak, Lori, Nor Akunq, AWSC)",
+   "Wastewater treatment plant in Armavir (EU NIF)",
+   "Pilot in 560 villages not assigned to water utilities (EU NIF)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": "Gyumri",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "KfW prequalification notice for Lot 1: rehabilitation in the Shirak water and sewerage service area, including part of Gyumri urban area and works in 9 Shirak villages (5 optional)"
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": "Vanadzor",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Armenpress 15 Apr 2014: phase 3 enables 'full restoration of ... Vanadzor and Gyumri water supply ... urgent work in other communities of company service areas in Lori and Shirak provinces'"
+   },
+   {
+    "marz": "Armavir",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "EU project page: 'the waste water treatment plant in Armavir' financed by EU NIF"
+   },
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "EU project page: 'Pilot project in the 560 villages not assigned to the Water Utilities operating in the country'"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "EU NEIGHBOURS east - CIP II phase 3 project page",
+    "url": "https://euneighbourseast.eu/ru/projects/eu-project-page/?id=1099"
+   },
+   {
+    "title": "Ministry of Finance - CIP II phase 3 Lot 1 Shirak prequalification notice",
+    "url": "https://gnumner.minfin.am/website/images/original/1823e909.pdf"
+   },
+   {
+    "title": "Armenpress - KfW EUR 15 million for Gyumri and Vanadzor (15 Apr 2014)",
+    "url": "https://armenpress.am/eng/news/758285"
+   },
+   {
+    "title": "IATI record (BMZ phase 3) via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=DE-1-201366343"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Search results suggest the AWSC lot covers Gegharkunik, Vayots Dzor and Syunik service areas; it was not possible to confirm that and omitted it. Sub-project communities are not listed. Nor Akunq's service area not stated in the sources opened."
+ },
+ {
+  "slug": "kfw-gaf-agricultural-finance-and-insurance",
+  "title_en": "KfW GAF Agricultural Finance III and support to agricultural insurance scheme",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "DE-1-201668433",
+    "DE-1-201670330",
+    "DE-1-201668458"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "German Federal Ministry for Economic Cooperation and Development (BMZ)"
+  ],
+  "implementers": [
+   "KfW"
+  ],
+  "national_partners": [
+   "Central Bank of Armenia",
+   "National Mortgage Company",
+   "Government of Armenia"
+  ],
+  "start": "2017-12",
+  "end": "2026-08",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "Agricultural Finance III: EUR 20.0 million commitment (2019-12 to 2022-11); agricultural insurance support: EUR 2.37 million (2017-12 to 2026-08), both IATI/BMZ",
+  "cofinancing_note": null,
+  "themes": [
+   "agriculture-value-chain",
+   "climate-adaptation"
+  ],
+  "summary_en": "KfW financed on-lending to agricultural MSMEs through Armenian banks (GAF Agricultural Finance III) and a premium subsidy scheme for agricultural insurance against extreme weather, part of the G7 InsuResilience initiative. Both are national financial instruments without a defined territory.",
+  "activities_en": [
+   "Loan to Armenian commercial banks for agricultural MSME financing (executing agency National Mortgage Company)",
+   "Subsidy of insurance premiums for poor and vulnerable farm households (climate risk insurance)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "BMZ IATI descriptions: financing 'for micro, small and medium-sized enterprises in the agricultural sector in Armenia'; insurance for 'poor and vulnerable households that are self-employed in the agricultural sector'"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "IATI record (GAF III) via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=DE-1-201668433"
+   },
+   {
+    "title": "IATI record (insurance) via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=DE-1-201668458"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Only IATI sources opened; no independent project page found. Insurance record end date (2026-08) is already past today; completion not confirmed."
+ },
+ {
+  "slug": "bmz-sign-of-hope-climate-adapted-agriculture-north",
+  "title_en": "Integrated multi-level capacity building for climate-adapted rural agriculture in Tavush, Shirak and Lori Marz",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "DE-1-202106003-5977"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "German Federal Ministry for Economic Cooperation and Development (BMZ) via Engagement Global"
+  ],
+  "implementers": [
+   "Hoffnungszeichen | Sign of Hope e.V."
+  ],
+  "national_partners": [],
+  "start": "2021-10",
+  "end": "2024-12",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "EUR 550,000 budget (BMZ IATI)",
+  "cofinancing_note": null,
+  "themes": [
+   "climate-adaptation",
+   "agriculture-value-chain",
+   "rural-community-development",
+   "policy-capacity"
+  ],
+  "summary_en": "A BMZ-funded civil-society project on capacity building for climate-adapted rural agriculture in the northern marzes of Tavush, Shirak and Lori, implemented by the German NGO Hoffnungszeichen. No further description or community list could be found.",
+  "activities_en": [],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "IATI/BMZ activity title: '... in Tavush, Shirak and Lori Marz, Armenia'"
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same title"
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same title"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=DE-1-202106003-5977"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Facts come only from the BMZ IATI record (the single 'Yerevan' point there is the national partner's address, not a site). Related BMZ items DE-1-202133007 (Empowerment of rural communities in Northwest Armenia, KZE) and DE-1-201976943 (Sustainable and participatory community development, EZE) were dropped: no source gave their locations."
+ },
+ {
+  "slug": "sweden-mcf-disaster-risk-reduction-armenia",
+  "title_en": "MCF Disaster Risk Reduction Armenia 2026-2029",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "SE-0-SE-6-17944",
+    "SE-0-SE-6-17944-17944A0101-H"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Sweden (Sida)"
+  ],
+  "implementers": [
+   "Swedish Civil Defence and Resilience Agency (Myndigheten for civilt forsvar, MCF)"
+  ],
+  "national_partners": [],
+  "start": "2026-06",
+  "end": "2030-06",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "SEK 36,517,100 commitment (Swedish IATI record, currency SEK)",
+  "cofinancing_note": null,
+  "themes": [
+   "disaster-risk",
+   "policy-capacity"
+  ],
+  "summary_en": "Swedish-funded programme of disaster risk reduction support to Armenia for 2026-2029, delivered through the Swedish Civil Defence and Resilience Agency. The IATI record has no description beyond the title and gives no sites.",
+  "activities_en": [],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "No location in the IATI record; recorded as national placeholder"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=SE-0-SE-6-17944-17944A0101-H"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Only the IATI record was found (searches for MSB/MCF Armenia gave nothing specific). A separate EU-funded Swedish-Lithuanian twinning on civil protection exists (EU4Armenia page id 1661) but was not linked to this record. IATI end date is 2030-06-30."
+ },
+ {
+  "slug": "eu-ebrd-kotayk-solid-waste-hrazdan-landfill",
+  "title_en": "Kotayk Solid Waste Project (Hrazdan regional landfill for Kotayk and Gegharkunik)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-EC_NEAR-2011-PCC-278305"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AR-2011-PCC-278305"
+   ]
+  },
+  "donors": [
+   "European Union (Neighbourhood Investment Facility)",
+   "E5P Fund",
+   "EBRD",
+   "Austrian government (implementation support)"
+  ],
+  "implementers": [
+   "EBRD (lender)",
+   "Twelve participating municipalities (landfill operated as a commercial unit)"
+  ],
+  "national_partners": [
+   "Ministry of Finance"
+  ],
+  "start": "2011-12",
+  "end": "2025-01",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "EUR 11 million total project cost (EU NEIGHBOURS east, Jul 2025); grants EUR 5.5 million (EU NIF EUR 3.5 million + E5P EUR 2.0 million); EBRD sovereign loan EUR 5.5 million",
+  "cofinancing_note": null,
+  "themes": [
+   "waste-pollution"
+  ],
+  "summary_en": "The project built the first EU-compliant sanitary landfill in Armenia, in Hrazdan, serving twelve municipalities of Kotayk and Gegharkunik and about 500,000 people. The landfill opened on 8 July 2025.",
+  "activities_en": [
+   "Construction of a sanitary landfill in Hrazdan managed commercially",
+   "Waste collection and disposal for twelve participating municipalities",
+   "Corporate development of the landfill company (Austrian support)"
+  ],
+  "results_en": [
+   "New landfill opened 8 July 2025 to serve Kotayk and Gegharkunik (EU Delegation)"
+  ],
+  "locations": [
+   {
+    "marz": "Kotayk",
+    "district": "Hrazdan",
+    "community": "Hrazdan",
+    "settlements": [
+     "Abovian",
+     "Charentsavan",
+     "Tsakhkadzor",
+     "Byureghavan",
+     "Yeghvard",
+     "Nor Hachn"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "EBRD 2016: 'The new landfill ... will be located in the city of Hrazdan in the Kotayk Province'"
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": "Sevan",
+    "community": "Sevan",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "EBRD 2016: managed by twelve participating municipalities including Sevan, Martuni, Gavar, Vardenis and Chambarak; Gegharkunik added by the extra EUR 2 million loan"
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": "Martuni",
+    "community": "Martuni",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": "Gavar",
+    "community": "Gavar",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": "Vardenis",
+    "community": "Vardenis",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": "Chambarak",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "EBRD - EU and E5P develop solid waste management in Armenia (7 Apr 2016)",
+    "url": "https://www.ebrd.com/news/2016/ebrd-eu-and-e5p-develop-solid-waste-management-in-armenia.html"
+   },
+   {
+    "title": "EU NEIGHBOURS east - new landfill opens in Hrazdan (9 Jul 2025)",
+    "url": "https://euneighbourseast.eu/news/latest-news/new-solid-waste-landfill-built-with-eu-support-opens-in-armenia/"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XI-IATI-EC_NEAR-2011-PCC-278305"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Marz of each municipality (other than Hrazdan and the Gegharkunik towns) is assigned from public geography; the EBRD text only lists the twelve municipalities. A July 2025 ARKA item cited EUR 14.8 million for the waste reform, a different figure."
+ },
+ {
+  "slug": "yerevan-solid-waste-project-nubarashen",
+  "title_en": "Yerevan Solid Waste Project (Nubarashen landfill closure and new sanitary landfill) - cancelled",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-EC_NEAR-2015-PCC-368688",
+    "XI-IATI-EBRD-46172",
+    "XM-DAC-918-3-20150017-84429",
+    "XM-DAC-918-3-20150017-93134"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AR-2015-PCC-368688",
+    "EBRD project 46172"
+   ]
+  },
+  "donors": [
+   "EBRD",
+   "European Investment Bank",
+   "European Union (Neighbourhood Investment Facility)",
+   "E5P Fund"
+  ],
+  "implementers": [
+   "Yerevan landfill management company (planned); Yerevan Municipality"
+  ],
+  "national_partners": [
+   "Yerevan Municipality"
+  ],
+  "start": "2015-12",
+  "end": null,
+  "status": "cancelled",
+  "budget_usd": null,
+  "budget_original": "EUR 26 million planned (EBRD EUR 8 million loan + EIB EUR 8 million loan + EU NIF EUR 8 million grant + E5P EUR 2 million grant)",
+  "cofinancing_note": null,
+  "themes": [
+   "waste-pollution"
+  ],
+  "summary_en": "The project planned to reclaim the existing Nubarashen landfill and build an EU-compliant sanitary landfill nearby for Yerevan. EcoLur reports that the project was cancelled, and Yerevan Municipality has since sought other finance (World Bank, EBRD, ADB).",
+  "activities_en": [
+   "Construction of an EU-compliant landfill for Yerevan (city of 1.1 million) with gas capture (planned)",
+   "Reclamation of Nubarashen landfill (planned)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Yerevan",
+    "district": null,
+    "community": "Nubarashen landfill",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "EBRD project summary: 'construction of an EU compliant landfill in Yerevan'; EcoLur: Nubarashen landfill site of 52.3 ha, 'sanitary landfill nearby' (cancelled)"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "EBRD - Yerevan Solid Waste Project summary",
+    "url": "https://www.ebrd.com/work-with-us/projects/psd/46172.html"
+   },
+   {
+    "title": "EcoLur - How to solve the Nubarashen landfill file problem",
+    "url": "https://www.ecolur.org/en/news/waste/16205/"
+   },
+   {
+    "title": "EcoLur - Future of waste management in Yerevan (Nov 2025 roundtable)",
+    "url": "https://www.ecolur.org/en/news/waste/16235/"
+   },
+   {
+    "title": "IATI record (EC) via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XI-IATI-EC_NEAR-2015-PCC-368688"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "STATUS IS 'cancelled' (not one of completed/active/pipeline) - EcoLur says the EBRD/EIB/EU programme 'was cancelled' but gives no date; the IATI records still show an EU end date of 2024-01. Please map this record as not implemented. Nubarashen coordinates were not taken from a source."
+ },
+ {
+  "slug": "sweden-aua-waste-management-armenia",
+  "title_en": "AUA Waste Management Armenia 2022-2026 (EPR and source separation)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "SE-0-SE-6-15536",
+    "SE-0-SE-6-15536-15536A0101"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Sweden (Sida)"
+  ],
+  "implementers": [
+   "American University of Armenia - Acopian Center for the Environment"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Ministry of Territorial Administration and Infrastructure"
+  ],
+  "start": "2022-08",
+  "end": "2027-05",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "SEK 37,000,000 commitment (Swedish IATI record, currency SEK)",
+  "cofinancing_note": null,
+  "themes": [
+   "waste-pollution",
+   "policy-capacity"
+  ],
+  "summary_en": "A Swedish-funded programme run by AUA to build waste sector capacity: an extended producer responsibility (EPR) system for special waste streams, a national source-separation model piloted in Sevan town and other municipalities, and capacity building.",
+  "activities_en": [
+   "Component 1: introduce EPR system for special waste streams (support to the Ministry of Environment, CEPA requirements)",
+   "Component 2: develop a national source-separation model and introduce it in Sevan town and other pilot municipalities",
+   "Component 3: sector capacity building and scale-up"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": "Sevan",
+    "community": "Sevan town",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "AUA Acopian Center: source separation 'introduced as a system in Sevan Town and other pilot municipalities'"
+   },
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "EPR and policy components are national"
+   }
+  ],
+  "data_products": [
+   {
+    "name": "National technical guidance on waste source separation and EPR system design",
+    "kind": "report",
+    "note": "Programme outputs per AUA programme page; not confirmed as published"
+   }
+  ],
+  "sources": [
+   {
+    "title": "AUA Acopian Center - Waste Policy Armenia programme page",
+    "url": "https://ace.aua.am/?p=16562"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=SE-0-SE-6-15536-15536A0101"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "AUA page gives implementation period Aug 2022-Jul 2026; IATI shows end 2027-05 (extension likely). Other pilot municipalities (Kotayk or Gegharkunik, per a search result) not confirmed on pages opened."
+ },
+ {
+  "slug": "fao-emergency-wheat-seed-support",
+  "title_en": "Emergency agricultural inputs support to the most vulnerable smallholder farmers (Ukraine conflict supply disruption; NK refugee households)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41301-725162"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "FAO",
+   "UN Joint SDG Fund"
+  ],
+  "implementers": [
+   "FAO"
+  ],
+  "national_partners": [
+   "Ministry of Economy",
+   "Centre for Agricultural Research and Certification"
+  ],
+  "start": "2022-06",
+  "end": "2024-12",
+  "status": "completed",
+  "budget_usd": 500000,
+  "budget_original": "USD 500,000 (two commitments of USD 300,000 and USD 200,000 in FAO IATI record)",
+  "cofinancing_note": "The wheat-seed delivery was financed by FAO and the UN Joint SDG Fund.",
+  "themes": [
+   "agriculture-value-chain",
+   "rural-community-development"
+  ],
+  "summary_en": "In response to input supply disruption after the war in Ukraine, FAO delivered high-quality winter wheat seed and advice to the most vulnerable smallholders in Gegharkunik, Shirak and Syunik in October 2022. The project title also covers livelihood support to refugee households from Nagorno-Karabakh, for which no locations were found.",
+  "activities_en": [
+   "Import and distribution of winter wheat seed (301 t planned for 1,078 beneficiaries, up to 300 kg each)",
+   "Leaflets and consultations on winter wheat cultivation"
+  ],
+  "results_en": [
+   "151 t of winter wheat seed already distributed by 8 October 2022 in Gegharkunik and Shirak communities (FAO); UN Joint SDG Fund annual report later cited a lower figure (91 t to 304 farmers) - not verified"
+  ],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": "Vardenis",
+    "community": "Vardenis",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "FAO/Joint SDG Fund: seed distributed in 'Gegharkunik (Chambarak and Vardenis communities)'"
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": "Chambarak",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Shirak",
+    "district": "Ani",
+    "community": "Ani",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "FAO/Joint SDG Fund: 'Shirak (Ani, Akhuryan, Artik, Amasia and Ashotsk communities)'"
+   },
+   {
+    "marz": "Shirak",
+    "district": "Akhuryan",
+    "community": "Akhuryan",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Shirak",
+    "district": "Artik",
+    "community": "Artik",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Shirak",
+    "district": "Amasia",
+    "community": "Amasia",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Shirak",
+    "district": "Ashotck",
+    "community": "Ashotsk",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same source"
+   },
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source: most vulnerable smallholders in Gegharkunik, Shirak and Syunik regions; Syunik communities not named"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Joint SDG Fund - FAO provides winter wheat seeds to vulnerable families in Armenia (8 Oct 2022)",
+    "url": "https://jointsdgfund.org/es/node/1287"
+   },
+   {
+    "title": "Hetq - FAO provides autumn wheat seed (8 Oct 2022)",
+    "url": "https://www.hetq.am/en/article/149090"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XM-DAC-41301-725162"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Community names (Ani, Akhuryan, Artik, Amasia, Ashotsk) are as printed in the source; they coincide with district names in the gazetteer, so they may denote districts. Refugee-household component locations not found. A separate FAO 2020-21 emergency project for NK conflict-affected people (animal feed, poultry in two marzes) exists but is not part of this record."
+ },
+ {
+  "slug": "fao-digital-technologies-agriculture-value-chains",
+  "title_en": "Digital Technologies in support of Agriculture Value Chains and Rural Development (vineyard registry)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41301-707282"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "FAO (Technical Cooperation Programme)"
+  ],
+  "implementers": [
+   "FAO"
+  ],
+  "national_partners": [
+   "Ministry of Economy"
+  ],
+  "start": "2023-02",
+  "end": "2025-12",
+  "status": "completed",
+  "budget_usd": 297000,
+  "budget_original": "USD 297,000 commitment (FAO IATI record)",
+  "cofinancing_note": null,
+  "themes": [
+   "agriculture-value-chain",
+   "policy-capacity"
+  ],
+  "summary_en": "FAO supported the Ministry of Economy in designing and launching a national digital Vineyard Register System and a farmer mobile application, and organised a 2025 study tour to Georgia on grapevine nurseries and vineyard data systems.",
+  "activities_en": [
+   "Vineyard Register System (national digital platform for vineyard oversight, certification and planning)",
+   "Requirements for a mobile app for farmers in the grape value chain",
+   "Capacity building for use of the registry"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "FAO Europe and Central Asia news (Aug 2025): project 'Digital Technologies in Support of Agriculture Value Chains and Rural Development' supports the national Vineyard Register System"
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Vineyard Register System (VRS)",
+    "kind": "tool",
+    "note": "National digital platform; FAO says the lessons will help to 'fully operationalize' it, so it may not yet be complete"
+   }
+  ],
+  "sources": [
+   {
+    "title": "FAO Europe - Armenia and Georgia enhance collaboration on grapevine nurseries and digital vineyard data systems (4 Aug 2025)",
+    "url": "https://www.fao.org/europe/news/detail/armenia-and-georgia-enhance-collaboration-on-grapevine-nurseries-and-digital-vineyard-data-systems/en"
+   },
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XM-DAC-41301-707282"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "National tool; no marz-level footprint found. The IATI description mentions piloting the mobile app in the vine makers' community in rural areas (unnamed)."
+ },
+ {
+  "slug": "fao-capacity-climate-action-agrifood",
+  "title_en": "Enhancing capacity for climate action in Armenian agri-food systems",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41301-750808"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "FAO"
+  ],
+  "implementers": [
+   "FAO"
+  ],
+  "national_partners": [],
+  "start": "2025-03",
+  "end": "2026-03",
+  "status": "completed",
+  "budget_usd": 20000,
+  "budget_original": "USD 20,000 (FAO IATI record)",
+  "cofinancing_note": null,
+  "themes": [
+   "climate-adaptation",
+   "policy-capacity"
+  ],
+  "summary_en": "Small FAO facility project to help Armenia access global climate and environmental finance and to build capacity of agricultural communities in climate-smart agriculture. No project page or sites were found.",
+  "activities_en": [],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "FAO IATI record: support to national access to climate finance and 'targeted capacity-building in climate-smart agriculture practices'"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "IATI record via d-portal",
+    "url": "https://d-portal.org/q.xml?aid=XM-DAC-41301-750808"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Only the IATI record was found. Dates from IATI (2025-03-20 to 2026-03-19)."
+ },
+ {
+  "slug": "adb-cafsep-climate-adaptive-food-security",
+  "title_en": "Climate-Adaptive Food Security Enhancement Project (CAFSEP)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "ADB 57088-001"
+   ]
+  },
+  "donors": [
+   "Asian Development Bank"
+  ],
+  "implementers": [],
+  "national_partners": [
+   "Ministry of Economy (executing agency per search result, not verified)"
+  ],
+  "start": null,
+  "end": null,
+  "status": "active",
+  "budget_usd": 3150000,
+  "budget_original": "USD 3.15 million grant",
+  "cofinancing_note": null,
+  "themes": [
+   "agriculture-value-chain",
+   "climate-adaptation",
+   "climate-mitigation-energy",
+   "rural-community-development"
+  ],
+  "summary_en": "ADB grant to improve food security and climate resilience of vulnerable smallholder farmers in Shirak and Tavush through climate-sensitive energy solutions, better access to logistics hubs and climate-smart adaptation planning capacity of the Ministry of Economy.",
+  "activities_en": [
+   "Climate-sensitive energy solutions in Shirak and Tavush",
+   "Better access to logistics hubs in targeted provinces",
+   "Capacity of the Ministry of Economy for climate-smart adaptation planning"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": "Baghanis",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ADB/EWS record: 'Specific Location: Baghanis and Zuygaghbyur municipalities, Shirak and Tavush regions' (Baghanis assigned to Tavush from public geography; the record does not pair municipalities with marzes)"
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": "Zuygaghbyur",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same record (Zuygaghbyur assigned to Shirak from public geography)"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "ADB project 57088-001 (Rights in Development EWS mirror)",
+    "url": "https://ewsdata.rightsindevelopment.org/projects/57088-001-climate-adaptive-food-security-enhancement-project"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Added as an extra well-documented rural climate project. Start/end dates not read from a consulted sources (record disclosed 12 Oct 2023). The IATI extract has no record for it."
+ },
+ {
+  "slug": "adaptation-fund-land-based-adaptation-khosrov-dilijan",
+  "title_en": "Strengthening land based adaptation capacity in communities adjacent to protected areas in Armenia (Adaptation Fund)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "Adaptation Fund project proposal (EPIU, 2018)"
+   ]
+  },
+  "donors": [
+   "Adaptation Fund"
+  ],
+  "implementers": [
+   "Environmental Project Implementation Unit (EPIU), National Implementing Entity"
+  ],
+  "national_partners": [
+   "Ministry of Nature Protection (now Ministry of Environment)"
+  ],
+  "start": "2018-09",
+  "end": "2021-08",
+  "status": "completed",
+  "budget_usd": 2506000,
+  "budget_original": "USD 2,506,000 financing requested (USD 2,310,000 project cost + USD 196,000 implementing entity fee)",
+  "cofinancing_note": null,
+  "themes": [
+   "climate-adaptation",
+   "land-degradation-slm",
+   "biodiversity-protected-areas",
+   "rural-community-development"
+  ],
+  "summary_en": "A three-year Adaptation Fund project to reduce climate vulnerability of communities next to Khosrov Forest State Reserve (Ararat) and Dilijan National Park (Tavush), with climate-smart agriculture and land-degradation-neutral practices such as drip irrigation for orchards and drought-tolerant pasture crops.",
+  "activities_en": [
+   "Climate-smart agriculture and land degradation neutrality practices in adjacent communities",
+   "Information leaflets and booklets to scale up in other communities",
+   "Institutional capacity for land-based adaptation"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": "Urtsadzor",
+    "settlements": [
+     "Urtsadzor",
+     "Lanjanist",
+     "Shaghap"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Proposal: 'the project will target the Urtsadzor community located on the foothills of the western part of the Ararat valley close to Khosrov Forest State Reserve' (settlements Urtsadzor, Lanjanist, Shaghap)"
+   },
+   {
+    "marz": "Tavush",
+    "district": "Dilidjan",
+    "community": "Dilijan",
+    "settlements": [
+     "Haghartsin",
+     "Aghavnavank",
+     "Gosh",
+     "Khachardzan",
+     "Teghut"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Proposal: Dilijan, Margahovit and Fioletovo communities near Dilijan National Park, south-western Tavush"
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": "Margahovit",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same proposal"
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": "Fioletovo",
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Same proposal"
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Adaptation Fund project proposal (Khosrov/Dilijan, Feb 2018)",
+    "url": "https://www.adaptation-fund.org/wp-content/uploads/2018/01/09.02.2018-AF_ArmeniaKhosrovDilijan5_Clean_version.pdf"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Based on the funding proposal only: planned start September 2018 and three-year duration. Approval and actual completion were not verified from a second source. Possibly also catalogued by the other categories."
+ }
+]

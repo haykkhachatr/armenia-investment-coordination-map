@@ -1,0 +1,79 @@
+{
+ "marzes": [
+  "Aragatsotn",
+  "Ararat",
+  "Armavir",
+  "Gegharkunik",
+  "Kotayk",
+  "Lori",
+  "Shirak",
+  "Syunik",
+  "Tavush",
+  "Vayots Dzor",
+  "Yerevan"
+ ],
+ "districts_by_marz": {
+  "Yerevan": [
+   "Yerevan"
+  ],
+  "Aragatsotn": [
+   "Ashtarak",
+   "Aparan",
+   "Aragats",
+   "Talin"
+  ],
+  "Ararat": [
+   "Ararat",
+   "Artashat",
+   "Masis"
+  ],
+  "Armavir": [
+   "Armavir",
+   "Baghramyan",
+   "Vagharshapat"
+  ],
+  "Gegharkunik": [
+   "Gavar",
+   "Karmir",
+   "Martuni",
+   "Sevan",
+   "Vardenis"
+  ],
+  "Lori": [
+   "Gugark",
+   "Tumanian",
+   "Spitak",
+   "Stepanavan",
+   "Tashir"
+  ],
+  "Kotayk": [
+   "Kotayk",
+   "Hrazdan",
+   "Nairi"
+  ],
+  "Shirak": [
+   "Akhuryan",
+   "Amasia",
+   "Ani",
+   "Ashotck",
+   "Artik"
+  ],
+  "Syunik": [
+   "Goris",
+   "Kapan",
+   "Meghri",
+   "Sisian"
+  ],
+  "Vayots Dzor": [
+   "Yeghegnadzor",
+   "Vayk"
+  ],
+  "Tavush": [
+   "Idjevan",
+   "Noyemberyan",
+   "Tavush",
+   "Dilidjan"
+  ]
+ },
+ "note": "OCHA COD-AB Armenia (11 marzes, 39 districts). Community boundaries (~500) not available in open data; communities are recorded as free text."
+}

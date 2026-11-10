@@ -1,0 +1,3425 @@
+[
+ {
+  "slug": "wb-irrigation-development-project",
+  "title_en": "World Bank Irrigation Development Project (with Additional Financing)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-501c3-522318905-SG-P055022",
+    "US-501c3-522318905-SG-P105171",
+    "XI-IATI-WBTF-P055022"
+   ],
+   "wb": "P055022",
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "P105171 (Additional Financing, approved 2007-07)"
+   ]
+  },
+  "donors": [
+   "World Bank (IDA)"
+  ],
+  "implementers": [
+   "Government of Armenia irrigation-sector project implementation unit",
+   "Water Supply Agency (WSA)"
+  ],
+  "national_partners": [
+   "Water Supply Agency",
+   "Water User Associations (WUAs)"
+  ],
+  "start": "2001-08",
+  "end": "2009-03",
+  "status": "completed",
+  "budget_usd": 33850000,
+  "budget_original": "IDA credit US$24.86 million at approval (World Bank data) plus Additional Financing of US$5.0 million (2008); actual total project cost US$33.85 million (ICR Annex 1).",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "policy-capacity",
+   "rural-community-development"
+  ],
+  "summary_en": "The project rehabilitated critical irrigation structures, converted three pump-fed irrigation schemes to gravity supply and helped set up Water User Associations and water-supply agencies under participatory irrigation management. The Additional Financing (2008) scaled up WUA support and rehabilitation of additional tertiary systems and extended closing to March 2009.",
+  "activities_en": [
+   "Rehabilitation of critical irrigation structures: Araks river intake of the Armavir scheme, Hoktemberyan main conveyance canal, Myasnikyan secondary canal, and 69 emergency structures in the Shirak, Armavir, Talin, Arzni-Shamiram, Vayots Dzor and Vorotan irrigation systems",
+   "Conversion from pumping to gravity irrigation in the Yeghegnadzor, Aygedzor and Ayrum schemes",
+   "Institutional development: establishment of Water User Associations (18 WUAs on 47,355 ha in 2003, 36 more on 86,035 ha in 2004) and consolidation of the Water Supply Agency",
+   "Water-management accounting software introduced in 33 WUAs"
+  ],
+  "results_en": [
+   "Araks intake capacity raised from 27 to 53 m3/s (completed April 2004)",
+   "Actually irrigated area rose from 113,400 ha (2004) to 128,600 ha (2008)",
+   "Irrigation fee collection rose by about 1,232 million AMD (55.7 percent) between 2004 and 2008",
+   "Electricity use fell from 119.2 to 110.3 million kWh (2004 to 2008)"
+  ],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "ICR: WUAs were established nationwide (18 WUAs in 2003 and 36 in 2004) and the Water Supply Agency was restructured into four regional branches."
+   },
+   {
+    "marz": "Armavir",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Myasnikyan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "ICR Annex 2: capacity expansion of the Armavir irrigation scheme (Araks river intake, Hoktemberyan main canal, Myasnikyan secondary canal)."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": "Yeghegnadzor",
+    "community": null,
+    "settlements": [
+     "Yeghegnadzor"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "district",
+    "evidence": "ICR Annex 2: the pump-to-gravity component 'supported the implementation of Yegegnadzor, Aygedzor and Ayrum gravity schemes'. Only Yeghegnadzor can be placed with certainty (Vayots Dzor); the marzes of Aygedzor and Ayrum are not stated in the ICR."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Water Management Software (WMS) for WUA irrigation-water accounting",
+    "kind": "tool",
+    "note": "Introduced in 33 WUAs per ICR"
+   }
+  ],
+  "sources": [
+   {
+    "title": "ICR, Armenia Irrigation Development Project (World Bank, 2009)",
+    "url": "http://documents.worldbank.org/curated/en/289411467994706194/pdf/ICR11450P055021C0Disclosed012130191.pdf"
+   },
+   {
+    "title": "World Bank documents search API (document list for the project)",
+    "url": "https://search.worldbank.org/api/v3/wds"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Location detail is coarse (the ICR names schemes, not communities). Aygedzor and Ayrum scheme marzes not stated in the source and not assigned. IATI row XI-IATI-WBTF-P055022 is a 1996-2002 World Bank trust-fund row with the same title; merged here but its exact link to the 2001 credit was not verified. Project cost figures are taken from ICR Annex 1 (appraisal 30.82, actual 33.85 US$ million)."
+ },
+ {
+  "slug": "wb-irrigation-dam-safety-projects",
+  "title_en": "World Bank Irrigation Dam Safety Projects (Dam Safety Project and Second Irrigation Dam Safety Project)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-501c3-522318905-SG-P088499"
+   ],
+   "wb": "P064879",
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "P088499 (Second Irrigation Dam Safety Project)"
+   ]
+  },
+  "donors": [
+   "World Bank (IDA)"
+  ],
+  "implementers": [
+   "Government of Armenia dam-safety project implementation unit"
+  ],
+  "national_partners": [
+   "State Committee on Water Systems / Water Resources Management Agency"
+  ],
+  "start": "1999-06",
+  "end": "2009-12",
+  "status": "completed",
+  "budget_usd": 41010000,
+  "budget_original": "Dam Safety Project: actual cost US$32.61 million (appraisal US$30.30 million); Second Irrigation Dam Safety Project: actual cost US$8.40 million (appraisal US$7.50 million), per the two ICRs. World Bank credit amounts: US$26.6 million and US$6.75 million.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "disaster-risk",
+   "policy-capacity"
+  ],
+  "summary_en": "Two linked World Bank projects reduced the risk of failure at Armenia's most dangerous irrigation dams. The first rehabilitated the 20 highest-risk dams (after dam failures in 1974, 1979 and 1994) and the second financed safety works at a further group of dams, with dam surveillance, emergency plans and institutional reform.",
+  "activities_en": [
+   "Rehabilitation works at 20 priority dams (e.g. Arpilich, Aygedzor, Halavar, Azat, Vardakar, Tavshut, Sovetashen, David-Bek, Sevaberd, Aparan, Karnut, Mantash, Sarnakhbjur, Hakhum, Tavush, Gegardalich, Gegharkunik-2, Kakavadzor-2, Upper Bazmaberd, Herher)",
+   "First project ended with 27 dams rehabilitated (the 20 planned plus seven more); the second project targeted 47 further dams and completed 44; Kaps dam rehabilitation was handed to MCC",
+   "Emergency preparedness plans, operation and maintenance plans and monitoring equipment per dam",
+   "Legal framework (Water Code, law on dam safety) and a dam-safety regulatory function"
+  ],
+  "results_en": [
+   "44 dams rehabilitated under the second project (94 percent of target)",
+   "Risk-reduction target for the 20 original dams reached in 2004"
+  ],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Zangakatun dam (Ararat marz, mentioned in the ICR)"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "ICR (Dam Safety Project): 'The project was largely national in scope as the 20 dams to be rehabilitated were located in nine out of the 10 Marzes (provinces)'; the second project targeted 47 further dams of the 87 dams in the national inventory."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "ICR, Armenia Dam Safety Project (World Bank, 2010)",
+    "url": "http://documents.worldbank.org/curated/en/529321468209058974/pdf/ICR11440P064871C0disclosed031311101.pdf"
+   },
+   {
+    "title": "ICR, Armenia Second Irrigation Dam Safety Project (World Bank, 2010)",
+    "url": "http://documents.worldbank.org/curated/en/131831468002082861/pdf/ICR14280P088491ficial0use0Only01091.pdf"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "No per-dam marz table was extracted; location is recorded as national. The dam names above come from the first ICR's cost table. The counts of dams (27 in the first project, 44 in the second) are as stated in the two ICRs and were not reconciled. The IATI row for P064879 was not found, only P088499 (AidData)."
+ },
+ {
+  "slug": "wb-irrigation-rehabilitation-emergency-project",
+  "title_en": "World Bank Irrigation Rehabilitation Emergency Project (IREP, with Additional Financing)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "44000-P116681",
+    "US-501c3-522318905-SG-P116681"
+   ],
+   "wb": "P116681",
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "MCC co-financed Additional Financing (2011)"
+   ]
+  },
+  "donors": [
+   "World Bank (IBRD)",
+   "Millennium Challenge Corporation (financed canal structures and Additional Financing)"
+  ],
+  "implementers": [
+   "Water Sector Projects Implementation Unit (PIU)",
+   "Akhuryan-Araks, Sevan-Hrazdan and Debed-Aghstev water supply agencies"
+  ],
+  "national_partners": [
+   "Ministry of Territorial Administration",
+   "Water User Associations"
+  ],
+  "start": "2009-07",
+  "end": "2013-06",
+  "status": "completed",
+  "budget_usd": 57760000,
+  "budget_original": "World Bank loan US$30 million (World Bank data); actual total project cost incl. Additional Financing US$57.76 million (ICR Annex 1; appraisal US$57.93 million).",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "rural-community-development"
+  ],
+  "summary_en": "An emergency project that re-lined primary canals in the Talin and Armavir irrigation schemes to cut water losses and create rural jobs. An Additional Financing extended it to six schemes and to tertiary canals in 19 communities in four marzes.",
+  "activities_en": [
+   "Rehabilitation of 83.81 km of primary canals: 59.01 km of the Talin scheme (Aragatsotn and Armavir) and 24.80 km of the Armavir scheme",
+   "Additional Financing: primary and secondary canals in six schemes (incl. Arzni-Shamiram, Kasakh, Lower Hrazdan, Shirak main canal, Nalband canal) and 50 km of tertiary canals",
+   "Institutional support to WUAs and water supply agencies; WUA Support Group maintained GIS irrigation maps for all WUAs"
+  ],
+  "results_en": [
+   "About 118,000 water users estimated to benefit",
+   "Water losses in rehabilitated primary canals reduced; Armavir main canal fully rehabilitated (24.8 km)"
+  ],
+  "locations": [
+   {
+    "marz": "Armavir",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Bagramyan",
+     "Myasnikyan",
+     "Dalarik",
+     "Qarakert",
+     "Bagaran",
+     "Yervandashat",
+     "Lernagog",
+     "Arevadasht",
+     "Hatsik",
+     "Noravan",
+     "Agavnatun"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR: the Armavir irrigation scheme (24.8 km) lies in Armavir marz; Table 4 of Annex 2 lists tertiary-canal communities of the Talin system and Lower Hrazdan system in Armavir."
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": "Talin",
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "ICR: 'Talin Irrigation Scheme located in Aragatsotn and Armavir Marzes' (59.01 km rehabilitated); Arzni-Shamiram canal 2nd stage in Aragatsotn."
+   },
+   {
+    "marz": "Kotayk",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "ICR: Additional Financing brought water users in Kotayk marz in; Arzni-Shamiram canal and Arzni canal branch rehabilitated in Kotayk."
+   },
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "ICR: Additional Financing covered Ararat marz (Mkchyan and Dvin canals, 6,020 m of canals in Ararat)."
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Megrashen"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR: Shirak main canal and Distributor 26 canal rehabilitated; tertiary canals in Megrashen."
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Jrashen"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR: Nalband canal rehabilitated; tertiary canals in Jrashen (Nalband system)."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Dzoragyug",
+     "Getashen",
+     "Martuni",
+     "Astghadzor",
+     "Vagashen"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR Table 4: tertiary canals in communities of the Sevan system (Gegharkunik)."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "GIS irrigation maps for all Water User Associations",
+    "kind": "map",
+    "note": "WUA Support Group continued drafting irrigation maps nation-wide (ICR component 2)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "ICR, Armenia Irrigation Rehabilitation Emergency Project (World Bank, 2013)",
+    "url": "http://documents.worldbank.org/curated/en/814971468008428525/pdf/ICR28150P1166800disclosed0120240130.pdf"
+   },
+   {
+    "title": "World Bank documents search API (document list for the project)",
+    "url": "https://search.worldbank.org/api/v3/wds"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Community lists come from ICR Annex 2 Table 4 (19 communities in 8 WUAs); the PDF table layout is garbled, so each community was assigned to a marz only where the ICR text or the grouping makes it clear. Vanand (Talin system) was left out for that reason. The ICR also says canal structures were financed separately by MCC."
+ },
+ {
+  "slug": "wb-irrigation-system-enhancement-project",
+  "title_en": "World Bank Irrigation System Enhancement Project (ISEP) and Additional Financing",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "44000-P127759"
+   ],
+   "wb": "P127759",
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "P161538 (Additional Financing, approved 2017-11)"
+   ]
+  },
+  "donors": [
+   "World Bank (IBRD)"
+  ],
+  "implementers": [
+   "Water Projects Implementation Branch of the Armenian Territorial Development Fund",
+   "Water Sector Projects Implementation Unit / State Committee of the Water Economy (Additional Financing)"
+  ],
+  "national_partners": [
+   "Water Committee of the Ministry of Territorial Administration and Infrastructures",
+   "Water User Associations",
+   "Water Supply Agency"
+  ],
+  "start": "2013-05",
+  "end": "2019-12",
+  "status": "completed",
+  "budget_usd": 38500000,
+  "budget_original": "IBRD loan US$30 million plus Additional Financing US$2 million (World Bank data); actual total ISEP and Additional Financing investment cost US$38.5 million (ICR).",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "climate-mitigation-energy",
+   "policy-capacity"
+  ],
+  "summary_en": "The project cut pumping energy and water losses in targeted irrigation schemes by converting four pump-fed schemes to gravity supply and upgrading outlet canals in 13 other pump-fed schemes, and installed a SCADA water-measurement system. Additional Financing supported the tertiary network of the Baghramyan-Norakert scheme.",
+  "activities_en": [
+   "Pump-to-gravity conversion in four schemes: Baghramyan-Norakert, Geghardalich, Kaghtsrashen and Meghri",
+   "Upgrading of 57.26 km of outlet canals in 13 pump-based schemes",
+   "Supervisory control and data acquisition (SCADA) system and water-measurement devices",
+   "Support group for Water User Associations; project management"
+  ],
+  "results_en": [
+   "Meghri gravity scheme fully operational since April 2016 (686 ha, 3.7 GWh saved)",
+   "Water-loss savings of 21.44 million m3/year in rehabilitated canals (target 23.58)",
+   "Geghardalich scheme left incomplete at closing (community dispute with Goght); Kaghtsrashen completed but failed pressure tests"
+  ],
+  "locations": [
+   {
+    "marz": "Syunik",
+    "district": "Meghri",
+    "community": null,
+    "settlements": [
+     "Meghri"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "district",
+    "evidence": "ICR: Meghri gravity scheme (the only fully operational gravity scheme at closing)."
+   },
+   {
+    "marz": "Armavir",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Baghramyan",
+     "Norakert"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR annex: 'Baghramyan and Norakert communities are in Armavir Marz'; Baghramyan-Norakert gravity scheme and Additional Financing for its tertiary system."
+   },
+   {
+    "marz": "Kotayk",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Goght",
+     "Garni"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR: Request for Inspection by members of the Goght community (Geghardalich scheme) and residents of the Garni community (Kaghtsrashen scheme). The ICR does not name the marz; Goght and Garni are in Kotayk (geographic inference, not stated in the source, please verify)."
+   },
+   {
+    "marz": "Tavush",
+    "district": "Noyemberyan",
+    "community": null,
+    "settlements": [
+     "Noyemberyan",
+     "Haghtanak",
+     "Achajur"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "district",
+    "evidence": "Project data sheet of the Additional Financing lists Noyemberyan, Haghtanak and Achajur among project locations (outlet canals of pump-based schemes)."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Project data sheet of the Additional Financing lists 'Gegharkuniki Marz' among project locations; the specific scheme is not identified."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "SCADA irrigation water-measurement system (flow monitoring at WSA/WUA intakes)",
+    "kind": "dataset",
+    "note": "Installed by 2015 irrigation season per ICR"
+   }
+  ],
+  "sources": [
+   {
+    "title": "ICR, Armenia Irrigation System Enhancement Project (World Bank, 2020)",
+    "url": "http://documents.worldbank.org/curated/en/720591593095446301/pdf/Armenia-Irrigation-System-Enhancement-Project.pdf"
+   },
+   {
+    "title": "Project Paper, Additional Financing and Restructuring (World Bank, 2017)",
+    "url": "http://documents.worldbank.org/curated/en/809151510887631824/pdf/Armenia-AF-PP-10262017.pdf"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Other pump-based schemes with canal upgrades (named in the ICR table: Arazap, Argina, Armash, Avshar-Aygevan, Ghara-Ghala (Karakalla), Jrashen-Azat, Metsamor (Tandzut-Ghamlu), Saralanj, Zeytun-Haghtanak, Noyemberyan 4-stage) were not assigned to marzes because the sources opened do not give them. The EU/AFD IADAAM project later planned irrigation modernisation in the same Baghramyan and Norakert communities."
+ },
+ {
+  "slug": "wb-wise-phase1",
+  "title_en": "World Bank Water and Irrigation Services Enhancement (WISE) Program - Phase 1",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "44000-P508124"
+   ],
+   "wb": "P508124",
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "P180733 (earlier version of WISE, status Dropped)"
+   ]
+  },
+  "donors": [
+   "World Bank (IBRD)",
+   "Agence Francaise de Developpement (co-financing)",
+   "European Union (grant administered by AFD)",
+   "Government of Armenia"
+  ],
+  "implementers": [
+   "Water Committee, Ministry of Territorial Administration and Infrastructure (project coordination team / PIT)"
+  ],
+  "national_partners": [
+   "Water Supply Agency (WSA)",
+   "Water User Associations",
+   "Public Services Regulatory Commission"
+  ],
+  "start": "2025-06",
+  "end": "2031-06",
+  "status": "active",
+  "budget_usd": 185000000,
+  "budget_original": "Phase 1 total US$185 million: IBRD US$80 million, AFD US$74 million (incl. a US$4 million EU grant), Government US$31 million (PAD). Ten-year program US$435 million.",
+  "cofinancing_note": "AFD co-financing is part of the AFD/EU programme WAIDA (see record afd-eu-waida-water-agriculture-integrated-development).",
+  "themes": [
+   "water-irrigation",
+   "water-supply-sanitation",
+   "climate-adaptation",
+   "policy-capacity"
+  ],
+  "summary_en": "First six-year phase of a ten-year World Bank multi-phase program to modernise irrigation schemes and improve rural water supply in selected areas of Armenia, with national water-sector reform. Phase 1 will modernise 2-3 irrigation schemes chosen from a short-list of five, pilot rural water supply in unserved settlements and assess the Vorotan-Arpa-Sevan conveyance tunnel.",
+  "activities_en": [
+   "Component 1: national water and irrigation/WSS strategies, tariff review, restructuring of the Water Supply Agency, WUA support, a national Irrigation Water Accounting and Adaptation Center",
+   "Component 2: rural water supply and sanitation for unserved rural settlements (about 650,000 people in 579 settlements are outside the Veolia Djur lease)",
+   "Component 3: modernisation of irrigation systems (short-list: Lower Hrazdan canal, Arzni-Shamiram canal, Kotayk canal, Lori canal, Debetavan canal) incl. SCADA",
+   "Technical and institutional assessment of the Vorotan-Arpa-Sevan conveyance tunnel"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "PAD: Components 1 and 2 intervene at national scale (policy, regulation, institutions)."
+   },
+   {
+    "marz": "Kotayk",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "PAD: 'the investments in irrigation modernization will be considered in the following marzes: (a) Kotayk'. Short-listed schemes: Lower Hrazdan canal, Arzni-Shamiram canal, Kotayk canal, Lori canal, Debetavan canal (scheme-to-marz match not stated in the text read)."
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "PAD: irrigation modernisation to be considered in '(b) Aragatsotn and partially in Kotayk'."
+   },
+   {
+    "marz": "Armavir",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "PAD: irrigation modernisation to be considered in '(c) Armavir'."
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "PAD: irrigation modernisation to be considered in '(d) Tavush'."
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "PAD: irrigation modernisation to be considered in '(e) Lori'."
+   },
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "PAD: small rural water supply systems in Ararat, Kotayk, Aragatsotn, Shirak or Tavush marzes (final selection later)."
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "PAD: rural water supply systems may be financed in Shirak (final selection later)."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "National Irrigation Water Accounting and Adaptation Center (IWAAC): water accounting, crop monitoring, flood/drought and groundwater monitoring (Ararat artesian basin)",
+    "kind": "tool",
+    "note": "Planned, financed under Component 1"
+   },
+   {
+    "name": "Water Infrastructure Information System (WIIS) integration across irrigation, drinking water and wastewater",
+    "kind": "dataset",
+    "note": "Existing but incomplete; to be strengthened"
+   }
+  ],
+  "sources": [
+   {
+    "title": "World Bank Project Appraisal Document, First Phase of WISE (2025)",
+    "url": "https://documents.worldbank.org/curated/en/099052725184514838/pdf/BOSIB-76d6f43e-20d8-4399-83a5-57a7cf5e4c42.pdf"
+   },
+   {
+    "title": "World Bank press release 13 June 2025",
+    "url": "https://www.worldbank.org/en/news/press-release/2025/06/13/armenia-to-strengthen-drinking-water-supply-and-irrigation-services-with-world-bank-support"
+   },
+   {
+    "title": "World Bank Project Information Document (Concept Stage), P508124",
+    "url": "https://documents1.worldbank.org/curated/en/099021325210036248/pdf/P508124-b45462ae-85dc-4e7f-8b3f-2e22a18d4d44.pdf"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The PAD's Table 3 short-list of five schemes is garbled in text extraction, so scheme-to-marz mapping follows the PAD sentence listing marzes in order (a)-(e). Final scheme selection (2-3 of 5) is not yet made. Earlier version P180733 had a US$100 million tag and was dropped. Phase 2 (2029-2035) would cover four more schemes."
+ },
+ {
+  "slug": "wb-municipal-water-and-wastewater-project",
+  "title_en": "World Bank Municipal Water and Wastewater Project (with Additional Financing)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-501c3-522318905-SG-P063398",
+    "US-501c3-522318905-SG-P107614"
+   ],
+   "wb": "P063398",
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "P107614 (Additional Financing, 2008)"
+   ]
+  },
+  "donors": [
+   "World Bank (IDA)"
+  ],
+  "implementers": [
+   "Armenia Water and Sewerage Company (AWSC)",
+   "State Committee for Water Economy (SCWE)"
+  ],
+  "national_partners": [
+   "State Committee for Water Economy"
+  ],
+  "start": "2004-05",
+  "end": "2012-02",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "IDA credit US$23 million (World Bank data) plus Additional Financing (P107614, 2008); the ICR states that about US$25.0 million, a little under 50 percent of total project cost, went to branch-system investments.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-supply-sanitation",
+   "policy-capacity"
+  ],
+  "summary_en": "The project supported the financial and technical rehabilitation of water services run by the Armenia Water and Sewerage Company outside Yerevan. It financed management support, investments in branch water systems of 14 small towns plus immediate works in Dilijan and Sevan, and pipe and meter replacement.",
+  "activities_en": [
+   "Immediate investments: rehabilitation of two water treatment plants in Dilijan, two new water reservoirs in Sevan and replacement of leaky pipes in both cities",
+   "Main investment program: 10 pumping stations, 13 storage reservoirs and 221 km of distribution pipes in 14 urban areas",
+   "Management contract and institutional support for AWSC; Additional Financing for water network of Hrazdan city and feasibility studies for two towns' wastewater systems"
+  ],
+  "results_en": [
+   "94 percent of cities and towns in AWSC service areas reported at least minimum water-supply hours at completion (ICR)"
+  ],
+  "locations": [
+   {
+    "marz": "Tavush",
+    "district": "Dilidjan",
+    "community": null,
+    "settlements": [
+     "Dilijan",
+     "Noyemberyan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR: rehabilitation of water treatment plants in Dilijan; Noyemberyan in the main program."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Sevan",
+     "Gavar"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR: two water reservoirs in Sevan; Gavar in the main program."
+   },
+   {
+    "marz": "Kotayk",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Tsakhkadzor",
+     "Charentsavan",
+     "Hrazdan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR: Tsakhkadzor, Charentsavan and Hrazdan (Additional Financing water network) among the 14 urban areas."
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Ashtarak",
+     "Aparan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR: Ashtarak and Aparan among the 14 urban areas."
+   },
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Ararat",
+     "Masis",
+     "Vedi"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR: Ararat, Masis and Vedi among the 14 urban areas."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Yeghegnadzor"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR: Yeghegnadzor among the 14 urban areas."
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Alaverdi",
+     "Tashir",
+     "Stepanavan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ICR: Alaverdi, Tashir and Stepanavan among the 14 urban areas."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "ICR, Armenia Municipal Water and Wastewater Project (World Bank, 2012)",
+    "url": "http://documents.worldbank.org/curated/en/616521468003021449/pdf/ICR23470P063390C0disclosed070230120.pdf"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The ICR lists towns by name only; marz assignments follow standard geography (Dilijan/Noyemberyan in Tavush, etc.) and were not printed in the ICR. Gyumri, Vanadzor and Armavir towns have their own utilities (KfW-supported) and were not part of this project. Total project cost in US$ could not be read from the ICR text."
+ },
+ {
+  "slug": "wb-municipal-water-project-masis-ashtarak-echmiadzin",
+  "title_en": "World Bank Municipal Water Project (Masis, Ashtarak, Echmiadzin)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "44000-P126722"
+   ],
+   "wb": "P126722",
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "World Bank (IBRD)"
+  ],
+  "implementers": [
+   "Armenia Water and Sewerage Company (AWSC)"
+  ],
+  "national_partners": [
+   "State Committee for Water Economy"
+  ],
+  "start": "2012-02",
+  "end": "2015-06",
+  "status": "completed",
+  "budget_usd": 14931000,
+  "budget_original": "IBRD loan US$15 million; actual total project cost US$14.93 million (ICR Annex 1).",
+  "cofinancing_note": null,
+  "themes": [
+   "water-supply-sanitation"
+  ],
+  "summary_en": "The project rehabilitated water networks in the towns of Masis, Ashtarak and Echmiadzin and their neighbouring rural settlements to cut losses and improve service, and financed meters and pumping-station automation across the AWSC service area.",
+  "activities_en": [
+   "Component 1: rehabilitation and sectorisation of water networks in Masis, Echmiadzin and Ashtarak and neighbouring villages (non-revenue water reduction)",
+   "Component 2: water-meter replacement and meter chambers in several cities and villages, automation of pumping stations and reservoirs (e.g. Masis), equipment for AWSC",
+   "More than 9,000 individual meters installed in the three towns"
+  ],
+  "results_en": [
+   "Water-supply improvements and beneficiary surveys carried out in Masis, Ashtarak and Echmiadzin"
+  ],
+  "locations": [
+   {
+    "marz": "Ararat",
+    "district": "Masis",
+    "community": null,
+    "settlements": [
+     "Masis"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "district",
+    "evidence": "ICR: selected service areas are Masis town, Ashtarak town and Echmiatsin town and their surroundings."
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": "Ashtarak",
+    "community": null,
+    "settlements": [
+     "Ashtarak"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "district",
+    "evidence": "ICR: Ashtarak town and surroundings."
+   },
+   {
+    "marz": "Armavir",
+    "district": "Vagharshapat",
+    "community": null,
+    "settlements": [
+     "Echmiadzin"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "district",
+    "evidence": "ICR: Echmiatsin (Echmiadzin) town and surroundings."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "ICR, Armenia Municipal Water Project (World Bank, 2015)",
+    "url": "http://documents.worldbank.org/curated/en/128571468194981400/pdf/ICR3553-ICR-AM-P126722-OUO-9-Box394831B.pdf"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Marz of each town is standard geography, not printed in the ICR. The ADB Additional Financing (Loan 2860) later financed water supply works in Echmiadzin and nearby villages (see the ADB record)."
+ },
+ {
+  "slug": "wb-yerevan-water-and-wastewater-project",
+  "title_en": "World Bank Yerevan Water and Wastewater Project (YWWP)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-501c3-522318905-SG-P087641"
+   ],
+   "wb": "P087641",
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "World Bank (IBRD)"
+  ],
+  "implementers": [
+   "Yerevan Djur (private lessee under a lease contract) with Yerevan Water and Sewerage Company (YWSC)",
+   "Project Management Unit of the State Committee for Water Economy"
+  ],
+  "national_partners": [
+   "Yerevan Water and Sewerage Company",
+   "State Committee for Water Economy"
+  ],
+  "start": "2005-02",
+  "end": "2011-12",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "World Bank loan US$20 million (World Bank data); total project cost not extracted from the ICR.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-supply-sanitation",
+   "waste-pollution",
+   "policy-capacity"
+  ],
+  "summary_en": "The project supported a public-private partnership lease for Yerevan's water and wastewater services, financing priority investments by the lessee (Yerevan Djur) and technical assistance. It aimed at safe, continuous water supply for Yerevan and less wastewater pollution.",
+  "activities_en": [
+   "YWWP Fund: priority rehabilitation investments in Yerevan's water and wastewater system, implemented by the lessee Yerevan Djur",
+   "Technical assistance and project management",
+   "Rehabilitation of wastewater collection schemes discharging to the Hrazdan River (tributary of the Araks); upgrade of the sewerage system in a peripheral district of Yerevan"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Yerevan",
+    "district": "Yerevan",
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "ICR: 'provide Yerevan with safe, constant water supply while reducing environmental pollution'; works in urban areas of Yerevan including a peripheral district sewerage upgrade."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "ICR, Armenia Yerevan Water and Wastewater Project (World Bank, 2012)",
+    "url": "http://documents.worldbank.org/curated/en/963511468003279897/pdf/ICR23460P087640C0disclosed070230120.pdf"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Result indicators and total cost were not extracted. Peripheral district not named in the ICR text read."
+ },
+ {
+  "slug": "mcc-irrigated-agriculture-project",
+  "title_en": "MCC / Millennium Challenge Account-Armenia Irrigated Agriculture Project (Infrastructure Activity and Water-to-Market Activity)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-GOV-18-ARM-2750BXCOMD-IRAGINFR-0039",
+    "US-GOV-18-ARM-2750BXCOMD-IRAGINFR-0116",
+    "US-GOV-18-ARM-2750BXCOMD-IRAGINFR",
+    "US-GOV-18-ARM-2750BXCOMD-IRRIG AGRI-0090",
+    "US-GOV-18-ARM-2750BXCOMD-IRRIG AGRI-0117",
+    "US-GOV-18-ARM-2750BXCOMD-IRRIG AGRI-0039",
+    "US-GOV-18-ARM-2750BXCOMD-IRRIG AGRI",
+    "US-GOV-18-ARM-2750BXCOMD-IRRIG AGRI-0116",
+    "US-GOV-18-ARM-2750BXCOMD-IRAGINFR-0016",
+    "US-GOV-18-ARM-2750BXCOMD-IRAGINFR-0017",
+    "US-GOV-18-ARM-2750BXCOMD-IRRIG AGRI-0017"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "MCC Armenia Compact (2006-2011)"
+   ]
+  },
+  "donors": [
+   "Millennium Challenge Corporation (USA)"
+  ],
+  "implementers": [
+   "Millennium Challenge Account-Armenia (MCA-A)",
+   "Irrigation PIU under the State Water Committee (until 2008)"
+  ],
+  "national_partners": [
+   "State Committee of Water Economy / Water Supply Agencies",
+   "Water User Associations",
+   "Ministry of Agriculture"
+  ],
+  "start": "2006-09",
+  "end": "2011-09",
+  "status": "completed",
+  "budget_usd": 153716022,
+  "budget_original": "Original compact project amount US$145.67 million (Infrastructure US$113.2 million, Water-to-Market US$32.4 million); total disbursed US$153.7 million (MCC Closed Compact Report).",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "agriculture-value-chain",
+   "rural-community-development"
+  ],
+  "summary_en": "The largest irrigation refurbishment in Armenia's history under the MCC Compact. The Infrastructure Activity rehabilitated main canals, pumping stations, gravity systems, tertiary canals and drainage in the Ararat Valley and other regions; the Water-to-Market Activity trained farmers, provided credit and strengthened WUAs and water supply agencies.",
+  "activities_en": [
+   "Six main canals rehabilitated (41.8 km lined, over 260 structures)",
+   "17 irrigation pumping stations rehabilitated; five pump-to-gravity conversions (almost 50 km of canals)",
+   "Tertiary canals rehabilitated in more than 100 communities (232.8 km, 15 percent community co-financing)",
+   "470 km of drainage canals cleaned in the Ararat and Armavir regions",
+   "Support to 44 WUAs and three water supply agencies (management improvement plans, 180 computers with GIS software); farmer training and rural credit (US$12.7 million, 1,008 borrowers)"
+  ],
+  "results_en": [
+   "Infrastructure activity ERR 24.4 percent at closure; Mathematica 2016 evaluation found improved water timeliness near tertiary canals but no evidence of higher irrigated area or household income",
+   "Water-to-Market: farmer training did not measurably change on-farm water management (2013 evaluation)"
+  ],
+  "locations": [
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "MCC Closed Compact Report: drainage rehabilitation in the 'Ararat and Armavir regions' (470 km cleaned, US$23.1 million)."
+   },
+   {
+    "marz": "Armavir",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "MCC Closed Compact Report: drainage rehabilitation in the Ararat and Armavir regions. World Bank IREP ICR states MCC financed Armavir/Talin canal structures."
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": "Talin",
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "district",
+    "evidence": "World Bank ICR: Talin scheme lies in Aragatsotn and Armavir marzes and MCC funded the canal structures (MCC 2011 country brief, summarised in search results, lists the Talin canal)."
+   },
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "MCC report: pumping stations rehabilitated 'in six regions' and tertiary canals in more than 100 communities; the named marzes beyond Ararat and Armavir are not given in the Closed Compact Report text read."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "MCC Closed Compact Report - Irrigated Agriculture Project",
+    "url": "https://www.mcc.gov/resources/story/section-am-ccr-irrigated-agriculture-project/"
+   },
+   {
+    "title": "MCC Armenia Compact page",
+    "url": "https://www.mcc.gov/where-we-work/program/armenia-compact/"
+   },
+   {
+    "title": "World Bank IREP ICR (links MCC designs/structures to Talin and Armavir schemes)",
+    "url": "http://documents.worldbank.org/curated/en/814971468008428525/pdf/ICR28150P1166800disclosed0120240130.pdf"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The MCC Closed Compact Report page does not name specific canals, pumping stations, villages or the six regions. The 2011 MCC country brief reportedly lists the Talin, Lower Hrazdan, Shirak and Armavir main canal and pumping-station sites; that PDF was not opened, so only the Ararat/Armavir statement and the Talin link (via the World Bank ICR) are recorded. The impact-evaluation report (Mathematica 2016) or the MCC site map would give the full list. IATI rows IRRIG AGRI-0039/-0116/-0017 are accounting duplicates with no funds. Yerevan was excluded from credit per the MCC page."
+ },
+ {
+  "slug": "afd-eu-ararat-plain-irrigation-vedi-reservoir-iadaam",
+  "title_en": "Improving the sustainability of water resources and irrigated agriculture in the Ararat Plain (AFD loan for Vedi reservoir) and EU Irrigated Agriculture Development in Ararat and Armavir Marzes (IADAAM)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "FR-3-CAM1002",
+    "FR-3-CAM100206",
+    "XI-IATI-EC_NEAR-2017-PCC-392719"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AR-2017-PCC-392719 (EU NIF)",
+    "IADAAM"
+   ]
+  },
+  "donors": [
+   "Agence Francaise de Developpement (AFD)",
+   "European Union (grant delegated to AFD, Neighbourhood Investment Facility)",
+   "Government of Armenia"
+  ],
+  "implementers": [
+   "Ministry of Economy (85 percent of IADAAM)",
+   "Ministry of Territorial Administration and Infrastructure / Water Committee (15 percent of IADAAM; Vedi reservoir)",
+   "Agriconsulting Europe S.A. consortium (IADAAM technical assistance)"
+  ],
+  "national_partners": [
+   "Ministry of Economy",
+   "Water Committee",
+   "Water Supply Agency",
+   "Water User Associations"
+  ],
+  "start": "2016-08",
+  "end": "2028-03",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "AFD sovereign loan EUR 85 million; EU grant EUR 10 million entrusted to AFD (IADAAM: EUR 4.4 million technical assistance and EUR 5.6 million infrastructure) (AFD project page; IADAAM data from Ministry of Economy). IATI: AFD CAM100206 EUR 10.64 million, EU contract record 11.02 million.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "agriculture-value-chain",
+   "climate-adaptation",
+   "policy-capacity"
+  ],
+  "summary_en": "AFD finances the Vedi reservoir (29 million m3) and modernisation of the irrigation network for about 3,200 ha in the Ararat Plain, while an EU grant (IADAAM) delivered by AFD supports institutional reform, farmer advisory teams and drip/sprinkler irrigation pilots in Ararat and Armavir marzes. The reservoir is reported as built in 2026; IADAAM implementation was extended to December 2027.",
+  "activities_en": [
+   "Construction of the Vedi reservoir (29 million m3 storage, gravity irrigation, expected 12.2 million kWh/yr energy saving) and nine filtration stations",
+   "Rehabilitation, modernisation and extension of the irrigation network over about 3,200 ha",
+   "IADAAM: institutional support to Ministry of Economy, three pilot agro-technical advisory teams in the two marzes, farmer training, co-financing grant guidelines, land-consolidation studies",
+   "Drip and sprinkler irrigation pilots on up to 2,000 ha in Ararat marz and the Baghramyan and Norakert communities of Armavir marz"
+  ],
+  "results_en": [
+   "Reservoir construction reported complete in 2026; first phase stored 1.6 million m3 (press report, not opened); nine filtration stations built, awaiting water testing (Ministry of Economy)"
+  ],
+  "locations": [
+   {
+    "marz": "Ararat",
+    "district": "Ararat",
+    "community": null,
+    "settlements": [
+     "Vedi"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "AFD project page: 'Ararat Region, with the reservoir at Vedi'; EU grant covers Ararat and Armavir regions. Ministry of Economy: nine filtration stations for the Vedi Reservoir."
+   },
+   {
+    "marz": "Armavir",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Baghramyan",
+     "Norakert"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Search summary of IADAAM documents (EU/Ministry pages): 'the Baghramyan and Norakert settlements of the enlarged Parakar community in Armavir marz have been selected'; World Bank ISEP ICR: drip/sprinkler modernisation on 2,000 ha in Ararat and Armavir marzes (Baghramyan, Norakert in Armavir)."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "AFD project page: Improving sustainability of water resources and irrigated agriculture in the Ararat Plain",
+    "url": "https://www.afd.fr/en/projects/improving-sustainability-water-resources-and-irrigated-agriculture-ararat-plain"
+   },
+   {
+    "title": "Ministry of Economy: IADAAM project page",
+    "url": "https://economy.gov.am/en/irrigated-agriculture-development-in-ararat-and-armavir-marzes-iadaam-project"
+   },
+   {
+    "title": "World Bank ISEP ICR (mentions IADAAM scope in Baghramyan and Norakert)",
+    "url": "http://documents.worldbank.org/curated/en/720591593095446301/pdf/Armenia-Irrigation-System-Enhancement-Project.pdf"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Merged: AFD's IATI title for CAM1002 explicitly reads 'loan and EU grant', and the EU record AR-2017-PCC-392719 is the grant side, so the brief's items 5 and 6 are one programme. No EBRD co-financing was found. The loan amount is quoted differently in the press (EUR 75, 82 and 85 million); AFD's own page says EUR 85 million. AFD's page dates (2015-2021) conflict with IATI (2016-2028); IATI dates used. The 11 settlements to be irrigated from the Vedi reservoir (about 3,220 ha) were not named in the sources opened (press reports reported but arka.am could not be opened). The Armavir community detail comes from a search-result summary of IADAAM pages (EU page returned HTTP 403) corroborated by the World Bank ICR."
+ },
+ {
+  "slug": "afd-eu-waida-water-agriculture-integrated-development",
+  "title_en": "Water and Agriculture Integrated Development for Armenia (WAIDA / PADISEAA) - AFD and EU",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "FR-3-CAM1029",
+    "FR-3-CAM102901",
+    "FR-3-CAM102904",
+    "FR-3-CAM102905"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "EU project PC-61629",
+    "French: Programme d'Appui au Developpement Integre des Secteurs de l'Eau et de l'Agriculture en Armenie (PADISEAA)"
+   ]
+  },
+  "donors": [
+   "Agence Francaise de Developpement (AFD)",
+   "European Union (delegated funds)",
+   "World Bank (WISE co-financing)"
+  ],
+  "implementers": [
+   "Water Committee / Water Supply Agency",
+   "Water User Associations"
+  ],
+  "national_partners": [
+   "Ministry of Territorial Administration and Infrastructure",
+   "Water Committee"
+  ],
+  "start": "2024-07",
+  "end": "2034-03",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "IATI commitments for AFD sub-credits: CAM102901 33,827,132; CAM102904 13,530,852; CAM102905 33,827,132 (currency not stated; likely EUR). Press reports (arka.am, not opened) cite an AFD credit line of up to EUR 100 million and EU grant EUR 12.456 million. The World Bank PAD gives AFD co-financing of WISE Phase 1 as US$74 million incl. a US$4 million EU grant.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "agriculture-value-chain",
+   "climate-adaptation",
+   "rural-community-development",
+   "policy-capacity"
+  ],
+  "summary_en": "An AFD/EU programme with two pillars: nationwide water-sector support co-financing the World Bank WISE program (excluding Syunik), and a Syunik-only pillar (LITDS) to restore and modernise irrigation, improve access to water and develop agricultural value chains. The EU page lists the programme as ongoing from April 2026 to March 2034.",
+  "activities_en": [
+   "Pillar 1 (WISE, nationwide excluding Syunik): institutional support to the Water Committee/WSA, technical assistance and grants for Water User Associations, rehabilitation of strategic water infrastructure",
+   "Pillar 2 (LITDS, Syunik): rehabilitation and modernisation of irrigation systems (gravity-fed networks, pumping stations, water reuse), climate-resilient agriculture, agribusiness and extension services",
+   "Land management support"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Sisian",
+     "Goris",
+     "Meghri"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "district",
+    "evidence": "EU4Armenia project page: LITDS pillar 'Syunik region only'. Water Committee news (13 June 2025): the French programme focuses on rehabilitating irrigation systems in the communities of Sisian, Goris and Meghri."
+   },
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "EU4Armenia project page: WISE pillar is 'Nationwide across Armenia, excluding Syunik' (see record wb-wise-phase1 for the marzes)."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "EU4Armenia project page: WAIDA (PC-61629)",
+    "url": "https://eu4armenia.eu/projects/eu-project-page/?id=3120"
+   },
+   {
+    "title": "Water Committee: Armenian-French cooperation for the development of the water sector and agriculture",
+    "url": "https://water.mtad.gov.am/en/articles/նորություններ/armenian-french-cooperation-for-the-development-of-the-water-sector-and-agriculture"
+   },
+   {
+    "title": "World Bank PAD, WISE Phase 1 (AFD co-financing)",
+    "url": "https://documents.worldbank.org/curated/en/099052725184514838/pdf/BOSIB-76d6f43e-20d8-4399-83a5-57a7cf5e4c42.pdf"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "'PADISEAA' (AFD's French acronym in IATI) = WAIDA (EU name); this link rests on identical scope (two pillars, Syunik) in the EU page and search coverage of the December 2025 framework agreement. Which Syunik irrigation systems are covered is not named in sources opened. Drinking-water works in Syunik are mentioned in the IATI description but not confirmed by the pages opened. Press totals (EUR 100 million AFD, EUR 112.4 million with the EU) come from search summaries of arka.am (HTTP 403 on direct fetch) and are not used as budget_usd."
+ },
+ {
+  "slug": "kfw-iwrm-akhuryan-river-kaps-reservoir",
+  "title_en": "KfW Integrated Water Resources Management (IWRM) Akhuryan River - Kaps reservoir and gravity irrigation (Phases I and II)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "DE-1-201467950",
+    "DE-1-201266956",
+    "DE-1-201470202",
+    "DE-1-201670355"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "KfW 507101",
+    "BMZ 201470202",
+    "BMZ 201467950"
+   ]
+  },
+  "donors": [
+   "KfW Development Bank on behalf of BMZ (Germany)",
+   "Government of Armenia (co-financing)"
+  ],
+  "implementers": [
+   "Water Committee / Water Sector Projects Implementation Unit (project implementation)",
+   "GFA Consulting Group - Fichtner joint venture with local partner (consulting for accompanying measures, tender award Feb 2026)"
+  ],
+  "national_partners": [
+   "Ministry of Territorial Administration and Infrastructure",
+   "Water Committee",
+   "Water Supply Agency"
+  ],
+  "start": "2014-12",
+  "end": "2028-12",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "KfW loan EUR 50 million (agreed 2014, Phase I) plus EUR 18.5 million (Phase II, Cabinet approval Dec 2017); Armenian co-financing (press: EUR 26.7 million); accompanying grants EUR 0.3 million (Phase I ESIA experts) and EUR 2.7 million (Phase II), signed 19 July 2019. IATI commitments in the German records: 61.65 million, 21.91 million, 3.03 million, 2.47 million (currency not stated).",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "climate-adaptation",
+   "rural-community-development",
+   "policy-capacity"
+  ],
+  "summary_en": "KfW finances completion of the Kaps reservoir on the Akhuryan River (first phase 25 million m3, later expandable to 60 million m3) and a gravity irrigation system replacing pumped irrigation in Shirak and Talin, together with river-basin management planning and irrigation-institution support. Works stalled after the contractor's contract was terminated and a new project design and tender are being prepared (press, 2026).",
+  "activities_en": [
+   "Construction of the Kaps dam/reservoir and auxiliary structures, restoration of the Kumayri irrigation tunnel and gravity irrigation pipe system",
+   "Relocation of Jradzor village (partly or fully submerged by the reservoir)",
+   "Consulting for accompanying measures: river basin management plan, water-balance computer models, monitoring, WUA and irrigation institutions, agricultural productivity and value chains, support for operation of the Kaps and Arpi dams",
+   "ESIA expert services (Phase I grant)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Kaps",
+     "Jradzor"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "FIP.am: 'Shirak Marz, on the right bank of the Akhuryan River, about 2 km north of Kaps village'; azatutyun.am: Jradzor village, about 22 km north of Gyumri, to be fully or partly submerged and its roughly 350 residents resettled; irrigation of about 17,000 ha in Shirak."
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": "Talin",
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "district",
+    "evidence": "FIP.am: about 7,000 ha of irrigated land in the Talin region (Aragatsotn Marz) would be served."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "River basin management plan and water-balance/monitoring computer models for the Akhuryan basin",
+    "kind": "tool",
+    "note": "Part of the accompanying-measures consulting scope (tender notice); not yet delivered per sources"
+   }
+  ],
+  "sources": [
+   {
+    "title": "FIP.am: Kaps reservoir project overview",
+    "url": "https://fip.am/en/?p=19936"
+   },
+   {
+    "title": "RFE/RL Armenian Service (azatutyun.am): Kaps reservoir",
+    "url": "https://www.azatutyun.am/a/30806163.html"
+   },
+   {
+    "title": "Ministry of Finance: grant agreements between Armenia and KfW (19 July 2019)",
+    "url": "https://minfin.am/en/content/grant_agreements_between_armenia_and_kfw_were_signed"
+   },
+   {
+    "title": "GTAI tender notice: consulting for accompanying measures, IWRM Akhouryan River",
+    "url": "https://www.gtai.de/en/trade/armenia/tenders/consulting-services-accompanying-measures-integrated-water-resources-management-akhouryan-river-construction-of-kaps-reservoir-and-gravity-irrigation-system--813134"
+   },
+   {
+    "title": "StrategEast: Akhuryan IWRM phase two loan",
+    "url": "https://www.strategeast.org/?p=3372"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "All four IATI German records are the same programme (phases/accompanying measures). Statements on the stalled status, contract termination and EUR 68.5 million KfW total come from a search summary of arka.am (HTTP 403 on direct fetch) and are therefore not in budget fields. The Kumayri tunnel is named in the StrategEast source. Shirak/Talin hectares are as reported by FIP.am and differ by phase in other press reports."
+ },
+ {
+  "slug": "giz-eu4sevan-plus-sustainable-water-management",
+  "title_en": "Sustainable water management for resilient community development in Armenia (EU4Sevan+; BMZ, GIZ, EU)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "DE-1-202520237"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "EU project PC-60289"
+   ]
+  },
+  "donors": [
+   "BMZ (Germany)",
+   "European Union (co-financing)"
+  ],
+  "implementers": [
+   "GIZ"
+  ],
+  "national_partners": [
+   "Ministry of Territorial Administration and Infrastructure (Water Committee)",
+   "Ministry of Environment"
+  ],
+  "start": "2025-12",
+  "end": "2028-11",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "GIZ page: EU co-financing EUR 3.5 million; financial commitment EUR 6,968,516 for the implementation phase. IATI (BMZ): 8,160,887.5 (currency not stated).",
+  "cofinancing_note": null,
+  "themes": [
+   "water-supply-sanitation",
+   "lake-sevan",
+   "waste-pollution",
+   "policy-capacity",
+   "climate-adaptation"
+  ],
+  "summary_en": "Successor to EU4Sevan. It helps selected municipalities in the extended Lake Sevan catchment provide eco-friendly and climate-friendly water and wastewater services, through policy and legal reform, municipal action plans, pilot decentralised and nature-based wastewater treatment, and training of authorities.",
+  "activities_en": [
+   "Improve policy, legal and financing framework for water and wastewater",
+   "Municipal action plans and investment programmes; pilot decentralised and nature-based wastewater solutions",
+   "Training of authorities in integrated water-body management and basin planning; civil-society and public-awareness work"
+  ],
+  "results_en": [
+   "Field mission (July 2026) evaluated pilot sites in Lechap, Sarukhan and Lusakunk (Gavar and Vardenis municipalities); no system reported built"
+  ],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": "Gavar",
+    "community": null,
+    "settlements": [
+     "Lechap",
+     "Sarukhan",
+     "Lusakunk",
+     "Gavar",
+     "Vardenis"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "EU4Armenia news (Aug 2026): field mission in Gavar and Vardenis municipalities, Lake Sevan basin, evaluating Lechap, Sarukhan and Lusakunk; GIZ: 'selected municipalities in the extended Lake Sevan catchment area'."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "GIZ: Sustainable water management for resilient community development in Armenia",
+    "url": "https://www.giz.de/en/projects/sustainable-water-management-resilient-community-development-armenia"
+   },
+   {
+    "title": "EU4Armenia project page: EU4Sevan+ (PC-60289)",
+    "url": "https://eu4armenia.eu/projects/eu-project-page/?id=3014"
+   },
+   {
+    "title": "EU4Armenia news: EU4Sevan+ field mission, Lechap, Sarukhan, Lusakunk",
+    "url": "https://eu4armenia.eu/?p=61217"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The brief lists this as a KfW project; the IATI record is BMZ's and the implementer is GIZ (technical cooperation), not KfW. End date differs (GIZ: 2028-11; EU page: 2028-08). Pilot sites beyond Lechap, Sarukhan and Lusakunk are not yet named. Vardenis is in Gegharkunik (gazetteer district)."
+ },
+ {
+  "slug": "eu4sevan-environmental-protection-of-lake-sevan",
+  "title_en": "EU4Sevan - Environmental protection of Lake Sevan (EU and BMZ; UNDP and GIZ)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-EC_NEAR-2020-PCC-416204",
+    "XM-DAC-41114-OUTPUT-00123402",
+    "XM-DAC-41114-PROJECT-00129871"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AR-2020-PCC-416204",
+    "UNDP 14-OUTPUT-00123402"
+   ]
+  },
+  "donors": [
+   "European Union",
+   "BMZ (Germany)"
+  ],
+  "implementers": [
+   "UNDP",
+   "GIZ"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Ministry of Territorial Administration and Infrastructure (Water Committee)",
+   "Sevan National Park"
+  ],
+  "start": "2020-09",
+  "end": "2025-04",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "Overall budget EUR 5.7 million (EEAS). IATI: EU contract record 5,551,136; UNDP component 1,102,700 USD.",
+  "cofinancing_note": null,
+  "themes": [
+   "lake-sevan",
+   "water-supply-sanitation",
+   "waste-pollution",
+   "biodiversity-protected-areas",
+   "policy-capacity"
+  ],
+  "summary_en": "Joint EU-BMZ programme implemented by UNDP and GIZ under the Ministry of Environment to improve the protection of Lake Sevan: governance and management framework for the lake ecosystem and Sevan National Park, water monitoring capacity, ecosystem-friendly farming and land use, and wastewater treatment using nature-based solutions.",
+  "activities_en": [
+   "Strengthen water monitoring and management capacity in the Lake Sevan watershed; first River Basin Management Plan for the Sevan basin (supported with EUWI Plus)",
+   "Ecosystem-friendly, water-protecting land use and cultivation",
+   "GIZ feasibility study (Aug 2021-Jan 2022) of centralised, semi-centralised and decentralised wastewater options near the lake; decentralised wastewater plant commissioned at Kindergarten No. 2, Noratus (22 July 2025)",
+   "Awareness raising among basin communities and private sector; COVID-19 fast-track: about 600,000 willow cuttings and fruit trees planted, riverbed waste collected, 750 short-term jobs"
+  ],
+  "results_en": [
+   "Decentralised biological wastewater treatment plant at Noratus kindergarten commissioned (22 July 2025)"
+  ],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "EEAS launch article names Lake Sevan and Gegharkunik; EU4Armenia page: Lake Sevan basin. Riparian planting 'in a number of rivers in Gegharkunik' (search summary of project coverage)."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": "Noratus",
+    "settlements": [
+     "Noratus"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "MTAI Water Committee news (22 July 2025): decentralised biological wastewater treatment plant commissioned at Kindergarten No. 2, Noratus settlement, Gegharkunik province."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "First River Basin Management Plan for the Lake Sevan basin (with EUWI Plus)",
+    "kind": "report",
+    "note": "Mentioned on EU4Armenia project page"
+   },
+   {
+    "name": "Water monitoring and management capacity for the Sevan watershed",
+    "kind": "tool",
+    "note": "UNDP output 3; details not found"
+   }
+  ],
+  "sources": [
+   {
+    "title": "EEAS: EU4Sevan has been officially launched",
+    "url": "https://www.eeas.europa.eu/delegations/armenia/eu4sevan-has-been-officially-launched_en"
+   },
+   {
+    "title": "EU4Armenia project page: Environmental Protection of Lake Sevan - EU4Sevan",
+    "url": "https://eu4armenia.eu/projects/eu-project-page/?id=1512"
+   },
+   {
+    "title": "MTAI Water Committee: decentralised wastewater treatment plant commissioned in Noratus",
+    "url": "https://water.mtad.gov.am/en/articles/նորություններ/decentralised-wastewater-treatment-plant-commissioned-in-noratus-under-the-eseu4sevan-programme"
+   },
+   {
+    "title": "EU4Armenia: workshop on feasibility study for decentralized wastewater treatment around Lake Sevan",
+    "url": "https://eu4armenia.eu/workshop-on-introduction-of-the-results-of-feasibility-study-to-pilot-decentralized-wwt-options-around-lake-sevan/"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Dates differ: EEAS says Sept 2020-Aug 2024, EU4Armenia says completed 31 Mar 2025, IATI UNDP to 2025-10. The UNDP project page (undp.org) returned HTTP 403, so UNDP output-level locations (pilot communities, monitoring sites) were not obtained. The Noratus plant was attributed to EU4Sevan by the article headline; it may belong to the transition to EU4Sevan+ (record giz-eu4sevan-plus-sustainable-water-management)."
+ },
+ {
+  "slug": "undp-gef-lake-sevan-basin-ldn-biodiversity",
+  "title_en": "Conservation and Sustainable Management of Land Resources and High Value Ecosystems in Lake Sevan Basin for Multiple Benefits (UNDP-GEF full-sized project)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41114-OUTPUT-00123413",
+    "XM-DAC-41114-PROJECT-00129882",
+    "XI-BRIDGE-6385676864-10854"
+   ],
+   "wb": null,
+   "gef": "10854",
+   "gcf": null,
+   "other": [
+    "UNDP-GEF PIMS 6586",
+    "UNDP Quantum project 00123413"
+   ]
+  },
+  "donors": [
+   "GEF",
+   "Government of Armenia (co-financing)",
+   "EU4Sevan (parallel co-financing)",
+   "other co-financiers"
+  ],
+  "implementers": [
+   "UNDP (GEF Agency)",
+   "Environmental Project Implementation Unit (EPIU)",
+   "WWF Armenia (responsible party for Sevan National Park monitoring)"
+  ],
+  "national_partners": [
+   "Ministry of Environment (Implementing Partner)",
+   "Sevan National Park",
+   "Local self-government bodies of target communities"
+  ],
+  "start": "2023-11",
+  "end": "2028-11",
+  "status": "active",
+  "budget_usd": 33300394,
+  "budget_original": "Total project cost USD 33,300,394: GEF grant USD 3,598,631 plus USD 29,701,763 co-financing (ProDoc para 264).",
+  "cofinancing_note": null,
+  "themes": [
+   "lake-sevan",
+   "land-degradation-slm",
+   "biodiversity-protected-areas",
+   "pastures-livestock",
+   "forestry",
+   "agriculture-value-chain"
+  ],
+  "summary_en": "GEF-funded project promoting land degradation neutrality and biodiversity conservation in the Lake Sevan basin: LDN targets and integrated spatial land-use plans in six enlarged communities in Gegharkunik and Vayots Dzor, sustainable pasture, forest and farming practices, stronger management of Sevan National Park, and mapping of biodiversity outside the park.",
+  "activities_en": [
+   "LDN trend assessment, targets and monitoring system for Gegharkunik and Vayots Dzor; Integrated Spatial and Land Use Plans (ISLUPs) in six communities",
+   "About 150,000 ha of pastures and grasslands targeted for sustainable management in five of the six communities",
+   "Strengthening of Sevan National Park (147,456 ha) management, patrolling and community outreach; mapping of key biodiversity outside the park",
+   "Nature-positive agriculture demonstrations and forest rehabilitation (incl. sparse juniper/oak forest near Shoghakat and Vardenis and mixed forest in Vayk)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": "Martuni",
+    "community": null,
+    "settlements": [
+     "Martuni",
+     "Vardenis",
+     "Shoghakat"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ProDoc para 69: ISLUPs in six targeted communities: 'Martuni, Vardenis, Shogakat communities (Gegharkunik region)'. Sevan National Park lies in the basin."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": "Vayk",
+    "community": null,
+    "settlements": [
+     "Vayk",
+     "Jermuk",
+     "Yeghegis"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ProDoc para 69: 'Vayk, Jermuk, Yeghegis communities (in Vayots Dzor region)'; forest rehabilitation in Vayk community (1,612.3 ha)."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "LDN indicator mapping results and land degradation trends for Gegharkunik and Vayots Dzor (ProDoc Annex 18)",
+    "kind": "map",
+    "note": "Baseline mapping done during preparation; LDN monitoring system to be developed"
+   },
+   {
+    "name": "Integrated Spatial and Land Use Plans (ISLUPs) for six communities",
+    "kind": "map",
+    "note": "Planned output"
+   },
+   {
+    "name": "Biodiversity mapping outside Sevan National Park (IBAs/KBAs)",
+    "kind": "map",
+    "note": "Planned output"
+   }
+  ],
+  "sources": [
+   {
+    "title": "UNDP-GEF Project Document, Lake Sevan (English)",
+    "url": "https://www.undp.org/sites/g/files/zskgke326/files/2023-12/undp-gef_prodoc_lake_sevan_eng_0.pdf"
+   }
+  ],
+  "confidence": "high",
+  "notes": "ProDoc planned start 15 Nov 2023, end 15 Nov 2028 (IATI: 2023-11 to 2028-10). Sevan-basin sub-regions in the soil assessment: Sevan, Martuni, Chambarak, Gavar, Vardenis, but ISLUP communities are the six named above. IATI GEF row shows USD 3,598,631."
+ },
+ {
+  "slug": "eu4biodiversity-in-sevan",
+  "title_en": "EU4BiodiversityinSevan: Enhancing Lake Sevan Ecosystem Restoration",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41114-OUTPUT-01006030",
+    "XM-DAC-41114-PROJECT-01006030"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "EU project number 700004803"
+   ]
+  },
+  "donors": [
+   "European Union"
+  ],
+  "implementers": [
+   "UNDP"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Sevan National Park"
+  ],
+  "start": "2026-05",
+  "end": "2029-05",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "IATI (UNDP): commitment USD 1,765,688. EU page gives no budget.",
+  "cofinancing_note": null,
+  "themes": [
+   "lake-sevan",
+   "biodiversity-protected-areas",
+   "forestry",
+   "policy-capacity"
+  ],
+  "summary_en": "Three-year EU-funded UNDP project to create conditions for long-term restoration and management of the Lake Sevan ecosystem: governance and institutional capacity, riverbank and riverbed restoration for Sevan trout, forest-cover assessment for the basin, sustainable fisheries and financing of Sevan National Park.",
+  "activities_en": [
+   "Digital tools for biodiversity monitoring and reporting",
+   "Assessment of the industrial fishing value chain and sustainable fisheries management",
+   "Riverbank and riverbed restoration to support Sevan Salmo populations",
+   "Forest cover assessment and revision of forest rehabilitation plans for the Lake Sevan basin",
+   "Financial sustainability of Sevan National Park through recreational development"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "EU4Armenia project page: locations are 'Lake Sevan, its basin, and Sevan National Park, all in Armenia' (Lake Sevan basin lies mainly in Gegharkunik; specific rivers and communities not named)."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Digital tools for biodiversity monitoring; forest cover assessment of the Sevan basin",
+    "kind": "tool",
+    "note": "Planned activities"
+   }
+  ],
+  "sources": [
+   {
+    "title": "EU4Armenia project page: EU4BiodiversityinSevan (700004803)",
+    "url": "https://eu4armenia.eu/projects/eu-project-page/?id=3174"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Presented at COP17 in Yerevan on 22 Oct 2026 (search result; news page returned HTTP 403). No rivers or communities named yet; Gegharkunik is the marz containing the lake (geographic inference, not stated in the source)."
+ },
+ {
+  "slug": "wb-lake-sevan-action-plan-1996",
+  "title_en": "Preparation of an Action Plan to Restore Lake Sevan (World Bank IDF grant)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-WBTF-P044265"
+   ],
+   "wb": "P044265",
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "Lake Sevan Action Program (LSAP)"
+   ]
+  },
+  "donors": [
+   "World Bank (Institutional Development Fund grant)"
+  ],
+  "implementers": [
+   "Government of Armenia (Lake Sevan Commission / Ministry of Nature Protection)"
+  ],
+  "national_partners": [
+   "Ministry of Nature Protection"
+  ],
+  "start": "1995-09",
+  "end": "1998-09",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "IATI: expenditure of USD 484,079 recorded for the trust-fund activity. Grant amount not found in sources opened.",
+  "cofinancing_note": null,
+  "themes": [
+   "lake-sevan",
+   "policy-capacity",
+   "water-irrigation"
+  ],
+  "summary_en": "A World Bank-funded grant helped Armenia prepare the Lake Sevan Action Program (1996-98) for the phased restoration of the lake's ecological balance. The plan led to a dedicated law on Lake Sevan and the Lake Sevan Commission.",
+  "activities_en": [
+   "Preparation of the Lake Sevan Action Program for the Restoration of the Ecological Balance of the Lake",
+   "Proposal to consolidate laws on the lake and its basin into one law"
+  ],
+  "results_en": [
+   "The Law on Lake Sevan was passed by the National Assembly (2001 per Groong; 2002 per other reports)"
+  ],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Lake Sevan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Groong (2003): the Lake Sevan Action Program was created in 1996-98 with World Bank funding; the lake level fell about 19 m after intensive Hrazdan exploitation and is supplied by the Arpa-Sevan tunnel since 1981. Lake Sevan lies in Gegharkunik marz."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Lake Sevan Action Program (1996-98)",
+    "kind": "report",
+    "note": "Full text reportedly hosted by the Water Resources Management Agency (not opened)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Groong: Lake Sevan Action Program and the Sevan law (2003)",
+    "url": "https://groong.org/ro/ro-20030107.html"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Brief record as requested. Funding partners per a WaterWiki search summary: World Bank IDF grant, FAO, Finland, the Netherlands, Sweden and Switzerland (page not opened). WB project page and grant number not found; the Groong article does not mention Gegharkunik (marz inferred from the lake's location)."
+ },
+ {
+  "slug": "adb-lake-sevan-resilience-ta-and-gef-nature-positive",
+  "title_en": "ADB Strengthening Environmental Resilience and Fostering Sustainable Economy for Lake Sevan (TA 10148-ARM) and GEF 'Building Nature-Positive Future for Lake Sevan'",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": "12213",
+   "gcf": null,
+   "other": [
+    "ADB 56031-001 / TA 10148-ARM",
+    "GEF project 12213 (concept approved Mar 2026)"
+   ]
+  },
+  "donors": [
+   "ADB (Strategic Climate Fund, TASF)",
+   "GEF (concept stage)"
+  ],
+  "implementers": [
+   "Asian Development Bank"
+  ],
+  "national_partners": [
+   "Ministry of Environment (executing agency)",
+   "Water Committee, Ministry of Territorial Administration and Infrastructure"
+  ],
+  "start": "2023-10",
+  "end": "2025-12",
+  "status": "completed",
+  "budget_usd": 700000,
+  "budget_original": "TA 10148-ARM: revised amount USD 700,000 (SCF USD 500,000; TASF-other USD 200,000), per the TA completion report. Follow-on GEF 12213 grant USD 1,331,200 (+USD 119,568 fees) with USD 1.4 million ADB TA co-financing; prospective ADB investment about USD 100-120 million not yet approved.",
+  "cofinancing_note": null,
+  "themes": [
+   "lake-sevan",
+   "water-supply-sanitation",
+   "waste-pollution",
+   "climate-adaptation",
+   "policy-capacity"
+  ],
+  "summary_en": "ADB technical assistance (2023-2025) prepared climate-resilient development planning for Lake Sevan, including a spatial and zoning evaluation of the Sevan National Park recreation zone, pipeline investment scenarios for wastewater treatment in Gavar, Martuni and Vardenis, and a preliminary design of sewerage network expansion in selected Gegharkunik communities. A GEF project (concept approved March 2026) is preparing a larger ADB investment.",
+  "activities_en": [
+   "Policy and institutional reform report, sustainable tourism potential and zoning recommendations, harmonised construction guidelines for the Sevan National Park recreational zone",
+   "Pipeline projects report on wastewater treatment and sewerage for Gavar, Martuni and Vardenis; financial sustainability analysis for decentralised sanitation",
+   "Working paper 'Resilience for Lake Sevan: Leveraging the Economic Value of Armenia's Most Vital Ecosystem'",
+   "Preliminary design of sewerage network expansion in selected Gegharkunik communities (added Dec 2024)"
+  ],
+  "results_en": [
+   "TA completed 31 Dec 2025; completion report September 2026"
+  ],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Gavar",
+     "Martuni",
+     "Vardenis"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ADB TA completion report: scenarios for wastewater treatment and sewerage for the Gegharkunik communities, including the towns of Vardenis, Martuni and Gavar; preliminary sewerage design in selected communities of Gegharkunik province."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Spatial Evaluation and Zoning Recommendations for the recreational zone of Sevan National Park",
+    "kind": "report",
+    "note": "ADB TA deliverable (accepted by MOE, Feb 2025)"
+   },
+   {
+    "name": "Pipeline Projects Report: wastewater investment scenarios for Gavar, Martuni, Vardenis",
+    "kind": "report",
+    "note": "ADB TA deliverable"
+   }
+  ],
+  "sources": [
+   {
+    "title": "ADB TA Completion Report 56031-001, Lake Sevan (September 2026)",
+    "url": "https://www.adb.org/sites/default/files/project-documents/56031/56031-001-tcr-1178531-en.pdf"
+   },
+   {
+    "title": "GEF project 12213: Building Nature-Positive Future for Lake Sevan",
+    "url": "https://www.thegef.org/projects-operations/projects/12213"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Not in IATI extract (no row found). Added as the current ADB Armenia water-related programme. The press item of 1 July 2026 that Armenia approved a 'Lake Sevan Basin Wastewater Management' project with three-stage treatment-plant modernisation comes from a search summary and was not opened."
+ },
+ {
+  "slug": "adb-water-supply-and-sanitation-sector-project",
+  "title_en": "ADB Water Supply and Sanitation Sector Project (Loan 2363-ARM) and Additional Financing (Loan 2860-ARM)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-46004-40296-013-LN2363",
+    "XM-DAC-46004-45299-001-LN2860"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "ADB 40296-013",
+    "ADB 45299-001",
+    "Loan 2363-ARM (SF)",
+    "Loan 2860-ARM (SF)"
+   ]
+  },
+  "donors": [
+   "Asian Development Bank"
+  ],
+  "implementers": [
+   "Armenia Water and Sewerage Company (AWSC)",
+   "State Committee on Water Systems (SCWS)"
+  ],
+  "national_partners": [
+   "State Committee on Water Systems",
+   "Ministry of Territorial Administration"
+  ],
+  "start": "2007-12",
+  "end": "2018-01",
+  "status": "completed",
+  "budget_usd": 76000000,
+  "budget_original": "Loan 2363: US$36 million (total project about US$45 million); Additional Financing Loan 2860: US$40 million (ADB). IATI commitments 36,000,000 and 40,000,000.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-supply-sanitation",
+   "rural-community-development"
+  ],
+  "summary_en": "Two ADB loans rehabilitated water supply and some sanitation systems of small towns and villages served by the Armenia Water and Sewerage Company outside Yerevan, improving water supply hours and metering. ADB reports 21 small towns and 97 villages rehabilitated; the Additional Financing subprojects included Echmiadzin and nearby villages, Talin, Noyemberyan and Kapan.",
+  "activities_en": [
+   "Rehabilitation of water supply networks, pumping and storage in small towns and villages under AWSC",
+   "Additional Financing subprojects: Echmiadzin town with villages of Armavir and Aragatsotn marzes; Talin town; Noyemberyan town; Kapan town and Achanan village (Syunik)",
+   "Institutional support to AWSC and metering"
+  ],
+  "results_en": [
+   "Average water supply rose from 6 to 14 hours a day; bill payment rose from 48 to 90 percent; metered connections from 40 to 77 percent (ADB results page)",
+   "More than 600,000 people benefited, about a quarter poor (ADB results page)"
+  ],
+  "locations": [
+   {
+    "marz": "Armavir",
+    "district": "Vagharshapat",
+    "community": null,
+    "settlements": [
+     "Echmiadzin",
+     "Lernamerdz",
+     "Amberd",
+     "Aygeshat",
+     "Dasht",
+     "Doghs",
+     "Musaler",
+     "Shahumyan",
+     "Norakert",
+     "Houshakert",
+     "Aghavnatun",
+     "Ptghunk"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ADB IEE (Loan 2860 Subproject I): water supply improvements in Echmiadzin town and Lernamerdz, Amberd, Aygeshat, Dasht, Doghs, Musaler, Shahumyan, Norakert, Houshakert, Aghavnatun, Ptghunk villages of Armavir marz."
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": "Talin",
+    "community": null,
+    "settlements": [
+     "Voskevaz",
+     "Voskehat",
+     "Oshakan",
+     "Talin"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ADB IEE Subproject I: Voskevaz, Voskehat and Oshakan villages of Aragatsotn marz; Loan 2860 EMP: Improvement of Water Supply Systems in Talin Town."
+   },
+   {
+    "marz": "Tavush",
+    "district": "Noyemberyan",
+    "community": null,
+    "settlements": [
+     "Noyemberyan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Loan 2860 EMP (Jan 2014): Improvement of Water Supply Systems in Noyemberyan Town."
+   },
+   {
+    "marz": "Syunik",
+    "district": "Kapan",
+    "community": null,
+    "settlements": [
+     "Kapan",
+     "Achanan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "Loan 2860 EMP (Mar 2014): Improvement of Water Supply Systems in Kapan Town and Syunik, Achanan Villages."
+   },
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Artashat"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ADB results page: Artashat named as an example rehabilitated small town."
+   },
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "ADB news release 2 Nov 2007: base loan covered 16 towns and 125 villages in seven provinces (not named); ADB results page: 21 small towns and 97 villages in total."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "ADB Loan Agreement 2363-ARM (SF), 18 December 2007",
+    "url": "https://www.adb.org/sites/default/files/project-documents//40296-arm-sfj.pdf"
+   },
+   {
+    "title": "ADB IEE, Loan 2860 Subproject I (Echmiadzin etc.)",
+    "url": "https://www.adb.org/sites/default/files/project-documents//45299-001-arm-iee-01.pdf"
+   },
+   {
+    "title": "ADB EMP, Loan 2860: Kapan and Achanan",
+    "url": "https://www.adb.org/sites/default/files/project-documents//45299-001-emp-08.pdf"
+   },
+   {
+    "title": "ADB EMP, Loan 2860: Noyemberyan",
+    "url": "https://www.adb.org/sites/default/files/project-documents//45299-001-emp-01.pdf"
+   },
+   {
+    "title": "ADB EMP, Loan 2860: Talin",
+    "url": "https://www.adb.org/sites/default/files/project-documents//45299-001-emp-02-0.pdf"
+   },
+   {
+    "title": "ADB results: Providing clean, safe water to Armenians",
+    "url": "https://www.adb.org/results/providing-clean-safe-water-armenians"
+   },
+   {
+    "title": "ADB news release 2 Nov 2007: US$36M loan",
+    "url": "https://www.adb.org/news/adb-approves-36m-loan-improve-water-supply-sanitation-armenia"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Base-loan town list was not found (completion report not opened); only the Additional Financing subprojects are listed. A 'Second Water Supply and Sanitation Sector Project' (ADB 49384-002, US$55 million, Yerevan/Ararat/Armavir/Aragatsotn) appears in a third-party database with status 'Proposed' (last updated 2019); no sign it was approved, so it is not recorded as a project. The ADB loan to the road and water sectors (US$49 million, 2014) is a different programme not in this group."
+ },
+ {
+  "slug": "adb-sevan-hrazdan-cascade-hydropower-rehabilitation",
+  "title_en": "ADB Sevan-Hrazdan Cascade Hydropower System Rehabilitation Project (Loan 2996)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-46004-46941-014-LN2996"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "ADB 46941-014"
+   ]
+  },
+  "donors": [
+   "Asian Development Bank (private sector loan)"
+  ],
+  "implementers": [
+   "International Energy Corporation (IEC), RusHydro subsidiary"
+  ],
+  "national_partners": [],
+  "start": "2013-05",
+  "end": "2020-03",
+  "status": "completed",
+  "budget_usd": 25000000,
+  "budget_original": "ADB private sector loan US$25 million (ADB results page; IATI commitment 25,000,000).",
+  "cofinancing_note": null,
+  "themes": [
+   "climate-mitigation-energy",
+   "water-irrigation",
+   "lake-sevan"
+  ],
+  "summary_en": "A US$25 million ADB private sector loan helped rehabilitate and modernise four hydropower plants of the Sevan-Hrazdan cascade, which runs along the Hrazdan River from Lake Sevan to Yerevan, restoring 45 MW of capacity. The cascade uses Lake Sevan outflow and so interacts with lake-level management.",
+  "activities_en": [
+   "Rehabilitation and modernisation of four hydropower plants of the cascade",
+   "Plugging leaks in diversion channels (press)"
+  ],
+  "results_en": [
+   "45 MW of generation capacity restored; improved safety and reliability (ADB results page)"
+  ],
+  "locations": [
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Ecolur (24 May 2013): the Sevan-Hrazdan cascade of seven plants 'runs along the Hrazdan River from Lake Sevan to Yerevan'. Marz placement by river course (author inference); individual plant sites not confirmed in sources opened."
+   },
+   {
+    "marz": "Kotayk",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source; Hrazdan river course between Lake Sevan and Yerevan passes through Kotayk (author inference)."
+   },
+   {
+    "marz": "Yerevan",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Same source; cascade ends at Yerevan."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "ADB results: Supporting Armenia's journey to sustainable energy",
+    "url": "https://www.adb.org/results/supporting-armenia-s-journey-sustainable-energy"
+   },
+   {
+    "title": "Ecolur: ADB allotting US$25 million loan for Sevan-Hrazdan cascade rehabilitation",
+    "url": "https://www.ecolur.org/en/news/electionspoliticsecology/4896/"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Energy rather than water supply, included because of the Lake Sevan water-use link. IATI record shows spend 0 and loan repaid 2020 per press. Marz placement is an inference from the river's course; seven vs four plants differ between sources."
+ },
+ {
+  "slug": "adb-arm-swap-aquaculture-water-reuse-ararat-valley",
+  "title_en": "ADB Sustainable Water Use Assessment for Productivity Enhancement (ARM-SWAP)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "ADB 58515-001"
+   ]
+  },
+  "donors": [
+   "Asian Development Bank (technical assistance)"
+  ],
+  "implementers": [
+   "Asian Development Bank"
+  ],
+  "national_partners": [
+   "Water Committee of Armenia (implementing agency)"
+  ],
+  "start": "2024-12",
+  "end": null,
+  "status": "active",
+  "budget_usd": 230000,
+  "budget_original": "USD 0.23 million (ADB technical assistance, per Early Warning System database).",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "climate-adaptation",
+   "policy-capacity"
+  ],
+  "summary_en": "Small ADB technical assistance (approved December 2024) assessing whether water discharged from aquaculture can be reused for irrigation in the Ararat Valley: water accounting, productivity, technical feasibility, governance and sustainability.",
+  "activities_en": [
+   "Water accounting and productivity assessment; feasibility of reusing discharged aquaculture water for irrigation",
+   "Governance framework and socio-economic and environmental sustainability review"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "Rights in Development EWS database: specific location is the Ararat Valley catchment area; over 200 aquaculture sites in the Ararat Valley use more than 30 million m3 of water per year and discharge to the Araks river."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Rights in Development EWS: ARM-SWAP (ADB-58515-001)",
+    "url": "https://ewsdata.rightsindevelopment.org/projects/58515-001-sustainable-water-use-assessment-for-productivity"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Only a third-party database page (mirroring ADB disclosure) was opened; adb.org returned HTTP 403. The Ararat Valley spans Ararat and Armavir marzes; the page names the catchment only, so Ararat is used as the nearest marz. ADB's Climate-Adaptive Food Security Enhancement Project (57088-001) and a 2024 USD 3 million climate-agriculture grant were seen in search results but are agriculture-focused and not recorded here."
+ },
+ {
+  "slug": "edb-efsd-irrigation-system-modernization-project",
+  "title_en": "Irrigation System Modernization Project (Eurasian Fund for Stabilization and Development / Eurasian Development Bank) and WB-administered preparation grant",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-WBTF-P147919"
+   ],
+   "wb": "P147919",
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "ECAPDEV Grant TF017003",
+    "EFSD soft loan USD 40 million (2015)"
+   ]
+  },
+  "donors": [
+   "Eurasian Fund for Stabilization and Development (managed by the Eurasian Development Bank)",
+   "Government of Armenia",
+   "World Bank ECAPDEV Trust Fund (preparation grant, Russian-funded)"
+  ],
+  "implementers": [
+   "Water Sector Projects Implementation Unit (PIU)"
+  ],
+  "national_partners": [
+   "Ministry of Territorial Administration",
+   "Water Supply Agency",
+   "Water User Associations"
+  ],
+  "start": "2014-05",
+  "end": null,
+  "status": "completed",
+  "budget_usd": 50000000,
+  "budget_original": "Total project cost USD 50 million: EFSD soft loan USD 40 million plus Armenian co-financing USD 10 million (EDB press release July 2015). Preparation grant ECAPDEV TF017003: USD 495,000.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "policy-capacity"
+  ],
+  "summary_en": "A USD 40 million EFSD (EDB-managed) soft loan financed a five-year project to build or restore eight gravity irrigation systems and improve Water User Association management. The World Bank administered a USD 495,000 grant (2014-2015) that prepared the feasibility study, safeguards framework and WUA capacity studies.",
+  "activities_en": [
+   "Build or restore eight gravity irrigation systems totalling 70.4 km (8.1 km main canals, 54.1 km inter-farm canals, 277.8 km on-farm canals)",
+   "Strengthen WUA responsibility and management",
+   "Preparation grant: feasibility study, ESMF, WUA institutional and technical capability studies, additional project documents"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "EDB press release (July 2015): 'The project covers Armenia as a whole'; no marzes or specific irrigation systems named. World Bank audit report of the preparation grant: Irrigation Systems Modernization Project, Armenia."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Feasibility study and ESMF for the Irrigation Systems Modernization Project",
+    "kind": "report",
+    "note": "Prepared with the ECAPDEV grant (audit report)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "EDB/EFSD press release: negotiations on USD 40 million investment credit (July 2015)",
+    "url": "https://eabr.org/en/press/news/the-eurasian-stabilisation-and-development-fund-and-the-government-of-armenia-negotiate-an-investmen"
+   },
+   {
+    "title": "Audit report, ECAPDEV Grant TF017003 (World Bank)",
+    "url": "http://documents.worldbank.org/curated/en/165081467992024315/pdf/AM-ECAPDEV-TF17003-AR-2014-15.pdf"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Which eight systems and which marzes were built could not be found. Loan terms and signing date (reported as 16 Oct 2015 in search results) were not confirmed from a page opened. Status 'completed' is assumed from the planned five-year duration and a World Bank Active tag on the preparation grant, not from a completion report. EDB funding for this project is channelled via the EFSD (EDB is the manager)."
+ },
+ {
+  "slug": "edb-efsd-mastara-reservoir",
+  "title_en": "Mastara Reservoir (Eurasian Fund for Stabilization and Development / EDB) - World Bank preparation grant",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-WBTF-P158899"
+   ],
+   "wb": "P158899",
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "Grant TF0A2706 (ECAPDEV)"
+   ]
+  },
+  "donors": [
+   "World Bank ECAPDEV Trust Fund (preparation grant)",
+   "Eurasian Fund for Stabilization and Development (intended construction financier)"
+  ],
+  "implementers": [
+   "Water Sector Projects Implementation Unit State Agency"
+  ],
+  "national_partners": [
+   "Ministry of Territorial Administration and Infrastructure",
+   "Water User Associations (Armavir canal system)"
+  ],
+  "start": "2016-09",
+  "end": "2019-07",
+  "status": "completed",
+  "budget_usd": 670000,
+  "budget_original": "Preparation grant about USD 0.67 million (World Bank data). Construction financing not confirmed: an EFSD project page reportedly lists USD 48 million approved in 2024, but the page could not be read.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "climate-adaptation"
+  ],
+  "summary_en": "World Bank-administered grant prepared the Mastara reservoir on the Selav-Mastara river in Armavir marz: feasibility study, environmental and social impact assessment and resettlement plan, for later construction by the EFSD/EDB. The reservoir would add storage for the Armavir irrigation canal system and replace pumping with gravity supply.",
+  "activities_en": [
+   "Feasibility study and preliminary design (reservoir about 10.2 million m3, dam about 30 m, concept stage)",
+   "Environmental and Social Impact Assessment (2018) and preliminary Resettlement Action Plan (Feb 2019)",
+   "Training of the Water Sector Projects Implementation Unit"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Armavir",
+    "district": null,
+    "community": "Dalarik",
+    "settlements": [
+     "Dalarik",
+     "Lernagog"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "ESIA: 'construct Mastara reservoir in Armavir Marz, in the bed of Selav Mastara River, 4 km north to Armavir canal, on administrative areas of Dalarik and Lernagog communities'."
+   },
+   {
+    "marz": "Armavir",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Myasnikyan",
+     "Khanjyan",
+     "Lukashin",
+     "Hatsik",
+     "Norapat",
+     "Noravan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "ESIA/PID: reservoir would supply water to Myasnikyan, Khanjyan, Lukashin, Hatsik, Norapat and Noravan communities (about 4,400 water users, about 4,384 ha, two WUAs)."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Mastara Reservoir feasibility study, ESIA and preliminary Resettlement Action Plan",
+    "kind": "report",
+    "note": "Disclosed on World Bank documents portal (2018-2019)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "World Bank PID (Concept Stage), Mastara Reservoir Preparation (P158899)",
+    "url": "http://documents.worldbank.org/curated/en/805731468005088312/pdf/PIDC53947.pdf"
+   },
+   {
+    "title": "Mastara Reservoir Preparation Project: Environmental and Social Impact Assessment (2018)",
+    "url": "http://documents.worldbank.org/curated/en/353051567757236709/pdf/Environmental-and-Social-Impact-Assessment.pdf"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The search suggested one source placing Mastara in Aragatsotn; the ESIA clearly places it in Armavir marz (Dalarik/Lernagog communities), which is used. Current construction status is unclear (a government report says the procedure is being coordinated with a financing organisation)."
+ },
+ {
+  "slug": "usaid-improved-water-management-sustainable-economic-growth",
+  "title_en": "USAID Armenia Improved Water Management for Sustainable Economic Growth Program",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-GOV-1-72011122C00001"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "Contract 72011122C00001"
+   ]
+  },
+  "donors": [
+   "USAID"
+  ],
+  "implementers": [
+   "Deloitte Consulting LLP"
+  ],
+  "national_partners": [
+   "Ministry of Environment",
+   "Water Committee"
+  ],
+  "start": "2022-07",
+  "end": "2027-07",
+  "status": "active",
+  "budget_usd": 5944381,
+  "budget_original": "IATI commitment USD 5,944,381 (spend USD 5,320,733). Press at launch (arka.am, not opened): USD 8.9 million over five years.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "policy-capacity",
+   "water-supply-sanitation",
+   "climate-adaptation"
+  ],
+  "summary_en": "Five-year USAID programme to change how Armenia manages water: advanced analytical tools and data for water allocation, governance reform, promotion of water-conservation practices and technologies, access to water and preparation for regional cooperation.",
+  "activities_en": [
+   "Apply advanced technologies and tools for sustainable water management; strengthen data-driven allocation decisions in the Ministry of Environment",
+   "Improve water governance",
+   "Demonstrate water conservation technologies; improve access to water (launch coverage: drinking and irrigation water for about 20,000 residents, model networks, meters and modernisation of 10 observation points)",
+   "Political economy analysis of the water sector (AUA Acopian Center, 2023-24); technical support for the Southern basin management plan"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "AUA Acopian Center page: programme launched 2022, five years, no regions or basins named; IATI description: 'communities across the country' face water availability issues."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "AUA Acopian Center: Political Economy Analysis for Improved Water Management in Armenia",
+    "url": "https://ace.aua.am/projects/political-economy-analysis-for-improved-water-management-in-armenia/"
+   }
+  ],
+  "confidence": "low",
+  "notes": "No pilot communities or regions were found in the sources opened; launch coverage mentioned 'border regions' (search summary of arka.am, not opened). Southern Water Basin plan support is mentioned in a 2024 terms-of-reference (search result). Should be refreshed from USAID/Deloitte reports."
+ },
+ {
+  "slug": "usaid-pure-water-ararat-valley",
+  "title_en": "USAID Participatory Utilization and Resource Efficiency of Water (PURE-Water) Activity",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-GOV-1-AID-111-A-17-00005"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "RFA-111-16-000004"
+   ]
+  },
+  "donors": [
+   "USAID",
+   "Coca-Cola Hellenic Bottling Company Armenia (outreach partner)"
+  ],
+  "implementers": [
+   "Urban Foundation for Sustainable Development (UFSD)"
+  ],
+  "national_partners": [
+   "Ministry of Nature Protection / Ministry of Environment",
+   "Water User Associations of the Ararat Valley"
+  ],
+  "start": "2017-03",
+  "end": "2020-06",
+  "status": "completed",
+  "budget_usd": 1042635,
+  "budget_original": "IATI commitment USD 1,042,635.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "policy-capacity",
+   "rural-community-development"
+  ],
+  "summary_en": "A USAID civic-engagement activity to reduce groundwater abstraction in the Ararat Valley and raise water productivity and efficiency through public awareness, citizen participation in oversight of water management, and small-scale infrastructure. A 2018 partnership with Coca-Cola Hellenic Armenia ran outreach for Ararat Valley residents.",
+  "activities_en": [
+   "Public awareness campaigns and citizen participation in water-resource oversight; policy and regulatory improvements for responsible water use",
+   "Design of small-scale infrastructure projects",
+   "Survey and stakeholder analysis of water usage in Ararat Valley communities (2017)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "PAN.am (18 July 2018): PURE Water covers the Ararat Valley, including the Ararat and Armavir provinces, where about 30 communities lack reliable drinking or irrigation water."
+   },
+   {
+    "marz": "Armavir",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "PAN.am (18 July 2018): Ararat Valley including Ararat and Armavir provinces."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Online platform tracking water usage and WUA-issued permits; smart-metering pilot for irrigation",
+    "kind": "tool",
+    "note": "Reported in search coverage of PURE-Water (not opened); verify before use"
+   }
+  ],
+  "sources": [
+   {
+    "title": "PAN.am: USAID and Coca-Cola Hellenic Armenia continue partnering to address water stewardship in the Ararat Valley",
+    "url": "https://www.pan.am/en/258051"
+   },
+   {
+    "title": "Terms of reference for Ararat Valley water-usage survey (UFSD, PURE-Water)",
+    "url": "https://hkdepo.am/en/opportunity/terms-of-reference-for-conducting-survey-and-stakeholder-analysis-related-to-water-usage-in-ararat-valley-april-2017"
+   },
+   {
+    "title": "Urban Foundation: PURE-Water one-pager",
+    "url": "https://issuu.com/urbanfoundation/docs/pure_water_one-pager_eng"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The Hayanist village (Ararat) irrigation rehabilitation in the PAN.am article belongs to the earlier USAID-Coca-Cola partnership, not PURE-Water itself. The list of about 30 communities was in an attachment that could not be read. The Medium/USAID stories on PURE-Water returned HTTP 403."
+ },
+ {
+  "slug": "usaid-aspired-ararat-valley-groundwater",
+  "title_en": "USAID Advanced Science and Partnerships for Integrated Resource Development (ASPIRED)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-GOV-1-AID-111-TO-15-00001"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "WADI task order"
+   ]
+  },
+  "donors": [
+   "USAID"
+  ],
+  "implementers": [
+   "ME&A (Mendez England & Associates)",
+   "US Geological Survey (technical partner)"
+  ],
+  "national_partners": [
+   "Ministry of Nature Protection / Ministry of Environment",
+   "Water Resources Management Agency",
+   "Fish farms of the Ararat Valley"
+  ],
+  "start": "2014-08",
+  "end": "2022-09",
+  "status": "completed",
+  "budget_usd": 5591627,
+  "budget_original": "IATI commitment USD 5,591,627 (covers the whole IATI task order 2014-2022; ME&A page gives a 42-month implementation from Sept 2015).",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "climate-adaptation",
+   "policy-capacity"
+  ],
+  "summary_en": "USAID activity to reduce groundwater extraction in the Ararat Valley to sustainable levels through science, technology and partnerships. It piloted water-conservation technologies on fish farms and built groundwater tools with the US Geological Survey for the Ararat Basin.",
+  "activities_en": [
+   "Pilot water-conservation technologies at fish farms (flow meters and data loggers on 19 water-use points at four fisheries, per search coverage)",
+   "USGS characterisation of the Ararat Basin hydrogeological framework and design of a groundwater monitoring network",
+   "Science-based tools: groundwater model, decision support system for the Ararat Valley catchment, online groundwater use monitoring (IATI description)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "ME&A project page and USGS page: work in the Ararat Valley (Ararat Basin), a transboundary basin shared with Turkey; no marzes or communities named. The Ararat Valley spans Ararat and Armavir marzes."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Ararat Valley groundwater model and 3D lithologic (Arc Hydro) model",
+    "kind": "dataset",
+    "note": "IATI description lists groundwater model; 3D model per search coverage"
+   },
+   {
+    "name": "Decision Support System for the Ararat Valley catchment area",
+    "kind": "tool",
+    "note": "IATI description"
+   },
+   {
+    "name": "Online groundwater use monitoring system",
+    "kind": "tool",
+    "note": "IATI description"
+   },
+   {
+    "name": "USGS report on hydrogeologic framework and groundwater conditions of the Ararat Valley (2018)",
+    "kind": "report",
+    "note": "USGS Dakota Water Science Center"
+   }
+  ],
+  "sources": [
+   {
+    "title": "ME&A: ASPIRED project page",
+    "url": "https://mendezengland.com/site/index.php/projects/advanced-science-partnerships-for-integrated-resource-development"
+   },
+   {
+    "title": "USGS: Armenia - Building Groundwater Management Capacity for the Ararat Valley",
+    "url": "https://www.usgs.gov/centers/dakota-water/science/armenia-building-groundwater-management-capacity-ararat-valley"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "ME&A's page does not name the data products; they come from the IATI description. No marz/community detail beyond the Ararat Valley found. Armavir marz also lies in the valley and the Metsamor nuclear plant cooling-water link is cited in IATI."
+ },
+ {
+  "slug": "usaid-clean-energy-and-water-program",
+  "title_en": "USAID Clean Energy and Water Program (CEWP)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "US-GOV-1-AID-111-TO-11-00001"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "Water II IQC task order"
+   ]
+  },
+  "donors": [
+   "USAID"
+  ],
+  "implementers": [
+   "ME&A (Mendez England & Associates)"
+  ],
+  "national_partners": [
+   "Ministry of Nature Protection",
+   "Water Resources Management Agency"
+  ],
+  "start": "2011-09",
+  "end": "2015-09",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "IATI commitment USD 2,952,455 against spend USD 4,499,036 (inconsistent; IATI start date 2005 looks wrong). Press reports about USD 5.6 million (not opened).",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "climate-mitigation-energy",
+   "policy-capacity",
+   "rural-community-development"
+  ],
+  "summary_en": "USAID programme (fall 2011 to September 2015) giving technical support for integrated energy and water planning at sub-basin level, advising on hydropower and water regulation and running small community-level pilots. It produced basin management plans for the Vorotan, Voghji and Meghriget rivers (Southern basin).",
+  "activities_en": [
+   "Technical assistance for integrated energy and water planning; basin management plan for the Southern basin",
+   "Biological monitoring in the Vorotan river basin",
+   "Community pilots: solar and heating at Darbas polyclinic, LED street lighting in Armavir region, solar energy for an orphanage, a rural water project"
+  ],
+  "results_en": [
+   "Basin management plan for the Vorotan, Voghji and Meghriget basins, later adopted by the government (search coverage; ME&A news)"
+  ],
+  "locations": [
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Darbas"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "ME&A project page: Vorotan river basin, Syunik region, southern Armenia; Darbas polyclinics."
+   },
+   {
+    "marz": "Armavir",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "ME&A project page: LED street lighting in the Armavir region."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Southern Basin Management Plan (Vorotan, Voghji, Meghriget)",
+    "kind": "report",
+    "note": "Later updated 2022 (UNDP-GCF NAP) and 2025-2030 per search coverage"
+   }
+  ],
+  "sources": [
+   {
+    "title": "ME&A: Armenia Clean Energy and Water Program (CEWP)",
+    "url": "https://mendezengland.com/site/index.php/projects/armenia-clean-energy-and-water-program-cew"
+   }
+  ],
+  "confidence": "low",
+  "notes": "IATI dates (2005-2015) conflict with ME&A (start fall 2011). ASPIRED was the follow-on. Basin plan details come from search summaries."
+ },
+ {
+  "slug": "undp-low-carbon-irrigation-lori-shirak",
+  "title_en": "UNDP Transition to low carbon irrigation technologies for increased productivity, food security and enhanced livelihoods in Lori and Shirak regions of Armenia",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41114-OUTPUT-01000345",
+    "XM-DAC-41114-PROJECT-01000345"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "UNDP ITB 095/23"
+   ]
+  },
+  "donors": [
+   "Government of Japan (per UNDP Armenia post, search coverage)"
+  ],
+  "implementers": [
+   "UNDP"
+  ],
+  "national_partners": [
+   "Ministry of Territorial Administration and Infrastructure",
+   "Water Supply Agency",
+   "Water User Associations"
+  ],
+  "start": "2023-04",
+  "end": "2024-12",
+  "status": "completed",
+  "budget_usd": 1017839,
+  "budget_original": "IATI commitment and spend USD 1,017,839.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "climate-mitigation-energy",
+   "agriculture-value-chain"
+  ],
+  "summary_en": "UNDP project (Japan-funded) installing energy-efficient pumps and, per UNDP reports, solar photovoltaic plants at three irrigation pumping stations in Lori and Shirak to cut energy use and expand irrigated land. It supports Armenia's NDC on emissions from irrigated agriculture.",
+  "activities_en": [
+   "Supply and installation of energy-efficient centrifugal pumps at Ayrum-Chochkan, Chochkan (two-stage) and Benyamin pumping stations (ITB 095/23, Sept 2023)",
+   "Passportization (inventory) of the irrigation pipe network under the three stations",
+   "Grid-connected photovoltaic plants at the stations (UNDP press releases, search coverage)"
+  ],
+  "results_en": [
+   "UNDP-reported (July 2024, not independently verified): energy cost down 90 percent at the Lori stations and irrigation water cost price down 41 percent; irrigated area at Lori stations up from 1,900 ha by 200 ha"
+  ],
+  "locations": [
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Chochkan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "UNGM tender ITB 095/23: pumps for 'Ayrum-Chochkan' and 'Chochkan' two-stage pumping stations operating in Lori region."
+   },
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Benyamin"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "UNGM tender ITB 095/23: 'Benyamin' pumping station operating in Shirak region."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Passport (inventory) of the irrigation pipe network of the three pumping stations",
+    "kind": "dataset",
+    "note": "Presented at a UNDP meeting (LinkedIn post, search coverage)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "UNGM notice ITB 095/23: energy-efficient pumps for Ayrum-Chochkan, Chochkan and Benyamin pumping stations",
+    "url": "https://www.ungm.org/Public/Notice/215154"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "UNDP press release pages (undp.org/armenia/press-releases/area-irrigated-lands-shirak-and-lori-regions-will-increase-within-framework-new-undp-project and .../visit-irrigation-pumping-stations-lori-region-funded-government-japan) returned HTTP 403, so donor, results and 450 kW solar details come from search-result summaries of those pages and are unverified. The ITB places Chochkan stations in Lori; communities served were not found."
+ },
+ {
+  "slug": "undp-reservoir-management-climate-risk-resilience",
+  "title_en": "UNDP Improving water reservoir management capabilities of Armenia for resilience to climate risks",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-41114-OUTPUT-01003643",
+    "XM-DAC-41114-PROJECT-01003643"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Government of Japan (per UNDP page, search coverage)"
+  ],
+  "implementers": [
+   "UNDP"
+  ],
+  "national_partners": [
+   "Water Committee, Ministry of Territorial Administration and Infrastructure",
+   "Ministry of Emergency Situations"
+  ],
+  "start": "2025-03",
+  "end": "2026-04",
+  "status": "active",
+  "budget_usd": 1003146,
+  "budget_original": "IATI commitment USD 1,003,146 (spend USD 1,002,640).",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "disaster-risk",
+   "climate-adaptation"
+  ],
+  "summary_en": "UNDP project supporting modernisation of Armenia's reservoir management and the resilience of downstream communities: dam safety, hydrological and flow monitoring, early warning and emergency preparedness, and renewable energy at reservoirs. UNDP coverage names the Aparan, Azat and Metsavan reservoirs.",
+  "activities_en": [
+   "Modern hydrometeorological monitoring systems and solar power at the Aparan, Azat and Metsavan reservoirs",
+   "Warning sirens and engineering-geological and geophysical studies at the Azat reservoir",
+   "GIS-based hazard and inundation maps for downstream populations; scenario-based simulation exercise (workshop March 2026 with local administrations in Aparan, Ashtarak, Tashir and Masis)"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Aragatsotn",
+    "district": "Aparan",
+    "community": null,
+    "settlements": [
+     "Aparan",
+     "Ashtarak"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "UNDP coverage (search summary): Aparan reservoir; March 2026 workshop with local administrations in Aparan and Ashtarak."
+   },
+   {
+    "marz": "Ararat",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Azat reservoir",
+     "Masis"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "UNDP coverage (search summary): Azat reservoir; workshop with Masis administration. Azat reservoir is in Ararat marz (geographic inference, not stated in the source)."
+   },
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Tashir"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "UNDP coverage (search summary): workshop with the Tashir local administration."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "GIS-based hazard and inundation maps for populations downstream of reservoirs",
+    "kind": "map",
+    "note": "Stated as planned/under development by UNDP; not verified"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Job posting: Consultant on Water Management and Dam Safety, UNDP Armenia (2025)",
+    "url": "https://www.joshswaterjobs.com/jobs/323228"
+   }
+  ],
+  "confidence": "low",
+  "notes": "UNDP pages (undp.org/armenia/news/improving-water-reservoir-management-capabilities-climate-risk-resilience) returned HTTP 403; reservoir names, donor and map details come from search-result summaries of those pages. Metsavan reservoir's marz was not determined. The job posting confirms the project and its 2025 timeline but names no reservoirs."
+ },
+ {
+  "slug": "undp-water-and-ocean-governance-programme-sweden",
+  "title_en": "UNDP Water and Ocean Governance Programme (Sweden-funded global programme; IATI record tagged to Armenia)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "SE-0-SE-6-61050034",
+    "SE-0-SE-6-61050034-6105003402"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Sweden (Sida)"
+  ],
+  "implementers": [
+   "UNDP (Cap-Net and water governance programme)"
+  ],
+  "national_partners": [],
+  "start": "2014-06",
+  "end": "2022-04",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "IATI (Sweden): commitment 8,228,561 on the 2018-onwards activity (currency and Armenia share not stated).",
+  "cofinancing_note": null,
+  "themes": [
+   "policy-capacity",
+   "water-irrigation"
+  ],
+  "summary_en": "Global UNDP programme funded by Sweden to improve water governance, capacities and water-resources management policy. The IATI records are listed under Armenia but no Armenia-specific activity, location or budget share was found.",
+  "activities_en": [
+   "Global water governance and capacity development support (UNDP / Cap-Net); no Armenian activities identified"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": null,
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "national",
+    "evidence": "IATI record lists Armenia; no Armenian activity or place found in any source opened (Water Action Decade programme page does not mention Armenia)."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Water Action Decade: The Water and Ocean Governance Program (UNDP)",
+    "url": "https://wateractiondecade.org/2018/01/05/the-water-and-ocean-governance-program/"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Recommend excluding from the map unless a UNDP/Sida document shows Armenian activities. The programme was restructured in 2019 into the Global Water and Ocean Governance Support Programme (search coverage)."
+ },
+ {
+  "slug": "yerevan-water-supply-improvement-project-eu-ebrd-eib",
+  "title_en": "Yerevan Water Supply Improvement Project (EU Neighbourhood Investment Facility, EBRD, EIB)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XI-IATI-EC_NEAR-2014-PCC-346956",
+    "XM-DAC-918-3-20120316-82036"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "AR-2014-PCC-346956",
+    "EIB 20120316"
+   ]
+  },
+  "donors": [
+   "EBRD (sovereign loan)",
+   "European Investment Bank",
+   "European Union (Neighbourhood Investment Facility/Platform grant)",
+   "Czech Republic (preparation grant)"
+  ],
+  "implementers": [
+   "Yerevan Djur (Veolia Djur) CJSC"
+  ],
+  "national_partners": [
+   "Yerevan Municipality (EIB promoter)",
+   "Government of Armenia (borrower)"
+  ],
+  "start": "2013-07",
+  "end": "2025-01",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "EU Delegation completion notice (12 May 2026): total investment EUR 16.1 million = EIB loan USD 7 million, EBRD loan USD 7 million, EU grant EUR 5.5 million. At signing: EBRD sovereign loan equivalent EUR 5.4 million (July 2013); EIB signed EUR 5,144,410.96 (27 June 2014; total cost about EUR 18 million); EU NIF grant EUR 5.5 million.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-supply-sanitation",
+   "policy-capacity"
+  ],
+  "summary_en": "Rehabilitation of the Yerevan water distribution network and household connections to cut water losses and improve 24-hour supply, financed by EBRD and EIB loans and an EU grant and implemented by the operator Yerevan Djur. The EU announced completion in May 2026.",
+  "activities_en": [
+   "Rehabilitation and construction of over 200 km of water mains and replacement of supply pipes; zoning of the network",
+   "Modernisation of nearly 19,000 household connections; installation of household water meters",
+   "Refurbishment of pumping stations; EIB also notes expansion of sewerage in Yerevan and several surrounding villages"
+  ],
+  "results_en": [
+   "Round-the-clock water supply, improved service quality and reduced water losses (EU Delegation, May 2026)"
+  ],
+  "locations": [
+   {
+    "marz": "Yerevan",
+    "district": "Yerevan",
+    "community": null,
+    "settlements": [
+     "Aghtanak"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "EBRD (2013): project site Yerevan, serving 1.1 million inhabitants; EU Delegation: opening ceremony 7 May 2026 in the Aghtanak district of Yerevan."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "EBRD: finances water supply improvements in Yerevan (19 July 2013)",
+    "url": "https://www.ebrd.com/news/2013/ebrd-finances-water-supply-improvements-in-yerevan.html"
+   },
+   {
+    "title": "EIB project page: Yerevan Water Supply Improvement (20120316)",
+    "url": "https://www.eib.org/en/projects/all/20120316"
+   },
+   {
+    "title": "EU4Armenia: Yerevan water supply project completion (12 May 2026)",
+    "url": "https://eu4armenia.eu/?p=56862"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Brief item 13 mentions EU/EBRD; EIB is a third financier (separate IATI record merged). The EU completion notice gives loans in USD while the EBRD/EIB documents give EUR; amounts were not reconciled. The EIB page also says the programme covers 'Yerevan and surrounding villages' (villages not named), so those villages are not mapped."
+ },
+ {
+  "slug": "ebrd-armenia-water-reservoirs-phase-1",
+  "title_en": "EBRD Armenia Water Reservoirs Phase I Project (five reservoirs)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "EBRD 54673"
+   ]
+  },
+  "donors": [
+   "EBRD (sovereign loan up to EUR 64 million and investment grant up to EUR 12 million)"
+  ],
+  "implementers": [
+   "Water Committee, Ministry of Territorial Administration and Infrastructure (beneficiary)"
+  ],
+  "national_partners": [
+   "Ministry of Finance (borrower)",
+   "Water Committee"
+  ],
+  "start": "2026-05",
+  "end": null,
+  "status": "pipeline",
+  "budget_usd": 88210000,
+  "budget_original": "Project cost EUR 76 million (EBRD loan up to EUR 64 million plus grant up to EUR 12 million); converted to USD 88.21 million by the Early Warning System database on 19 May 2026.",
+  "cofinancing_note": null,
+  "themes": [
+   "water-irrigation",
+   "climate-adaptation",
+   "agriculture-value-chain"
+  ],
+  "summary_en": "First phase of a nationwide EBRD-backed programme to build five water reservoirs for irrigation and climate resilience in agribusiness-dependent areas. The Armenian government's 2021-2026 programme foresees 15 new reservoirs.",
+  "activities_en": [
+   "Construction of five reservoirs: Artik, Astghadzor, Kassakh, Lichk and Yelpin",
+   "Environmental and social assessment (ESIA, ESMP) and resettlement framework disclosed on ebrd.com"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Shirak",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Artik"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Rights in Development EWS database listing of EBRD 54673: reservoir locations 'Artik, Astghadzor, Kassakh, Lichk and Yelpin'. Marz assignment is the geographic inference, not stated in the source (Artik in Shirak)."
+   },
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Yelpin"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Same source: Yelpin. Marz assignment is the geographic inference, not stated in the source (Yelpin near Areni, Vayots Dzor; Areni is an EBRD municipal contact)."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Astghadzor",
+     "Lichk"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Same source: Astghadzor and Lichk. Marz assignment is the geographic inference, not stated in the source (both in Gegharkunik; Martuni is an EBRD municipal contact)."
+   },
+   {
+    "marz": "Aragatsotn",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Kassakh"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Same source: Kassakh. Marz assignment is the geographic inference, not stated in the source (Kasakh river, Ashtarak; Ashtarak is an EBRD municipal contact)."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Rights in Development EWS: Armenia Water Reservoirs Phase I Project (EBRD-54673)",
+    "url": "https://ewsdata.rightsindevelopment.org/projects/54673-armenia-water-reservoirs-phase-i-project/"
+   },
+   {
+    "title": "EVN Report: reservoir plans (Yelpin, Kasakh, Lichq, Artik, Astghadzor, Argichi design work)",
+    "url": "https://evnreport.com/?p=37300"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Marz assignments are inferred and must be verified against the EBRD ESIA documents (ebrd.com, not opened). EVN Report lists a sixth reservoir (Argichi) at design stage; it is not in EBRD 54673. Status 'pipeline' reflects EBRD disclosure in May 2026 with no approval date shown. Not in the IATI extract."
+ },
+ {
+  "slug": "uae-arpa-sevan-tunnel-rehabilitation",
+  "title_en": "Rehabilitation of the Arpa-Sevan tunnel (Abu Dhabi Fund for Development support)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "XM-DAC-576-1154"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": []
+  },
+  "donors": [
+   "Abu Dhabi Fund for Development (UAE)",
+   "Government of Armenia (co-financing and later state budget)"
+  ],
+  "implementers": [
+   "Arpa-Sevan OJSC",
+   "State Procurement Agency (client of works)"
+  ],
+  "national_partners": [
+   "Water Committee, Ministry of Territorial Administration and Infrastructure"
+  ],
+  "start": "2009-12",
+  "end": "2023-12",
+  "status": "completed",
+  "budget_usd": null,
+  "budget_original": "Amount unclear: Ecolur cites USD 35 million (State Committee for Water Industry); a 2007 report (not opened) cited a USD 10 million Abu Dhabi loan. IATI commitment 0. Later Armenian state-budget works: AMD 2.082 billion planned from Sept 2026.",
+  "cofinancing_note": null,
+  "themes": [
+   "lake-sevan",
+   "water-irrigation"
+  ],
+  "summary_en": "Rehabilitation of the Arpa-Sevan tunnel, a 48 km conduit that diverts the Arpa and Yeghegis rivers into Lake Sevan to stabilise and raise the lake level. Works supported by the Abu Dhabi Fund for Development ran from 2010 (including lining and flume replacement in Tunnel No. 2 from the Yeghegis site); the Water Committee continues emergency-section works.",
+  "activities_en": [
+   "Reconstruction of deformed stretches of tunnel lining; replacement of the concrete flume in Tunnel No. 2 from the Yeghegis site",
+   "2024-2025: 245 m of lining rehabilitated, tunnel capacity raised to 20 m3/s; next emergency sections planned from September 2026 (AMD 2.082 billion)"
+  ],
+  "results_en": [
+   "Tunnel capacity raised to 20 m3/s after 2024-2025 works (Water Committee)"
+  ],
+  "locations": [
+   {
+    "marz": "Vayots Dzor",
+    "district": null,
+    "community": "Yeghegis",
+    "settlements": [
+     "Yeghegis"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Water Committee news (26 Dec 2025): inspection of emergency sections of Tunnel No. 2 at the Yeghegis hydropower section, Vayots Dzor; Arpa-Sevan project page: works from the 'Yeghegis' site."
+   },
+   {
+    "marz": "Gegharkunik",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Lake Sevan"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "site",
+    "evidence": "Water Committee news: the tunnel diverts the Arpa and Yeghegis rivers into Lake Sevan; the outlet is at Lake Sevan (Gegharkunik, geographic inference, not stated in the source). Sevan end not itself named in the sources opened."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "Water Committee (MTAI): Arpa-Sevan tunnel inspection and rehabilitation (26 Dec 2025)",
+    "url": "https://water.mtad.gov.am/en/articles/նորություններ/arpa-sevan-tunnel-inspection-and-rehabilitation"
+   },
+   {
+    "title": "Arpa-Sevan OJSC: 2010-2016 capital repairs of the Arpa-Sevan tunnel",
+    "url": "https://arpa-sevan.am/our-projects/2010-2016-capital-repairs-arpa-sevan-tunnel"
+   },
+   {
+    "title": "Ecolur: Arpa-Sevan Tunnel Reconstruction Term Reduced",
+    "url": "https://www.ecolur.org/en/news/sevan/4165/"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "IATI describes a 48 km Erba (Arpa)-Sevan tunnel and expected 6 m lake-level rise over 30 years (IATI description). Whether Abu Dhabi funding continued after the PIU closed in 2017 is unclear. The tunnel route passes through Vayots Dzor into Gegharkunik."
+ },
+ {
+  "slug": "sdc-2024-floods-lori-tavush-early-recovery",
+  "title_en": "Swiss Humanitarian Aid: Armenia early recovery after floods 2024 (Lori and Tavush)",
+  "title_hy": null,
+  "ids": {
+   "iati": [
+    "CH-4-2025-2024000327",
+    "CH-4-2025-2024000328",
+    "CH-4-2025-2024000329",
+    "CH-4-2025-2024000330",
+    "CH-4-2025-2024000331",
+    "CH-4-2025-2024000333",
+    "CH-4-2025-2024006128",
+    "CH-4-2024-2024000326",
+    "CH-4-2024-2024000327",
+    "CH-4-2024-2024000328",
+    "CH-4-2024-2024000329",
+    "CH-4-2024-2024000330",
+    "CH-4-2024-2024000331",
+    "CH-4-2024-2024000332",
+    "CH-4-2024-2024000333",
+    "CH-4-2024-2024000334",
+    "CH-4-2024-2024000335"
+   ],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "SDC SHA Direct Action 'Early Recovery after Floods 2024'",
+    "Armenia SET Floods June 2024"
+   ]
+  },
+  "donors": [
+   "Swiss Agency for Development and Cooperation (SDC), Swiss Humanitarian Aid"
+  ],
+  "implementers": [
+   "Swiss Humanitarian Aid Unit (SHA) experts"
+  ],
+  "national_partners": [
+   "Crisis Management State Academy (Ministry of Internal Affairs)",
+   "Armhydromet (Ministry of Environment)",
+   "Roads Department"
+  ],
+  "start": "2024-07",
+  "end": "2026-12",
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "No amount in the SDC article; IATI rows show small CHF-denominated commitments (sum not computed).",
+  "cofinancing_note": null,
+  "themes": [
+   "disaster-risk",
+   "climate-adaptation",
+   "policy-capacity"
+  ],
+  "summary_en": "After the May 2024 floods in northern Armenia, Swiss Humanitarian Aid experts assessed damaged bridges, designed three pedestrian footbridges, trained Armenian engineers in hydraulic engineering and resilient infrastructure, and produced an event analysis of the floods in Lori and Tavush.",
+  "activities_en": [
+   "Technical assessment of damaged bridges and infrastructure; design of three footbridges at Saratovka, Alaverdi and Ayrum",
+   "Hydraulic engineering training for engineers of the Roads Department, Civil Protection, Water Resources Management Agency and universities",
+   "Event analysis of the 2024 floods with the Crisis Management State Academy, Armhydromet and the Swiss FOEN"
+  ],
+  "results_en": [
+   "Event analysis found water flow exceeded infrastructure capacity; recommendation to define hydraulic parameters before rebuilding (SDC, July 2025)"
+  ],
+  "locations": [
+   {
+    "marz": "Lori",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Saratovka",
+     "Alaverdi"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "SDC article (10 July 2025): floods in Lori and Tavush; footbridges planned at Saratovka and Alaverdi (Alaverdi and Saratovka are in Lori, geographic inference, not stated in the source)."
+   },
+   {
+    "marz": "Tavush",
+    "district": null,
+    "community": null,
+    "settlements": [
+     "Ayrum"
+    ],
+    "lat": null,
+    "lon": null,
+    "precision": "community",
+    "evidence": "SDC article: footbridge planned at Ayrum (in Tavush, geographic inference, not stated in the source)."
+   }
+  ],
+  "data_products": [
+   {
+    "name": "Event Analysis: 2024 floods in Lori and Tavush, Armenia (PDF, 25 Feb 2026)",
+    "kind": "report",
+    "note": "Produced with the Ministry of Internal Affairs Educational Complex, Armhydromet and Swiss FOEN"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Swiss FDFA/SDC: Floods in Armenia - lessons learned help with future challenges (10 July 2025)",
+    "url": "https://www.deza.eda.admin.ch/en/floods-in-armenia-lessons-learned-help-with-future-challenges"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "IATI rows for SET Floods June 2024 and Direct Action are merged by title. Marz assignments for the three towns are the geographic inference, not stated in the source (the SDC article lists them without marzes). Funding amount per Swiss press (CHF 500,000) is not confirmed for this specific project."
+ },
+ {
+  "slug": "eib-global-syunik-development-drinking-water",
+  "title_en": "EIB Global EUR 50 million loan for development in Syunik province (drinking water, health, education)",
+  "title_hy": null,
+  "ids": {
+   "iati": [],
+   "wb": null,
+   "gef": null,
+   "gcf": null,
+   "other": [
+    "EIB press release 2025-290"
+   ]
+  },
+  "donors": [
+   "European Investment Bank (EIB Global)",
+   "European Union and EU member states (preparation/technical support)",
+   "EBRD and Switzerland (partners)"
+  ],
+  "implementers": [
+   "Government of Armenia ministries and Syunik Governorate"
+  ],
+  "national_partners": [
+   "Syunik Governorate"
+  ],
+  "start": "2025-07",
+  "end": null,
+  "status": "active",
+  "budget_usd": null,
+  "budget_original": "EUR 50 million EIB loan (financing agreement signed 16 July 2025).",
+  "cofinancing_note": null,
+  "themes": [
+   "water-supply-sanitation",
+   "rural-community-development"
+  ],
+  "summary_en": "EIB Global loan for Syunik province covering reliable drinking water (over 30,000 people), healthcare facilities including polyclinics, and vocational education, with EU and member-state support for preparation. Specific towns and communities are not named in the press release.",
+  "activities_en": [
+   "Drinking water supply improvements reaching over 30,000 people",
+   "Upgrading health facilities and vocational training centres"
+  ],
+  "results_en": [],
+  "locations": [
+   {
+    "marz": "Syunik",
+    "district": null,
+    "community": null,
+    "settlements": [],
+    "lat": null,
+    "lon": null,
+    "precision": "marz",
+    "evidence": "EIB press release 16 July 2025: 'Syunik province'; no towns or communities named."
+   }
+  ],
+  "data_products": [],
+  "sources": [
+   {
+    "title": "EIB press release 2025-290: EIB Global lends Armenia EUR 50 million for development in Syunik province",
+    "url": "https://www.eib.org/en/press/all/2025-290-eib-global-lends-armenia-eur50-million-for-development-in-syunik-province"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Not in the IATI extract. Overlaps geographically with the AFD/EU WAIDA Syunik pillar (Sisian, Goris, Meghri) - coordination check recommended."
+ }
+]

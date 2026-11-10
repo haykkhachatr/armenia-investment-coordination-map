@@ -1,0 +1,160 @@
+{
+ "merge": [
+  [
+   "sdc-lila-living-landscapes-armenia",
+   "sdc-lila-living-landscapes"
+  ],
+  [
+   "sdc-foracca-forest-restoration-armenia",
+   "sdc-foracca-forest-restoration-climate"
+  ],
+  [
+   "adaptation-fund-land-adaptation-khosrov-dilijan",
+   "adaptation-fund-land-based-adaptation-khosrov-dilijan"
+  ],
+  [
+   "undp-gef-lake-sevan-land-ecosystems",
+   "undp-gef-lake-sevan-basin-ldn-biodiversity"
+  ]
+ ],
+ "drop": [
+  "undp-water-and-ocean-governance-programme-sweden",
+  "usaid-ofda-drr-climate-change-impact-support"
+ ],
+ "location_unknown": [
+  "unep-gef-fruit-nut-tree-restoration",
+  "unep-gef-agrobiodiversity-livelihoods",
+  "undp-gef-financial-sustainability-protected-areas",
+  "bmz-forestry-capacity-agroforestry-armenia",
+  "usaid-ofda-unicef-natural-technological-risks",
+  "sweden-mcf-disaster-risk-reduction-armenia",
+  "ifad-farmer-market-access-programme",
+  "usaid-red-neo-rural-economic-development",
+  "ifad-gef-slmip-armenia",
+  "adaptation-fund-land-adaptation-arid-zones-forest-pas"
+ ],
+ "marz_only": [
+  "ebrd-armenia-water-reservoirs-phase-1"
+ ],
+ "patch": {
+  "ifad-gef-slmip-armenia": {
+   "locations": [
+    {
+     "marz": null,
+     "district": null,
+     "community": null,
+     "settlements": [],
+     "lat": null,
+     "lon": null,
+     "precision": "national",
+     "evidence": "Marz-level locations (Syunik, Vayots Dzor, Ararat) came only from search-engine summaries of reports that could not be opened; NOT verified, so withheld from the map."
+    }
+   ]
+  },
+  "adaptation-fund-land-adaptation-arid-zones-forest-pas": {
+   "status": "active",
+   "start": "2026-02",
+   "end": "2030-02",
+   "locations": [
+    {
+     "marz": null,
+     "district": null,
+     "community": null,
+     "settlements": [],
+     "lat": null,
+     "lon": null,
+     "precision": "national",
+     "evidence": "Target communities are not named on the Adaptation Fund page. Executing entities include Dilijan National Park SNCO and Khosrov Forest State Reserve SNCO. Earlier marz guesses were removed."
+    }
+   ]
+  },
+  "usaid-clean-energy-and-water-program": {
+   "locations": [
+    {
+     "marz": "Syunik",
+     "district": null,
+     "community": null,
+     "settlements": [],
+     "lat": null,
+     "lon": null,
+     "precision": "marz",
+     "evidence": "ME&A project page: Vorotan river basin, Syunik region (southern Armenia). An earlier Armavir location had no supporting evidence and was removed."
+    }
+   ]
+  },
+  "undp-reservoir-management-climate-risk-resilience": {
+   "locations": [
+    {
+     "marz": "Aragatsotn",
+     "district": "Aparan",
+     "community": "Aparan",
+     "settlements": [],
+     "lat": null,
+     "lon": null,
+     "precision": "community",
+     "evidence": "UNDP coverage via search summary (UNDP page returned 403): Aparan reservoir; March 2026 workshop with local administrations in Aparan and Ashtarak. Other reservoirs' marzes were not determined and are left out."
+    }
+   ]
+  },
+  "ebrd-armenia-water-reservoirs-phase-1": {
+   "stage": "Disclosed by EBRD in May 2026; approval date not shown",
+   "locations": [
+    {
+     "marz": "Shirak",
+     "district": null,
+     "community": null,
+     "settlements": [],
+     "lat": null,
+     "lon": null,
+     "precision": "marz",
+     "evidence": "Prime Minister's Office press release 24 Oct 2025 (7th Public Investment Committee session): Artik reservoir (reconstruction) in Shirak region. Names match the EBRD EWS list for project 54673."
+    },
+    {
+     "marz": "Vayots Dzor",
+     "district": null,
+     "community": null,
+     "settlements": [],
+     "lat": null,
+     "lon": null,
+     "precision": "marz",
+     "evidence": "Prime Minister's Office press release 24 Oct 2025 (7th Public Investment Committee session): Yelpin in Vayots Dzor region."
+    },
+    {
+     "marz": "Gegharkunik",
+     "district": null,
+     "community": null,
+     "settlements": [],
+     "lat": null,
+     "lon": null,
+     "precision": "marz",
+     "evidence": "Prime Minister's Office press release 24 Oct 2025 (7th Public Investment Committee session): Astghadzor in Gegharkunik region."
+    },
+    {
+     "marz": "Syunik",
+     "district": null,
+     "community": null,
+     "settlements": [],
+     "lat": null,
+     "lon": null,
+     "precision": "marz",
+     "evidence": "Prime Minister's Office press release 24 Oct 2025 (7th Public Investment Committee session): Lichk (Lichq) in Syunik region. (An earlier version placed it in Gegharkunik; the government source says Syunik.)"
+    },
+    {
+     "marz": "Armavir",
+     "district": null,
+     "community": null,
+     "settlements": [],
+     "lat": null,
+     "lon": null,
+     "precision": "marz",
+     "evidence": "Prime Minister's Office press release 24 Oct 2025 (7th Public Investment Committee session): Kasakh in Armavir region. (An earlier version placed it in Aragatsotn.)"
+    }
+   ]
+  }
+ },
+ "complementary": [],
+ "notes_append": {
+  "fao-gef-ldn-armenia": "DATE CHECK: the ProDoc (local file) gives planned implementation 01/10/2021 - 01/10/2024; public IATI/GEF records show 2022-08 to 2027-09, which is what this platform displays. Confirm the current official dates with FAO/EPIU.",
+  "adaptation-fund-land-adaptation-arid-zones-forest-pas": "DATE CHECK: the Adaptation Fund page shows approval 10/10/2025, start 02/12/2026, completion 02/12/2030 with no stated date format, status 'Project Under Implementation' and USD 833,050 already transferred. Read as MM/DD/YYYY (start 12 Feb 2026, end 12 Feb 2030) because it is already under implementation; as DD/MM it would start 2 Dec 2026. Confirm with EPIU."
+ }
+}
