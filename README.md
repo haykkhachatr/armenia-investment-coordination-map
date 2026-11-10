@@ -23,6 +23,8 @@
 | `site/js/story.js`, `site/css/story.css` | Ոլորվող մուտքի պատմություն · scroll story (Canvas 2D particle map) |
 | `site/js/app.js` | Գործիքը՝ քարտեզ, զտիչներ, համակարգում · the tool: map, filters, coordination |
 | `site/js/extras.js` | «Շրջայց» · guided tour |
+| `site/js/layers.js` | Քարտեզի «Շերտեր»՝ ներկառուցված կետ/գիծ/պոլիգոն շերտեր, շեյփֆայլի/GeoJSON-ի բեռնում, կցում ծրագրին · map “Layers”: built-in point/line/polygon layers, shapefile/GeoJSON upload, attach to a programme |
+| `site/data/layers/` | OSM շերտեր (գետեր, ջրամբարներ, պահպանվող տարածքներ)՝ `scripts/fetch_osm_layers.py` · OSM layers |
 | `data/curated/` | Ստուգված ծրագրերի գրառումներ (`a_`,`b_`,`c_`, պլանավորվող `e_`) և տվյալների շերտերի կատալոգ (`d_`) · verified records and dataset catalogue |
 | `data/AGENT_BRIEF.md` | Գրառումների ձևաչափը և կանոնները (ոչինչ չհորինել, աղբյուր պարտադիր) · record schema and rules (never invent, a source is mandatory) |
 | `data/overrides.json` | Ձեռքով ուղղումներ · manual corrections (`merge`, `drop`, `patch`, …) |
@@ -37,6 +39,7 @@ python -P -X utf8 scripts/prep_geo.py            # OCHA COD-AB boundaries -> dat
 python -P -X utf8 scripts/compute_indicators.py  # open-data context indicators (internet, ~2 min)
 python -P -X utf8 scripts/prep_communities.py    # 2008 community polygons (download from Open Data Armenia) -> data/communities_lite.geojson
 python -P -X utf8 scripts/build_data.py [--geocode]   # merge, overlaps, translations -> site/data
+python -P -X utf8 scripts/fetch_osm_layers.py    # OSM layers for the map (Overpass; may need retries)
 python -P -X utf8 scripts/build_fonts.py         # inline web fonts (optional)
 ```
 
@@ -50,4 +53,4 @@ python -P -X utf8 scripts/build_fonts.py         # inline web fonts (optional)
 - Պլանավորվող ծրագրերի տվյալները ամենաթույլն են (շատերը հայտարարություններ են) · Data on planned programmes is the weakest (many are announcements).
 
 ## Աղբյուրներ և լիցենզիաներ · Sources and licences
-OCHA COD-AB (CC BY 3.0 IGO) · ESA WorldCover 2021 (CC BY 4.0) · Hansen Global Forest Change (CC BY 4.0) · IATI/d-portal · World Bank Projects API · community polygons: AUA Acopian Center via Open Data Armenia (licence not stated) · OpenStreetMap/OpenFreeMap basemap (© OpenStreetMap contributors, ODbL) · geocoding by OSM Nominatim · MapLibre GL JS (BSD-3) · fonts Inter, JetBrains Mono, Noto Sans Armenian (SIL OFL 1.1). Each programme record links to its own sources.
+OCHA COD-AB (CC BY 3.0 IGO) · ESA WorldCover 2021 (CC BY 4.0) · Hansen Global Forest Change (CC BY 4.0) · IATI/d-portal · World Bank Projects API · community polygons: AUA Acopian Center via Open Data Armenia (licence not stated) · OpenStreetMap/OpenFreeMap basemap and OSM layers (© OpenStreetMap contributors, ODbL); shapefile reading: shpjs (MIT) · geocoding by OSM Nominatim · MapLibre GL JS (BSD-3) · fonts Inter, JetBrains Mono, Noto Sans Armenian (SIL OFL 1.1). Each programme record links to its own sources.

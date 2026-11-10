@@ -206,13 +206,13 @@ def resolve_location(slug, loc):
         return out
     pts = []
     if loc.get('lat') is not None and loc.get('lon') is not None:
-        pts.append((float(loc['lon']), float(loc['lat']), 'coordinates'))
+        pts.append((float(loc['lon']), float(loc['lat']), 'coordinates', loc.get('community') or ''))
     names = [x for x in (clean_place(y) for y in ([loc.get('community')] + (loc.get('settlements') or [])) if y) if x]
     if marz:
         for n in names[:12]:
             g = geocode('%s, %s' % (n, marz))
             if g:
-                pts.append((g['lon'], g['lat'], 'geocoded-name'))
+                pts.append((g['lon'], g['lat'], 'geocoded-name', n))
     named = []
     dn = loc.get('district')
     if dn and marz:
@@ -223,7 +223,8 @@ def resolve_location(slug, loc):
         else:
             warnings.append('%s: district "%s" not in %s' % (slug, dn, marz))
     dset, cset, how = set(named), set(), ('district-name' if named else None)
-    for lon, lat, src in pts:
+    accepted = []
+    for lon, lat, src, pname in pts:
         did = pip(lon, lat)
         if not did:
             continue
@@ -232,6 +233,7 @@ def resolve_location(slug, loc):
         if named and did not in named and src != 'coordinates':
             continue
         dset.add(did)
+        accepted.append({'name': pname, 'lon': round(lon, 5), 'lat': round(lat, 5), 'src': src})
         ci = pip_comm(lon, lat)
         if ci is not None and com_props[ci]['district_id'] == did:
             cset.add(ci)
@@ -242,7 +244,8 @@ def resolve_location(slug, loc):
         out['marz'] = districts[d0]['marz_en']; out['marz_id'] = districts[d0]['marz_id']
         out['community_ids'] = sorted(com_props[i]['code'] for i in cset)
         out['community_names'] = sorted(com_props[i]['name_en'] for i in cset)
-        if any(s == 'coordinates' for _, _, s in pts):
+        out['points'] = accepted
+        if any(s == 'coordinates' for _, _, s, _n in pts):
             out['precision'] = 'site'
         elif cset:
             out['precision'] = 'community'
