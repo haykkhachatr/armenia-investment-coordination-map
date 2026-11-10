@@ -1,6 +1,7 @@
 name: Deploy site to GitHub Pages
-# Run manually (Actions tab) or re-enable the push trigger once Pages is switched on for this repository.
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
